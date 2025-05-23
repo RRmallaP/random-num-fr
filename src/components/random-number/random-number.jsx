@@ -136,20 +136,20 @@ function RandomNumberGame() {
               min={1} />
           </div>
 
-          <div className="flex flex-col md:flex-row items-center justify-center gap-5 md:gap-10 pb-4 mb-10">
-            <button className="bg-yellow-500 px-8 py-4 rounded-sm" 
+          <div className="flex flex-wrap items-center justify-center gap-5 md:gap-10 pb-4 mb-10">
+            <button className="bg-yellow-500 text-shadow-lg text-white text-semibold px-8 py-4 rounded-sm" 
               type="button"
               ref={nextButton}
               disabled={!checkStatus}
               onClick={handleNext}>
               Next
             </button>
-            <button className="bg-blue-500 px-8 py-4 rounded-sm" 
+            <button className="bg-blue-500 text-shadow-lg text-white text-semibold px-8 py-4 rounded-sm" 
               type="submit" disabled={checkStatus}>
               Check
             </button>
             <button 
-              className="bg-green-300 px-8 py-4 rounded-sm" 
+              className="bg-green-300 px-8 py-4 text-shadow-lg text-white text-semibold rounded-sm basis-60 md:basis-auto" 
               onClick={replay}
               ref={replayButton}
               type="button"
