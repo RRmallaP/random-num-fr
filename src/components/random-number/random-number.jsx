@@ -1,6 +1,7 @@
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import "./random-number.css";
 
+let firstCall, secondCall;
 const voices = speechSynthesis
       .getVoices()
       .filter(voice => voice.lang === "fr-FR");
@@ -14,9 +15,29 @@ function utterNumber(number) {
   speechSynthesis.speak(synth);
 }
 
-function getRandomNumber() {
+function getRandomNumber(prevRand) {
   const randNum = Math.floor((Math.random() * 100) + 1);
-  utterNumber(randNum);
+  if(!firstCall && !secondCall) {
+    firstCall = randNum
+  } else {
+    secondCall = randNum
+  }
+
+  if(!prevRand) {
+    if (firstCall && !secondCall) {
+      utterNumber(randNum);
+    } else {
+      firstCall = null;
+      secondCall = null;
+    }
+  } else {
+    if(firstCall && secondCall) {
+      utterNumber(randNum);
+      firstCall = null;
+      secondCall = null;
+    }
+  }
+
   return randNum;
 }
 
@@ -28,6 +49,8 @@ function RandomNumberGame() {
   let [isCorrect, setIsCorrect] = useState(false);
 
   const numberInputRef = useRef(null);
+  const replayButton = useRef(null);
+  const nextButton = useRef(null);
   console.log(randomNumber);
 
   function checkInput(event) {
@@ -43,7 +66,7 @@ function RandomNumberGame() {
   }
 
   function handleNext() {
-    setRandomNumber(getRandomNumber());
+    setRandomNumber((prevRand) => getRandomNumber(prevRand));
     numberInputRef.current.value = '';
     numberInputRef.current.focus();
     setCheckStatus(false);
@@ -52,6 +75,15 @@ function RandomNumberGame() {
   function replay() {
     utterNumber(randomNumber);
   }
+
+  useEffect(() => {
+    window.addEventListener('keyup', (event) => {
+      if(event.key === 'Enter') {
+        event.target === nextButton.current && handleNext;
+        event.target === replayButton.current && replay;
+      }
+    });
+  }, []);
 
   return (
     <div className="flex items-center justify-center bg-gray-700 min-h-dvh">
@@ -72,22 +104,24 @@ function RandomNumberGame() {
           </div>
 
           <div className=" flex gap-10 pb-4 mb-5">
-            <button 
-              className="bg-green-300 px-8 py-4 rounded-sm" 
-              onClick={replay}
+            <button className="bg-yellow-500 px-8 py-4 rounded-sm" 
               type="button"
-              >
-                Replay
-              </button>
+              ref={nextButton}
+              disabled={!checkStatus}
+              onClick={handleNext}>
+              Next
+            </button>
             <button className="bg-blue-500 px-8 py-4 rounded-sm" 
               type="submit" disabled={checkStatus}>
               Check
             </button>
-            <button className="bg-yellow-500 px-8 py-4 rounded-sm" 
-            type="button"
-            disabled={!checkStatus}
-            onClick={handleNext}>
-              Next
+            <button 
+              className="bg-green-300 px-8 py-4 rounded-sm" 
+              onClick={replay}
+              ref={replayButton}
+              type="button"
+              >
+                Replay
             </button>
           </div>
 
