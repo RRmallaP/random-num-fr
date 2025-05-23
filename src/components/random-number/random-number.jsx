@@ -49,9 +49,13 @@ function RandomNumberGame() {
     setCheckStatus(false);
   }
 
+  function replay() {
+    utterNumber(randomNumber);
+  }
+
   return (
     <div className="flex items-center justify-center bg-gray-700 min-h-dvh">
-      <div className="p-6 bg-white rounded-lg border-3 min-w-2xl">
+      <div className="p-6 bg-white rounded-lg border-3 min-h-80 min-w-2xl">
         <form onSubmit={(event) => checkInput(event)}>
           <div className="input-wrapper pb-4 mb-5">
             <label htmlFor="number-input" className="pe-4 text-xl font-semibold">
@@ -66,7 +70,15 @@ function RandomNumberGame() {
               max={100} 
               min={1} />
           </div>
+
           <div className=" flex gap-10 pb-4 mb-5">
+            <button 
+              className="bg-green-300 px-8 py-4 rounded-sm" 
+              onClick={replay}
+              type="button"
+              >
+                Replay
+              </button>
             <button className="bg-blue-500 px-8 py-4 rounded-sm" 
               type="submit" disabled={checkStatus}>
               Check
