@@ -137,19 +137,19 @@ function RandomNumberGame() {
           </div>
 
           <div className="flex flex-wrap items-center justify-center gap-5 md:gap-10 pb-4 mb-10">
-            <button className="bg-yellow-500 text-shadow-lg text-white text-semibold px-8 py-4 rounded-sm" 
+            <button className="disabled:cursor-not-allowed cursor-pointer disabled:bg-yellow-300 bg-yellow-500 text-shadow-lg text-white text-semibold px-8 py-4 rounded-sm" 
               type="button"
               ref={nextButton}
               disabled={!checkStatus}
               onClick={handleNext}>
               Next
             </button>
-            <button className="bg-blue-500 text-shadow-lg text-white text-semibold px-8 py-4 rounded-sm" 
+            <button className="disabled:cursor-not-allowed cursor-pointer disabled:bg-blue-300 bg-blue-500 text-shadow-lg text-white text-semibold px-8 py-4 rounded-sm" 
               type="submit" disabled={checkStatus}>
               Check
             </button>
             <button 
-              className="bg-green-300 px-8 py-4 text-shadow-lg text-white text-semibold rounded-sm basis-60 md:basis-auto" 
+              className="cursor-pointer bg-green-500 px-8 py-4 text-shadow-lg text-white text-semibold rounded-sm basis-60 md:basis-auto" 
               onClick={replay}
               ref={replayButton}
               type="button"
