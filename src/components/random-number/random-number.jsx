@@ -2,16 +2,16 @@ import { useEffect, useRef, useState } from "react";
 import "./random-number.css";
 
 let firstCall, secondCall;
-const voices = speechSynthesis
-      .getVoices()
-      .filter(voice => voice.lang === "fr-FR");
 
 function utterNumber(number) {
   const synth = new SpeechSynthesisUtterance(number);
+  const voices = speechSynthesis
+      .getVoices()
+      .filter(voice => voice.lang === "fr-FR");
+
   synth.lang = "fr-FR";
   synth.rate = 0.8;
-  synth.voice = voices[9];
-
+  synth.voice = voices[10];
   speechSynthesis.speak(synth);
 }
 
