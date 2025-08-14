@@ -20,87 +20,58 @@
       ]
     },
     {
-      "name_en": "verbs",
-      "name_fr": "verbes",
+      "name_en": "Family and Friends",
+      "name_fr": "Famille et amis",
       "pic": "",
       "sub-category": [
         {
-          "name_en": "Daily routine verbs",
-          "name_fr": "Verbes de la routine quotidienne",
+          "name_en": "Family members",
+          "name_fr": "Membres de la famille",
           "pic": "",
           "sub-category": []
         },
         {
-          "name_en": "Irregular verbs",
-          "name_fr": "Verbes irréguliers",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Reflexive verbs",
-          "name_fr": "Verbes réfléchis",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Modal verbs",
-          "name_fr": "Verbes modaux",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Phrasal verbs",
-          "name_fr": "Verbes à particule",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Transitive verbs",
-          "name_fr": "Verbes transitifs",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Intransitive verbs",
-          "name_fr": "Verbes intransitifs",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Impersonal verbs",
-          "name_fr": "Verbes impersonnels",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Causative verbs",
-          "name_fr": "Verbes causatifs",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Reciprocal verbs",
-          "name_fr": "Verbes réciproques",
+          "name_en": "Friends",
+          "name_fr": "Amis",
           "pic": "",
           "sub-category": []
         }
       ]
     },
     {
-      "name_en": "Daily Routine Verbs",
-      "name_fr": "Verbes de la routine quotidienne",
+      "name_en": "Body parts",
+      "name_fr": "Parties du corps",
       "pic": "",
       "sub-category": []
     },
     {
-      "name_en": "Wild animals",
-      "name_fr": "Animaux sauvages",
+      "name_en": "Colors",
+      "name_fr": "Couleurs",
       "pic": "",
       "sub-category": []
     },
     {
-      "name_en": "Domestic animals",
-      "name_fr": "Animaux domestiques",
+      "name_en": "Numbers",
+      "name_fr": "Nombres",
+      "pic": "",
+      "sub-category": [
+        {
+          "name_en": "Cardinal numbers",
+          "name_fr": "Nombres cardinaux",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Ordinal numbers",
+          "name_fr": "Nombres ordinaux",
+          "pic": "",
+          "sub-category": []
+        }
+      ]
+    },
+    {
+      "name_en": "Animals",
+      "name_fr": "Animaux",
       "pic": "",
       "sub-category": [
         {
@@ -114,14 +85,106 @@
           "name_fr": "Animaux de la ferme",
           "pic": "",
           "sub-category": []
+        },
+        {
+          "name_en": "Wild animals",
+          "name_fr": "Animaux sauvages",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Sea animals",
+          "name_fr": "Animaux marins",
+          "pic": "",
+          "sub-category": []
         }
       ]
     },
     {
-      "name_en": "Body parts",
-      "name_fr": "Parties du corps",
+      "name_en": "Nature",
+      "name_fr": "Nature",
+      "pic": "",
+      "sub-category": [
+        {
+          "name_en": "Plants",
+          "name_fr": "Plantes",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Trees",
+          "name_fr": "Arbres",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Flowers",
+          "name_fr": "Fleurs",
+          "pic": "",
+          "sub-category": []
+        }
+      ]
+    },
+    {
+      "name_en": "birds",
+      "name_fr": "oiseaux",
       "pic": "",
       "sub-category": []
+    },
+    {
+      "name_en": "fish",
+      "name_fr": "poissons",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "insects",
+      "name_fr": "insectes",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "reptiles",
+      "name_fr": "reptiles",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "amphibians",
+      "name_fr": "amphibiens",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "mammals",
+      "name_fr": "mammifères",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Places",
+      "name_fr": "Lieux",
+      "pic": "",
+      "sub-category": [
+        {
+          "name_en": "Cities",
+          "name_fr": "Villes",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Countries",
+          "name_fr": "Pays",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Landmarks",
+          "name_fr": "Monuments",
+          "pic": "",
+          "sub-category": []
+        }
+      ]
     },
     {
       "name_en": "Food and drinks",
@@ -139,20 +202,26 @@
           "name_fr": "Légumes",
           "pic": "",
           "sub-category": []
+        },
+        {
+          "name_en": "Dairy products",
+          "name_fr": "Produits laitiers",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Meat and fish",
+          "name_fr": "Viande et poisson",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Beverages",
+          "name_fr": "Boissons",
+          "pic": "",
+          "sub-category": []
         }
       ]
-    },
-    {
-      "name_en": "Colors",
-      "name_fr": "Couleurs",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "Numbers",
-      "name_fr": "Nombres",
-      "pic": "",
-      "sub-category": []
     },
     {
       "name_en": "Time",
@@ -193,12 +262,6 @@
     {
       "name_en": "Emotions",
       "name_fr": "Émotions",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "Nature",
-      "name_fr": "Nature",
       "pic": "",
       "sub-category": []
     },
@@ -305,6 +368,73 @@
       "sub-category": []
     },
     {
+      "name_en": "verbs",
+      "name_fr": "verbes",
+      "pic": "",
+      "sub-category": [
+        {
+          "name_en": "Daily routine verbs",
+          "name_fr": "Verbes de la routine quotidienne",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Irregular verbs",
+          "name_fr": "Verbes irréguliers",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Reflexive verbs",
+          "name_fr": "Verbes réfléchis",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Modal verbs",
+          "name_fr": "Verbes modaux",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Phrasal verbs",
+          "name_fr": "Verbes à particule",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Transitive verbs",
+          "name_fr": "Verbes transitifs",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Intransitive verbs",
+          "name_fr": "Verbes intransitifs",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Impersonal verbs",
+          "name_fr": "Verbes impersonnels",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Causative verbs",
+          "name_fr": "Verbes causatifs",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Reciprocal verbs",
+          "name_fr": "Verbes réciproques",
+          "pic": "",
+          "sub-category": []
+        }
+      ]
+    },
+    {
       "name_en": "adverbs",
       "name_fr": "adverbes",
       "pic": "",
@@ -319,54 +449,6 @@
     {
       "name_en": "prepositions",
       "name_fr": "prépositions",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "birds",
-      "name_fr": "oiseaux",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "fish",
-      "name_fr": "poissons",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "insects",
-      "name_fr": "insectes",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "reptiles",
-      "name_fr": "reptiles",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "amphibians",
-      "name_fr": "amphibiens",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "mammals",
-      "name_fr": "mammifères",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "countries",
-      "name_fr": "pays",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "cities",
-      "name_fr": "villes",
       "pic": "",
       "sub-category": []
     }

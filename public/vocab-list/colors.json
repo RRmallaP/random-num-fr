@@ -1,0 +1,149 @@
+{
+  "name_en": "Colors",
+  "name_fr": "Couleurs",
+  "list": [
+    {
+      "name_en": "Red",
+      "name_fr": "Rouge",
+      "example_sentences": [
+        {
+          "example_en": "She wore a red dress.",
+          "example_fr": "Elle portait une robe rouge.",
+          "highlight": "rouge"
+        }
+      ]
+    },
+    {
+      "name_en": "Blue",
+      "name_fr": "Bleu",
+      "example_sentences": [
+        {
+          "example_en": "The sky is blue today.",
+          "example_fr": "Le ciel est bleu aujourd'hui.",
+          "highlight": "bleu"
+        }
+      ]
+    },
+    {
+      "name_en": "Green",
+      "name_fr": "Vert",
+      "example_sentences": [
+        {
+          "example_en": "The grass is green.",
+          "example_fr": "L'herbe est verte.",
+          "highlight": "verte"
+        }
+      ]
+    },
+    {
+      "name_en": "Yellow",
+      "name_fr": "Jaune",
+      "example_sentences": [
+        {
+          "example_en": "She has a yellow bag.",
+          "example_fr": "Elle a un sac jaune.",
+          "highlight": "jaune"
+        }
+      ]
+    },
+    {
+      "name_en": "Black",
+      "name_fr": "Noir",
+      "example_sentences": [
+        {
+          "example_en": "He drives a black car.",
+          "example_fr": "Il conduit une voiture noire.",
+          "highlight": "noire"
+        }
+      ]
+    },
+    {
+      "name_en": "White",
+      "name_fr": "Blanc",
+      "example_sentences": [
+        {
+          "example_en": "The paper is white.",
+          "example_fr": "Le papier est blanc.",
+          "highlight": "blanc"
+        }
+      ]
+    },
+    {
+      "name_en": "Orange",
+      "name_fr": "Orange",
+      "example_sentences": [
+        {
+          "example_en": "She likes orange juice.",
+          "example_fr": "Elle aime le jus d'orange.",
+          "highlight": "orange"
+        }
+      ]
+    },
+    {
+      "name_en": "Pink",
+      "name_fr": "Rose",
+      "example_sentences": [
+        {
+          "example_en": "Her room is pink.",
+          "example_fr": "Sa chambre est rose.",
+          "highlight": "rose"
+        }
+      ]
+    },
+    {
+      "name_en": "Purple",
+      "name_fr": "Violet",
+      "example_sentences": [
+        {
+          "example_en": "She wore a purple scarf.",
+          "example_fr": "Elle portait une écharpe violette.",
+          "highlight": "violette"
+        }
+      ]
+    },
+    {
+      "name_en": "Brown",
+      "name_fr": "Marron",
+      "example_sentences": [
+        {
+          "example_en": "He has brown hair.",
+          "example_fr": "Il a les cheveux marron.",
+          "highlight": "marron"
+        }
+      ]
+    },
+    {
+      "name_en": "Gray",
+      "name_fr": "Gris",
+      "example_sentences": [
+        {
+          "example_en": "The cat is gray.",
+          "example_fr": "Le chat est gris.",
+          "highlight": "gris"
+        }
+      ]
+    },
+    {
+      "name_en": "Silver",
+      "name_fr": "Argent",
+      "example_sentences": [
+        {
+          "example_en": "She bought a silver necklace.",
+          "example_fr": "Elle a acheté un collier en argent.",
+          "highlight": "argent"
+        }
+      ]
+    },
+    {
+      "name_en": "Golden",
+      "name_fr": "Doré",
+      "example_sentences": [
+        {
+          "example_en": "He received a golden trophy.",
+          "example_fr": "Il a reçu un trophée doré.",
+          "highlight": "doré"
+        }
+      ]
+    }
+  ]
+}

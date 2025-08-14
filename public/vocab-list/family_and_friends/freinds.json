@@ -1,0 +1,150 @@
+{
+  "name_en": "Friends",
+  "name_fr": "Amis",
+  "pic": "",
+  "list": [
+    {
+      "name_en": "Best friend",
+      "name_fr": "Meilleur ami",
+      "plural_name_en": "Best friends",
+      "plural_name_fr": "Meilleurs amis",
+      "example_sentences": [
+        {
+          "example_en": "My best friend is always there for me.",
+          "example_fr": "Mon meilleur ami est toujours là pour moi.",
+          "highlight": "Mon meilleur ami"
+        }
+      ]
+    },
+    {
+      "name_en": "Childhood friend",
+      "name_fr": "Ami d'enfance",
+      "plural_name_en": "Childhood friends",
+      "plural_name_fr": "Amis d'enfance",
+      "example_sentences": [
+        {
+          "example_en": "My childhood friend and I used to play together every day.",
+          "example_fr": "Mon ami d'enfance et moi, nous jouions ensemble tous les jours.",
+          "highlight": "Mon ami d'enfance"
+        }
+      ]
+    },
+    {
+      "name_en": "Close friend",
+      "name_fr": "Ami proche",
+      "plural_name_en": "Close friends",
+      "plural_name_fr": "Amis proches",
+      "example_sentences": [
+        {
+          "example_en": "I can always count on my close friend.",
+          "example_fr": "Je peux toujours compter sur mon ami proche.",
+          "highlight": "mon ami proche"
+        }
+      ]
+    },
+    {
+      "name_en": "Friendship",
+      "name_fr": "Amitié",
+      "plural_name_en": "Friendships",
+      "plural_name_fr": "Amitiés",
+      "example_sentences": [
+        {
+          "example_en": "Friendship is important in life.",
+          "example_fr": "L'amitié est importante dans la vie.",
+          "highlight": "L'amitié"
+        }
+      ]
+    },
+    {
+      "name_en": "Friend group",
+      "name_fr": "Groupe d'amis",
+      "plural_name_en": "Friend groups",
+      "plural_name_fr": "Groupes d'amis",
+      "example_sentences": [
+        {
+          "example_en": "I love spending time with my friend group.",
+          "example_fr": "J'adore passer du temps avec mon groupe d'amis.",
+          "highlight": "mon groupe d'amis"
+        }
+      ]
+    },
+    {
+      "name_en": "New friend",
+      "name_fr": "Nouvel ami",
+      "plural_name_en": "New friends",
+      "plural_name_fr": "Nouveaux amis",
+      "example_sentences": [
+        {
+          "example_en": "I made a new friend at school.",
+          "example_fr": "Je me suis fait un nouvel ami à l'école.",
+          "highlight": "un nouvel ami"
+        }
+      ]
+    },
+    {
+      "name_en": "Old friend",
+      "name_fr": "Ancien ami",
+      "plural_name_en": "Old friends",
+      "plural_name_fr": "Anciens amis",
+      "example_sentences": [
+        {
+          "example_en": "I reconnected with an old friend from high school.",
+          "example_fr": "J'ai renoué contact avec un ancien ami du lycée.",
+          "highlight": "un ancien ami"
+        }
+      ]
+    },
+    {
+      "name_en": "Work friend",
+      "name_fr": "Ami de travail",
+      "plural_name_en": "Work friends",
+      "plural_name_fr": "Amis de travail",
+      "example_sentences": [
+        {
+          "example_en": "I have a great work friend who helps me a lot.",
+          "example_fr": "J'ai un super ami de travail qui m'aide beaucoup.",
+          "highlight": "un super ami de travail"
+        }
+      ]
+    },
+    {
+      "name_en": "Friendship bond",
+      "name_fr": "Lien d'amitié",
+      "plural_name_en": "Friendship bonds",
+      "plural_name_fr": "Liens d'amitié",
+      "example_sentences": [
+        {
+          "example_en": "The friendship bond between us is strong.",
+          "example_fr": "Le lien d'amitié entre nous est fort.",
+          "highlight": "Le lien d'amitié"
+        }
+      ]
+    },
+    {
+      "name_en": "Boy friend",
+      "name_fr": "Petit ami",
+      "plural_name_en": "Boy friends",
+      "plural_name_fr": "Petits amis",
+      "example_sentences": [
+        {
+          "example_en": "My boy friend is very supportive.",
+          "example_fr": "Mon petit ami est très soutenant.",
+          "highlight": "Mon petit ami"
+        }
+      ]
+    },
+    {
+      "name_en": "Girl friend",
+      "name_fr": "Petite amie",
+      "plural_name_en": "Girl friends",
+      "plural_name_fr": "Petites amies",
+      "example_sentences": [
+        {
+          "example_en": "My girl friend is very understanding.",
+          "example_fr": "Ma petite amie est très compréhensive.",
+          "highlight": "Ma petite amie"
+        }
+      ]
+    }
+  ]
+}

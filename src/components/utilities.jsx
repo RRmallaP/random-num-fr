@@ -6,7 +6,7 @@ export const Utilitise = {
         .filter(voice => voice.lang === lang);
 
     synth.lang = lang;
-    synth.rate = lang === 'fr-FR' ? 0.9 : 1;
+    synth.rate = lang === 'fr-FR' ? 0.8 : 1;
     synth.volume = 1;
     synth.voice = lang === 'fr-FR' ? voices[10] : voices.find(v => v.name === "Samantha");
     speechSynthesis.speak(synth);
@@ -18,7 +18,6 @@ export const Utilitise = {
 }
 
 export function snakeCase(str) {
-  console.log(`Converting to snake_case: ${str}`);
   return str
     .split('/')
     .map(part => part

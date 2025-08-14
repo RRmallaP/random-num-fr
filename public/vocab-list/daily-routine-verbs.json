@@ -1,0 +1,69 @@
+{
+  "name_en": "Daily routine verbs",
+  "name_fr": "Verbes de la routine quotidienne",
+  "pic": "",
+  "list": [
+    {
+      "name_en": "to wake up",
+      "name_fr": "se réveiller",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "I wake up at 7 o'clock every morning.",
+          "example_fr": "Je me réveille à 7 heures tous les matins.",
+          "highlight": "me réveille"
+        }
+      ],
+      "pic": "",
+      "gender": "",
+      "conjugation": {
+        "je": "Je me réveille",
+        "tu": "Tu te réveilles",
+        "il / elle / on": "Il/ Elle /On se réveille",
+        "nous": "Nous nous réveillons",
+        "vous": "Vous nous réveillez",
+        "Ils / Elles": "Ils / Elles se réveillent"
+      }
+    },
+    {
+      "name_en": "to get up",
+      "name_fr": "se lever",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_fr": "Julien se lève tôt pour aller courir.",
+          "example_en": "Julien gets up early to go for a run",
+          "highlight": "se lève"
+        }
+      ],
+      "pic": "",
+      "gender": "",
+      "conjugation": {}
+    },
+    {
+      "name_en": "to take a shower",
+      "name_fr": "prendre une douche",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "I take shower before breakfast.",
+          "example_fr": "Je prends une douche avant le petit-déjeuner.",
+          "highlight": "prends une douche"
+        }
+      ],
+      "pic": "",
+      "gender": "",
+      "conjugation": {
+        "je": "Je prends une douche",
+        "tu": "Tu prends une douche",
+        "il / elle / on": "Il/ Elle / On prend une douche",
+        "nous": "Nous prenons une douche",
+        "vous": "Vous prenez une douche",
+        "Ils / Elles": "Ils / Elles prennent une douche"
+      }
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "name_en": "Ordinal Numbers",
+  "name_fr": "Nombres ordinaux",
+  "list": [
+    {
+      "name_en": "First",
+      "name_fr": "Premier",
+      "example_sentences": [
+        {
+          "example_en": "She finished first in the race.",
+          "example_fr": "Elle a terminé première à la course.",
+          "highlight": "première"
+        }
+      ]
+    },
+    {
+      "name_en": "Second",
+      "name_fr": "Deuxième",
+      "example_sentences": [
+        {
+          "example_en": "He came in second place.",
+          "example_fr": "Il est arrivé en deuxième position.",
+          "highlight": "deuxième"
+        }
+      ]
+    },
+    {
+      "name_en": "Third",
+      "name_fr": "Troisième",
+      "example_sentences": [
+        {
+          "example_en": "She is the third child.",
+          "example_fr": "Elle est le troisième enfant.",
+          "highlight": "troisième"
+        }
+      ]
+    },
+    {
+      "name_en": "Fourth",
+      "name_fr": "Quatrième",
+      "example_sentences": [
+        {
+          "example_en": "He lives on the fourth floor.",
+          "example_fr": "Il habite au quatrième étage.",
+          "highlight": "quatrième"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifth",
+      "name_fr": "Cinquième",
+      "example_sentences": [
+        {
+          "example_en": "She is the fifth student.",
+          "example_fr": "Elle est la cinquième élève.",
+          "highlight": "cinquième"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixth",
+      "name_fr": "Sixième",
+      "example_sentences": [
+        {
+          "example_en": "He finished sixth.",
+          "example_fr": "Il a terminé sixième.",
+          "highlight": "sixième"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventh",
+      "name_fr": "Septième",
+      "example_sentences": [
+        {
+          "example_en": "She is the seventh person.",
+          "example_fr": "Elle est la septième personne.",
+          "highlight": "septième"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighth",
+      "name_fr": "Huitième",
+      "example_sentences": [
+        {
+          "example_en": "He is the eighth in line.",
+          "example_fr": "Il est le huitième dans la file.",
+          "highlight": "huitième"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninth",
+      "name_fr": "Neuvième",
+      "example_sentences": [
+        {
+          "example_en": "She is the ninth guest.",
+          "example_fr": "Elle est la neuvième invitée.",
+          "highlight": "neuvième"
+        }
+      ]
+    },
+    {
+      "name_en": "Tenth",
+      "name_fr": "Dixième",
+      "example_sentences": [
+        {
+          "example_en": "He is the tenth player.",
+          "example_fr": "Il est le dixième joueur.",
+          "highlight": "dixième"
+        }
+      ]
+    },
+    {
+      "name_en": "Eleventh",
+      "name_fr": "Onzième",
+      "example_sentences": [
+        {
+          "example_en": "She is the eleventh visitor.",
+          "example_fr": "Elle est la onzième visiteuse.",
+          "highlight": "onzième"
+        }
+      ]
+    },
+    {
+      "name_en": "Twelfth",
+      "name_fr": "Douzième",
+      "example_sentences": [
+        {
+          "example_en": "He is the twelfth member.",
+          "example_fr": "Il est le douzième membre.",
+          "highlight": "douzième"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirteenth",
+      "name_fr": "Treizième",
+      "example_sentences": [
+        {
+          "example_en": "She is the thirteenth student.",
+          "example_fr": "Elle est la treizième élève.",
+          "highlight": "treizième"
+        }
+      ]
+    },
+    {
+      "name_en": "Fourteenth",
+      "name_fr": "Quatorzième",
+      "example_sentences": [
+        {
+          "example_en": "He is the fourteenth guest.",
+          "example_fr": "Il est le quatorzième invité.",
+          "highlight": "quatorzième"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifteenth",
+      "name_fr": "Quinzième",
+      "example_sentences": [
+        {
+          "example_en": "She is the fifteenth person.",
+          "example_fr": "Elle est la quinzième personne.",
+          "highlight": "quinzième"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixteenth",
+      "name_fr": "Seizième",
+      "example_sentences": [
+        {
+          "example_en": "He is the sixteenth child.",
+          "example_fr": "Il est le seizième enfant.",
+          "highlight": "seizième"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventeenth",
+      "name_fr": "Dix-septième",
+      "example_sentences": [
+        {
+          "example_en": "She is the seventeenth visitor.",
+          "example_fr": "Elle est la dix-septième visiteuse.",
+          "highlight": "dix-septième"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighteenth",
+      "name_fr": "Dix-huitième",
+      "example_sentences": [
+        {
+          "example_en": "He is the eighteenth member.",
+          "example_fr": "Il est le dix-huitième membre.",
+          "highlight": "dix-huitième"
+        }
+      ]
+    },
+    {
+      "name_en": "Nineteenth",
+      "name_fr": "Dix-neuvième",
+      "example_sentences": [
+        {
+          "example_en": "She is the nineteenth student.",
+          "example_fr": "Elle est la dix-neuvième élève.",
+          "highlight": "dix-neuvième"
+        }
+      ]
+    },
+    {
+      "name_en": "Twentieth",
+      "name_fr": "Vingtième",
+      "example_sentences": [
+        {
+          "example_en": "He is the twentieth player.",
+          "example_fr": "Il est le vingtième joueur.",
+          "highlight": "vingtième"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-first",
+      "name_fr": "Vingt et unième",
+      "example_sentences": [
+        {
+          "example_en": "She is the twenty-first guest.",
+          "example_fr": "Elle est la vingt et unième invitée.",
+          "highlight": "vingt et unième"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-eighth",
+      "name_fr": "Vingt-huitième",
+      "example_sentences": [
+        {
+          "example_en": "He is the twenty-eighth student.",
+          "example_fr": "Il est le vingt-huitième élève.",
+          "highlight": "vingt-huitième"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirtieth",
+      "name_fr": "Trentième",
+      "example_sentences": [
+        {
+          "example_en": "She is the thirtieth person.",
+          "example_fr": "Elle est la trentième personne.",
+          "highlight": "trentième"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-fifth",
+      "name_fr": "Trente-cinquième",
+      "example_sentences": [
+        {
+          "example_en": "He is the thirty-fifth member.",
+          "example_fr": "Il est le trente-cinquième membre.",
+          "highlight": "trente-cinquième"
+        }
+      ]
+    },
+    {
+      "name_en": "Fortieth",
+      "name_fr": "Quarantième",
+      "example_sentences": [
+        {
+          "example_en": "She is the fortieth visitor.",
+          "example_fr": "Elle est la quarantième visiteuse.",
+          "highlight": "quarantième"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-eighth",
+      "name_fr": "Soixante-huitième",
+      "example_sentences": [
+        {
+          "example_en": "He is the sixty-eighth student.",
+          "example_fr": "Il est le soixante-huitième élève.",
+          "highlight": "soixante-huitième"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-seventh",
+      "name_fr": "Quatre-vingt-septième",
+      "example_sentences": [
+        {
+          "example_en": "She is the eighty-seventh guest.",
+          "example_fr": "Elle est la quatre-vingt-septième invitée.",
+          "highlight": "quatre-vingt-septième"
+        }
+      ]
+    },
+    {
+      "name_en": "One hundredth",
+      "name_fr": "Centième",
+      "example_sentences": [
+        {
+          "example_en": "He is the one hundredth player.",
+          "example_fr": "Il est le centième joueur.",
+          "highlight": "centième"
+        }
+      ]
+    },
+    {
+      "name_en": "One thousandth",
+      "name_fr": "Millième",
+      "example_sentences": [
+        {
+          "example_en": "She is the one thousandth visitor.",
+          "example_fr": "Elle est la millième visiteuse.",
+          "highlight": "millième"
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,18 @@
 import DOMPurify from "dompurify";
 import { Utilitise } from "../utilities";
-import { useContext } from "react";
-import { ConfigContext } from "../menu-bar";
 
 function VocabularyItem({vocab, config}) {
+
+  function getFrenchNameWithArticle(vocab) {
+    if (vocab.article && vocab.gender) {
+      // Handle l' (elision)
+      if (vocab.article === "l'") {
+        return `l'${vocab.name_fr}`;
+      }
+      return `${vocab.article} ${vocab.name_fr}`;
+    }
+    return vocab.name_fr;
+  }
 
   async function pause(seconds = 2000) {
     const prom = new Promise((resolve) => {
@@ -27,8 +36,16 @@ function VocabularyItem({vocab, config}) {
         </svg>
       </div>
       <div className="flex flex-col items-center justify-between mb-4">
-        <h2 className="mb-3 text-2xl font-bold leading-none text-gray-900 dark:text-white">{config.enToFr ? vocab.name_en : vocab.name_fr}</h2>
-        <h3 className="text-base font-light leading-none text-gray-900 dark:text-white">{config.enToFr ? vocab.name_fr : vocab.name_en}</h3>
+        <h2
+          className={`mb-3 text-2xl font-bold leading-none text-gray-900 dark:text-white ${vocab.gender === 'masculine' ? 'bg-blue-100' : vocab.gender === 'feminine' ? 'bg-red-100' : ''} px-2 rounded`}
+        >
+          {config.enToFr ? vocab.name_en : getFrenchNameWithArticle(vocab)}
+        </h2>
+        <h3
+          className={`text-base font-light leading-none text-gray-900 dark:text-white ${vocab.gender === 'masculine' ? 'bg-blue-100' : vocab.gender === 'feminine' ? 'bg-red-100' : ''} px-2 rounded`}
+        >
+          {config.enToFr ? getFrenchNameWithArticle(vocab) : vocab.name_en}
+        </h3>
       </div>
       <div className="flex flex-col items-center justify-between">
         { vocab.example_sentences.map((sentence, index) => {
