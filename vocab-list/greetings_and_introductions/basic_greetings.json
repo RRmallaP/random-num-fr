@@ -1,0 +1,267 @@
+{
+  "name_en": "Basic Greetings",
+  "name_fr": "Salutations de base",
+  "pic": "",
+  "list": [
+    {
+      "name_en": "Cheers",
+      "name_fr": "Santé",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Cheers to a great evening!",
+          "example_fr": "Santé à une excellente soirée !",
+          "highlight": "Santé"
+        }
+      ]
+    },
+    {
+      "name_en": "Excuse me",
+      "name_fr": "Excusez-moi",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Excuse me, can I ask you a question?",
+          "example_fr": "Excusez-moi, puis-je vous poser une question ?",
+          "highlight": "Excusez-moi"
+        }
+      ]
+    },
+    {
+      "name_en": "Good afternoon",
+      "name_fr": "Bon après-midi",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Good afternoon, how can I assist you?",
+          "example_fr": "Bon après-midi, comment puis-je vous aider ?",
+          "highlight": "Bon après-midi"
+        }
+      ]
+    },
+    {
+      "name_en": "Goodbye",
+      "name_fr": "Au revoir",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Goodbye, see you later!",
+          "example_fr": "Au revoir, à plus tard!",
+          "highlight": "Au revoir"
+        }
+      ]
+    },
+    {
+      "name_en": "Good evening",
+      "name_fr": "Bonsoir",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Good evening, it's nice to see you.",
+          "example_fr": "Bonsoir, c'est agréable de vous voir.",
+          "highlight": "Bonsoir"
+        }
+      ]
+    },
+    {
+      "name_en": "Good luck",
+      "name_fr": "Bonne chance",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Good luck with your exam!",
+          "example_fr": "Bonne chance pour ton examen !",
+          "highlight": "Bonne chance"
+        }
+      ]
+    },
+    {
+      "name_en": "Good morning",
+      "name_fr": "Bonjour",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Good morning, how did you sleep?",
+          "example_fr": "Bonjour, comment avez-vous dormi ?",
+          "highlight": "Bonjour"
+        }
+      ]
+    },
+    {
+      "name_en": "Good night",
+      "name_fr": "Bonne nuit",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Good night, see you tomorrow.",
+          "example_fr": "Bonne nuit, à demain.",
+          "highlight": "Bonne nuit"
+        }
+      ]
+    },
+    {
+      "name_en": "Goodbye",
+      "name_fr": "Au revoir",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Goodbye, see you later!",
+          "example_fr": "Au revoir, à plus tard!",
+          "highlight": "Au revoir"
+        }
+      ]
+    },
+    {
+      "name_en": "Have a good day",
+      "name_fr": "Bonne journée",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Have a good day at work!",
+          "example_fr": "Bonne journée au travail !",
+          "highlight": "Bonne journée"
+        }
+      ]
+    },
+    {
+      "name_en": "Hello",
+      "name_fr": "Bonjour",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Hello, how are you?",
+          "example_fr": "Bonjour, comment ça va?",
+          "highlight": "Bonjour"
+        }
+      ]
+    },
+    {
+      "name_en": "How are you?",
+      "name_fr": "Comment ça va ?",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "How are you doing today?",
+          "example_fr": "Comment ça va aujourd'hui ?",
+          "highlight": "Comment ça va"
+        }
+      ]
+    },
+    {
+      "name_en": "I'm sorry",
+      "name_fr": "Je suis désolé",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "I'm sorry for the inconvenience.",
+          "example_fr": "Je suis désolé pour le désagrément.",
+          "highlight": "Je suis désolé"
+        }
+      ]
+    },
+    {
+      "name_en": "Nice to meet you",
+      "name_fr": "Enchanté de vous rencontrer",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Nice to meet you, my name is John.",
+          "example_fr": "Enchanté de vous rencontrer, je m'appelle John.",
+          "highlight": "Enchanté de vous rencontrer"
+        }
+      ]
+    },
+    {
+      "name_en": "Please",
+      "name_fr": "S'il vous plaît",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Could you help me, please?",
+          "example_fr": "Pouvez-vous m'aider, s'il vous plaît?",
+          "highlight": "s'il vous plaît"
+        }
+      ]
+    },
+    {
+      "name_en": "See you later",
+      "name_fr": "À plus tard",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "See you later, take care!",
+          "example_fr": "À plus tard, prenez soin de vous !",
+          "highlight": "À plus tard"
+        }
+      ]
+    },
+    {
+      "name_en": "Take care",
+      "name_fr": "Prenez soin de vous",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Take care and stay safe.",
+          "example_fr": "Prenez soin de vous et restez en sécurité.",
+          "highlight": "Prenez soin de vous"
+        }
+      ]
+    },
+    {
+      "name_en": "Thank you",
+      "name_fr": "Merci",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Thank you for your help.",
+          "example_fr": "Merci pour votre aide.",
+          "highlight": "Merci"
+        }
+      ]
+    },
+    {
+      "name_en": "Welcome",
+      "name_fr": "Bienvenue",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "Welcome to our home!",
+          "example_fr": "Bienvenue chez nous !",
+          "highlight": "Bienvenue"
+        }
+      ]
+    },
+    {
+      "name_en": "You're welcome",
+      "name_fr": "De rien",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "You're welcome, happy to help!",
+          "example_fr": "De rien, heureux de vous aider !",
+          "highlight": "De rien"
+        }
+      ]
+    }
+  ]
+}

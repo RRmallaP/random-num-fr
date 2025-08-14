@@ -1,0 +1,293 @@
+{
+  "name_en": "Family members",
+  "name_fr": "Membres de la famille",
+  "pic": "",
+  "list": [
+    {
+      "name_en": "Father",
+      "name_fr": "Père",
+      "plural_name_en": "Fathers",
+      "plural_name_fr": "Pères",
+      "example_sentences": [
+        {
+          "example_en": "My father is a doctor.",
+          "example_fr": "Mon père est médecin.",
+          "highlight": "Mon père"
+        }
+      ]
+    },
+    {
+      "name_en": "Mother",
+      "name_fr": "Mère",
+      "plural_name_en": "Mothers",
+      "plural_name_fr": "Mères",
+      "example_sentences": [
+        {
+          "example_en": "My mother loves to cook.",
+          "example_fr": "Ma mère aime cuisiner.",
+          "highlight": "Ma mère"
+        }
+      ]
+    },
+    {
+      "name_en": "Sibling",
+      "name_fr": "Frère/Sœur",
+      "plural_name_en": "Siblings",
+      "plural_name_fr": "Frères/Sœurs",
+      "example_sentences": [
+        {
+          "example_en": "My sibling is my best friend.",
+          "example_fr": "Mon frère/ma sœur est mon meilleur ami.",
+          "highlight": "Mon frère/ma sœur"
+        }
+      ]
+    },
+    {
+      "name_en": "Son",
+      "name_fr": "Fils",
+      "plural_name_en": "Sons",
+      "plural_name_fr": "Fils",
+      "example_sentences": [
+        {
+          "example_en": "My son is very talented.",
+          "example_fr": "Mon fils est très talentueux.",
+          "highlight": "Mon fils"
+        }
+      ]
+    },
+    {
+      "name_en": "Daughter",
+      "name_fr": "Fille",
+      "plural_name_en": "Daughters",
+      "plural_name_fr": "Filles",
+      "example_sentences": [
+        {
+          "example_en": "My daughter loves to read.",
+          "example_fr": "Ma fille adore lire.",
+          "highlight": "Ma fille"
+        }
+      ]
+    },
+    {
+      "name_en": "Grandfather",
+      "name_fr": "Grand-père",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "My grandfather tells great stories.",
+          "example_fr": "Mon grand-père raconte de belles histoires.",
+          "highlight": "Mon grand-père"
+        }
+      ]
+    },
+    {
+      "name_en": "Grandmother",
+      "name_fr": "Grand-mère",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "My grandmother bakes delicious cookies.",
+          "example_fr": "Ma grand-mère fait de délicieux biscuits.",
+          "highlight": "Ma grand-mère"
+        }
+      ]
+    },
+    {
+      "name_en": "Uncle",
+      "name_fr": "Oncle",
+      "plural_name_en": "Uncles",
+      "plural_name_fr": "Oncles",
+      "example_sentences": [
+        {
+          "example_en": "My uncle is visiting us this weekend.",
+          "example_fr": "Mon oncle nous rend visite ce week-end.",
+          "highlight": "Mon oncle"
+        }
+      ]
+    },
+    {
+      "name_en": "Aunt",
+      "name_fr": "Tante",
+      "plural_name_en": "Aunts",
+      "plural_name_fr": "Tantes",
+      "example_sentences": [
+        {
+          "example_en": "My aunt is a great storyteller.",
+          "example_fr": "Ma tante est une excellente conteuse.",
+          "highlight": "Ma tante"
+        }
+      ]
+    },
+    {
+      "name_en": "Cousin",
+      "name_fr": "Cousin/Cousine",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "My cousin is coming over for dinner.",
+          "example_fr": "Mon cousin/ma cousine vient dîner.",
+          "highlight": "Mon cousin/ma cousine"
+        }
+      ]
+    },
+    {
+      "name_en": "Nephew",
+      "name_fr": "Neveu",
+      "plural_name_en": "Nephews",
+      "plural_name_fr": "Neveux",
+      "example_sentences": [
+        {
+          "example_en": "My nephew loves to play soccer.",
+          "example_fr": "Mon neveu adore jouer au football.",
+          "highlight": "Mon neveu"
+        }
+      ]
+    },
+    {
+      "name_en": "Niece",
+      "name_fr": "Nièce",
+      "plural_name_en": "Nieces",
+      "plural_name_fr": "Nièces",
+      "example_sentences": [
+        {
+          "example_en": "My niece is very creative.",
+          "example_fr": "Ma nièce est très créative.",
+          "highlight": "Ma nièce"
+        }
+      ]
+    },
+    {
+      "name_en": "In-law",
+      "name_fr": "Beau/Belle",
+      "plural_name_en": "In-laws",
+      "plural_name_fr": "Beaux/Belles",
+      "example_sentences": [
+        {
+          "example_en": "My sister-in-law is a wonderful person.",
+          "example_fr": "Ma belle-sœur est une personne merveilleuse.",
+          "highlight": "Ma belle-sœur"
+        }
+      ]
+    },
+    {
+      "name_en": "Stepfather",
+      "name_fr": "Beau-père",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "My stepfather is very supportive.",
+          "example_fr": "Mon beau-père est très soutenant.",
+          "highlight": "Mon beau-père"
+        }
+      ]
+    },
+    {
+      "name_en": "Stepmother",
+      "name_fr": "Belle-mère",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "My stepmother is kind and caring.",
+          "example_fr": "Ma belle-mère est gentille et attentionnée.",
+          "highlight": "Ma belle-mère"
+        }
+      ]
+    },
+    {
+      "name_en": "Stepbrother",
+      "name_fr": "Demi-frère",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "My stepbrother is a great friend.",
+          "example_fr": "Mon demi-frère est un super ami.",
+          "highlight": "Mon demi-frère"
+        }
+      ]
+    },
+    {
+      "name_en": "Stepsister",
+      "name_fr": "Demi-sœur",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "My stepsister is very talented.",
+          "example_fr": "Ma demi-sœur est très talentueuse.",
+          "highlight": "Ma demi-sœur"
+        }
+      ]
+    },
+    {
+      "name_en": "Guardian",
+      "name_fr": "Tuteur/Tutrice",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": [
+        {
+          "example_en": "My guardian has always been there for me.",
+          "example_fr": "Mon tuteur/ma tutrice a toujours été là pour moi.",
+          "highlight": "Mon tuteur/ma tutrice"
+        }
+      ]
+    },
+    {
+      "name_en": "Foster Parent",
+      "name_fr": "Parent d'accueil",
+      "plural_name_en": "Foster Parents",
+      "plural_name_fr": "Parents d'accueil",
+      "example_sentences": [
+        {
+          "example_en": "My foster parents are very caring.",
+          "example_fr": "Mes parents d'accueil sont très attentionnés.",
+          "highlight": "Mes parents d'accueil"
+        }
+      ]
+    },
+    {
+      "name_en": "Adoptive Parent",
+      "name_fr": "Parent adoptif",
+      "plural_name_en": "Adoptive Parents",
+      "plural_name_fr": "Parents adoptifs",
+      "example_sentences": [
+        {
+          "example_en": "My adoptive parents love me as their own.",
+          "example_fr": "Mes parents adoptifs m'aiment comme leur propre enfant.",
+          "highlight": "Mes parents adoptifs"
+        }
+      ]
+    },
+    {
+      "name_en": "Grandson",
+      "name_fr": "Petit-fils",
+      "plural_name_en": "Grandsons",
+      "plural_name_fr": "Petits-fils",
+      "example_sentences": [
+        {
+          "example_en": "My grandson is learning to ride a bike.",
+          "example_fr": "Mon petit-fils apprend à faire du vélo.",
+          "highlight": "Mon petit-fils"
+        }
+      ]
+    },
+    {
+      "name_en": "Granddaughter",
+      "name_fr": "Petite-fille",
+      "plural_name_en": "Granddaughters",
+      "plural_name_fr": "Petites-filles",
+      "example_sentences": [
+        {
+          "example_en": "My granddaughter loves to paint.",
+          "example_fr": "Ma petite-fille adore peindre.",
+          "highlight": "Ma petite-fille"
+        }
+      ]
+    }
+  ]
+}

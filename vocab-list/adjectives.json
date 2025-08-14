@@ -1,0 +1,1381 @@
+{
+  "name_en": "Adjectives",
+  "name_fr": "Adjectifs",
+  "list": [
+    {
+      "name_en": "Big",
+      "name_fr": "Grand",
+      "example_sentences": [
+        {
+          "example_en": "He lives in a big house.",
+          "example_fr": "Il habite dans une grande maison.",
+          "highlight": "grande"
+        }
+      ]
+    },
+    {
+      "name_en": "Small",
+      "name_fr": "Petit",
+      "example_sentences": [
+        {
+          "example_en": "She has a small dog.",
+          "example_fr": "Elle a un petit chien.",
+          "highlight": "petit"
+        }
+      ]
+    },
+    {
+      "name_en": "Good",
+      "name_fr": "Bon",
+      "example_sentences": [
+        {
+          "example_en": "He is a good student.",
+          "example_fr": "Il est un bon élève.",
+          "highlight": "bon"
+        }
+      ]
+    },
+    {
+      "name_en": "Bad",
+      "name_fr": "Mauvais",
+      "example_sentences": [
+        {
+          "example_en": "It was a bad idea.",
+          "example_fr": "C'était une mauvaise idée.",
+          "highlight": "mauvaise"
+        }
+      ]
+    },
+    {
+      "name_en": "Beautiful",
+      "name_fr": "Beau",
+      "example_sentences": [
+        {
+          "example_en": "She is beautiful.",
+          "example_fr": "Elle est belle.",
+          "highlight": "belle"
+        }
+      ]
+    },
+    {
+      "name_en": "Ugly",
+      "name_fr": "Laid",
+      "example_sentences": [
+        {
+          "example_en": "The building is ugly.",
+          "example_fr": "Le bâtiment est laid.",
+          "highlight": "laid"
+        }
+      ]
+    },
+    {
+      "name_en": "Young",
+      "name_fr": "Jeune",
+      "example_sentences": [
+        {
+          "example_en": "He is very young.",
+          "example_fr": "Il est très jeune.",
+          "highlight": "jeune"
+        }
+      ]
+    },
+    {
+      "name_en": "Old",
+      "name_fr": "Vieux",
+      "example_sentences": [
+        {
+          "example_en": "She has an old car.",
+          "example_fr": "Elle a une vieille voiture.",
+          "highlight": "vieille"
+        }
+      ]
+    },
+    {
+      "name_en": "New",
+      "name_fr": "Nouveau",
+      "example_sentences": [
+        {
+          "example_en": "He bought a new phone.",
+          "example_fr": "Il a acheté un nouveau téléphone.",
+          "highlight": "nouveau"
+        }
+      ]
+    },
+    {
+      "name_en": "Long",
+      "name_fr": "Long",
+      "example_sentences": [
+        {
+          "example_en": "It is a long road.",
+          "example_fr": "C'est une longue route.",
+          "highlight": "longue"
+        }
+      ]
+    },
+    {
+      "name_en": "Short",
+      "name_fr": "Court",
+      "example_sentences": [
+        {
+          "example_en": "She has short hair.",
+          "example_fr": "Elle a les cheveux courts.",
+          "highlight": "courts"
+        }
+      ]
+    },
+    {
+      "name_en": "Tall",
+      "name_fr": "Grand",
+      "example_sentences": [
+        {
+          "example_en": "He is very tall.",
+          "example_fr": "Il est très grand.",
+          "highlight": "grand"
+        }
+      ]
+    },
+    {
+      "name_en": "Fat",
+      "name_fr": "Gros",
+      "example_sentences": [
+        {
+          "example_en": "The cat is fat.",
+          "example_fr": "Le chat est gros.",
+          "highlight": "gros"
+        }
+      ]
+    },
+    {
+      "name_en": "Thin",
+      "name_fr": "Mince",
+      "example_sentences": [
+        {
+          "example_en": "She is thin.",
+          "example_fr": "Elle est mince.",
+          "highlight": "mince"
+        }
+      ]
+    },
+    {
+      "name_en": "Happy",
+      "name_fr": "Heureux",
+      "example_sentences": [
+        {
+          "example_en": "He is happy today.",
+          "example_fr": "Il est heureux aujourd'hui.",
+          "highlight": "heureux"
+        }
+      ]
+    },
+    {
+      "name_en": "Sad",
+      "name_fr": "Triste",
+      "example_sentences": [
+        {
+          "example_en": "She feels sad.",
+          "example_fr": "Elle se sent triste.",
+          "highlight": "triste"
+        }
+      ]
+    },
+    {
+      "name_en": "Easy",
+      "name_fr": "Facile",
+      "example_sentences": [
+        {
+          "example_en": "The test is easy.",
+          "example_fr": "Le test est facile.",
+          "highlight": "facile"
+        }
+      ]
+    },
+    {
+      "name_en": "Difficult",
+      "name_fr": "Difficile",
+      "example_sentences": [
+        {
+          "example_en": "The exam is difficult.",
+          "example_fr": "L'examen est difficile.",
+          "highlight": "difficile"
+        }
+      ]
+    },
+    {
+      "name_en": "Rich",
+      "name_fr": "Riche",
+      "example_sentences": [
+        {
+          "example_en": "He is very rich.",
+          "example_fr": "Il est très riche.",
+          "highlight": "riche"
+        }
+      ]
+    },
+    {
+      "name_en": "Poor",
+      "name_fr": "Pauvre",
+      "example_sentences": [
+        {
+          "example_en": "She is poor.",
+          "example_fr": "Elle est pauvre.",
+          "highlight": "pauvre"
+        }
+      ]
+    },
+    {
+      "name_en": "Strong",
+      "name_fr": "Fort",
+      "example_sentences": [
+        {
+          "example_en": "He is strong.",
+          "example_fr": "Il est fort.",
+          "highlight": "fort"
+        }
+      ]
+    },
+    {
+      "name_en": "Weak",
+      "name_fr": "Faible",
+      "example_sentences": [
+        {
+          "example_en": "She is weak.",
+          "example_fr": "Elle est faible.",
+          "highlight": "faible"
+        }
+      ]
+    },
+    {
+      "name_en": "Hot",
+      "name_fr": "Chaud",
+      "example_sentences": [
+        {
+          "example_en": "The soup is hot.",
+          "example_fr": "La soupe est chaude.",
+          "highlight": "chaude"
+        }
+      ]
+    },
+    {
+      "name_en": "Cold",
+      "name_fr": "Froid",
+      "example_sentences": [
+        {
+          "example_en": "The water is cold.",
+          "example_fr": "L'eau est froide.",
+          "highlight": "froide"
+        }
+      ]
+    },
+    {
+      "name_en": "Clean",
+      "name_fr": "Propre",
+      "example_sentences": [
+        {
+          "example_en": "The room is clean.",
+          "example_fr": "La chambre est propre.",
+          "highlight": "propre"
+        }
+      ]
+    },
+    {
+      "name_en": "Dirty",
+      "name_fr": "Sale",
+      "example_sentences": [
+        {
+          "example_en": "His shoes are dirty.",
+          "example_fr": "Ses chaussures sont sales.",
+          "highlight": "sales"
+        }
+      ]
+    },
+    {
+      "name_en": "Expensive",
+      "name_fr": "Cher",
+      "example_sentences": [
+        {
+          "example_en": "The car is expensive.",
+          "example_fr": "La voiture est chère.",
+          "highlight": "chère"
+        }
+      ]
+    },
+    {
+      "name_en": "Cheap",
+      "name_fr": "Bon marché",
+      "example_sentences": [
+        {
+          "example_en": "The book is cheap.",
+          "example_fr": "Le livre est bon marché.",
+          "highlight": "bon marché"
+        }
+      ]
+    },
+    {
+      "name_en": "Full",
+      "name_fr": "Plein",
+      "example_sentences": [
+        {
+          "example_en": "The glass is full.",
+          "example_fr": "Le verre est plein.",
+          "highlight": "plein"
+        }
+      ]
+    },
+    {
+      "name_en": "Empty",
+      "name_fr": "Vide",
+      "example_sentences": [
+        {
+          "example_en": "The bottle is empty.",
+          "example_fr": "La bouteille est vide.",
+          "highlight": "vide"
+        }
+      ]
+    },
+    {
+      "name_en": "Wide",
+      "name_fr": "Large",
+      "example_sentences": [
+        {
+          "example_en": "The street is wide.",
+          "example_fr": "La rue est large.",
+          "highlight": "large"
+        }
+      ]
+    },
+    {
+      "name_en": "Narrow",
+      "name_fr": "Étroit",
+      "example_sentences": [
+        {
+          "example_en": "The path is narrow.",
+          "example_fr": "Le chemin est étroit.",
+          "highlight": "étroit"
+        }
+      ]
+    },
+    {
+      "name_en": "Deep",
+      "name_fr": "Profond",
+      "example_sentences": [
+        {
+          "example_en": "The lake is deep.",
+          "example_fr": "Le lac est profond.",
+          "highlight": "profond"
+        }
+      ]
+    },
+    {
+      "name_en": "Shallow",
+      "name_fr": "Peu profond",
+      "example_sentences": [
+        {
+          "example_en": "The pool is shallow.",
+          "example_fr": "La piscine est peu profonde.",
+          "highlight": "peu profonde"
+        }
+      ]
+    },
+    {
+      "name_en": "Dark",
+      "name_fr": "Sombre",
+      "example_sentences": [
+        {
+          "example_en": "The room is dark.",
+          "example_fr": "La pièce est sombre.",
+          "highlight": "sombre"
+        }
+      ]
+    },
+    {
+      "name_en": "Light",
+      "name_fr": "Clair",
+      "example_sentences": [
+        {
+          "example_en": "The color is light.",
+          "example_fr": "La couleur est claire.",
+          "highlight": "claire"
+        }
+      ]
+    },
+    {
+      "name_en": "Sweet",
+      "name_fr": "Doux",
+      "example_sentences": [
+        {
+          "example_en": "The cake is sweet.",
+          "example_fr": "Le gâteau est doux.",
+          "highlight": "doux"
+        }
+      ]
+    },
+    {
+      "name_en": "Bitter",
+      "name_fr": "Amer",
+      "example_sentences": [
+        {
+          "example_en": "The medicine is bitter.",
+          "example_fr": "Le médicament est amer.",
+          "highlight": "amer"
+        }
+      ]
+    },
+    {
+      "name_en": "Noisy",
+      "name_fr": "Bruyant",
+      "example_sentences": [
+        {
+          "example_en": "The street is noisy.",
+          "example_fr": "La rue est bruyante.",
+          "highlight": "bruyante"
+        }
+      ]
+    },
+    {
+      "name_en": "Quiet",
+      "name_fr": "Calme",
+      "example_sentences": [
+        {
+          "example_en": "The library is quiet.",
+          "example_fr": "La bibliothèque est calme.",
+          "highlight": "calme"
+        }
+      ]
+    },
+    {
+      "name_en": "Busy",
+      "name_fr": "Occupé",
+      "example_sentences": [
+        {
+          "example_en": "He is busy.",
+          "example_fr": "Il est occupé.",
+          "highlight": "occupé"
+        }
+      ]
+    },
+    {
+      "name_en": "Free",
+      "name_fr": "Libre",
+      "example_sentences": [
+        {
+          "example_en": "She is free today.",
+          "example_fr": "Elle est libre aujourd'hui.",
+          "highlight": "libre"
+        }
+      ]
+    },
+    {
+      "name_en": "Famous",
+      "name_fr": "Célèbre",
+      "example_sentences": [
+        {
+          "example_en": "He is a famous actor.",
+          "example_fr": "Il est un acteur célèbre.",
+          "highlight": "célèbre"
+        }
+      ]
+    },
+    {
+      "name_en": "Unknown",
+      "name_fr": "Inconnu",
+      "example_sentences": [
+        {
+          "example_en": "The author is unknown.",
+          "example_fr": "L'auteur est inconnu.",
+          "highlight": "inconnu"
+        }
+      ]
+    },
+    {
+      "name_en": "Friendly",
+      "name_fr": "Amical",
+      "example_sentences": [
+        {
+          "example_en": "She is friendly.",
+          "example_fr": "Elle est amicale.",
+          "highlight": "amicale"
+        }
+      ]
+    },
+    {
+      "name_en": "Unfriendly",
+      "name_fr": "Hostile",
+      "example_sentences": [
+        {
+          "example_en": "He is unfriendly.",
+          "example_fr": "Il est hostile.",
+          "highlight": "hostile"
+        }
+      ]
+    },
+    {
+      "name_en": "Polite",
+      "name_fr": "Poli",
+      "example_sentences": [
+        {
+          "example_en": "She is polite.",
+          "example_fr": "Elle est polie.",
+          "highlight": "polie"
+        }
+      ]
+    },
+    {
+      "name_en": "Rude",
+      "name_fr": "Grossier",
+      "example_sentences": [
+        {
+          "example_en": "He is rude.",
+          "example_fr": "Il est grossier.",
+          "highlight": "grossier"
+        }
+      ]
+    },
+    {
+      "name_en": "Tired",
+      "name_fr": "Fatigué",
+      "example_sentences": [
+        {
+          "example_en": "She is tired.",
+          "example_fr": "Elle est fatiguée.",
+          "highlight": "fatiguée"
+        }
+      ]
+    },
+    {
+      "name_en": "Fresh",
+      "name_fr": "Frais",
+      "example_sentences": [
+        {
+          "example_en": "The bread is fresh.",
+          "example_fr": "Le pain est frais.",
+          "highlight": "frais"
+        }
+      ]
+    },
+    {
+      "name_en": "Dry",
+      "name_fr": "Sec",
+      "example_sentences": [
+        {
+          "example_en": "The towel is dry.",
+          "example_fr": "La serviette est sèche.",
+          "highlight": "sèche"
+        }
+      ]
+    },
+    {
+      "name_en": "Wet",
+      "name_fr": "Mouillé",
+      "example_sentences": [
+        {
+          "example_en": "The ground is wet.",
+          "example_fr": "Le sol est mouillé.",
+          "highlight": "mouillé"
+        }
+      ]
+    },
+    {
+      "name_en": "Soft",
+      "name_fr": "Doux",
+      "example_sentences": [
+        {
+          "example_en": "The pillow is soft.",
+          "example_fr": "L'oreiller est doux.",
+          "highlight": "doux"
+        }
+      ]
+    },
+    {
+      "name_en": "Hard",
+      "name_fr": "Dur",
+      "example_sentences": [
+        {
+          "example_en": "The rock is hard.",
+          "example_fr": "La roche est dure.",
+          "highlight": "dure"
+        }
+      ]
+    },
+    {
+      "name_en": "Heavy",
+      "name_fr": "Lourd",
+      "example_sentences": [
+        {
+          "example_en": "The box is heavy.",
+          "example_fr": "La boîte est lourde.",
+          "highlight": "lourde"
+        }
+      ]
+    },
+    {
+      "name_en": "Light (weight)",
+      "name_fr": "Léger",
+      "example_sentences": [
+        {
+          "example_en": "The bag is light.",
+          "example_fr": "Le sac est léger.",
+          "highlight": "léger"
+        }
+      ]
+    },
+    {
+      "name_en": "Deep",
+      "name_fr": "Profond",
+      "example_sentences": [
+        {
+          "example_en": "The river is deep.",
+          "example_fr": "La rivière est profonde.",
+          "highlight": "profonde"
+        }
+      ]
+    },
+    {
+      "name_en": "Shallow",
+      "name_fr": "Peu profond",
+      "example_sentences": [
+        {
+          "example_en": "The water is shallow.",
+          "example_fr": "L'eau est peu profonde.",
+          "highlight": "peu profonde"
+        }
+      ]
+    },
+    {
+      "name_en": "Wide",
+      "name_fr": "Large",
+      "example_sentences": [
+        {
+          "example_en": "The door is wide.",
+          "example_fr": "La porte est large.",
+          "highlight": "large"
+        }
+      ]
+    },
+    {
+      "name_en": "Narrow",
+      "name_fr": "Étroit",
+      "example_sentences": [
+        {
+          "example_en": "The alley is narrow.",
+          "example_fr": "La ruelle est étroite.",
+          "highlight": "étroite"
+        }
+      ]
+    },
+    {
+      "name_en": "Round",
+      "name_fr": "Rond",
+      "example_sentences": [
+        {
+          "example_en": "The table is round.",
+          "example_fr": "La table est ronde.",
+          "highlight": "ronde"
+        }
+      ]
+    },
+    {
+      "name_en": "Square",
+      "name_fr": "Carré",
+      "example_sentences": [
+        {
+          "example_en": "The box is square.",
+          "example_fr": "La boîte est carrée.",
+          "highlight": "carrée"
+        }
+      ]
+    },
+    {
+      "name_en": "Flat",
+      "name_fr": "Plat",
+      "example_sentences": [
+        {
+          "example_en": "The land is flat.",
+          "example_fr": "La terre est plate.",
+          "highlight": "plate"
+        }
+      ]
+    },
+    {
+      "name_en": "Sharp",
+      "name_fr": "Tranchant",
+      "example_sentences": [
+        {
+          "example_en": "The knife is sharp.",
+          "example_fr": "Le couteau est tranchant.",
+          "highlight": "tranchant"
+        }
+      ]
+    },
+    {
+      "name_en": "Blunt",
+      "name_fr": "Émoussé",
+      "example_sentences": [
+        {
+          "example_en": "The pencil is blunt.",
+          "example_fr": "Le crayon est émoussé.",
+          "highlight": "émoussé"
+        }
+      ]
+    },
+    {
+      "name_en": "Rich",
+      "name_fr": "Riche",
+      "example_sentences": [
+        {
+          "example_en": "The country is rich.",
+          "example_fr": "Le pays est riche.",
+          "highlight": "riche"
+        }
+      ]
+    },
+    {
+      "name_en": "Poor",
+      "name_fr": "Pauvre",
+      "example_sentences": [
+        {
+          "example_en": "The village is poor.",
+          "example_fr": "Le village est pauvre.",
+          "highlight": "pauvre"
+        }
+      ]
+    },
+    {
+      "name_en": "Busy",
+      "name_fr": "Occupé",
+      "example_sentences": [
+        {
+          "example_en": "The street is busy.",
+          "example_fr": "La rue est occupée.",
+          "highlight": "occupée"
+        }
+      ]
+    },
+    {
+      "name_en": "Calm",
+      "name_fr": "Calme",
+      "example_sentences": [
+        {
+          "example_en": "The sea is calm.",
+          "example_fr": "La mer est calme.",
+          "highlight": "calme"
+        }
+      ]
+    },
+    {
+      "name_en": "Dangerous",
+      "name_fr": "Dangereux",
+      "example_sentences": [
+        {
+          "example_en": "The road is dangerous.",
+          "example_fr": "La route est dangereuse.",
+          "highlight": "dangereuse"
+        }
+      ]
+    },
+    {
+      "name_en": "Safe",
+      "name_fr": "Sûr",
+      "example_sentences": [
+        {
+          "example_en": "The city is safe.",
+          "example_fr": "La ville est sûre.",
+          "highlight": "sûre"
+        }
+      ]
+    },
+    {
+      "name_en": "Early",
+      "name_fr": "Tôt",
+      "example_sentences": [
+        {
+          "example_en": "He arrived early.",
+          "example_fr": "Il est arrivé tôt.",
+          "highlight": "tôt"
+        }
+      ]
+    },
+    {
+      "name_en": "Late",
+      "name_fr": "En retard",
+      "example_sentences": [
+        {
+          "example_en": "She is late.",
+          "example_fr": "Elle est en retard.",
+          "highlight": "en retard"
+        }
+      ]
+    },
+    {
+      "name_en": "Sweet",
+      "name_fr": "Doux",
+      "example_sentences": [
+        {
+          "example_en": "The fruit is sweet.",
+          "example_fr": "Le fruit est doux.",
+          "highlight": "doux"
+        }
+      ]
+    },
+    {
+      "name_en": "Sour",
+      "name_fr": "Acide",
+      "example_sentences": [
+        {
+          "example_en": "The lemon is sour.",
+          "example_fr": "Le citron est acide.",
+          "highlight": "acide"
+        }
+      ]
+    },
+    {
+      "name_en": "Bitter",
+      "name_fr": "Amer",
+      "example_sentences": [
+        {
+          "example_en": "The coffee is bitter.",
+          "example_fr": "Le café est amer.",
+          "highlight": "amer"
+        }
+      ]
+    },
+    {
+      "name_en": "Spicy",
+      "name_fr": "Épicé",
+      "example_sentences": [
+        {
+          "example_en": "The dish is spicy.",
+          "example_fr": "Le plat est épicé.",
+          "highlight": "épicé"
+        }
+      ]
+    },
+    {
+      "name_en": "Delicious",
+      "name_fr": "Délicieux",
+      "example_sentences": [
+        {
+          "example_en": "The cake is delicious.",
+          "example_fr": "Le gâteau est délicieux.",
+          "highlight": "délicieux"
+        }
+      ]
+    },
+    {
+      "name_en": "Disgusting",
+      "name_fr": "Dégoûtant",
+      "example_sentences": [
+        {
+          "example_en": "The smell is disgusting.",
+          "example_fr": "L'odeur est dégoûtante.",
+          "highlight": "dégoûtante"
+        }
+      ]
+    },
+    {
+      "name_en": "Interesting",
+      "name_fr": "Intéressant",
+      "example_sentences": [
+        {
+          "example_en": "The book is interesting.",
+          "example_fr": "Le livre est intéressant.",
+          "highlight": "intéressant"
+        }
+      ]
+    },
+    {
+      "name_en": "Boring",
+      "name_fr": "Ennuyeux",
+      "example_sentences": [
+        {
+          "example_en": "The movie is boring.",
+          "example_fr": "Le film est ennuyeux.",
+          "highlight": "ennuyeux"
+        }
+      ]
+    },
+    {
+      "name_en": "Modern",
+      "name_fr": "Moderne",
+      "example_sentences": [
+        {
+          "example_en": "The house is modern.",
+          "example_fr": "La maison est moderne.",
+          "highlight": "moderne"
+        }
+      ]
+    },
+    {
+      "name_en": "Ancient",
+      "name_fr": "Ancien",
+      "example_sentences": [
+        {
+          "example_en": "The city is ancient.",
+          "example_fr": "La ville est ancienne.",
+          "highlight": "ancienne"
+        }
+      ]
+    },
+    {
+      "name_en": "Powerful",
+      "name_fr": "Puissant",
+      "example_sentences": [
+        {
+          "example_en": "The engine is powerful.",
+          "example_fr": "Le moteur est puissant.",
+          "highlight": "puissant"
+        }
+      ]
+    },
+    {
+      "name_en": "Weak",
+      "name_fr": "Faible",
+      "example_sentences": [
+        {
+          "example_en": "The signal is weak.",
+          "example_fr": "Le signal est faible.",
+          "highlight": "faible"
+        }
+      ]
+    },
+    {
+      "name_en": "Quick",
+      "name_fr": "Rapide",
+      "example_sentences": [
+        {
+          "example_en": "The rabbit is quick.",
+          "example_fr": "Le lapin est rapide.",
+          "highlight": "rapide"
+        }
+      ]
+    },
+    {
+      "name_en": "Slow",
+      "name_fr": "Lent",
+      "example_sentences": [
+        {
+          "example_en": "The turtle is slow.",
+          "example_fr": "La tortue est lente.",
+          "highlight": "lente"
+        }
+      ]
+    },
+    {
+      "name_en": "Smart",
+      "name_fr": "Intelligent",
+      "example_sentences": [
+        {
+          "example_en": "She is smart.",
+          "example_fr": "Elle est intelligente.",
+          "highlight": "intelligente"
+        }
+      ]
+    },
+    {
+      "name_en": "Stupid",
+      "name_fr": "Stupide",
+      "example_sentences": [
+        {
+          "example_en": "He is stupid.",
+          "example_fr": "Il est stupide.",
+          "highlight": "stupide"
+        }
+      ]
+    },
+    {
+      "name_en": "Busy",
+      "name_fr": "Occupé",
+      "example_sentences": [
+        {
+          "example_en": "The market is busy.",
+          "example_fr": "Le marché est occupé.",
+          "highlight": "occupé"
+        }
+      ]
+    },
+    {
+      "name_en": "Calm",
+      "name_fr": "Calme",
+      "example_sentences": [
+        {
+          "example_en": "The child is calm.",
+          "example_fr": "L'enfant est calme.",
+          "highlight": "calme"
+        }
+      ]
+    },
+    {
+      "name_en": "Safe",
+      "name_fr": "Sûr",
+      "example_sentences": [
+        {
+          "example_en": "The park is safe.",
+          "example_fr": "Le parc est sûr.",
+          "highlight": "sûr"
+        }
+      ]
+    },
+    {
+      "name_en": "Dangerous",
+      "name_fr": "Dangereux",
+      "example_sentences": [
+        {
+          "example_en": "The animal is dangerous.",
+          "example_fr": "L'animal est dangereux.",
+          "highlight": "dangereux"
+        }
+      ]
+    },
+    {
+      "name_en": "Sweet",
+      "name_fr": "Doux",
+      "example_sentences": [
+        {
+          "example_en": "The child is sweet.",
+          "example_fr": "L'enfant est doux.",
+          "highlight": "doux"
+        }
+      ]
+    },
+    {
+      "name_en": "Sour",
+      "name_fr": "Acide",
+      "example_sentences": [
+        {
+          "example_en": "The fruit is sour.",
+          "example_fr": "Le fruit est acide.",
+          "highlight": "acide"
+        }
+      ]
+    },
+    {
+      "name_en": "Bitter",
+      "name_fr": "Amer",
+      "example_sentences": [
+        {
+          "example_en": "The taste is bitter.",
+          "example_fr": "Le goût est amer.",
+          "highlight": "amer"
+        }
+      ]
+    },
+    {
+      "name_en": "Spicy",
+      "name_fr": "Épicé",
+      "example_sentences": [
+        {
+          "example_en": "The food is spicy.",
+          "example_fr": "La nourriture est épicée.",
+          "highlight": "épicée"
+        }
+      ]
+    },
+    {
+      "name_en": "Reliable",
+      "name_fr": "Fiable",
+      "example_sentences": [
+        {
+          "example_en": "He is a reliable friend.",
+          "example_fr": "Il est un ami fiable.",
+          "highlight": "fiable"
+        }
+      ]
+    },
+    {
+      "name_en": "Flexible",
+      "name_fr": "Flexible",
+      "example_sentences": [
+        {
+          "example_en": "She is flexible with her schedule.",
+          "example_fr": "Elle est flexible avec son emploi du temps.",
+          "highlight": "flexible"
+        }
+      ]
+    },
+    {
+      "name_en": "Efficient",
+      "name_fr": "Efficace",
+      "example_sentences": [
+        {
+          "example_en": "The team is efficient.",
+          "example_fr": "L'équipe est efficace.",
+          "highlight": "efficace"
+        }
+      ]
+    },
+    {
+      "name_en": "Ambitious",
+      "name_fr": "Ambitieux",
+      "example_sentences": [
+        {
+          "example_en": "He is ambitious.",
+          "example_fr": "Il est ambitieux.",
+          "highlight": "ambitieux"
+        }
+      ]
+    },
+    {
+      "name_en": "Responsible",
+      "name_fr": "Responsable",
+      "example_sentences": [
+        {
+          "example_en": "She is responsible.",
+          "example_fr": "Elle est responsable.",
+          "highlight": "responsable"
+        }
+      ]
+    },
+    {
+      "name_en": "Creative",
+      "name_fr": "Créatif",
+      "example_sentences": [
+        {
+          "example_en": "He is creative.",
+          "example_fr": "Il est créatif.",
+          "highlight": "créatif"
+        }
+      ]
+    },
+    {
+      "name_en": "Generous",
+      "name_fr": "Généreux",
+      "example_sentences": [
+        {
+          "example_en": "She is generous.",
+          "example_fr": "Elle est généreuse.",
+          "highlight": "généreuse"
+        }
+      ]
+    },
+    {
+      "name_en": "Sensitive",
+      "name_fr": "Sensible",
+      "example_sentences": [
+        {
+          "example_en": "He is sensitive to criticism.",
+          "example_fr": "Il est sensible à la critique.",
+          "highlight": "sensible"
+        }
+      ]
+    },
+    {
+      "name_en": "Strict",
+      "name_fr": "Strict",
+      "example_sentences": [
+        {
+          "example_en": "The teacher is strict.",
+          "example_fr": "Le professeur est strict.",
+          "highlight": "strict"
+        }
+      ]
+    },
+    {
+      "name_en": "Supportive",
+      "name_fr": "Soutenant",
+      "example_sentences": [
+        {
+          "example_en": "She is supportive.",
+          "example_fr": "Elle est soutenante.",
+          "highlight": "soutenante"
+        }
+      ]
+    },
+    {
+      "name_en": "Curious",
+      "name_fr": "Curieux",
+      "example_sentences": [
+        {
+          "example_en": "He is curious about everything.",
+          "example_fr": "Il est curieux de tout.",
+          "highlight": "curieux"
+        }
+      ]
+    },
+    {
+      "name_en": "Calm",
+      "name_fr": "Calme",
+      "example_sentences": [
+        {
+          "example_en": "She remains calm in stressful situations.",
+          "example_fr": "Elle reste calme dans les situations stressantes.",
+          "highlight": "calme"
+        }
+      ]
+    },
+    {
+      "name_en": "Confident",
+      "name_fr": "Confiant",
+      "example_sentences": [
+        {
+          "example_en": "He is confident in his abilities.",
+          "example_fr": "Il est confiant dans ses capacités.",
+          "highlight": "confiant"
+        }
+      ]
+    },
+    {
+      "name_en": "Honest",
+      "name_fr": "Honnête",
+      "example_sentences": [
+        {
+          "example_en": "She is honest.",
+          "example_fr": "Elle est honnête.",
+          "highlight": "honnête"
+        }
+      ]
+    },
+    {
+      "name_en": "Organized",
+      "name_fr": "Organisé",
+      "example_sentences": [
+        {
+          "example_en": "He is organized.",
+          "example_fr": "Il est organisé.",
+          "highlight": "organisé"
+        }
+      ]
+    },
+    {
+      "name_en": "Motivated",
+      "name_fr": "Motivé",
+      "example_sentences": [
+        {
+          "example_en": "She is motivated to succeed.",
+          "example_fr": "Elle est motivée pour réussir.",
+          "highlight": "motivée"
+        }
+      ]
+    },
+    {
+      "name_en": "Patient",
+      "name_fr": "Patient",
+      "example_sentences": [
+        {
+          "example_en": "He is patient with children.",
+          "example_fr": "Il est patient avec les enfants.",
+          "highlight": "patient"
+        }
+      ]
+    },
+    {
+      "name_en": "Punctual",
+      "name_fr": "Ponctuel",
+      "example_sentences": [
+        {
+          "example_en": "She is always punctual.",
+          "example_fr": "Elle est toujours ponctuelle.",
+          "highlight": "ponctuelle"
+        }
+      ]
+    },
+    {
+      "name_en": "Serious",
+      "name_fr": "Sérieux",
+      "example_sentences": [
+        {
+          "example_en": "He is serious about his work.",
+          "example_fr": "Il est sérieux dans son travail.",
+          "highlight": "sérieux"
+        }
+      ]
+    },
+    {
+      "name_en": "Sociable",
+      "name_fr": "Sociable",
+      "example_sentences": [
+        {
+          "example_en": "She is sociable.",
+          "example_fr": "Elle est sociable.",
+          "highlight": "sociable"
+        }
+      ]
+    },
+    {
+      "name_en": "Jealous",
+      "name_fr": "Jaloux",
+      "example_sentences": [
+        {
+          "example_en": "He is jealous of his brother.",
+          "example_fr": "Il est jaloux de son frère.",
+          "highlight": "jaloux"
+        }
+      ]
+    },
+    {
+      "name_en": "Grateful",
+      "name_fr": "Reconnaissant",
+      "example_sentences": [
+        {
+          "example_en": "She is grateful for the help.",
+          "example_fr": "Elle est reconnaissante pour l'aide.",
+          "highlight": "reconnaissante"
+        }
+      ]
+    },
+    {
+      "name_en": "Helpful",
+      "name_fr": "Serviable",
+      "example_sentences": [
+        {
+          "example_en": "He is always helpful.",
+          "example_fr": "Il est toujours serviable.",
+          "highlight": "serviable"
+        }
+      ]
+    },
+    {
+      "name_en": "Lazy",
+      "name_fr": "Paresseux",
+      "example_sentences": [
+        {
+          "example_en": "He is lazy on weekends.",
+          "example_fr": "Il est paresseux le week-end.",
+          "highlight": "paresseux"
+        }
+      ]
+    },
+    {
+      "name_en": "Brave",
+      "name_fr": "Courageux",
+      "example_sentences": [
+        {
+          "example_en": "She is brave in difficult times.",
+          "example_fr": "Elle est courageuse dans les moments difficiles.",
+          "highlight": "courageuse"
+        }
+      ]
+    },
+    {
+      "name_en": "Selfish",
+      "name_fr": "Égoïste",
+      "example_sentences": [
+        {
+          "example_en": "He is selfish sometimes.",
+          "example_fr": "Il est parfois égoïste.",
+          "highlight": "égoïste"
+        }
+      ]
+    },
+    {
+      "name_en": "Optimistic",
+      "name_fr": "Optimiste",
+      "example_sentences": [
+        {
+          "example_en": "She is optimistic about the future.",
+          "example_fr": "Elle est optimiste pour l'avenir.",
+          "highlight": "optimiste"
+        }
+      ]
+    },
+    {
+      "name_en": "Pessimistic",
+      "name_fr": "Pessimiste",
+      "example_sentences": [
+        {
+          "example_en": "He is pessimistic about the results.",
+          "example_fr": "Il est pessimiste quant aux résultats.",
+          "highlight": "pessimiste"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1139 @@
+{
+  "name_en": "Cardinal Numbers",
+  "name_fr": "Nombres cardinaux",
+  "list": [
+    {
+      "name_en": "One",
+      "name_fr": "Un",
+      "example_sentences": [
+        {
+          "example_en": "He has one apple.",
+          "example_fr": "Il a une pomme.",
+          "highlight": "un"
+        }
+      ]
+    },
+    {
+      "name_en": "Two",
+      "name_fr": "Deux",
+      "example_sentences": [
+        {
+          "example_en": "She has two cats.",
+          "example_fr": "Elle a deux chats.",
+          "highlight": "deux"
+        }
+      ]
+    },
+    {
+      "name_en": "Three",
+      "name_fr": "Trois",
+      "example_sentences": [
+        {
+          "example_en": "There are three books.",
+          "example_fr": "Il y a trois livres.",
+          "highlight": "trois"
+        }
+      ]
+    },
+    {
+      "name_en": "Four",
+      "name_fr": "Quatre",
+      "example_sentences": [
+        {
+          "example_en": "He bought four tickets.",
+          "example_fr": "Il a acheté quatre billets.",
+          "highlight": "quatre"
+        }
+      ]
+    },
+    {
+      "name_en": "Five",
+      "name_fr": "Cinq",
+      "example_sentences": [
+        {
+          "example_en": "She has five pencils.",
+          "example_fr": "Elle a cinq crayons.",
+          "highlight": "cinq"
+        }
+      ]
+    },
+    {
+      "name_en": "Six",
+      "name_fr": "Six",
+      "example_sentences": [
+        {
+          "example_en": "There are six chairs.",
+          "example_fr": "Il y a six chaises.",
+          "highlight": "six"
+        }
+      ]
+    },
+    {
+      "name_en": "Seven",
+      "name_fr": "Sept",
+      "example_sentences": [
+        {
+          "example_en": "He has seven coins.",
+          "example_fr": "Il a sept pièces.",
+          "highlight": "sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Eight",
+      "name_fr": "Huit",
+      "example_sentences": [
+        {
+          "example_en": "She has eight friends.",
+          "example_fr": "Elle a huit amis.",
+          "highlight": "huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Nine",
+      "name_fr": "Neuf",
+      "example_sentences": [
+        {
+          "example_en": "There are nine cars.",
+          "example_fr": "Il y a neuf voitures.",
+          "highlight": "neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "Ten",
+      "name_fr": "Dix",
+      "example_sentences": [
+        {
+          "example_en": "He has ten fingers.",
+          "example_fr": "Il a dix doigts.",
+          "highlight": "dix"
+        }
+      ]
+    },
+    {
+      "name_en": "Eleven",
+      "name_fr": "Onze",
+      "example_sentences": [
+        {
+          "example_en": "She is eleven years old.",
+          "example_fr": "Elle a onze ans.",
+          "highlight": "onze"
+        }
+      ]
+    },
+    {
+      "name_en": "Twelve",
+      "name_fr": "Douze",
+      "example_sentences": [
+        {
+          "example_en": "There are twelve months in a year.",
+          "example_fr": "Il y a douze mois dans une année.",
+          "highlight": "douze"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirteen",
+      "name_fr": "Treize",
+      "example_sentences": [
+        {
+          "example_en": "He has thirteen marbles.",
+          "example_fr": "Il a treize billes.",
+          "highlight": "treize"
+        }
+      ]
+    },
+    {
+      "name_en": "Fourteen",
+      "name_fr": "Quatorze",
+      "example_sentences": [
+        {
+          "example_en": "She is fourteen years old.",
+          "example_fr": "Elle a quatorze ans.",
+          "highlight": "quatorze"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifteen",
+      "name_fr": "Quinze",
+      "example_sentences": [
+        {
+          "example_en": "He has fifteen books.",
+          "example_fr": "Il a quinze livres.",
+          "highlight": "quinze"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixteen",
+      "name_fr": "Seize",
+      "example_sentences": [
+        {
+          "example_en": "She is sixteen years old.",
+          "example_fr": "Elle a seize ans.",
+          "highlight": "seize"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventeen",
+      "name_fr": "Dix-sept",
+      "example_sentences": [
+        {
+          "example_en": "He is seventeen years old.",
+          "example_fr": "Il a dix-sept ans.",
+          "highlight": "dix-sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighteen",
+      "name_fr": "Dix-huit",
+      "example_sentences": [
+        {
+          "example_en": "She is eighteen years old.",
+          "example_fr": "Elle a dix-huit ans.",
+          "highlight": "dix-huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Nineteen",
+      "name_fr": "Dix-neuf",
+      "example_sentences": [
+        {
+          "example_en": "He is nineteen years old.",
+          "example_fr": "Il a dix-neuf ans.",
+          "highlight": "dix-neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty",
+      "name_fr": "Vingt",
+      "example_sentences": [
+        {
+          "example_en": "There are twenty students in the class.",
+          "example_fr": "Il y a vingt élèves dans la classe.",
+          "highlight": "vingt"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-one",
+      "name_fr": "Vingt et un",
+      "example_sentences": [
+        {
+          "example_en": "He is twenty-one years old.",
+          "example_fr": "Il a vingt et un ans.",
+          "highlight": "vingt et un"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-two",
+      "name_fr": "Vingt-deux",
+      "example_sentences": [
+        {
+          "example_en": "She is twenty-two years old.",
+          "example_fr": "Elle a vingt-deux ans.",
+          "highlight": "vingt-deux"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-three",
+      "name_fr": "Vingt-trois",
+      "example_sentences": [
+        {
+          "example_en": "There are twenty-three students in the class.",
+          "example_fr": "Il y a vingt-trois élèves dans la classe.",
+          "highlight": "vingt-trois"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-four",
+      "name_fr": "Vingt-quatre",
+      "example_sentences": [
+        {
+          "example_en": "He bought twenty-four eggs.",
+          "example_fr": "Il a acheté vingt-quatre œufs.",
+          "highlight": "vingt-quatre"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-five",
+      "name_fr": "Vingt-cinq",
+      "example_sentences": [
+        {
+          "example_en": "She has twenty-five stickers.",
+          "example_fr": "Elle a vingt-cinq autocollants.",
+          "highlight": "vingt-cinq"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-six",
+      "name_fr": "Vingt-six",
+      "example_sentences": [
+        {
+          "example_en": "There are twenty-six letters in the alphabet.",
+          "example_fr": "Il y a vingt-six lettres dans l'alphabet.",
+          "highlight": "vingt-six"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-seven",
+      "name_fr": "Vingt-sept",
+      "example_sentences": [
+        {
+          "example_en": "He has twenty-seven coins.",
+          "example_fr": "Il a vingt-sept pièces.",
+          "highlight": "vingt-sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-eight",
+      "name_fr": "Vingt-huit",
+      "example_sentences": [
+        {
+          "example_en": "She has twenty-eight friends.",
+          "example_fr": "Elle a vingt-huit amis.",
+          "highlight": "vingt-huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Twenty-nine",
+      "name_fr": "Vingt-neuf",
+      "example_sentences": [
+        {
+          "example_en": "There are twenty-nine cars.",
+          "example_fr": "Il y a vingt-neuf voitures.",
+          "highlight": "vingt-neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty",
+      "name_fr": "Trente",
+      "example_sentences": [
+        {
+          "example_en": "She is thirty years old.",
+          "example_fr": "Elle a trente ans.",
+          "highlight": "trente"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-one",
+      "name_fr": "Trente et un",
+      "example_sentences": [
+        {
+          "example_en": "He is thirty-one years old.",
+          "example_fr": "Il a trente et un ans.",
+          "highlight": "trente et un"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-two",
+      "name_fr": "Trente-deux",
+      "example_sentences": [
+        {
+          "example_en": "She is thirty-two years old.",
+          "example_fr": "Elle a trente-deux ans.",
+          "highlight": "trente-deux"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-three",
+      "name_fr": "Trente-trois",
+      "example_sentences": [
+        {
+          "example_en": "There are thirty-three students in the class.",
+          "example_fr": "Il y a trente-trois élèves dans la classe.",
+          "highlight": "trente-trois"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-four",
+      "name_fr": "Trente-quatre",
+      "example_sentences": [
+        {
+          "example_en": "He bought thirty-four eggs.",
+          "example_fr": "Il a acheté trente-quatre œufs.",
+          "highlight": "trente-quatre"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-five",
+      "name_fr": "Trente-cinq",
+      "example_sentences": [
+        {
+          "example_en": "She has thirty-five stickers.",
+          "example_fr": "Elle a trente-cinq autocollants.",
+          "highlight": "trente-cinq"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-six",
+      "name_fr": "Trente-six",
+      "example_sentences": [
+        {
+          "example_en": "There are thirty-six letters in the alphabet.",
+          "example_fr": "Il y a trente-six lettres dans l'alphabet.",
+          "highlight": "trente-six"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-seven",
+      "name_fr": "Trente-sept",
+      "example_sentences": [
+        {
+          "example_en": "He has thirty-seven coins.",
+          "example_fr": "Il a trente-sept pièces.",
+          "highlight": "trente-sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-eight",
+      "name_fr": "Trente-huit",
+      "example_sentences": [
+        {
+          "example_en": "She has thirty-eight friends.",
+          "example_fr": "Elle a trente-huit amis.",
+          "highlight": "trente-huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Thirty-nine",
+      "name_fr": "Trente-neuf",
+      "example_sentences": [
+        {
+          "example_en": "There are thirty-nine cars.",
+          "example_fr": "Il y a trente-neuf voitures.",
+          "highlight": "trente-neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty",
+      "name_fr": "Quarante",
+      "example_sentences": [
+        {
+          "example_en": "He is forty years old.",
+          "example_fr": "Il a quarante ans.",
+          "highlight": "quarante"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty-one",
+      "name_fr": "Quarante et un",
+      "example_sentences": [
+        {
+          "example_en": "He is forty-one years old.",
+          "example_fr": "Il a quarante et un ans.",
+          "highlight": "quarante et un"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty-two",
+      "name_fr": "Quarante-deux",
+      "example_sentences": [
+        {
+          "example_en": "She is forty-two years old.",
+          "example_fr": "Elle a quarante-deux ans.",
+          "highlight": "quarante-deux"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty-three",
+      "name_fr": "Quarante-trois",
+      "example_sentences": [
+        {
+          "example_en": "There are forty-three students in the class.",
+          "example_fr": "Il y a quarante-trois élèves dans la classe.",
+          "highlight": "quarante-trois"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty-four",
+      "name_fr": "Quarante-quatre",
+      "example_sentences": [
+        {
+          "example_en": "He bought forty-four eggs.",
+          "example_fr": "Il a acheté quarante-quatre œufs.",
+          "highlight": "quarante-quatre"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty-five",
+      "name_fr": "Quarante-cinq",
+      "example_sentences": [
+        {
+          "example_en": "She has forty-five stickers.",
+          "example_fr": "Elle a quarante-cinq autocollants.",
+          "highlight": "quarante-cinq"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty-six",
+      "name_fr": "Quarante-six",
+      "example_sentences": [
+        {
+          "example_en": "There are forty-six letters in the alphabet.",
+          "example_fr": "Il y a quarante-six lettres dans l'alphabet.",
+          "highlight": "quarante-six"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty-seven",
+      "name_fr": "Quarante-sept",
+      "example_sentences": [
+        {
+          "example_en": "He has forty-seven coins.",
+          "example_fr": "Il a quarante-sept pièces.",
+          "highlight": "quarante-sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty-eight",
+      "name_fr": "Quarante-huit",
+      "example_sentences": [
+        {
+          "example_en": "She has forty-eight friends.",
+          "example_fr": "Elle a quarante-huit amis.",
+          "highlight": "quarante-huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Forty-nine",
+      "name_fr": "Quarante-neuf",
+      "example_sentences": [
+        {
+          "example_en": "There are forty-nine cars.",
+          "example_fr": "Il y a quarante-neuf voitures.",
+          "highlight": "quarante-neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty",
+      "name_fr": "Cinquante",
+      "example_sentences": [
+        {
+          "example_en": "She is fifty years old.",
+          "example_fr": "Elle a cinquante ans.",
+          "highlight": "cinquante"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty-one",
+      "name_fr": "Cinquante et un",
+      "example_sentences": [
+        {
+          "example_en": "He is fifty-one years old.",
+          "example_fr": "Il a cinquante et un ans.",
+          "highlight": "cinquante et un"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty-two",
+      "name_fr": "Cinquante-deux",
+      "example_sentences": [
+        {
+          "example_en": "She is fifty-two years old.",
+          "example_fr": "Elle a cinquante-deux ans.",
+          "highlight": "cinquante-deux"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty-three",
+      "name_fr": "Cinquante-trois",
+      "example_sentences": [
+        {
+          "example_en": "There are fifty-three students in the class.",
+          "example_fr": "Il y a cinquante-trois élèves dans la classe.",
+          "highlight": "cinquante-trois"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty-four",
+      "name_fr": "Cinquante-quatre",
+      "example_sentences": [
+        {
+          "example_en": "He bought fifty-four eggs.",
+          "example_fr": "Il a acheté cinquante-quatre œufs.",
+          "highlight": "cinquante-quatre"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty-five",
+      "name_fr": "Cinquante-cinq",
+      "example_sentences": [
+        {
+          "example_en": "She has fifty-five stickers.",
+          "example_fr": "Elle a cinquante-cinq autocollants.",
+          "highlight": "cinquante-cinq"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty-six",
+      "name_fr": "Cinquante-six",
+      "example_sentences": [
+        {
+          "example_en": "There are fifty-six letters in the alphabet.",
+          "example_fr": "Il y a cinquante-six lettres dans l'alphabet.",
+          "highlight": "cinquante-six"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty-seven",
+      "name_fr": "Cinquante-sept",
+      "example_sentences": [
+        {
+          "example_en": "He has fifty-seven coins.",
+          "example_fr": "Il a cinquante-sept pièces.",
+          "highlight": "cinquante-sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty-eight",
+      "name_fr": "Cinquante-huit",
+      "example_sentences": [
+        {
+          "example_en": "She has fifty-eight friends.",
+          "example_fr": "Elle a cinquante-huit amis.",
+          "highlight": "cinquante-huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Fifty-nine",
+      "name_fr": "Cinquante-neuf",
+      "example_sentences": [
+        {
+          "example_en": "There are fifty-nine cars.",
+          "example_fr": "Il y a cinquante-neuf voitures.",
+          "highlight": "cinquante-neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty",
+      "name_fr": "Soixante",
+      "example_sentences": [
+        {
+          "example_en": "He is sixty years old.",
+          "example_fr": "Il a soixante ans.",
+          "highlight": "soixante"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-one",
+      "name_fr": "Soixante et un",
+      "example_sentences": [
+        {
+          "example_en": "He is sixty-one years old.",
+          "example_fr": "Il a soixante et un ans.",
+          "highlight": "soixante et un"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-two",
+      "name_fr": "Soixante-deux",
+      "example_sentences": [
+        {
+          "example_en": "She is sixty-two years old.",
+          "example_fr": "Elle a soixante-deux ans.",
+          "highlight": "soixante-deux"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-three",
+      "name_fr": "Soixante-trois",
+      "example_sentences": [
+        {
+          "example_en": "There are sixty-three students in the class.",
+          "example_fr": "Il y a soixante-trois élèves dans la classe.",
+          "highlight": "soixante-trois"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-four",
+      "name_fr": "Soixante-quatre",
+      "example_sentences": [
+        {
+          "example_en": "He bought sixty-four eggs.",
+          "example_fr": "Il a acheté soixante-quatre œufs.",
+          "highlight": "soixante-quatre"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-five",
+      "name_fr": "Soixante-cinq",
+      "example_sentences": [
+        {
+          "example_en": "She has sixty-five stickers.",
+          "example_fr": "Elle a soixante-cinq autocollants.",
+          "highlight": "soixante-cinq"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-six",
+      "name_fr": "Soixante-six",
+      "example_sentences": [
+        {
+          "example_en": "There are sixty-six letters in the alphabet.",
+          "example_fr": "Il y a soixante-six lettres dans l'alphabet.",
+          "highlight": "soixante-six"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-seven",
+      "name_fr": "Soixante-sept",
+      "example_sentences": [
+        {
+          "example_en": "He has sixty-seven coins.",
+          "example_fr": "Il a soixante-sept pièces.",
+          "highlight": "soixante-sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-eight",
+      "name_fr": "Soixante-huit",
+      "example_sentences": [
+        {
+          "example_en": "She has sixty-eight friends.",
+          "example_fr": "Elle a soixante-huit amis.",
+          "highlight": "soixante-huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Sixty-nine",
+      "name_fr": "Soixante-neuf",
+      "example_sentences": [
+        {
+          "example_en": "There are sixty-nine cars.",
+          "example_fr": "Il y a soixante-neuf voitures.",
+          "highlight": "soixante-neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy",
+      "name_fr": "Soixante-dix",
+      "example_sentences": [
+        {
+          "example_en": "She is seventy years old.",
+          "example_fr": "Elle a soixante-dix ans.",
+          "highlight": "soixante-dix"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy-one",
+      "name_fr": "Soixante et onze",
+      "example_sentences": [
+        {
+          "example_en": "He is seventy-one years old.",
+          "example_fr": "Il a soixante et onze ans.",
+          "highlight": "soixante et onze"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy-two",
+      "name_fr": "Soixante-douze",
+      "example_sentences": [
+        {
+          "example_en": "She is seventy-two years old.",
+          "example_fr": "Elle a soixante-douze ans.",
+          "highlight": "soixante-douze"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy-three",
+      "name_fr": "Soixante-treize",
+      "example_sentences": [
+        {
+          "example_en": "There are seventy-three students in the class.",
+          "example_fr": "Il y a soixante-treize élèves dans la classe.",
+          "highlight": "soixante-treize"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy-four",
+      "name_fr": "Soixante-quatorze",
+      "example_sentences": [
+        {
+          "example_en": "He bought seventy-four eggs.",
+          "example_fr": "Il a acheté soixante-quatorze œufs.",
+          "highlight": "soixante-quatorze"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy-five",
+      "name_fr": "Soixante-quinze",
+      "example_sentences": [
+        {
+          "example_en": "She has seventy-five stickers.",
+          "example_fr": "Elle a soixante-quinze autocollants.",
+          "highlight": "soixante-quinze"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy-six",
+      "name_fr": "Soixante-seize",
+      "example_sentences": [
+        {
+          "example_en": "There are seventy-six letters in the alphabet.",
+          "example_fr": "Il y a soixante-seize lettres dans l'alphabet.",
+          "highlight": "soixante-seize"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy-seven",
+      "name_fr": "Soixante-dix-sept",
+      "example_sentences": [
+        {
+          "example_en": "He has seventy-seven coins.",
+          "example_fr": "Il a soixante-dix-sept pièces.",
+          "highlight": "soixante-dix-sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy-eight",
+      "name_fr": "Soixante-dix-huit",
+      "example_sentences": [
+        {
+          "example_en": "She has seventy-eight friends.",
+          "example_fr": "Elle a soixante-dix-huit amis.",
+          "highlight": "soixante-dix-huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Seventy-nine",
+      "name_fr": "Soixante-dix-neuf",
+      "example_sentences": [
+        {
+          "example_en": "There are seventy-nine cars.",
+          "example_fr": "Il y a soixante-dix-neuf voitures.",
+          "highlight": "soixante-dix-neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty",
+      "name_fr": "Quatre-vingts",
+      "example_sentences": [
+        {
+          "example_en": "He is eighty years old.",
+          "example_fr": "Il a quatre-vingts ans.",
+          "highlight": "quatre-vingts"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-one",
+      "name_fr": "Quatre-vingt-un",
+      "example_sentences": [
+        {
+          "example_en": "He is eighty-one years old.",
+          "example_fr": "Il a quatre-vingt-un ans.",
+          "highlight": "quatre-vingt-un"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-two",
+      "name_fr": "Quatre-vingt-deux",
+      "example_sentences": [
+        {
+          "example_en": "She is eighty-two years old.",
+          "example_fr": "Elle a quatre-vingt-deux ans.",
+          "highlight": "quatre-vingt-deux"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-three",
+      "name_fr": "Quatre-vingt-trois",
+      "example_sentences": [
+        {
+          "example_en": "There are eighty-three students in the class.",
+          "example_fr": "Il y a quatre-vingt-trois élèves dans la classe.",
+          "highlight": "quatre-vingt-trois"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-four",
+      "name_fr": "Quatre-vingt-quatre",
+      "example_sentences": [
+        {
+          "example_en": "He bought eighty-four eggs.",
+          "example_fr": "Il a acheté quatre-vingt-quatre œufs.",
+          "highlight": "quatre-vingt-quatre"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-five",
+      "name_fr": "Quatre-vingt-cinq",
+      "example_sentences": [
+        {
+          "example_en": "She has eighty-five stickers.",
+          "example_fr": "Elle a quatre-vingt-cinq autocollants.",
+          "highlight": "quatre-vingt-cinq"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-six",
+      "name_fr": "Quatre-vingt-six",
+      "example_sentences": [
+        {
+          "example_en": "There are eighty-six letters in the alphabet.",
+          "example_fr": "Il y a quatre-vingt-six lettres dans l'alphabet.",
+          "highlight": "quatre-vingt-six"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-seven",
+      "name_fr": "Quatre-vingt-sept",
+      "example_sentences": [
+        {
+          "example_en": "He has eighty-seven coins.",
+          "example_fr": "Il a quatre-vingt-sept pièces.",
+          "highlight": "quatre-vingt-sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-eight",
+      "name_fr": "Quatre-vingt-huit",
+      "example_sentences": [
+        {
+          "example_en": "She has eighty-eight friends.",
+          "example_fr": "Elle a quatre-vingt-huit amis.",
+          "highlight": "quatre-vingt-huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Eighty-nine",
+      "name_fr": "Quatre-vingt-neuf",
+      "example_sentences": [
+        {
+          "example_en": "There are eighty-nine cars.",
+          "example_fr": "Il y a quatre-vingt-neuf voitures.",
+          "highlight": "quatre-vingt-neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety",
+      "name_fr": "Quatre-vingt-dix",
+      "example_sentences": [
+        {
+          "example_en": "She is ninety years old.",
+          "example_fr": "Elle a quatre-vingt-dix ans.",
+          "highlight": "quatre-vingt-dix"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety-one",
+      "name_fr": "Quatre-vingt-onze",
+      "example_sentences": [
+        {
+          "example_en": "He is ninety-one years old.",
+          "example_fr": "Il a quatre-vingt-onze ans.",
+          "highlight": "quatre-vingt-onze"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety-two",
+      "name_fr": "Quatre-vingt-douze",
+      "example_sentences": [
+        {
+          "example_en": "She is ninety-two years old.",
+          "example_fr": "Elle a quatre-vingt-douze ans.",
+          "highlight": "quatre-vingt-douze"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety-three",
+      "name_fr": "Quatre-vingt-treize",
+      "example_sentences": [
+        {
+          "example_en": "There are ninety-three students in the class.",
+          "example_fr": "Il y a quatre-vingt-treize élèves dans la classe.",
+          "highlight": "quatre-vingt-treize"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety-four",
+      "name_fr": "Quatre-vingt-quatorze",
+      "example_sentences": [
+        {
+          "example_en": "He bought ninety-four eggs.",
+          "example_fr": "Il a acheté quatre-vingt-quatorze œufs.",
+          "highlight": "quatre-vingt-quatre"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety-five",
+      "name_fr": "Quatre-vingt-quinze",
+      "example_sentences": [
+        {
+          "example_en": "She has ninety-five stickers.",
+          "example_fr": "Elle a quatre-vingt-quinze autocollants.",
+          "highlight": "quatre-vingt-quinze"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety-six",
+      "name_fr": "Quatre-vingt-seize",
+      "example_sentences": [
+        {
+          "example_en": "There are ninety-six letters in the alphabet.",
+          "example_fr": "Il y a quatre-vingt-seize lettres dans l'alphabet.",
+          "highlight": "quatre-vingt-seize"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety-seven",
+      "name_fr": "Quatre-vingt-dix-sept",
+      "example_sentences": [
+        {
+          "example_en": "He has ninety-seven coins.",
+          "example_fr": "Il a quatre-vingt-dix-sept pièces.",
+          "highlight": "quatre-vingt-dix-sept"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety-eight",
+      "name_fr": "Quatre-vingt-dix-huit",
+      "example_sentences": [
+        {
+          "example_en": "She has ninety-eight friends.",
+          "example_fr": "Elle a quatre-vingt-dix-huit amis.",
+          "highlight": "quatre-vingt-dix-huit"
+        }
+      ]
+    },
+    {
+      "name_en": "Ninety-nine",
+      "name_fr": "Quatre-vingt-dix-neuf",
+      "example_sentences": [
+        {
+          "example_en": "There are ninety-nine cars.",
+          "example_fr": "Il y a quatre-vingt-dix-neuf voitures.",
+          "highlight": "quatre-vingt-dix-neuf"
+        }
+      ]
+    },
+    {
+      "name_en": "One hundred",
+      "name_fr": "Cent",
+      "example_sentences": [
+        {
+          "example_en": "There are one hundred students.",
+          "example_fr": "Il y a cent élèves.",
+          "highlight": "cent"
+        }
+      ]
+    },
+    {
+      "name_en": "Thousand",
+      "name_fr": "Mille",
+      "example_sentences": [
+        {
+          "example_en": "There are a thousand stars.",
+          "example_fr": "Il y a mille étoiles.",
+          "highlight": "mille"
+        }
+      ]
+    },
+    {
+      "name_en": "Million",
+      "name_fr": "Million",
+      "example_sentences": [
+        {
+          "example_en": "A million people live here.",
+          "example_fr": "Un million de personnes vivent ici.",
+          "highlight": "million"
+        }
+      ]
+    },
+    {
+      "name_en": "Billion",
+      "name_fr": "Milliard",
+      "example_sentences": [
+        {
+          "example_en": "A billion dollars is a lot of money.",
+          "example_fr": "Un milliard de dollars, c'est beaucoup d'argent.",
+          "highlight": "milliard"
+        }
+      ]
+    }
+  ]
+}

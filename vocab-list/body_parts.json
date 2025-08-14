@@ -1,0 +1,577 @@
+{
+  "name_en": "Body Parts",
+  "name_fr": "Parties du corps",
+  "is_a_noun": true,
+  "list": [
+    {
+      "name_en": "Arm",
+      "name_fr": "Bras",
+      "plural_name_en": "Arms",
+      "plural_name_fr": "Bras",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "I hurt my arm while playing football.",
+          "example_fr": "Je me suis blessé le bras en jouant au football.",
+          "highlight": "le bras"
+        }
+      ]
+    },
+    {
+      "name_en": "Leg",
+      "name_fr": "Jambe",
+      "plural_name_en": "Legs",
+      "plural_name_fr": "Jambes",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "She has a tattoo on her leg.",
+          "example_fr": "Elle a un tatouage sur sa jambe.",
+          "highlight": "sa jambe"
+        }
+      ]
+    },
+    {
+      "name_en": "Head",
+      "name_fr": "Tête",
+      "plural_name_en": "Heads",
+      "plural_name_fr": "Têtes",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He nodded his head in agreement.",
+          "example_fr": "Il a hoché la tête en signe d'accord.",
+          "highlight": "la tête"
+        }
+      ]
+    },
+    {
+      "name_en": "Hand",
+      "name_fr": "Main",
+      "plural_name_en": "Hands",
+      "plural_name_fr": "Mains",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "She raised her hand to ask a question.",
+          "example_fr": "Elle a levé la main pour poser une question.",
+          "highlight": "la main"
+        }
+      ]
+    },
+    {
+      "name_en": "Foot",
+      "name_fr": "Pied",
+      "plural_name_en": "Feet",
+      "plural_name_fr": "Pieds",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He stepped on my foot by accident.",
+          "example_fr": "Il a marché sur mon pied par accident.",
+          "highlight": "mon pied"
+        }
+      ]
+    },
+    {
+      "name_en": "Eye",
+      "name_fr": "Œil",
+      "plural_name_en": "Eyes",
+      "plural_name_fr": "Yeux",
+      "article": "l'",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She has beautiful blue eyes.",
+          "example_fr": "Elle a de beaux yeux bleus.",
+          "highlight": "yeux"
+        }
+      ]
+    },
+    {
+      "name_en": "Ear",
+      "name_fr": "Oreille",
+      "plural_name_en": "Ears",
+      "plural_name_fr": "Oreilles",
+      "article": "l'",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "I have an ear infection.",
+          "example_fr": "J'ai une infection de l'oreille.",
+          "highlight": "l'oreille"
+        }
+      ]
+    },
+    {
+      "name_en": "Mouth",
+      "name_fr": "Bouche",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He opened his mouth to speak.",
+          "example_fr": "Il a ouvert la bouche pour parler.",
+          "highlight": "la bouche"
+        }
+      ]
+    },
+    {
+      "name_en": "Neck",
+      "name_fr": "Cou",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She wore a necklace around her neck.",
+          "example_fr": "Elle portait un collier autour du cou.",
+          "highlight": "le cou"
+        }
+      ]
+    },
+    {
+      "name_en": "Shoulder",
+      "name_fr": "Épaule",
+      "plural_name_en": "Shoulders",
+      "plural_name_fr": "Épaules",
+      "article": "l'",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He carried the bag on his shoulder.",
+          "example_fr": "Il a porté le sac sur son épaule.",
+          "highlight": "l'épaule"
+        }
+      ]
+    },
+    {
+      "name_en": "Back",
+      "name_fr": "Dos",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She has a pain in her back.",
+          "example_fr": "Elle a mal au dos.",
+          "highlight": "le dos"
+        }
+      ]
+    },
+    {
+      "name_en": "Chest",
+      "name_fr": "Poitrine",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He has a tattoo on his chest.",
+          "example_fr": "Il a un tatouage sur la poitrine.",
+          "highlight": "la poitrine"
+        }
+      ]
+    },
+    {
+      "name_en": "Stomach",
+      "name_fr": "Estomac",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "article": "l'",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "I have a pain in my stomach.",
+          "example_fr": "J'ai mal à l'estomac.",
+          "highlight": "l'estomac"
+        }
+      ]
+    },
+    {
+      "name_en": "Knee",
+      "name_fr": "Genou",
+      "plural_name_en": "Knees",
+      "plural_name_fr": "Genoux",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He hurt his knee while playing basketball.",
+          "example_fr": "Il s'est blessé au genou en jouant au basket-ball.",
+          "highlight": "le genou"
+        }
+      ]
+    },
+    {
+      "name_en": "Finger",
+      "name_fr": "Doigt",
+      "plural_name_en": "Fingers",
+      "plural_name_fr": "Doigts",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She wears a ring on her finger.",
+          "example_fr": "Elle porte une bague à son doigt.",
+          "highlight": "son doigt"
+        }
+      ]
+    },
+    {
+      "name_en": "Toe",
+      "name_fr": "Orteil",
+      "plural_name_en": "Toes",
+      "plural_name_fr": "Orteils",
+      "article": "l'",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He stubbed his toe on the door.",
+          "example_fr": "Il s'est cogné l'orteil contre la porte.",
+          "highlight": "l'orteil"
+        }
+      ]
+    },
+    {
+      "name_en": "Thumb",
+      "name_fr": "Pouce",
+      "plural_name_en": "Thumbs",
+      "plural_name_fr": "Pouces",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He gave a thumbs up.",
+          "example_fr": "Il a fait un signe de pouce levé.",
+          "highlight": "pouce"
+        }
+      ]
+    },
+    {
+      "name_en": "Nose",
+      "name_fr": "Nez",
+      "plural_name_en": "Noses",
+      "plural_name_fr": "Nez",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She has a runny nose.",
+          "example_fr": "Elle a le nez qui coule.",
+          "highlight": "le nez"
+        }
+      ]
+    },
+    {
+      "name_en": "Teeth",
+      "name_fr": "Dents",
+      "plural_name_en": "Teeth",
+      "plural_name_fr": "Dents",
+      "article": "les",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He brushes his teeth every morning.",
+          "example_fr": "Il se brosse les dents chaque matin.",
+          "highlight": "les dents"
+        }
+      ]
+    },
+    {
+      "name_en": "Skin",
+      "name_fr": "Peau",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "Her skin is very sensitive.",
+          "example_fr": "Sa peau est très sensible.",
+          "highlight": "peau"
+        }
+      ]
+    },
+    {
+      "name_en": "Heart",
+      "name_fr": "Cœur",
+      "plural_name_en": "Hearts",
+      "plural_name_fr": "Cœurs",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The heart pumps blood through the body.",
+          "example_fr": "Le cœur pompe le sang dans le corps.",
+          "highlight": "cœur"
+        }
+      ]
+    },
+    {
+      "name_en": "Liver",
+      "name_fr": "Foie",
+      "plural_name_en": "Livers",
+      "plural_name_fr": "Foies",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The liver helps filter toxins.",
+          "example_fr": "Le foie aide à filtrer les toxines.",
+          "highlight": "foie"
+        }
+      ]
+    },
+    {
+      "name_en": "Lung",
+      "name_fr": "Poumon",
+      "plural_name_en": "Lungs",
+      "plural_name_fr": "Poumons",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The lungs are essential for breathing.",
+          "example_fr": "Les poumons sont essentiels pour respirer.",
+          "highlight": "poumons"
+        }
+      ]
+    },
+    {
+      "name_en": "Brain",
+      "name_fr": "Cerveau",
+      "plural_name_en": "Brains",
+      "plural_name_fr": "Cerveaux",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The brain controls all body functions.",
+          "example_fr": "Le cerveau contrôle toutes les fonctions du corps.",
+          "highlight": "cerveau"
+        }
+      ]
+    },
+    {
+      "name_en": "Kidney",
+      "name_fr": "Rein",
+      "plural_name_en": "Kidneys",
+      "plural_name_fr": "Reins",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The kidneys filter waste from the blood.",
+          "example_fr": "Les reins filtrent les déchets du sang.",
+          "highlight": "reins"
+        }
+      ]
+    },
+    {
+      "name_en": "Intestine",
+      "name_fr": "Intestin",
+      "plural_name_en": "Intestines",
+      "plural_name_fr": "Intestins",
+      "article": "l'",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The intestines digest food.",
+          "example_fr": "Les intestins digèrent la nourriture.",
+          "highlight": "intestins"
+        }
+      ]
+    },
+    {
+      "name_en": "Eyebrow",
+      "name_fr": "Sourcil",
+      "plural_name_en": "Eyebrows",
+      "plural_name_fr": "Sourcils",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She raised her eyebrows in surprise.",
+          "example_fr": "Elle a levé les sourcils de surprise.",
+          "highlight": "sourcils"
+        }
+      ]
+    },
+    {
+      "name_en": "Eyelash",
+      "name_fr": "Cil",
+      "plural_name_en": "Eyelashes",
+      "plural_name_fr": "Cils",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She has long eyelashes.",
+          "example_fr": "Elle a de longs cils.",
+          "highlight": "cils"
+        }
+      ]
+    },
+    {
+      "name_en": "Armpit",
+      "name_fr": "Aisselle",
+      "plural_name_en": "Armpits",
+      "plural_name_fr": "Aisselles",
+      "article": "l'",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He applied deodorant to his armpits.",
+          "example_fr": "Il a mis du déodorant sous ses aisselles.",
+          "highlight": "aisselles"
+        }
+      ]
+    },
+    {
+      "name_en": "Ankle",
+      "name_fr": "Cheville",
+      "plural_name_en": "Ankles",
+      "plural_name_fr": "Chevilles",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He twisted his ankle while running.",
+          "example_fr": "Il s'est tordu la cheville en courant.",
+          "highlight": "cheville"
+        }
+      ]
+    },
+    {
+      "name_en": "Hip",
+      "name_fr": "Hanche",
+      "plural_name_en": "Hips",
+      "plural_name_fr": "Hanches",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "She put her hands on her hips.",
+          "example_fr": "Elle a mis ses mains sur ses hanches.",
+          "highlight": "hanches"
+        }
+      ]
+    },
+    {
+      "name_en": "Wrist",
+      "name_fr": "Poignet",
+      "plural_name_en": "Wrists",
+      "plural_name_fr": "Poignets",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He wears a watch on his wrist.",
+          "example_fr": "Il porte une montre à son poignet.",
+          "highlight": "poignet"
+        }
+      ]
+    },
+    {
+      "name_en": "Palm",
+      "name_fr": "Paume",
+      "plural_name_en": "Palms",
+      "plural_name_fr": "Paumes",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "She placed the coin in her palm.",
+          "example_fr": "Elle a placé la pièce dans sa paume.",
+          "highlight": "paume"
+        }
+      ]
+    },
+    {
+      "name_en": "Heel",
+      "name_fr": "Talon",
+      "plural_name_en": "Heels",
+      "plural_name_fr": "Talons",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "Her shoes hurt her heels.",
+          "example_fr": "Ses chaussures lui font mal aux talons.",
+          "highlight": "talons"
+        }
+      ]
+    },
+    {
+      "name_en": "Forehead",
+      "name_fr": "Front",
+      "plural_name_en": "Foreheads",
+      "plural_name_fr": "Fronts",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He wiped sweat from his forehead.",
+          "example_fr": "Il a essuyé la sueur de son front.",
+          "highlight": "front"
+        }
+      ]
+    },
+    {
+      "name_en": "Jaw",
+      "name_fr": "Mâchoire",
+      "plural_name_en": "Jaws",
+      "plural_name_fr": "Mâchoires",
+      "article": "la",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He clenched his jaw in anger.",
+          "example_fr": "Il a serré la mâchoire de colère.",
+          "highlight": "mâchoire"
+        }
+      ]
+    },
+    {
+      "name_en": "Elbow",
+      "name_fr": "Coude",
+      "plural_name_en": "Elbows",
+      "plural_name_fr": "Coudes",
+      "article": "le",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She leaned on her elbow.",
+          "example_fr": "Elle s'est appuyée sur son coude.",
+          "highlight": "coude"
+        }
+      ]
+    },
+    {
+      "name_en": "Nail",
+      "name_fr": "Ongle",
+      "plural_name_en": "Nails",
+      "plural_name_fr": "Ongles",
+      "article": "l'",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She painted her nails red.",
+          "example_fr": "Elle a peint ses ongles en rouge.",
+          "highlight": "ongles"
+        }
+      ]
+    }
+  ]
+}

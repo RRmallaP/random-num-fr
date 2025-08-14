@@ -1,0 +1,77 @@
+{
+  "name_en": "Introductions",
+  "name_fr": "Présentations",
+  "pic": "",
+  "list": [
+    {
+      "name_en": "My name is John.",
+      "name_fr": "Je m'appelle John.",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    },
+    {
+      "name_en": "I am from France.",
+      "name_fr": "Je viens de France.",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    },
+    {
+      "name_en": "What is your name?",
+      "name_fr": "Comment vous appelez-vous ?",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    },
+    {
+      "name_en": "Where are you from?",
+      "name_fr": "D'où venez-vous ?",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    },
+    {
+      "name_en": "I live in Paris.",
+      "name_fr": "J'habite à Paris.",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    },
+    {
+      "name_en": "J'apprends le français depuis un an.",
+      "name_fr": "I have been learning French for a year.",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    },
+    {
+      "name_en": "I am a student.",
+      "name_fr": "Je suis étudiant.",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    },
+    {
+      "name_en": "I work as a teacher.",
+      "name_fr": "Je travaille comme enseignant.",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    },
+    {
+      "name_en": "I am happy to meet you.",
+      "name_fr": "Je suis heureux de vous rencontrer.",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    },
+    {
+      "name_en": "I am 30 years old.",
+      "name_fr": "J'ai 30 ans.",
+      "plural_name_en": "",
+      "plural_name_fr": "",
+      "example_sentences": []
+    }
+  ]
+}
