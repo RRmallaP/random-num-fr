@@ -1,0 +1,374 @@
+{
+  "category": [
+    {
+      "name_en": "Greetings and Introductions",
+      "name_fr": "Salutations et présentations",
+      "pic": "",
+      "sub-category": [
+        {
+          "name_en": "Basic Greetings",
+          "name_fr": "Salutations de base",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Introductions",
+          "name_fr": "Présentations",
+          "pic": "",
+          "sub-category": []
+        }
+      ]
+    },
+    {
+      "name_en": "verbs",
+      "name_fr": "verbes",
+      "pic": "",
+      "sub-category": [
+        {
+          "name_en": "Daily routine verbs",
+          "name_fr": "Verbes de la routine quotidienne",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Irregular verbs",
+          "name_fr": "Verbes irréguliers",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Reflexive verbs",
+          "name_fr": "Verbes réfléchis",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Modal verbs",
+          "name_fr": "Verbes modaux",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Phrasal verbs",
+          "name_fr": "Verbes à particule",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Transitive verbs",
+          "name_fr": "Verbes transitifs",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Intransitive verbs",
+          "name_fr": "Verbes intransitifs",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Impersonal verbs",
+          "name_fr": "Verbes impersonnels",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Causative verbs",
+          "name_fr": "Verbes causatifs",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Reciprocal verbs",
+          "name_fr": "Verbes réciproques",
+          "pic": "",
+          "sub-category": []
+        }
+      ]
+    },
+    {
+      "name_en": "Daily Routine Verbs",
+      "name_fr": "Verbes de la routine quotidienne",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Wild animals",
+      "name_fr": "Animaux sauvages",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Domestic animals",
+      "name_fr": "Animaux domestiques",
+      "pic": "",
+      "sub-category": [
+        {
+          "name_en": "Pets",
+          "name_fr": "Animaux de compagnie",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Farm animals",
+          "name_fr": "Animaux de la ferme",
+          "pic": "",
+          "sub-category": []
+        }
+      ]
+    },
+    {
+      "name_en": "Body parts",
+      "name_fr": "Parties du corps",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Food and drinks",
+      "name_fr": "Nourriture et boissons",
+      "pic": "",
+      "sub-category": [
+        {
+          "name_en": "Fruits",
+          "name_fr": "Fruits",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Vegetables",
+          "name_fr": "Légumes",
+          "pic": "",
+          "sub-category": []
+        }
+      ]
+    },
+    {
+      "name_en": "Colors",
+      "name_fr": "Couleurs",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Numbers",
+      "name_fr": "Nombres",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Time",
+      "name_fr": "Temps",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Weather",
+      "name_fr": "Météo",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Transportation",
+      "name_fr": "Transports",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Clothing",
+      "name_fr": "Vêtements",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Household items",
+      "name_fr": "Objets ménagers",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Occupations",
+      "name_fr": "Métiers",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Emotions",
+      "name_fr": "Émotions",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Nature",
+      "name_fr": "Nature",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Sports and activities",
+      "name_fr": "Sports et activités",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Hobbies",
+      "name_fr": "Loisirs",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Technology",
+      "name_fr": "Technologie",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Health and medicine",
+      "name_fr": "Santé et médecine",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Education",
+      "name_fr": "Éducation",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Shopping",
+      "name_fr": "Shopping",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Travel",
+      "name_fr": "Voyage",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Culture and traditions",
+      "name_fr": "Culture et traditions",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Music",
+      "name_fr": "Musique",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Art",
+      "name_fr": "Art",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "History",
+      "name_fr": "Histoire",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Science",
+      "name_fr": "Science",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Geography",
+      "name_fr": "Géographie",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Politics",
+      "name_fr": "Politique",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Economy",
+      "name_fr": "Économie",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "Environment",
+      "name_fr": "Environnement",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "adjectives",
+      "name_fr": "adjectifs",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "adverbs",
+      "name_fr": "adverbes",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "conjunctions",
+      "name_fr": "conjonctions",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "prepositions",
+      "name_fr": "prépositions",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "birds",
+      "name_fr": "oiseaux",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "fish",
+      "name_fr": "poissons",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "insects",
+      "name_fr": "insectes",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "reptiles",
+      "name_fr": "reptiles",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "amphibians",
+      "name_fr": "amphibiens",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "mammals",
+      "name_fr": "mammifères",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "countries",
+      "name_fr": "pays",
+      "pic": "",
+      "sub-category": []
+    },
+    {
+      "name_en": "cities",
+      "name_fr": "villes",
+      "pic": "",
+      "sub-category": []
+    }
+  ]
+}

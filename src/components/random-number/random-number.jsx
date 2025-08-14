@@ -55,11 +55,14 @@ function RandomNumberGame() {
 
   function checkInput(event) {
     event.preventDefault();
-    setIsCorrect(+inputNumber === randomNumber);
+    // Remove non-numeric values before comparing
+    const numericInput = String(inputNumber).replace(/\D/g, '');
+    setIsCorrect(+numericInput === randomNumber);
     setCheckStatus(true);
   }
 
   function handleInput(event) {
+    // Allow any value in the input field
     inputNumber = event.target.value;
     setCheckStatus(false);
   }
@@ -73,6 +76,7 @@ function RandomNumberGame() {
 
   function replay() {
     utterNumber(randomNumber);
+    numberInputRef.current.focus();
   }
 
   useEffect(() => {
@@ -82,6 +86,23 @@ function RandomNumberGame() {
         event.target === replayButton.current && replay;
       }
     });
+  }, []);
+
+  useEffect(() => {
+    function handleKeyDown(event) {
+      if (event.key === 'n' || event.key === 'N') {
+        if (nextButton.current && !nextButton.current.disabled) {
+          nextButton.current.click();
+        }
+      }
+      if (event.key === 'r' || event.key === 'R') {
+        if (replayButton.current) {
+          replayButton.current.click();
+        }
+      }
+    }
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
 
   return (
