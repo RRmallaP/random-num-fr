@@ -18,7 +18,7 @@ export default function VocabularyList() {
   async function loadVocab(fileName) {
     try {
       // const vocabData = await import(`../../../public/vocab-list/${fileName}`);
-      fetch(`/vocab-list/${fileName}`, {
+      fetch(`/random-num-fr/vocab-list/${fileName}`, {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
