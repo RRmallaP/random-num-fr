@@ -1,0 +1,351 @@
+{
+  "name_en": "Wild Animals",
+  "name_fr": "Animaux sauvages",
+  "list": [
+    {
+      "name_en": "Lion",
+      "name_fr": "Lion",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Lions",
+      "plural_name_fr": "Lions",
+      "example_sentences": [
+        {
+          "example_en": "The lion roars loudly.",
+          "example_fr": "Le lion rugit fort.",
+          "highlight": "lion"
+        }
+      ]
+    },
+    {
+      "name_en": "Tiger",
+      "name_fr": "Tigre",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Tigers",
+      "plural_name_fr": "Tigres",
+      "example_sentences": [
+        {
+          "example_en": "The tiger hunts at night.",
+          "example_fr": "Le tigre chasse la nuit.",
+          "highlight": "tigre"
+        }
+      ]
+    },
+    {
+      "name_en": "Elephant",
+      "name_fr": "Éléphant",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Elephants",
+      "plural_name_fr": "Éléphants",
+      "example_sentences": [
+        {
+          "example_en": "The elephant has a long trunk.",
+          "example_fr": "L'éléphant a une longue trompe.",
+          "highlight": "éléphant"
+        }
+      ]
+    },
+    {
+      "name_en": "Giraffe",
+      "name_fr": "Girafe",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Giraffes",
+      "plural_name_fr": "Girafes",
+      "example_sentences": [
+        {
+          "example_en": "The giraffe eats leaves from tall trees.",
+          "example_fr": "La girafe mange des feuilles des arbres hauts.",
+          "highlight": "girafe"
+        }
+      ]
+    },
+    {
+      "name_en": "Zebra",
+      "name_fr": "Zèbre",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Zebras",
+      "plural_name_fr": "Zèbres",
+      "example_sentences": [
+        {
+          "example_en": "The zebra has black and white stripes.",
+          "example_fr": "Le zèbre a des rayures noires et blanches.",
+          "highlight": "zèbre"
+        }
+      ]
+    },
+    {
+      "name_en": "Bear",
+      "name_fr": "Ours",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Bears",
+      "plural_name_fr": "Ours",
+      "example_sentences": [
+        {
+          "example_en": "The bear catches fish in the river.",
+          "example_fr": "L'ours attrape des poissons dans la rivière.",
+          "highlight": "ours"
+        }
+      ]
+    },
+    {
+      "name_en": "Wolf",
+      "name_fr": "Loup",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Wolves",
+      "plural_name_fr": "Loups",
+      "example_sentences": [
+        {
+          "example_en": "The wolf howls at the moon.",
+          "example_fr": "Le loup hurle à la lune.",
+          "highlight": "loup"
+        }
+      ]
+    },
+    {
+      "name_en": "Fox",
+      "name_fr": "Renard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Foxes",
+      "plural_name_fr": "Renards",
+      "example_sentences": [
+        {
+          "example_en": "The fox is very clever.",
+          "example_fr": "Le renard est très malin.",
+          "highlight": "renard"
+        }
+      ]
+    },
+    {
+      "name_en": "Monkey",
+      "name_fr": "Singe",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Monkeys",
+      "plural_name_fr": "Singes",
+      "example_sentences": [
+        {
+          "example_en": "The monkey climbs trees easily.",
+          "example_fr": "Le singe grimpe facilement aux arbres.",
+          "highlight": "singe"
+        }
+      ]
+    },
+    {
+      "name_en": "Leopard",
+      "name_fr": "Léopard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Leopards",
+      "plural_name_fr": "Léopards",
+      "example_sentences": [
+        {
+          "example_en": "The leopard runs very fast.",
+          "example_fr": "Le léopard court très vite.",
+          "highlight": "léopard"
+        }
+      ]
+    },
+    {
+      "name_en": "Panther",
+      "name_fr": "Panthère",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Panthers",
+      "plural_name_fr": "Panthères",
+      "example_sentences": [
+        {
+          "example_en": "The panther moves silently.",
+          "example_fr": "La panthère se déplace silencieusement.",
+          "highlight": "panthère"
+        }
+      ]
+    },
+    {
+      "name_en": "Hippopotamus",
+      "name_fr": "Hippopotame",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Hippopotamuses",
+      "plural_name_fr": "Hippopotames",
+      "example_sentences": [
+        {
+          "example_en": "The hippopotamus lives in rivers.",
+          "example_fr": "L'hippopotame vit dans les rivières.",
+          "highlight": "hippopotame"
+        }
+      ]
+    },
+    {
+      "name_en": "Rhinoceros",
+      "name_fr": "Rhinocéros",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Rhinoceroses",
+      "plural_name_fr": "Rhinocéros",
+      "example_sentences": [
+        {
+          "example_en": "The rhinoceros has a big horn.",
+          "example_fr": "Le rhinocéros a une grande corne.",
+          "highlight": "rhinocéros"
+        }
+      ]
+    },
+    {
+      "name_en": "Crocodile",
+      "name_fr": "Crocodile",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Crocodiles",
+      "plural_name_fr": "Crocodiles",
+      "example_sentences": [
+        {
+          "example_en": "The crocodile waits in the water.",
+          "example_fr": "Le crocodile attend dans l'eau.",
+          "highlight": "crocodile"
+        }
+      ]
+    },
+    {
+      "name_en": "Kangaroo",
+      "name_fr": "Kangourou",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Kangaroos",
+      "plural_name_fr": "Kangourous",
+      "example_sentences": [
+        {
+          "example_en": "The kangaroo jumps far.",
+          "example_fr": "Le kangourou saute loin.",
+          "highlight": "kangourou"
+        }
+      ]
+    },
+    {
+      "name_en": "Deer",
+      "name_fr": "Cerf",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Deer",
+      "plural_name_fr": "Cerfs",
+      "example_sentences": [
+        {
+          "example_en": "The deer runs through the forest.",
+          "example_fr": "Le cerf court dans la forêt.",
+          "highlight": "cerf"
+        }
+      ]
+    },
+    {
+      "name_en": "Squirrel",
+      "name_fr": "Écureuil",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Squirrels",
+      "plural_name_fr": "Écureuils",
+      "example_sentences": [
+        {
+          "example_en": "The squirrel gathers nuts.",
+          "example_fr": "L'écureuil ramasse des noix.",
+          "highlight": "écureuil"
+        }
+      ]
+    },
+    {
+      "name_en": "Rabbit",
+      "name_fr": "Lapin sauvage",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Wild Rabbits",
+      "plural_name_fr": "Lapins sauvages",
+      "example_sentences": [
+        {
+          "example_en": "The wild rabbit hides in the bushes.",
+          "example_fr": "Le lapin sauvage se cache dans les buissons.",
+          "highlight": "lapin sauvage"
+        }
+      ]
+    },
+    {
+      "name_en": "Otter",
+      "name_fr": "Loutre",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Otters",
+      "plural_name_fr": "Loutres",
+      "example_sentences": [
+        {
+          "example_en": "The otter swims playfully in the river.",
+          "example_fr": "La loutre nage joyeusement dans la rivière.",
+          "highlight": "loutre"
+        }
+      ]
+    },
+    {
+      "name_en": "Beaver",
+      "name_fr": "Castor",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Beavers",
+      "plural_name_fr": "Castors",
+      "example_sentences": [
+        {
+          "example_en": "The beaver builds a dam.",
+          "example_fr": "Le castor construit un barrage.",
+          "highlight": "castor"
+        }
+      ]
+    },
+    {
+      "name_en": "Hyena",
+      "name_fr": "Hyène",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Hyenas",
+      "plural_name_fr": "Hyènes",
+      "example_sentences": [
+        {
+          "example_en": "The hyena laughs loudly.",
+          "example_fr": "La hyène rit bruyamment.",
+          "highlight": "hyène"
+        }
+      ]
+    },
+    {
+      "name_en": "Gazelle",
+      "name_fr": "Gazelle",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Gazelles",
+      "plural_name_fr": "Gazelles",
+      "example_sentences": [
+        {
+          "example_en": "The gazelle runs gracefully across the plain.",
+          "example_fr": "La gazelle court gracieusement sur la plaine.",
+          "highlight": "gazelle"
+        }
+      ]
+    },
+    {
+      "name_en": "Moose",
+      "name_fr": "Élan",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Moose",
+      "plural_name_fr": "Élans",
+      "example_sentences": [
+        {
+          "example_en": "The moose has large antlers.",
+          "example_fr": "L'élan a de grands bois.",
+          "highlight": "élan"
+        }
+      ]
+    }
+  ]
+}

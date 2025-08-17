@@ -1,0 +1,1101 @@
+{
+  "name_en": "Clothing and Accessories",
+  "name_fr": "Vêtements et accessoires",
+  "list": [
+    {
+      "name_en": "Suit",
+      "name_fr": "Costume",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Suits",
+      "plural_name_fr": "Costumes",
+      "example_sentences": [
+        {
+          "example_en": "He wears a suit to work.",
+          "example_fr": "Il porte un costume au travail.",
+          "highlight": "costume"
+        }
+      ]
+    },
+    {
+      "name_en": "Shirt",
+      "name_fr": "Chemise",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Shirts",
+      "plural_name_fr": "Chemises",
+      "example_sentences": [
+        {
+          "example_en": "The shirt is white.",
+          "example_fr": "La chemise est blanche.",
+          "highlight": "chemise"
+        }
+      ]
+    },
+    {
+      "name_en": "Trousers",
+      "name_fr": "Pantalon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Trousers",
+      "plural_name_fr": "Pantalons",
+      "example_sentences": [
+        {
+          "example_en": "He wears black trousers.",
+          "example_fr": "Il porte un pantalon noir.",
+          "highlight": "pantalon"
+        }
+      ]
+    },
+    {
+      "name_en": "Jeans",
+      "name_fr": "Jean",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Jeans",
+      "plural_name_fr": "Jeans",
+      "example_sentences": [
+        {
+          "example_en": "Jeans are comfortable.",
+          "example_fr": "Les jeans sont confortables.",
+          "highlight": "jean"
+        }
+      ]
+    },
+    {
+      "name_en": "T-shirt",
+      "name_fr": "T-shirt",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "T-shirts",
+      "plural_name_fr": "T-shirts",
+      "example_sentences": [
+        {
+          "example_en": "He wears a blue T-shirt.",
+          "example_fr": "Il porte un T-shirt bleu.",
+          "highlight": "T-shirt"
+        }
+      ]
+    },
+    {
+      "name_en": "Sweater",
+      "name_fr": "Pull",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sweaters",
+      "plural_name_fr": "Pulls",
+      "example_sentences": [
+        {
+          "example_en": "The sweater is warm.",
+          "example_fr": "Le pull est chaud.",
+          "highlight": "pull"
+        }
+      ]
+    },
+    {
+      "name_en": "Jacket",
+      "name_fr": "Veste",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Jackets",
+      "plural_name_fr": "Vestes",
+      "example_sentences": [
+        {
+          "example_en": "He puts on his jacket.",
+          "example_fr": "Il met sa veste.",
+          "highlight": "veste"
+        }
+      ]
+    },
+    {
+      "name_en": "Coat",
+      "name_fr": "Manteau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Coats",
+      "plural_name_fr": "Manteaux",
+      "example_sentences": [
+        {
+          "example_en": "The coat is long.",
+          "example_fr": "Le manteau est long.",
+          "highlight": "manteau"
+        }
+      ]
+    },
+    {
+      "name_en": "Shorts",
+      "name_fr": "Short",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Shorts",
+      "plural_name_fr": "Shorts",
+      "example_sentences": [
+        {
+          "example_en": "He wears shorts in summer.",
+          "example_fr": "Il porte un short en été.",
+          "highlight": "short"
+        }
+      ]
+    },
+    {
+      "name_en": "Underwear",
+      "name_fr": "Sous-vêtements",
+      "article": "les",
+      "gender": "masculine",
+      "plural_name_en": "Underwear",
+      "plural_name_fr": "Sous-vêtements",
+      "example_sentences": [
+        {
+          "example_en": "He buys new underwear.",
+          "example_fr": "Il achète de nouveaux sous-vêtements.",
+          "highlight": "sous-vêtements"
+        }
+      ]
+    },
+    {
+      "name_en": "Socks",
+      "name_fr": "Chaussettes",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Socks",
+      "plural_name_fr": "Chaussettes",
+      "example_sentences": [
+        {
+          "example_en": "The socks are clean.",
+          "example_fr": "Les chaussettes sont propres.",
+          "highlight": "chaussettes"
+        }
+      ]
+    },
+    {
+      "name_en": "Shoes",
+      "name_fr": "Chaussures",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Shoes",
+      "plural_name_fr": "Chaussures",
+      "example_sentences": [
+        {
+          "example_en": "He polishes his shoes.",
+          "example_fr": "Il cire ses chaussures.",
+          "highlight": "chaussures"
+        }
+      ]
+    },
+    {
+      "name_en": "Boots",
+      "name_fr": "Bottes",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Boots",
+      "plural_name_fr": "Bottes",
+      "example_sentences": [
+        {
+          "example_en": "The boots are waterproof.",
+          "example_fr": "Les bottes sont imperméables.",
+          "highlight": "bottes"
+        }
+      ]
+    },
+    {
+      "name_en": "Sandals",
+      "name_fr": "Sandales",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Sandals",
+      "plural_name_fr": "Sandales",
+      "example_sentences": [
+        {
+          "example_en": "He wears sandals at the beach.",
+          "example_fr": "Il porte des sandales à la plage.",
+          "highlight": "sandales"
+        }
+      ]
+    },
+    {
+      "name_en": "Tie",
+      "name_fr": "Cravate",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Ties",
+      "plural_name_fr": "Cravates",
+      "example_sentences": [
+        {
+          "example_en": "He wears a tie for meetings.",
+          "example_fr": "Il porte une cravate pour les réunions.",
+          "highlight": "cravate"
+        }
+      ]
+    },
+    {
+      "name_en": "Belt",
+      "name_fr": "Ceinture",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Belts",
+      "plural_name_fr": "Ceintures",
+      "example_sentences": [
+        {
+          "example_en": "The belt is leather.",
+          "example_fr": "La ceinture est en cuir.",
+          "highlight": "ceinture"
+        }
+      ]
+    },
+    {
+      "name_en": "Hat",
+      "name_fr": "Chapeau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Hats",
+      "plural_name_fr": "Chapeaux",
+      "example_sentences": [
+        {
+          "example_en": "He wears a hat in the sun.",
+          "example_fr": "Il porte un chapeau au soleil.",
+          "highlight": "chapeau"
+        }
+      ]
+    },
+    {
+      "name_en": "Cap",
+      "name_fr": "Casquette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Caps",
+      "plural_name_fr": "Casquettes",
+      "example_sentences": [
+        {
+          "example_en": "The cap is blue.",
+          "example_fr": "La casquette est bleue.",
+          "highlight": "casquette"
+        }
+      ]
+    },
+    {
+      "name_en": "Scarf",
+      "name_fr": "Écharpe",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Scarves",
+      "plural_name_fr": "Écharpes",
+      "example_sentences": [
+        {
+          "example_en": "He wears a scarf in winter.",
+          "example_fr": "Il porte une écharpe en hiver.",
+          "highlight": "écharpe"
+        }
+      ]
+    },
+    {
+      "name_en": "Gloves",
+      "name_fr": "Gants",
+      "article": "les",
+      "gender": "masculine",
+      "plural_name_en": "Gloves",
+      "plural_name_fr": "Gants",
+      "example_sentences": [
+        {
+          "example_en": "The gloves are warm.",
+          "example_fr": "Les gants sont chauds.",
+          "highlight": "gants"
+        }
+      ]
+    },
+    {
+      "name_en": "Watch",
+      "name_fr": "Montre",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Watches",
+      "plural_name_fr": "Montres",
+      "example_sentences": [
+        {
+          "example_en": "He checks his watch.",
+          "example_fr": "Il regarde sa montre.",
+          "highlight": "montre"
+        }
+      ]
+    },
+    {
+      "name_en": "Wallet",
+      "name_fr": "Portefeuille",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Wallets",
+      "plural_name_fr": "Portefeuilles",
+      "example_sentences": [
+        {
+          "example_en": "His wallet is in his pocket.",
+          "example_fr": "Son portefeuille est dans sa poche.",
+          "highlight": "portefeuille"
+        }
+      ]
+    },
+    {
+      "name_en": "Sunglasses",
+      "name_fr": "Lunettes de soleil",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Sunglasses",
+      "plural_name_fr": "Lunettes de soleil",
+      "example_sentences": [
+        {
+          "example_en": "He wears sunglasses in summer.",
+          "example_fr": "Il porte des lunettes de soleil en été.",
+          "highlight": "lunettes de soleil"
+        }
+      ]
+    },
+    {
+      "name_en": "Cufflinks",
+      "name_fr": "Boutons de manchette",
+      "article": "les",
+      "gender": "masculine",
+      "plural_name_en": "Cufflinks",
+      "plural_name_fr": "Boutons de manchette",
+      "example_sentences": [
+        {
+          "example_en": "He wears cufflinks with his shirt.",
+          "example_fr": "Il porte des boutons de manchette avec sa chemise.",
+          "highlight": "boutons de manchette"
+        }
+      ]
+    },
+    {
+      "name_en": "Ring",
+      "name_fr": "Bague",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Rings",
+      "plural_name_fr": "Bagues",
+      "example_sentences": [
+        {
+          "example_en": "He wears a ring on his finger.",
+          "example_fr": "Il porte une bague à son doigt.",
+          "highlight": "bague"
+        }
+      ]
+    },
+    {
+      "name_en": "Bracelet",
+      "name_fr": "Bracelet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Bracelets",
+      "plural_name_fr": "Bracelets",
+      "example_sentences": [
+        {
+          "example_en": "He wears a bracelet.",
+          "example_fr": "Il porte un bracelet.",
+          "highlight": "bracelet"
+        }
+      ]
+    },
+    {
+      "name_en": "Necklace",
+      "name_fr": "Collier",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Necklaces",
+      "plural_name_fr": "Colliers",
+      "example_sentences": [
+        {
+          "example_en": "He wears a necklace.",
+          "example_fr": "Il porte un collier.",
+          "highlight": "collier"
+        }
+      ]
+    },
+    {
+      "name_en": "Backpack",
+      "name_fr": "Sac à dos",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Backpacks",
+      "plural_name_fr": "Sacs à dos",
+      "example_sentences": [
+        {
+          "example_en": "He carries a backpack.",
+          "example_fr": "Il porte un sac à dos.",
+          "highlight": "sac à dos"
+        }
+      ]
+    },
+    {
+      "name_en": "Briefcase",
+      "name_fr": "Malette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Briefcases",
+      "plural_name_fr": "Malettes",
+      "example_sentences": [
+        {
+          "example_en": "He brings his briefcase to work.",
+          "example_fr": "Il apporte sa malette au travail.",
+          "highlight": "malette"
+        }
+      ]
+    },
+    {
+      "name_en": "Dress",
+      "name_fr": "Robe",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Dresses",
+      "plural_name_fr": "Robes",
+      "example_sentences": [
+        {
+          "example_en": "She wears a red dress.",
+          "example_fr": "Elle porte une robe rouge.",
+          "highlight": "robe"
+        }
+      ]
+    },
+    {
+      "name_en": "Skirt",
+      "name_fr": "Jupe",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Skirts",
+      "plural_name_fr": "Jupes",
+      "example_sentences": [
+        {
+          "example_en": "The skirt is long.",
+          "example_fr": "La jupe est longue.",
+          "highlight": "jupe"
+        }
+      ]
+    },
+    {
+      "name_en": "Blouse",
+      "name_fr": "Blouse",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Blouses",
+      "plural_name_fr": "Blouses",
+      "example_sentences": [
+        {
+          "example_en": "She wears a white blouse.",
+          "example_fr": "Elle porte une blouse blanche.",
+          "highlight": "blouse"
+        }
+      ]
+    },
+    {
+      "name_en": "Top",
+      "name_fr": "Haut",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Tops",
+      "plural_name_fr": "Hauts",
+      "example_sentences": [
+        {
+          "example_en": "She chooses a colorful top.",
+          "example_fr": "Elle choisit un haut coloré.",
+          "highlight": "haut"
+        }
+      ]
+    },
+    {
+      "name_en": "T-shirt",
+      "name_fr": "T-shirt",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "T-shirts",
+      "plural_name_fr": "T-shirts",
+      "example_sentences": [
+        {
+          "example_en": "She wears a pink T-shirt.",
+          "example_fr": "Elle porte un T-shirt rose.",
+          "highlight": "T-shirt"
+        }
+      ]
+    },
+    {
+      "name_en": "Sweater",
+      "name_fr": "Pull",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sweaters",
+      "plural_name_fr": "Pulls",
+      "example_sentences": [
+        {
+          "example_en": "The sweater is soft.",
+          "example_fr": "Le pull est doux.",
+          "highlight": "pull"
+        }
+      ]
+    },
+    {
+      "name_en": "Jacket",
+      "name_fr": "Veste",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Jackets",
+      "plural_name_fr": "Vestes",
+      "example_sentences": [
+        {
+          "example_en": "She puts on her jacket.",
+          "example_fr": "Elle met sa veste.",
+          "highlight": "veste"
+        }
+      ]
+    },
+    {
+      "name_en": "Coat",
+      "name_fr": "Manteau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Coats",
+      "plural_name_fr": "Manteaux",
+      "example_sentences": [
+        {
+          "example_en": "The coat is elegant.",
+          "example_fr": "Le manteau est élégant.",
+          "highlight": "manteau"
+        }
+      ]
+    },
+    {
+      "name_en": "Jeans",
+      "name_fr": "Jean",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Jeans",
+      "plural_name_fr": "Jeans",
+      "example_sentences": [
+        {
+          "example_en": "She wears jeans every day.",
+          "example_fr": "Elle porte des jeans tous les jours.",
+          "highlight": "jean"
+        }
+      ]
+    },
+    {
+      "name_en": "Trousers",
+      "name_fr": "Pantalon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Trousers",
+      "plural_name_fr": "Pantalons",
+      "example_sentences": [
+        {
+          "example_en": "She wears trousers at work.",
+          "example_fr": "Elle porte un pantalon au travail.",
+          "highlight": "pantalon"
+        }
+      ]
+    },
+    {
+      "name_en": "Shorts",
+      "name_fr": "Short",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Shorts",
+      "plural_name_fr": "Shorts",
+      "example_sentences": [
+        {
+          "example_en": "She wears shorts in summer.",
+          "example_fr": "Elle porte un short en été.",
+          "highlight": "short"
+        }
+      ]
+    },
+    {
+      "name_en": "Leggings",
+      "name_fr": "Leggings",
+      "article": "les",
+      "gender": "masculine",
+      "plural_name_en": "Leggings",
+      "plural_name_fr": "Leggings",
+      "example_sentences": [
+        {
+          "example_en": "She wears leggings for yoga.",
+          "example_fr": "Elle porte des leggings pour le yoga.",
+          "highlight": "leggings"
+        }
+      ]
+    },
+    {
+      "name_en": "Underwear",
+      "name_fr": "Sous-vêtements",
+      "article": "les",
+      "gender": "masculine",
+      "plural_name_en": "Underwear",
+      "plural_name_fr": "Sous-vêtements",
+      "example_sentences": [
+        {
+          "example_en": "She buys new underwear.",
+          "example_fr": "Elle achète de nouveaux sous-vêtements.",
+          "highlight": "sous-vêtements"
+        }
+      ]
+    },
+    {
+      "name_en": "Bra",
+      "name_fr": "Soutien-gorge",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Bras",
+      "plural_name_fr": "Soutiens-gorge",
+      "example_sentences": [
+        {
+          "example_en": "She wears a comfortable bra.",
+          "example_fr": "Elle porte un soutien-gorge confortable.",
+          "highlight": "soutien-gorge"
+        }
+      ]
+    },
+    {
+      "name_en": "Panties",
+      "name_fr": "Culotte",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Panties",
+      "plural_name_fr": "Culottes",
+      "example_sentences": [
+        {
+          "example_en": "She buys new panties.",
+          "example_fr": "Elle achète de nouvelles culottes.",
+          "highlight": "culotte"
+        }
+      ]
+    },
+    {
+      "name_en": "Socks",
+      "name_fr": "Chaussettes",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Socks",
+      "plural_name_fr": "Chaussettes",
+      "example_sentences": [
+        {
+          "example_en": "Her socks are pink.",
+          "example_fr": "Ses chaussettes sont roses.",
+          "highlight": "chaussettes"
+        }
+      ]
+    },
+    {
+      "name_en": "Shoes",
+      "name_fr": "Chaussures",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Shoes",
+      "plural_name_fr": "Chaussures",
+      "example_sentences": [
+        {
+          "example_en": "She polishes her shoes.",
+          "example_fr": "Elle cire ses chaussures.",
+          "highlight": "chaussures"
+        }
+      ]
+    },
+    {
+      "name_en": "Boots",
+      "name_fr": "Bottes",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Boots",
+      "plural_name_fr": "Bottes",
+      "example_sentences": [
+        {
+          "example_en": "Her boots are stylish.",
+          "example_fr": "Ses bottes sont élégantes.",
+          "highlight": "bottes"
+        }
+      ]
+    },
+    {
+      "name_en": "Sandals",
+      "name_fr": "Sandales",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Sandals",
+      "plural_name_fr": "Sandales",
+      "example_sentences": [
+        {
+          "example_en": "She wears sandals in summer.",
+          "example_fr": "Elle porte des sandales en été.",
+          "highlight": "sandales"
+        }
+      ]
+    },
+    {
+      "name_en": "Scarf",
+      "name_fr": "Écharpe",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Scarves",
+      "plural_name_fr": "Écharpes",
+      "example_sentences": [
+        {
+          "example_en": "She wears a scarf in winter.",
+          "example_fr": "Elle porte une écharpe en hiver.",
+          "highlight": "écharpe"
+        }
+      ]
+    },
+    {
+      "name_en": "Hat",
+      "name_fr": "Chapeau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Hats",
+      "plural_name_fr": "Chapeaux",
+      "example_sentences": [
+        {
+          "example_en": "She wears a hat at the beach.",
+          "example_fr": "Elle porte un chapeau à la plage.",
+          "highlight": "chapeau"
+        }
+      ]
+    },
+    {
+      "name_en": "Cap",
+      "name_fr": "Casquette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Caps",
+      "plural_name_fr": "Casquettes",
+      "example_sentences": [
+        {
+          "example_en": "Her cap is red.",
+          "example_fr": "Sa casquette est rouge.",
+          "highlight": "casquette"
+        }
+      ]
+    },
+    {
+      "name_en": "Gloves",
+      "name_fr": "Gants",
+      "article": "les",
+      "gender": "masculine",
+      "plural_name_en": "Gloves",
+      "plural_name_fr": "Gants",
+      "example_sentences": [
+        {
+          "example_en": "Her gloves are soft.",
+          "example_fr": "Ses gants sont doux.",
+          "highlight": "gants"
+        }
+      ]
+    },
+    {
+      "name_en": "Handbag",
+      "name_fr": "Sac à main",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Handbags",
+      "plural_name_fr": "Sacs à main",
+      "example_sentences": [
+        {
+          "example_en": "She carries a handbag.",
+          "example_fr": "Elle porte un sac à main.",
+          "highlight": "sac à main"
+        }
+      ]
+    },
+    {
+      "name_en": "Purse",
+      "name_fr": "Porte-monnaie",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Purses",
+      "plural_name_fr": "Porte-monnaies",
+      "example_sentences": [
+        {
+          "example_en": "Her purse is small.",
+          "example_fr": "Son porte-monnaie est petit.",
+          "highlight": "porte-monnaie"
+        }
+      ]
+    },
+    {
+      "name_en": "Sunglasses",
+      "name_fr": "Lunettes de soleil",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Sunglasses",
+      "plural_name_fr": "Lunettes de soleil",
+      "example_sentences": [
+        {
+          "example_en": "She wears sunglasses in summer.",
+          "example_fr": "Elle porte des lunettes de soleil en été.",
+          "highlight": "lunettes de soleil"
+        }
+      ]
+    },
+    {
+      "name_en": "Ring",
+      "name_fr": "Bague",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Rings",
+      "plural_name_fr": "Bagues",
+      "example_sentences": [
+        {
+          "example_en": "She wears a ring on her finger.",
+          "example_fr": "Elle porte une bague à son doigt.",
+          "highlight": "bague"
+        }
+      ]
+    },
+    {
+      "name_en": "Bracelet",
+      "name_fr": "Bracelet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Bracelets",
+      "plural_name_fr": "Bracelets",
+      "example_sentences": [
+        {
+          "example_en": "She wears a bracelet.",
+          "example_fr": "Elle porte un bracelet.",
+          "highlight": "bracelet"
+        }
+      ]
+    },
+    {
+      "name_en": "Necklace",
+      "name_fr": "Collier",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Necklaces",
+      "plural_name_fr": "Colliers",
+      "example_sentences": [
+        {
+          "example_en": "She wears a necklace.",
+          "example_fr": "Elle porte un collier.",
+          "highlight": "collier"
+        }
+      ]
+    },
+    {
+      "name_en": "Earrings",
+      "name_fr": "Boucles d'oreilles",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Earrings",
+      "plural_name_fr": "Boucles d'oreilles",
+      "example_sentences": [
+        {
+          "example_en": "She wears earrings.",
+          "example_fr": "Elle porte des boucles d'oreilles.",
+          "highlight": "boucles d'oreilles"
+        }
+      ]
+    },
+    {
+      "name_en": "Brooch",
+      "name_fr": "Broche",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Brooches",
+      "plural_name_fr": "Broches",
+      "example_sentences": [
+        {
+          "example_en": "She wears a brooch on her dress.",
+          "example_fr": "Elle porte une broche sur sa robe.",
+          "highlight": "broche"
+        }
+      ]
+    },
+    {
+      "name_en": "Hairband",
+      "name_fr": "Serre-tête",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Hairbands",
+      "plural_name_fr": "Serre-têtes",
+      "example_sentences": [
+        {
+          "example_en": "She wears a hairband.",
+          "example_fr": "Elle porte un serre-tête.",
+          "highlight": "serre-tête"
+        }
+      ]
+    },
+    {
+      "name_en": "Backpack",
+      "name_fr": "Sac à dos",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Backpacks",
+      "plural_name_fr": "Sacs à dos",
+      "example_sentences": [
+        {
+          "example_en": "She carries a backpack.",
+          "example_fr": "Elle porte un sac à dos.",
+          "highlight": "sac à dos"
+        }
+      ]
+    },
+    {
+      "name_en": "Raincoat",
+      "name_fr": "Imperméable",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Raincoats",
+      "plural_name_fr": "Imperméables",
+      "example_sentences": [
+        {
+          "example_en": "He wears a raincoat when it rains.",
+          "example_fr": "Il porte un imperméable quand il pleut.",
+          "highlight": "imperméable"
+        }
+      ]
+    },
+    {
+      "name_en": "Pajamas",
+      "name_fr": "Pyjama",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Pajamas",
+      "plural_name_fr": "Pyjamas",
+      "example_sentences": [
+        {
+          "example_en": "She puts on her pajamas before bed.",
+          "example_fr": "Elle met son pyjama avant de dormir.",
+          "highlight": "pyjama"
+        }
+      ]
+    },
+    {
+      "name_en": "Slippers",
+      "name_fr": "Pantoufles",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Slippers",
+      "plural_name_fr": "Pantoufles",
+      "example_sentences": [
+        {
+          "example_en": "He wears slippers at home.",
+          "example_fr": "Il porte des pantoufles à la maison.",
+          "highlight": "pantoufles"
+        }
+      ]
+    },
+    {
+      "name_en": "Overalls",
+      "name_fr": "Salopette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Overalls",
+      "plural_name_fr": "Salopettes",
+      "example_sentences": [
+        {
+          "example_en": "She wears overalls for gardening.",
+          "example_fr": "Elle porte une salopette pour jardiner.",
+          "highlight": "salopette"
+        }
+      ]
+    },
+    {
+      "name_en": "Mittens",
+      "name_fr": "Moufles",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Mittens",
+      "plural_name_fr": "Moufles",
+      "example_sentences": [
+        {
+          "example_en": "He wears mittens in winter.",
+          "example_fr": "Il porte des moufles en hiver.",
+          "highlight": "moufles"
+        }
+      ]
+    },
+    {
+      "name_en": "Sportswear",
+      "name_fr": "Tenue de sport",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Sportswear",
+      "plural_name_fr": "Tenues de sport",
+      "example_sentences": [
+        {
+          "example_en": "She wears sportswear for running.",
+          "example_fr": "Elle porte une tenue de sport pour courir.",
+          "highlight": "tenue de sport"
+        }
+      ]
+    },
+    {
+      "name_en": "Swimwear",
+      "name_fr": "Maillot de bain",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Swimwear",
+      "plural_name_fr": "Maillots de bain",
+      "example_sentences": [
+        {
+          "example_en": "He wears swimwear at the pool.",
+          "example_fr": "Il porte un maillot de bain à la piscine.",
+          "highlight": "maillot de bain"
+        }
+      ]
+    },
+    {
+      "name_en": "Tights",
+      "name_fr": "Collants",
+      "article": "les",
+      "gender": "masculine",
+      "plural_name_en": "Tights",
+      "plural_name_fr": "Collants",
+      "example_sentences": [
+        {
+          "example_en": "She wears tights in winter.",
+          "example_fr": "Elle porte des collants en hiver.",
+          "highlight": "collants"
+        }
+      ]
+    },
+    {
+      "name_en": "Blazer",
+      "name_fr": "Blazer",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Blazers",
+      "plural_name_fr": "Blazers",
+      "example_sentences": [
+        {
+          "example_en": "He wears a blazer for meetings.",
+          "example_fr": "Il porte un blazer pour les réunions.",
+          "highlight": "blazer"
+        }
+      ]
+    },
+    {
+      "name_en": "Trench Coat",
+      "name_fr": "Trench",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Trench Coats",
+      "plural_name_fr": "Trenchs",
+      "example_sentences": [
+        {
+          "example_en": "She wears a trench coat in spring.",
+          "example_fr": "Elle porte un trench au printemps.",
+          "highlight": "trench"
+        }
+      ]
+    },
+    {
+      "name_en": "Umbrella",
+      "name_fr": "Parapluie",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Umbrellas",
+      "plural_name_fr": "Parapluies",
+      "example_sentences": [
+        {
+          "example_en": "He carries an umbrella when it rains.",
+          "example_fr": "Il porte un parapluie quand il pleut.",
+          "highlight": "parapluie"
+        }
+      ]
+    }
+  ]
+}

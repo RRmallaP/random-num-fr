@@ -1,0 +1,306 @@
+{
+  "name_en": "Occupations",
+  "name_fr": "Métiers/Professions",
+  "list": [
+    {
+      "name_en": "Teacher",
+      "name_fr": "Professeur",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Teachers",
+      "plural_name_fr": "Professeurs",
+      "example_sentences": [
+        {
+          "example_en": "The teacher explains the lesson.",
+          "example_fr": "Le professeur explique la leçon.",
+          "highlight": "professeur"
+        }
+      ]
+    },
+    {
+      "name_en": "Doctor",
+      "name_fr": "Médecin",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Doctors",
+      "plural_name_fr": "Médecins",
+      "example_sentences": [
+        {
+          "example_en": "The doctor treats patients.",
+          "example_fr": "Le médecin soigne les patients.",
+          "highlight": "médecin"
+        }
+      ]
+    },
+    {
+      "name_en": "Nurse",
+      "name_fr": "Infirmier/Infirmière",
+      "article": "l'/la",
+      "gender": "m/f",
+      "plural_name_en": "Nurses",
+      "plural_name_fr": "Infirmiers/Infirmières",
+      "example_sentences": [
+        {
+          "example_en": "The nurse helps the doctor.",
+          "example_fr": "L'infirmière aide le médecin.",
+          "highlight": "infirmière"
+        }
+      ]
+    },
+    {
+      "name_en": "Engineer",
+      "name_fr": "Ingénieur",
+      "article": "l'",
+      "gender": "m/f",
+      "plural_name_en": "Engineers",
+      "plural_name_fr": "Ingénieurs",
+      "example_sentences": [
+        {
+          "example_en": "The engineer designs bridges.",
+          "example_fr": "L'ingénieur conçoit des ponts.",
+          "highlight": "ingénieur"
+        }
+      ]
+    },
+    {
+      "name_en": "Police Officer",
+      "name_fr": "Policier/Policière",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Police Officers",
+      "plural_name_fr": "Policiers/Policières",
+      "example_sentences": [
+        {
+          "example_en": "The police officer keeps the city safe.",
+          "example_fr": "Le policier protège la ville.",
+          "highlight": "policier"
+        }
+      ]
+    },
+    {
+      "name_en": "Firefighter",
+      "name_fr": "Pompier/Pompière",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Firefighters",
+      "plural_name_fr": "Pompiers/Pompières",
+      "example_sentences": [
+        {
+          "example_en": "The firefighter puts out fires.",
+          "example_fr": "Le pompier éteint les incendies.",
+          "highlight": "pompier"
+        }
+      ]
+    },
+    {
+      "name_en": "Chef",
+      "name_fr": "Chef",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Chefs",
+      "plural_name_fr": "Chefs",
+      "example_sentences": [
+        {
+          "example_en": "The chef cooks delicious meals.",
+          "example_fr": "Le chef prépare de délicieux plats.",
+          "highlight": "chef"
+        }
+      ]
+    },
+    {
+      "name_en": "Waiter/Waitress",
+      "name_fr": "Serveur/Serveuse",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Waiters/Waitresses",
+      "plural_name_fr": "Serveurs/Serveuses",
+      "example_sentences": [
+        {
+          "example_en": "The waiter serves food.",
+          "example_fr": "Le serveur sert la nourriture.",
+          "highlight": "serveur"
+        }
+      ]
+    },
+    {
+      "name_en": "Farmer",
+      "name_fr": "Agriculteur/Agricultrice",
+      "article": "l'/la",
+      "gender": "m/f",
+      "plural_name_en": "Farmers",
+      "plural_name_fr": "Agriculteurs/Agricultrices",
+      "example_sentences": [
+        {
+          "example_en": "The farmer works in the field.",
+          "example_fr": "L'agriculteur travaille dans le champ.",
+          "highlight": "agriculteur"
+        }
+      ]
+    },
+    {
+      "name_en": "Driver",
+      "name_fr": "Chauffeur",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Drivers",
+      "plural_name_fr": "Chauffeurs",
+      "example_sentences": [
+        {
+          "example_en": "The driver drives the bus.",
+          "example_fr": "Le chauffeur conduit le bus.",
+          "highlight": "chauffeur"
+        }
+      ]
+    },
+    {
+      "name_en": "Artist",
+      "name_fr": "Artiste",
+      "article": "l'",
+      "gender": "m/f",
+      "plural_name_en": "Artists",
+      "plural_name_fr": "Artistes",
+      "example_sentences": [
+        {
+          "example_en": "The artist paints beautiful pictures.",
+          "example_fr": "L'artiste peint de beaux tableaux.",
+          "highlight": "artiste"
+        }
+      ]
+    },
+    {
+      "name_en": "Musician",
+      "name_fr": "Musicien/Musicienne",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Musicians",
+      "plural_name_fr": "Musiciens/Musiciennes",
+      "example_sentences": [
+        {
+          "example_en": "The musician plays the piano.",
+          "example_fr": "Le musicien joue du piano.",
+          "highlight": "musicien"
+        }
+      ]
+    },
+    {
+      "name_en": "Actor/Actress",
+      "name_fr": "Acteur/Actrice",
+      "article": "l'/la",
+      "gender": "m/f",
+      "plural_name_en": "Actors/Actresses",
+      "plural_name_fr": "Acteurs/Actrices",
+      "example_sentences": [
+        {
+          "example_en": "The actress stars in the movie.",
+          "example_fr": "L'actrice joue dans le film.",
+          "highlight": "actrice"
+        }
+      ]
+    },
+    {
+      "name_en": "Journalist",
+      "name_fr": "Journaliste",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Journalists",
+      "plural_name_fr": "Journalistes",
+      "example_sentences": [
+        {
+          "example_en": "The journalist writes articles.",
+          "example_fr": "Le journaliste écrit des articles.",
+          "highlight": "journaliste"
+        }
+      ]
+    },
+    {
+      "name_en": "Dentist",
+      "name_fr": "Dentiste",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Dentists",
+      "plural_name_fr": "Dentistes",
+      "example_sentences": [
+        {
+          "example_en": "The dentist checks teeth.",
+          "example_fr": "Le dentiste examine les dents.",
+          "highlight": "dentiste"
+        }
+      ]
+    },
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat/Avocate",
+      "article": "l'/la",
+      "gender": "m/f",
+      "plural_name_en": "Lawyers",
+      "plural_name_fr": "Avocats/Avocates",
+      "example_sentences": [
+        {
+          "example_en": "The lawyer defends clients.",
+          "example_fr": "L'avocat défend les clients.",
+          "highlight": "avocat"
+        }
+      ]
+    },
+    {
+      "name_en": "Accountant",
+      "name_fr": "Comptable",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Accountants",
+      "plural_name_fr": "Comptables",
+      "example_sentences": [
+        {
+          "example_en": "The accountant manages finances.",
+          "example_fr": "Le comptable gère les finances.",
+          "highlight": "comptable"
+        }
+      ]
+    },
+    {
+      "name_en": "Salesperson",
+      "name_fr": "Vendeur/Vendeuse",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Salespeople",
+      "plural_name_fr": "Vendeurs/Vendeuses",
+      "example_sentences": [
+        {
+          "example_en": "The salesperson sells products.",
+          "example_fr": "Le vendeur vend des produits.",
+          "highlight": "vendeur"
+        }
+      ]
+    },
+    {
+      "name_en": "Secretary",
+      "name_fr": "Secrétaire",
+      "article": "le/la",
+      "gender": "m/f",
+      "plural_name_en": "Secretaries",
+      "plural_name_fr": "Secrétaires",
+      "example_sentences": [
+        {
+          "example_en": "The secretary organizes meetings.",
+          "example_fr": "La secrétaire organise les réunions.",
+          "highlight": "secrétaire"
+        }
+      ]
+    },
+    {
+      "name_en": "Student",
+      "name_fr": "Étudiant/Étudiante",
+      "article": "l'/la",
+      "gender": "m/f",
+      "plural_name_en": "Students",
+      "plural_name_fr": "Étudiants/Étudiantes",
+      "example_sentences": [
+        {
+          "example_en": "The student studies at the university.",
+          "example_fr": "L'étudiant étudie à l'université.",
+          "highlight": "étudiant"
+        }
+      ]
+    }
+  ]
+}

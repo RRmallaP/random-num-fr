@@ -1,0 +1,81 @@
+{
+  "name_en": "Amphibians",
+  "name_fr": "Amphibiens",
+  "list": [
+    {
+      "name_en": "Frog",
+      "name_fr": "Grenouille",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Frogs",
+      "plural_name_fr": "Grenouilles",
+      "example_sentences": [
+        {
+          "example_en": "The frog jumps into the pond.",
+          "example_fr": "La grenouille saute dans l'étang.",
+          "highlight": "grenouille"
+        }
+      ]
+    },
+    {
+      "name_en": "Toad",
+      "name_fr": "Crapaud",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Toads",
+      "plural_name_fr": "Crapauds",
+      "example_sentences": [
+        {
+          "example_en": "The toad has rough skin.",
+          "example_fr": "Le crapaud a la peau rugueuse.",
+          "highlight": "crapaud"
+        }
+      ]
+    },
+    {
+      "name_en": "Newt",
+      "name_fr": "Triton",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Newts",
+      "plural_name_fr": "Tritons",
+      "example_sentences": [
+        {
+          "example_en": "The newt lives in water and on land.",
+          "example_fr": "Le triton vit dans l'eau et sur la terre.",
+          "highlight": "triton"
+        }
+      ]
+    },
+    {
+      "name_en": "Salamander",
+      "name_fr": "Salamandre",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Salamanders",
+      "plural_name_fr": "Salamandres",
+      "example_sentences": [
+        {
+          "example_en": "The salamander has a long tail.",
+          "example_fr": "La salamandre a une longue queue.",
+          "highlight": "salamandre"
+        }
+      ]
+    },
+    {
+      "name_en": "Tree Frog",
+      "name_fr": "Rainette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Tree Frogs",
+      "plural_name_fr": "Rainettes",
+      "example_sentences": [
+        {
+          "example_en": "The tree frog climbs leaves.",
+          "example_fr": "La rainette grimpe sur les feuilles.",
+          "highlight": "rainette"
+        }
+      ]
+    }
+  ]
+}

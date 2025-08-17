@@ -1,0 +1,156 @@
+{
+  "name_en": "Fish",
+  "name_fr": "Poissons",
+  "list": [
+    {
+      "name_en": "Salmon",
+      "name_fr": "Saumon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Salmons",
+      "plural_name_fr": "Saumons",
+      "example_sentences": [
+        {
+          "example_en": "The salmon swims upstream.",
+          "example_fr": "Le saumon nage à contre-courant.",
+          "highlight": "saumon"
+        }
+      ]
+    },
+    {
+      "name_en": "Trout",
+      "name_fr": "Truite",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Trout",
+      "plural_name_fr": "Truites",
+      "example_sentences": [
+        {
+          "example_en": "The trout lives in clear rivers.",
+          "example_fr": "La truite vit dans les rivières claires.",
+          "highlight": "truite"
+        }
+      ]
+    },
+    {
+      "name_en": "Carp",
+      "name_fr": "Carpe",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Carp",
+      "plural_name_fr": "Carpes",
+      "example_sentences": [
+        {
+          "example_en": "The carp is a freshwater fish.",
+          "example_fr": "La carpe est un poisson d'eau douce.",
+          "highlight": "carpe"
+        }
+      ]
+    },
+    {
+      "name_en": "Cod",
+      "name_fr": "Morue",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Cod",
+      "plural_name_fr": "Morues",
+      "example_sentences": [
+        {
+          "example_en": "The cod is often used in fish and chips.",
+          "example_fr": "La morue est souvent utilisée dans le fish and chips.",
+          "highlight": "morue"
+        }
+      ]
+    },
+    {
+      "name_en": "Tuna",
+      "name_fr": "Thon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Tuna",
+      "plural_name_fr": "Thons",
+      "example_sentences": [
+        {
+          "example_en": "The tuna swims very fast.",
+          "example_fr": "Le thon nage très vite.",
+          "highlight": "thon"
+        }
+      ]
+    },
+    {
+      "name_en": "Sardine",
+      "name_fr": "Sardine",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Sardines",
+      "plural_name_fr": "Sardines",
+      "example_sentences": [
+        {
+          "example_en": "The sardine lives in large schools.",
+          "example_fr": "La sardine vit en grands bancs.",
+          "highlight": "sardine"
+        }
+      ]
+    },
+    {
+      "name_en": "Herring",
+      "name_fr": "Hareng",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Herrings",
+      "plural_name_fr": "Harengs",
+      "example_sentences": [
+        {
+          "example_en": "The herring migrates in the ocean.",
+          "example_fr": "Le hareng migre dans l'océan.",
+          "highlight": "hareng"
+        }
+      ]
+    },
+    {
+      "name_en": "Pike",
+      "name_fr": "Brochet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Pike",
+      "plural_name_fr": "Brochets",
+      "example_sentences": [
+        {
+          "example_en": "The pike is a predatory fish.",
+          "example_fr": "Le brochet est un poisson prédateur.",
+          "highlight": "brochet"
+        }
+      ]
+    },
+    {
+      "name_en": "Perch",
+      "name_fr": "Perche",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Perch",
+      "plural_name_fr": "Perches",
+      "example_sentences": [
+        {
+          "example_en": "The perch is found in lakes.",
+          "example_fr": "La perche se trouve dans les lacs.",
+          "highlight": "perche"
+        }
+      ]
+    },
+    {
+      "name_en": "Mackerel",
+      "name_fr": "Maquereau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Mackerel",
+      "plural_name_fr": "Maquereaux",
+      "example_sentences": [
+        {
+          "example_en": "The mackerel has shiny scales.",
+          "example_fr": "Le maquereau a des écailles brillantes.",
+          "highlight": "maquereau"
+        }
+      ]
+    }
+  ]
+}

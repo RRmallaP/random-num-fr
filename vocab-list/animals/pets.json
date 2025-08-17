@@ -1,0 +1,156 @@
+{
+  "name_en": "Pets",
+  "name_fr": "Animaux de compagnie",
+  "list": [
+    {
+      "name_en": "Dog",
+      "name_fr": "Chien",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Dogs",
+      "plural_name_fr": "Chiens",
+      "example_sentences": [
+        {
+          "example_en": "The dog is very friendly.",
+          "example_fr": "Le chien est très amical.",
+          "highlight": "chien"
+        }
+      ]
+    },
+    {
+      "name_en": "Cat",
+      "name_fr": "Chat",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Cats",
+      "plural_name_fr": "Chats",
+      "example_sentences": [
+        {
+          "example_en": "Her cat sleeps all day.",
+          "example_fr": "Son chat dort toute la journée.",
+          "highlight": "chat"
+        }
+      ]
+    },
+    {
+      "name_en": "Rabbit",
+      "name_fr": "Lapin",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Rabbits",
+      "plural_name_fr": "Lapins",
+      "example_sentences": [
+        {
+          "example_en": "The rabbit eats carrots.",
+          "example_fr": "Le lapin mange des carottes.",
+          "highlight": "lapin"
+        }
+      ]
+    },
+    {
+      "name_en": "Hamster",
+      "name_fr": "Hamster",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Hamsters",
+      "plural_name_fr": "Hamsters",
+      "example_sentences": [
+        {
+          "example_en": "My hamster runs in its wheel.",
+          "example_fr": "Mon hamster court dans sa roue.",
+          "highlight": "hamster"
+        }
+      ]
+    },
+    {
+      "name_en": "Parrot",
+      "name_fr": "Perroquet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Parrots",
+      "plural_name_fr": "Perroquets",
+      "example_sentences": [
+        {
+          "example_en": "The parrot can talk.",
+          "example_fr": "Le perroquet peut parler.",
+          "highlight": "perroquet"
+        }
+      ]
+    },
+    {
+      "name_en": "Fish",
+      "name_fr": "Poisson",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Fish",
+      "plural_name_fr": "Poissons",
+      "example_sentences": [
+        {
+          "example_en": "She has three fish in her aquarium.",
+          "example_fr": "Elle a trois poissons dans son aquarium.",
+          "highlight": "poissons"
+        }
+      ]
+    },
+    {
+      "name_en": "Turtle",
+      "name_fr": "Tortue",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Turtles",
+      "plural_name_fr": "Tortues",
+      "example_sentences": [
+        {
+          "example_en": "The turtle walks slowly.",
+          "example_fr": "La tortue marche lentement.",
+          "highlight": "tortue"
+        }
+      ]
+    },
+    {
+      "name_en": "Guinea pig",
+      "name_fr": "Cochon d'Inde",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Guinea pigs",
+      "plural_name_fr": "Cochons d'Inde",
+      "example_sentences": [
+        {
+          "example_en": "The guinea pig eats lettuce.",
+          "example_fr": "Le cochon d'Inde mange de la laitue.",
+          "highlight": "cochon d'Inde"
+        }
+      ]
+    },
+    {
+      "name_en": "Mouse",
+      "name_fr": "Souris",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Mice",
+      "plural_name_fr": "Souris",
+      "example_sentences": [
+        {
+          "example_en": "The mouse is small and gray.",
+          "example_fr": "La souris est petite et grise.",
+          "highlight": "souris"
+        }
+      ]
+    },
+    {
+      "name_en": "Ferret",
+      "name_fr": "Furet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Ferrets",
+      "plural_name_fr": "Furets",
+      "example_sentences": [
+        {
+          "example_en": "The ferret is playful.",
+          "example_fr": "Le furet est joueur.",
+          "highlight": "furet"
+        }
+      ]
+    }
+  ]
+}

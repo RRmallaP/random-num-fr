@@ -1,0 +1,156 @@
+{
+  "name_en": "Time",
+  "name_fr": "Le temps",
+  "list": [
+    {
+      "name_en": "Second",
+      "name_fr": "Seconde",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Seconds",
+      "plural_name_fr": "Secondes",
+      "example_sentences": [
+        {
+          "example_en": "There are sixty seconds in a minute.",
+          "example_fr": "Il y a soixante secondes dans une minute.",
+          "highlight": "seconde"
+        }
+      ]
+    },
+    {
+      "name_en": "Minute",
+      "name_fr": "Minute",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Minutes",
+      "plural_name_fr": "Minutes",
+      "example_sentences": [
+        {
+          "example_en": "A minute passes quickly.",
+          "example_fr": "Une minute passe vite.",
+          "highlight": "minute"
+        }
+      ]
+    },
+    {
+      "name_en": "Hour",
+      "name_fr": "Heure",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Hours",
+      "plural_name_fr": "Heures",
+      "example_sentences": [
+        {
+          "example_en": "There are twenty-four hours in a day.",
+          "example_fr": "Il y a vingt-quatre heures dans une journée.",
+          "highlight": "heure"
+        }
+      ]
+    },
+    {
+      "name_en": "Day",
+      "name_fr": "Jour",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Days",
+      "plural_name_fr": "Jours",
+      "example_sentences": [
+        {
+          "example_en": "Each day brings something new.",
+          "example_fr": "Chaque jour apporte quelque chose de nouveau.",
+          "highlight": "jour"
+        }
+      ]
+    },
+    {
+      "name_en": "Week",
+      "name_fr": "Semaine",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Weeks",
+      "plural_name_fr": "Semaines",
+      "example_sentences": [
+        {
+          "example_en": "A week has seven days.",
+          "example_fr": "Une semaine a sept jours.",
+          "highlight": "semaine"
+        }
+      ]
+    },
+    {
+      "name_en": "Month",
+      "name_fr": "Mois",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Months",
+      "plural_name_fr": "Mois",
+      "example_sentences": [
+        {
+          "example_en": "There are twelve months in a year.",
+          "example_fr": "Il y a douze mois dans une année.",
+          "highlight": "mois"
+        }
+      ]
+    },
+    {
+      "name_en": "Year",
+      "name_fr": "Année",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Years",
+      "plural_name_fr": "Années",
+      "example_sentences": [
+        {
+          "example_en": "A year has 365 days.",
+          "example_fr": "Une année a 365 jours.",
+          "highlight": "année"
+        }
+      ]
+    },
+    {
+      "name_en": "Decade",
+      "name_fr": "Décennie",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Decades",
+      "plural_name_fr": "Décennies",
+      "example_sentences": [
+        {
+          "example_en": "A decade is ten years.",
+          "example_fr": "Une décennie est dix ans.",
+          "highlight": "décennie"
+        }
+      ]
+    },
+    {
+      "name_en": "Century",
+      "name_fr": "Siècle",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Centuries",
+      "plural_name_fr": "Siècles",
+      "example_sentences": [
+        {
+          "example_en": "A century is one hundred years.",
+          "example_fr": "Un siècle est cent ans.",
+          "highlight": "siècle"
+        }
+      ]
+    },
+    {
+      "name_en": "Millennium",
+      "name_fr": "Millénaire",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Millennia",
+      "plural_name_fr": "Millénaires",
+      "example_sentences": [
+        {
+          "example_en": "A millennium is a thousand years.",
+          "example_fr": "Un millénaire est mille ans.",
+          "highlight": "millénaire"
+        }
+      ]
+    }
+  ]
+}

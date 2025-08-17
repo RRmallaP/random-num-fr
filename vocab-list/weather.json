@@ -1,0 +1,231 @@
+{
+  "name_en": "Weather",
+  "name_fr": "Le temps",
+  "list": [
+    {
+      "name_en": "Rain",
+      "name_fr": "Pluie",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Rains",
+      "plural_name_fr": "Pluies",
+      "example_sentences": [
+        {
+          "example_en": "The rain falls gently.",
+          "example_fr": "La pluie tombe doucement.",
+          "highlight": "pluie"
+        }
+      ]
+    },
+    {
+      "name_en": "Snow",
+      "name_fr": "Neige",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Snows",
+      "plural_name_fr": "Neiges",
+      "example_sentences": [
+        {
+          "example_en": "The snow covers the ground.",
+          "example_fr": "La neige couvre le sol.",
+          "highlight": "neige"
+        }
+      ]
+    },
+    {
+      "name_en": "Sun",
+      "name_fr": "Soleil",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Suns",
+      "plural_name_fr": "Soleils",
+      "example_sentences": [
+        {
+          "example_en": "The sun shines brightly.",
+          "example_fr": "Le soleil brille fort.",
+          "highlight": "soleil"
+        }
+      ]
+    },
+    {
+      "name_en": "Cloud",
+      "name_fr": "Nuage",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Clouds",
+      "plural_name_fr": "Nuages",
+      "example_sentences": [
+        {
+          "example_en": "The cloud floats in the sky.",
+          "example_fr": "Le nuage flotte dans le ciel.",
+          "highlight": "nuage"
+        }
+      ]
+    },
+    {
+      "name_en": "Wind",
+      "name_fr": "Vent",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Winds",
+      "plural_name_fr": "Vents",
+      "example_sentences": [
+        {
+          "example_en": "The wind blows strongly.",
+          "example_fr": "Le vent souffle fort.",
+          "highlight": "vent"
+        }
+      ]
+    },
+    {
+      "name_en": "Storm",
+      "name_fr": "Orage",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Storms",
+      "plural_name_fr": "Orages",
+      "example_sentences": [
+        {
+          "example_en": "The storm is coming.",
+          "example_fr": "L'orage arrive.",
+          "highlight": "orage"
+        }
+      ]
+    },
+    {
+      "name_en": "Fog",
+      "name_fr": "Brouillard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Fogs",
+      "plural_name_fr": "Brouillards",
+      "example_sentences": [
+        {
+          "example_en": "The fog makes it hard to see.",
+          "example_fr": "Le brouillard rend la visibilité difficile.",
+          "highlight": "brouillard"
+        }
+      ]
+    },
+    {
+      "name_en": "Thunder",
+      "name_fr": "Tonnerre",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Thunders",
+      "plural_name_fr": "Tonnerres",
+      "example_sentences": [
+        {
+          "example_en": "The thunder is loud.",
+          "example_fr": "Le tonnerre est fort.",
+          "highlight": "tonnerre"
+        }
+      ]
+    },
+    {
+      "name_en": "Lightning",
+      "name_fr": "Éclair",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Lightnings",
+      "plural_name_fr": "Éclairs",
+      "example_sentences": [
+        {
+          "example_en": "The lightning flashes in the sky.",
+          "example_fr": "L'éclair brille dans le ciel.",
+          "highlight": "éclair"
+        }
+      ]
+    },
+    {
+      "name_en": "Hail",
+      "name_fr": "Grêle",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Hails",
+      "plural_name_fr": "Grêles",
+      "example_sentences": [
+        {
+          "example_en": "The hail damages the crops.",
+          "example_fr": "La grêle abîme les cultures.",
+          "highlight": "grêle"
+        }
+      ]
+    },
+    {
+      "name_en": "Drizzle",
+      "name_fr": "Bruine",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Drizzles",
+      "plural_name_fr": "Bruines",
+      "example_sentences": [
+        {
+          "example_en": "The drizzle is light but steady.",
+          "example_fr": "La bruine est légère mais constante.",
+          "highlight": "bruine"
+        }
+      ]
+    },
+    {
+      "name_en": "Rainbow",
+      "name_fr": "Arc-en-ciel",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Rainbows",
+      "plural_name_fr": "Arcs-en-ciel",
+      "example_sentences": [
+        {
+          "example_en": "A rainbow appears after the rain.",
+          "example_fr": "Un arc-en-ciel apparaît après la pluie.",
+          "highlight": "arc-en-ciel"
+        }
+      ]
+    },
+    {
+      "name_en": "Temperature",
+      "name_fr": "Température",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Temperatures",
+      "plural_name_fr": "Températures",
+      "example_sentences": [
+        {
+          "example_en": "The temperature is rising.",
+          "example_fr": "La température augmente.",
+          "highlight": "température"
+        }
+      ]
+    },
+    {
+      "name_en": "Humidity",
+      "name_fr": "Humidité",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Humidities",
+      "plural_name_fr": "Humidités",
+      "example_sentences": [
+        {
+          "example_en": "The humidity is high today.",
+          "example_fr": "L'humidité est élevée aujourd'hui.",
+          "highlight": "humidité"
+        }
+      ]
+    },
+    {
+      "name_en": "Drought",
+      "name_fr": "Sécheresse",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Droughts",
+      "plural_name_fr": "Sécheresses",
+      "example_sentences": [
+        {
+          "example_en": "The drought lasted for months.",
+          "example_fr": "La sécheresse a duré des mois.",
+          "highlight": "sécheresse"
+        }
+      ]
+    }
+  ]
+}

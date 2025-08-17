@@ -1,0 +1,231 @@
+{
+  "name_en": "Insects",
+  "name_fr": "Insectes",
+  "list": [
+    {
+      "name_en": "Ant",
+      "name_fr": "Fourmi",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Ants",
+      "plural_name_fr": "Fourmis",
+      "example_sentences": [
+        {
+          "example_en": "The ant carries food to its nest.",
+          "example_fr": "La fourmi porte de la nourriture à son nid.",
+          "highlight": "fourmi"
+        }
+      ]
+    },
+    {
+      "name_en": "Bee",
+      "name_fr": "Abeille",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Bees",
+      "plural_name_fr": "Abeilles",
+      "example_sentences": [
+        {
+          "example_en": "The bee makes honey.",
+          "example_fr": "L'abeille fait du miel.",
+          "highlight": "abeille"
+        }
+      ]
+    },
+    {
+      "name_en": "Butterfly",
+      "name_fr": "Papillon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Butterflies",
+      "plural_name_fr": "Papillons",
+      "example_sentences": [
+        {
+          "example_en": "The butterfly has colorful wings.",
+          "example_fr": "Le papillon a des ailes colorées.",
+          "highlight": "papillon"
+        }
+      ]
+    },
+    {
+      "name_en": "Mosquito",
+      "name_fr": "Moustique",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Mosquitoes",
+      "plural_name_fr": "Moustiques",
+      "example_sentences": [
+        {
+          "example_en": "The mosquito bites at night.",
+          "example_fr": "Le moustique pique la nuit.",
+          "highlight": "moustique"
+        }
+      ]
+    },
+    {
+      "name_en": "Fly",
+      "name_fr": "Mouche",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Flies",
+      "plural_name_fr": "Mouches",
+      "example_sentences": [
+        {
+          "example_en": "The fly lands on the table.",
+          "example_fr": "La mouche se pose sur la table.",
+          "highlight": "mouche"
+        }
+      ]
+    },
+    {
+      "name_en": "Ladybug",
+      "name_fr": "Coccinelle",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Ladybugs",
+      "plural_name_fr": "Coccinelles",
+      "example_sentences": [
+        {
+          "example_en": "The ladybug has red wings with black spots.",
+          "example_fr": "La coccinelle a des ailes rouges avec des points noirs.",
+          "highlight": "coccinelle"
+        }
+      ]
+    },
+    {
+      "name_en": "Dragonfly",
+      "name_fr": "Libellule",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Dragonflies",
+      "plural_name_fr": "Libellules",
+      "example_sentences": [
+        {
+          "example_en": "The dragonfly hovers over the pond.",
+          "example_fr": "La libellule vole au-dessus de l'étang.",
+          "highlight": "libellule"
+        }
+      ]
+    },
+    {
+      "name_en": "Grasshopper",
+      "name_fr": "Sauterelle",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Grasshoppers",
+      "plural_name_fr": "Sauterelles",
+      "example_sentences": [
+        {
+          "example_en": "The grasshopper jumps far.",
+          "example_fr": "La sauterelle saute loin.",
+          "highlight": "sauterelle"
+        }
+      ]
+    },
+    {
+      "name_en": "Cricket",
+      "name_fr": "Grillon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Crickets",
+      "plural_name_fr": "Grillons",
+      "example_sentences": [
+        {
+          "example_en": "The cricket chirps at night.",
+          "example_fr": "Le grillon chante la nuit.",
+          "highlight": "grillon"
+        }
+      ]
+    },
+    {
+      "name_en": "Wasp",
+      "name_fr": "Guêpe",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Wasps",
+      "plural_name_fr": "Guêpes",
+      "example_sentences": [
+        {
+          "example_en": "The wasp builds a nest.",
+          "example_fr": "La guêpe construit un nid.",
+          "highlight": "guêpe"
+        }
+      ]
+    },
+    {
+      "name_en": "Termite",
+      "name_fr": "Termite",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Termites",
+      "plural_name_fr": "Termites",
+      "example_sentences": [
+        {
+          "example_en": "The termite eats wood.",
+          "example_fr": "La termite mange du bois.",
+          "highlight": "termite"
+        }
+      ]
+    },
+    {
+      "name_en": "Cockroach",
+      "name_fr": "Cafard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Cockroaches",
+      "plural_name_fr": "Cafards",
+      "example_sentences": [
+        {
+          "example_en": "The cockroach hides in the dark.",
+          "example_fr": "Le cafard se cache dans l'obscurité.",
+          "highlight": "cafard"
+        }
+      ]
+    },
+    {
+      "name_en": "Moth",
+      "name_fr": "Papillon de nuit",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Moths",
+      "plural_name_fr": "Papillons de nuit",
+      "example_sentences": [
+        {
+          "example_en": "The moth is attracted to light.",
+          "example_fr": "Le papillon de nuit est attiré par la lumière.",
+          "highlight": "papillon de nuit"
+        }
+      ]
+    },
+    {
+      "name_en": "Earwig",
+      "name_fr": "Perce-oreille",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Earwigs",
+      "plural_name_fr": "Perce-oreilles",
+      "example_sentences": [
+        {
+          "example_en": "The earwig hides under leaves.",
+          "example_fr": "Le perce-oreille se cache sous les feuilles.",
+          "highlight": "perce-oreille"
+        }
+      ]
+    },
+    {
+      "name_en": "Stink bug",
+      "name_fr": "Punaise",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Stink bugs",
+      "plural_name_fr": "Punaises",
+      "example_sentences": [
+        {
+          "example_en": "The stink bug releases a strong odor.",
+          "example_fr": "La punaise dégage une forte odeur.",
+          "highlight": "punaise"
+        }
+      ]
+    }
+  ]
+}
