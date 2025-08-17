@@ -1,0 +1,336 @@
+{
+  "name_en": "Farm Animals",
+  "name_fr": "Animaux de la ferme",
+  "list": [
+    {
+      "name_en": "Cow",
+      "name_fr": "Vache",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Cows",
+      "plural_name_fr": "Vaches",
+      "example_sentences": [
+        {
+          "example_en": "The cow gives milk every morning.",
+          "example_fr": "La vache donne du lait chaque matin.",
+          "highlight": "vache"
+        }
+      ]
+    },
+    {
+      "name_en": "Sheep",
+      "name_fr": "Mouton",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sheep",
+      "plural_name_fr": "Moutons",
+      "example_sentences": [
+        {
+          "example_en": "The sheep grazes in the field.",
+          "example_fr": "Le mouton broute dans le champ.",
+          "highlight": "mouton"
+        }
+      ]
+    },
+    {
+      "name_en": "Goat",
+      "name_fr": "Chèvre",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Goats",
+      "plural_name_fr": "Chèvres",
+      "example_sentences": [
+        {
+          "example_en": "The goat climbs the hill easily.",
+          "example_fr": "La chèvre grimpe facilement la colline.",
+          "highlight": "chèvre"
+        }
+      ]
+    },
+    {
+      "name_en": "Horse",
+      "name_fr": "Cheval",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Horses",
+      "plural_name_fr": "Chevaux",
+      "example_sentences": [
+        {
+          "example_en": "The horse runs fast in the field.",
+          "example_fr": "Le cheval court vite dans le champ.",
+          "highlight": "cheval"
+        }
+      ]
+    },
+    {
+      "name_en": "Pig",
+      "name_fr": "Cochon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Pigs",
+      "plural_name_fr": "Cochons",
+      "example_sentences": [
+        {
+          "example_en": "The pig loves to roll in the mud.",
+          "example_fr": "Le cochon adore se rouler dans la boue.",
+          "highlight": "cochon"
+        }
+      ]
+    },
+    {
+      "name_en": "Chicken",
+      "name_fr": "Poule",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Chickens",
+      "plural_name_fr": "Poules",
+      "example_sentences": [
+        {
+          "example_en": "The chicken lays eggs every day.",
+          "example_fr": "La poule pond des œufs chaque jour.",
+          "highlight": "poule"
+        }
+      ]
+    },
+    {
+      "name_en": "Duck",
+      "name_fr": "Canard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Ducks",
+      "plural_name_fr": "Canards",
+      "example_sentences": [
+        {
+          "example_en": "The duck swims in the pond.",
+          "example_fr": "Le canard nage dans l'étang.",
+          "highlight": "canard"
+        }
+      ]
+    },
+    {
+      "name_en": "Goose",
+      "name_fr": "Oie",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Geese",
+      "plural_name_fr": "Oies",
+      "example_sentences": [
+        {
+          "example_en": "The goose honks loudly.",
+          "example_fr": "L'oie cacarde bruyamment.",
+          "highlight": "oie"
+        }
+      ]
+    },
+    {
+      "name_en": "Turkey",
+      "name_fr": "Dinde",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Turkeys",
+      "plural_name_fr": "Dindes",
+      "example_sentences": [
+        {
+          "example_en": "The turkey is a big bird.",
+          "example_fr": "La dinde est un gros oiseau.",
+          "highlight": "dinde"
+        }
+      ]
+    },
+    {
+      "name_en": "Donkey",
+      "name_fr": "Âne",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Donkeys",
+      "plural_name_fr": "Ânes",
+      "example_sentences": [
+        {
+          "example_en": "The donkey carries heavy loads.",
+          "example_fr": "L'âne porte des charges lourdes.",
+          "highlight": "âne"
+        }
+      ]
+    },
+    {
+      "name_en": "Rabbit",
+      "name_fr": "Lapin",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Rabbits",
+      "plural_name_fr": "Lapins",
+      "example_sentences": [
+        {
+          "example_en": "The rabbit eats carrots.",
+          "example_fr": "Le lapin mange des carottes.",
+          "highlight": "lapin"
+        }
+      ]
+    },
+    {
+      "name_en": "Sheepdog",
+      "name_fr": "Berger",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sheepdogs",
+      "plural_name_fr": "Bergers",
+      "example_sentences": [
+        {
+          "example_en": "The sheepdog guards the flock.",
+          "example_fr": "Le berger garde le troupeau.",
+          "highlight": "berger"
+        }
+      ]
+    },
+    {
+      "name_en": "Rooster",
+      "name_fr": "Coq",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Roosters",
+      "plural_name_fr": "Coqs",
+      "example_sentences": [
+        {
+          "example_en": "The rooster crows at dawn.",
+          "example_fr": "Le coq chante à l'aube.",
+          "highlight": "coq"
+        }
+      ]
+    },
+    {
+      "name_en": "Calf",
+      "name_fr": "Veau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Calves",
+      "plural_name_fr": "Veaux",
+      "example_sentences": [
+        {
+          "example_en": "The calf stays close to its mother.",
+          "example_fr": "Le veau reste près de sa mère.",
+          "highlight": "veau"
+        }
+      ]
+    },
+    {
+      "name_en": "Bull",
+      "name_fr": "Taureau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Bulls",
+      "plural_name_fr": "Taureaux",
+      "example_sentences": [
+        {
+          "example_en": "The bull is strong and powerful.",
+          "example_fr": "Le taureau est fort et puissant.",
+          "highlight": "taureau"
+        }
+      ]
+    },
+    {
+      "name_en": "Lamb",
+      "name_fr": "Agneau",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Lambs",
+      "plural_name_fr": "Agneaux",
+      "example_sentences": [
+        {
+          "example_en": "The lamb follows the sheep.",
+          "example_fr": "L'agneau suit le mouton.",
+          "highlight": "agneau"
+        }
+      ]
+    },
+    {
+      "name_en": "Mule",
+      "name_fr": "Mulet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Mules",
+      "plural_name_fr": "Mulets",
+      "example_sentences": [
+        {
+          "example_en": "The mule carries supplies up the mountain.",
+          "example_fr": "Le mulet porte des provisions en montagne.",
+          "highlight": "mulet"
+        }
+      ]
+    },
+    {
+      "name_en": "Foal",
+      "name_fr": "Poulain",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Foals",
+      "plural_name_fr": "Poulains",
+      "example_sentences": [
+        {
+          "example_en": "The foal learns to walk quickly.",
+          "example_fr": "Le poulain apprend à marcher rapidement.",
+          "highlight": "poulain"
+        }
+      ]
+    },
+    {
+      "name_en": "Kid",
+      "name_fr": "Chevreau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Kids",
+      "plural_name_fr": "Chevreaux",
+      "example_sentences": [
+        {
+          "example_en": "The kid jumps around playfully.",
+          "example_fr": "Le chevreau saute joyeusement.",
+          "highlight": "chevreau"
+        }
+      ]
+    },
+    {
+      "name_en": "Duckling",
+      "name_fr": "Caneton",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Ducklings",
+      "plural_name_fr": "Canetons",
+      "example_sentences": [
+        {
+          "example_en": "The duckling follows its mother.",
+          "example_fr": "Le caneton suit sa mère.",
+          "highlight": "caneton"
+        }
+      ]
+    },
+    {
+      "name_en": "Piglet",
+      "name_fr": "Porcelet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Piglets",
+      "plural_name_fr": "Porcelets",
+      "example_sentences": [
+        {
+          "example_en": "The piglet squeals loudly.",
+          "example_fr": "Le porcelet couine bruyamment.",
+          "highlight": "porcelet"
+        }
+      ]
+    },
+    {
+      "name_en": "Pony",
+      "name_fr": "Poney",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Ponies",
+      "plural_name_fr": "Poneys",
+      "example_sentences": [
+        {
+          "example_en": "The pony is smaller than a horse.",
+          "example_fr": "Le poney est plus petit qu'un cheval.",
+          "highlight": "poney"
+        }
+      ]
+    }
+  ]
+}

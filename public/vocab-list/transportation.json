@@ -1,0 +1,441 @@
+{
+  "name_en": "Transportation",
+  "name_fr": "Transports",
+  "list": [
+    {
+      "name_en": "Car",
+      "name_fr": "Voiture",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Cars",
+      "plural_name_fr": "Voitures",
+      "example_sentences": [
+        {
+          "example_en": "The car is parked outside.",
+          "example_fr": "La voiture est garée dehors.",
+          "highlight": "voiture"
+        }
+      ]
+    },
+    {
+      "name_en": "Bus",
+      "name_fr": "Bus",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Buses",
+      "plural_name_fr": "Bus",
+      "example_sentences": [
+        {
+          "example_en": "The bus arrives at 8 o'clock.",
+          "example_fr": "Le bus arrive à huit heures.",
+          "highlight": "bus"
+        }
+      ]
+    },
+    {
+      "name_en": "Train",
+      "name_fr": "Train",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Trains",
+      "plural_name_fr": "Trains",
+      "example_sentences": [
+        {
+          "example_en": "The train leaves the station.",
+          "example_fr": "Le train quitte la gare.",
+          "highlight": "train"
+        }
+      ]
+    },
+    {
+      "name_en": "Bicycle",
+      "name_fr": "Vélo",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Bicycles",
+      "plural_name_fr": "Vélos",
+      "example_sentences": [
+        {
+          "example_en": "She rides her bicycle to school.",
+          "example_fr": "Elle va à l'école à vélo.",
+          "highlight": "vélo"
+        }
+      ]
+    },
+    {
+      "name_en": "Motorcycle",
+      "name_fr": "Moto",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Motorcycles",
+      "plural_name_fr": "Motos",
+      "example_sentences": [
+        {
+          "example_en": "The motorcycle is very fast.",
+          "example_fr": "La moto est très rapide.",
+          "highlight": "moto"
+        }
+      ]
+    },
+    {
+      "name_en": "Truck",
+      "name_fr": "Camion",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Trucks",
+      "plural_name_fr": "Camions",
+      "example_sentences": [
+        {
+          "example_en": "The truck delivers goods.",
+          "example_fr": "Le camion livre des marchandises.",
+          "highlight": "camion"
+        }
+      ]
+    },
+    {
+      "name_en": "Van",
+      "name_fr": "Fourgonnette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Vans",
+      "plural_name_fr": "Fourgonnettes",
+      "example_sentences": [
+        {
+          "example_en": "The van is used for transport.",
+          "example_fr": "La fourgonnette sert au transport.",
+          "highlight": "fourgonnette"
+        }
+      ]
+    },
+    {
+      "name_en": "Taxi",
+      "name_fr": "Taxi",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Taxis",
+      "plural_name_fr": "Taxis",
+      "example_sentences": [
+        {
+          "example_en": "The taxi is waiting.",
+          "example_fr": "Le taxi attend.",
+          "highlight": "taxi"
+        }
+      ]
+    },
+    {
+      "name_en": "Subway",
+      "name_fr": "Métro",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Subways",
+      "plural_name_fr": "Métros",
+      "example_sentences": [
+        {
+          "example_en": "The subway is crowded.",
+          "example_fr": "Le métro est bondé.",
+          "highlight": "métro"
+        }
+      ]
+    },
+    {
+      "name_en": "Tram",
+      "name_fr": "Tramway",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Trams",
+      "plural_name_fr": "Tramways",
+      "example_sentences": [
+        {
+          "example_en": "The tram stops here.",
+          "example_fr": "Le tramway s'arrête ici.",
+          "highlight": "tramway"
+        }
+      ]
+    },
+    {
+      "name_en": "Ferry",
+      "name_fr": "Ferry",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Ferries",
+      "plural_name_fr": "Ferries",
+      "example_sentences": [
+        {
+          "example_en": "The ferry crosses the river.",
+          "example_fr": "Le ferry traverse la rivière.",
+          "highlight": "ferry"
+        }
+      ]
+    },
+    {
+      "name_en": "Boat",
+      "name_fr": "Bateau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Boats",
+      "plural_name_fr": "Bateaux",
+      "example_sentences": [
+        {
+          "example_en": "The boat sails on the lake.",
+          "example_fr": "Le bateau navigue sur le lac.",
+          "highlight": "bateau"
+        }
+      ]
+    },
+    {
+      "name_en": "Ship",
+      "name_fr": "Navire",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Ships",
+      "plural_name_fr": "Navires",
+      "example_sentences": [
+        {
+          "example_en": "The ship is very large.",
+          "example_fr": "Le navire est très grand.",
+          "highlight": "navire"
+        }
+      ]
+    },
+    {
+      "name_en": "Airplane",
+      "name_fr": "Avion",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Airplanes",
+      "plural_name_fr": "Avions",
+      "example_sentences": [
+        {
+          "example_en": "The airplane flies high.",
+          "example_fr": "L'avion vole haut.",
+          "highlight": "avion"
+        }
+      ]
+    },
+    {
+      "name_en": "Helicopter",
+      "name_fr": "Hélicoptère",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Helicopters",
+      "plural_name_fr": "Hélicoptères",
+      "example_sentences": [
+        {
+          "example_en": "The helicopter lands on the roof.",
+          "example_fr": "L'hélicoptère atterrit sur le toit.",
+          "highlight": "hélicoptère"
+        }
+      ]
+    },
+    {
+      "name_en": "Scooter",
+      "name_fr": "Scooter",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Scooters",
+      "plural_name_fr": "Scooters",
+      "example_sentences": [
+        {
+          "example_en": "The scooter is parked here.",
+          "example_fr": "Le scooter est garé ici.",
+          "highlight": "scooter"
+        }
+      ]
+    },
+    {
+      "name_en": "Moped",
+      "name_fr": "Mobylette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Mopeds",
+      "plural_name_fr": "Mobylettes",
+      "example_sentences": [
+        {
+          "example_en": "The moped is economical.",
+          "example_fr": "La mobylette est économique.",
+          "highlight": "mobylette"
+        }
+      ]
+    },
+    {
+      "name_en": "Skateboard",
+      "name_fr": "Skateboard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Skateboards",
+      "plural_name_fr": "Skateboards",
+      "example_sentences": [
+        {
+          "example_en": "He rides his skateboard.",
+          "example_fr": "Il fait du skateboard.",
+          "highlight": "skateboard"
+        }
+      ]
+    },
+    {
+      "name_en": "Roller Skates",
+      "name_fr": "Patins à roulettes",
+      "article": "les",
+      "gender": "masculine",
+      "plural_name_en": "Roller Skates",
+      "plural_name_fr": "Patins à roulettes",
+      "example_sentences": [
+        {
+          "example_en": "She wears roller skates.",
+          "example_fr": "Elle porte des patins à roulettes.",
+          "highlight": "patins à roulettes"
+        }
+      ]
+    },
+    {
+      "name_en": "Horse",
+      "name_fr": "Cheval",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Horses",
+      "plural_name_fr": "Chevaux",
+      "example_sentences": [
+        {
+          "example_en": "The horse is a means of transport.",
+          "example_fr": "Le cheval est un moyen de transport.",
+          "highlight": "cheval"
+        }
+      ]
+    },
+    {
+      "name_en": "Camel",
+      "name_fr": "Chameau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Camels",
+      "plural_name_fr": "Chameaux",
+      "example_sentences": [
+        {
+          "example_en": "The camel travels in the desert.",
+          "example_fr": "Le chameau voyage dans le désert.",
+          "highlight": "chameau"
+        }
+      ]
+    },
+    {
+      "name_en": "Rickshaw",
+      "name_fr": "Pousse-pousse",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Rickshaws",
+      "plural_name_fr": "Pousse-pousses",
+      "example_sentences": [
+        {
+          "example_en": "The rickshaw is popular in Asia.",
+          "example_fr": "Le pousse-pousse est populaire en Asie.",
+          "highlight": "pousse-pousse"
+        }
+      ]
+    },
+    {
+      "name_en": "Cable Car",
+      "name_fr": "Téléphérique",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Cable Cars",
+      "plural_name_fr": "Téléphériques",
+      "example_sentences": [
+        {
+          "example_en": "The cable car goes up the mountain.",
+          "example_fr": "Le téléphérique monte la montagne.",
+          "highlight": "téléphérique"
+        }
+      ]
+    },
+    {
+      "name_en": "Carriage",
+      "name_fr": "Calèche",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Carriages",
+      "plural_name_fr": "Calèches",
+      "example_sentences": [
+        {
+          "example_en": "The carriage is pulled by horses.",
+          "example_fr": "La calèche est tirée par des chevaux.",
+          "highlight": "calèche"
+        }
+      ]
+    },
+    {
+      "name_en": "Spaceship",
+      "name_fr": "Vaisseau spatial",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Spaceships",
+      "plural_name_fr": "Vaisseaux spatiaux",
+      "example_sentences": [
+        {
+          "example_en": "The spaceship travels in space.",
+          "example_fr": "Le vaisseau spatial voyage dans l'espace.",
+          "highlight": "vaisseau spatial"
+        }
+      ]
+    },
+    {
+      "name_en": "Hot Air Balloon",
+      "name_fr": "Montgolfière",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Hot Air Balloons",
+      "plural_name_fr": "Montgolfières",
+      "example_sentences": [
+        {
+          "example_en": "The hot air balloon floats in the sky.",
+          "example_fr": "La montgolfière flotte dans le ciel.",
+          "highlight": "montgolfière"
+        }
+      ]
+    },
+    {
+      "name_en": "Jet",
+      "name_fr": "Jet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Jets",
+      "plural_name_fr": "Jets",
+      "example_sentences": [
+        {
+          "example_en": "The jet is very fast.",
+          "example_fr": "Le jet est très rapide.",
+          "highlight": "jet"
+        }
+      ]
+    },
+    {
+      "name_en": "Yacht",
+      "name_fr": "Yacht",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Yachts",
+      "plural_name_fr": "Yachts",
+      "example_sentences": [
+        {
+          "example_en": "The yacht sails on the sea.",
+          "example_fr": "Le yacht navigue sur la mer.",
+          "highlight": "yacht"
+        }
+      ]
+    },
+    {
+      "name_en": "Rowboat",
+      "name_fr": "Barque",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Rowboats",
+      "plural_name_fr": "Barques",
+      "example_sentences": [
+        {
+          "example_en": "The rowboat is on the lake.",
+          "example_fr": "La barque est sur le lac.",
+          "highlight": "barque"
+        }
+      ]
+    }
+  ]
+}

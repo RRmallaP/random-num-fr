@@ -1,0 +1,306 @@
+{
+  "name_en": "Emotions",
+  "name_fr": "Émotions",
+  "list": [
+    {
+      "name_en": "Happiness",
+      "name_fr": "Bonheur",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Happinesses",
+      "plural_name_fr": "Bonheurs",
+      "example_sentences": [
+        {
+          "example_en": "Happiness is important.",
+          "example_fr": "Le bonheur est important.",
+          "highlight": "bonheur"
+        }
+      ]
+    },
+    {
+      "name_en": "Sadness",
+      "name_fr": "Tristesse",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Sadnesses",
+      "plural_name_fr": "Tristesses",
+      "example_sentences": [
+        {
+          "example_en": "She feels sadness.",
+          "example_fr": "Elle ressent de la tristesse.",
+          "highlight": "tristesse"
+        }
+      ]
+    },
+    {
+      "name_en": "Anger",
+      "name_fr": "Colère",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Angers",
+      "plural_name_fr": "Colères",
+      "example_sentences": [
+        {
+          "example_en": "Anger is a strong emotion.",
+          "example_fr": "La colère est une émotion forte.",
+          "highlight": "colère"
+        }
+      ]
+    },
+    {
+      "name_en": "Fear",
+      "name_fr": "Peur",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Fears",
+      "plural_name_fr": "Peurs",
+      "example_sentences": [
+        {
+          "example_en": "He has a fear of heights.",
+          "example_fr": "Il a peur du vide.",
+          "highlight": "peur"
+        }
+      ]
+    },
+    {
+      "name_en": "Surprise",
+      "name_fr": "Surprise",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Surprises",
+      "plural_name_fr": "Surprises",
+      "example_sentences": [
+        {
+          "example_en": "The party was a surprise.",
+          "example_fr": "La fête était une surprise.",
+          "highlight": "surprise"
+        }
+      ]
+    },
+    {
+      "name_en": "Disgust",
+      "name_fr": "Dégoût",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Disgusts",
+      "plural_name_fr": "Dégoûts",
+      "example_sentences": [
+        {
+          "example_en": "He felt disgust.",
+          "example_fr": "Il a ressenti du dégoût.",
+          "highlight": "dégoût"
+        }
+      ]
+    },
+    {
+      "name_en": "Love",
+      "name_fr": "Amour",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Loves",
+      "plural_name_fr": "Amours",
+      "example_sentences": [
+        {
+          "example_en": "Love is universal.",
+          "example_fr": "L'amour est universel.",
+          "highlight": "amour"
+        }
+      ]
+    },
+    {
+      "name_en": "Joy",
+      "name_fr": "Joie",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Joys",
+      "plural_name_fr": "Joies",
+      "example_sentences": [
+        {
+          "example_en": "She dances with joy.",
+          "example_fr": "Elle danse de joie.",
+          "highlight": "joie"
+        }
+      ]
+    },
+    {
+      "name_en": "Excitement",
+      "name_fr": "Excitation",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Excitements",
+      "plural_name_fr": "Excitations",
+      "example_sentences": [
+        {
+          "example_en": "The children show excitement.",
+          "example_fr": "Les enfants montrent de l'excitation.",
+          "highlight": "excitation"
+        }
+      ]
+    },
+    {
+      "name_en": "Worry",
+      "name_fr": "Inquiétude",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Worries",
+      "plural_name_fr": "Inquiétudes",
+      "example_sentences": [
+        {
+          "example_en": "He has a lot of worry.",
+          "example_fr": "Il a beaucoup d'inquiétude.",
+          "highlight": "inquiétude"
+        }
+      ]
+    },
+    {
+      "name_en": "Confidence",
+      "name_fr": "Confiance",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Confidences",
+      "plural_name_fr": "Confiances",
+      "example_sentences": [
+        {
+          "example_en": "She speaks with confidence.",
+          "example_fr": "Elle parle avec confiance.",
+          "highlight": "confiance"
+        }
+      ]
+    },
+    {
+      "name_en": "Shame",
+      "name_fr": "Honte",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Shames",
+      "plural_name_fr": "Hontes",
+      "example_sentences": [
+        {
+          "example_en": "He feels shame.",
+          "example_fr": "Il ressent de la honte.",
+          "highlight": "honte"
+        }
+      ]
+    },
+    {
+      "name_en": "Pride",
+      "name_fr": "Fierté",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Prides",
+      "plural_name_fr": "Fiertés",
+      "example_sentences": [
+        {
+          "example_en": "She has pride in her work.",
+          "example_fr": "Elle a de la fierté dans son travail.",
+          "highlight": "fierté"
+        }
+      ]
+    },
+    {
+      "name_en": "Embarrassment",
+      "name_fr": "Gêne",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Embarrassments",
+      "plural_name_fr": "Gênes",
+      "example_sentences": [
+        {
+          "example_en": "He felt embarrassment.",
+          "example_fr": "Il a ressenti de la gêne.",
+          "highlight": "gêne"
+        }
+      ]
+    },
+    {
+      "name_en": "Gratitude",
+      "name_fr": "Reconnaissance",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Gratitudes",
+      "plural_name_fr": "Reconnaissances",
+      "example_sentences": [
+        {
+          "example_en": "She expressed gratitude.",
+          "example_fr": "Elle a exprimé sa reconnaissance.",
+          "highlight": "reconnaissance"
+        }
+      ]
+    },
+    {
+      "name_en": "Loneliness",
+      "name_fr": "Solitude",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Lonelinesses",
+      "plural_name_fr": "Solitudes",
+      "example_sentences": [
+        {
+          "example_en": "Loneliness can be difficult.",
+          "example_fr": "La solitude peut être difficile.",
+          "highlight": "solitude"
+        }
+      ]
+    },
+    {
+      "name_en": "Hope",
+      "name_fr": "Espoir",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Hopes",
+      "plural_name_fr": "Espoirs",
+      "example_sentences": [
+        {
+          "example_en": "Hope gives strength.",
+          "example_fr": "L'espoir donne de la force.",
+          "highlight": "espoir"
+        }
+      ]
+    },
+    {
+      "name_en": "Relief",
+      "name_fr": "Soulagement",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Reliefs",
+      "plural_name_fr": "Soulagements",
+      "example_sentences": [
+        {
+          "example_en": "He felt relief after the exam.",
+          "example_fr": "Il a ressenti du soulagement après l'examen.",
+          "highlight": "soulagement"
+        }
+      ]
+    },
+    {
+      "name_en": "Envy",
+      "name_fr": "Envie",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Envies",
+      "plural_name_fr": "Envies",
+      "example_sentences": [
+        {
+          "example_en": "Envy is a negative feeling.",
+          "example_fr": "L'envie est un sentiment négatif.",
+          "highlight": "envie"
+        }
+      ]
+    },
+    {
+      "name_en": "Frustration",
+      "name_fr": "Frustration",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Frustrations",
+      "plural_name_fr": "Frustrations",
+      "example_sentences": [
+        {
+          "example_en": "She felt frustration at the delay.",
+          "example_fr": "Elle a ressenti de la frustration à cause du retard.",
+          "highlight": "frustration"
+        }
+      ]
+    }
+  ]
+}

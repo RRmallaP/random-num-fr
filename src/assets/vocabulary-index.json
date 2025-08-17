@@ -101,31 +101,6 @@
       ]
     },
     {
-      "name_en": "Nature",
-      "name_fr": "Nature",
-      "pic": "",
-      "sub-category": [
-        {
-          "name_en": "Plants",
-          "name_fr": "Plantes",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Trees",
-          "name_fr": "Arbres",
-          "pic": "",
-          "sub-category": []
-        },
-        {
-          "name_en": "Flowers",
-          "name_fr": "Fleurs",
-          "pic": "",
-          "sub-category": []
-        }
-      ]
-    },
-    {
       "name_en": "birds",
       "name_fr": "oiseaux",
       "pic": "",
@@ -152,12 +127,6 @@
     {
       "name_en": "amphibians",
       "name_fr": "amphibiens",
-      "pic": "",
-      "sub-category": []
-    },
-    {
-      "name_en": "mammals",
-      "name_fr": "mammifères",
       "pic": "",
       "sub-category": []
     },
@@ -362,6 +331,12 @@
       "sub-category": []
     },
     {
+      "name_en": "prepositions",
+      "name_fr": "prépositions",
+      "pic": "",
+      "sub-category": []
+    },
+    {
       "name_en": "adjectives",
       "name_fr": "adjectifs",
       "pic": "",
@@ -447,10 +422,29 @@
       "sub-category": []
     },
     {
-      "name_en": "prepositions",
-      "name_fr": "prépositions",
+      "name_en": "Nature",
+      "name_fr": "Nature",
       "pic": "",
-      "sub-category": []
+      "sub-category": [
+        {
+          "name_en": "Plants",
+          "name_fr": "Plantes",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Trees",
+          "name_fr": "Arbres",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Flowers",
+          "name_fr": "Fleurs",
+          "pic": "",
+          "sub-category": []
+        }
+      ]
     }
   ]
 }

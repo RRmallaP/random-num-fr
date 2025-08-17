@@ -1,0 +1,141 @@
+{
+  "name_en": "Reptiles",
+  "name_fr": "Reptiles",
+  "list": [
+    {
+      "name_en": "Lizard",
+      "name_fr": "Lézard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Lizards",
+      "plural_name_fr": "Lézards",
+      "example_sentences": [
+        {
+          "example_en": "The lizard basks in the sun.",
+          "example_fr": "Le lézard se prélasse au soleil.",
+          "highlight": "lézard"
+        }
+      ]
+    },
+    {
+      "name_en": "Snake",
+      "name_fr": "Serpent",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Snakes",
+      "plural_name_fr": "Serpents",
+      "example_sentences": [
+        {
+          "example_en": "The snake slithers on the ground.",
+          "example_fr": "Le serpent rampe sur le sol.",
+          "highlight": "serpent"
+        }
+      ]
+    },
+    {
+      "name_en": "Turtle",
+      "name_fr": "Tortue",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Turtles",
+      "plural_name_fr": "Tortues",
+      "example_sentences": [
+        {
+          "example_en": "The turtle moves slowly.",
+          "example_fr": "La tortue avance lentement.",
+          "highlight": "tortue"
+        }
+      ]
+    },
+    {
+      "name_en": "Crocodile",
+      "name_fr": "Crocodile",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Crocodiles",
+      "plural_name_fr": "Crocodiles",
+      "example_sentences": [
+        {
+          "example_en": "The crocodile waits in the water.",
+          "example_fr": "Le crocodile attend dans l'eau.",
+          "highlight": "crocodile"
+        }
+      ]
+    },
+    {
+      "name_en": "Alligator",
+      "name_fr": "Alligator",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Alligators",
+      "plural_name_fr": "Alligators",
+      "example_sentences": [
+        {
+          "example_en": "The alligator has a powerful jaw.",
+          "example_fr": "L'alligator a une mâchoire puissante.",
+          "highlight": "alligator"
+        }
+      ]
+    },
+    {
+      "name_en": "Gecko",
+      "name_fr": "Gecko",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Geckos",
+      "plural_name_fr": "Geckos",
+      "example_sentences": [
+        {
+          "example_en": "The gecko climbs walls easily.",
+          "example_fr": "Le gecko grimpe facilement aux murs.",
+          "highlight": "gecko"
+        }
+      ]
+    },
+    {
+      "name_en": "Chameleon",
+      "name_fr": "Caméléon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Chameleons",
+      "plural_name_fr": "Caméléons",
+      "example_sentences": [
+        {
+          "example_en": "The chameleon changes its color.",
+          "example_fr": "Le caméléon change sa couleur.",
+          "highlight": "caméléon"
+        }
+      ]
+    },
+    {
+      "name_en": "Iguana",
+      "name_fr": "Iguane",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Iguanas",
+      "plural_name_fr": "Iguanes",
+      "example_sentences": [
+        {
+          "example_en": "The iguana eats leaves.",
+          "example_fr": "L'iguane mange des feuilles.",
+          "highlight": "iguane"
+        }
+      ]
+    },
+    {
+      "name_en": "Viper",
+      "name_fr": "Vipère",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Vipers",
+      "plural_name_fr": "Vipères",
+      "example_sentences": [
+        {
+          "example_en": "The viper is venomous.",
+          "example_fr": "La vipère est venimeuse.",
+          "highlight": "vipère"
+        }
+      ]
+    }
+  ]
+}

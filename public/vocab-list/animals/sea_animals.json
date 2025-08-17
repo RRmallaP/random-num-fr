@@ -1,0 +1,216 @@
+{
+  "name_en": "Sea Animals",
+  "name_fr": "Animaux marins",
+  "list": [
+    {
+      "name_en": "Fish",
+      "name_fr": "Poisson",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Fish",
+      "plural_name_fr": "Poissons",
+      "example_sentences": [
+        {
+          "example_en": "The fish swims in the ocean.",
+          "example_fr": "Le poisson nage dans l'océan.",
+          "highlight": "poisson"
+        }
+      ]
+    },
+    {
+      "name_en": "Shark",
+      "name_fr": "Requin",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sharks",
+      "plural_name_fr": "Requins",
+      "example_sentences": [
+        {
+          "example_en": "The shark has sharp teeth.",
+          "example_fr": "Le requin a des dents pointues.",
+          "highlight": "requin"
+        }
+      ]
+    },
+    {
+      "name_en": "Dolphin",
+      "name_fr": "Dauphin",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Dolphins",
+      "plural_name_fr": "Dauphins",
+      "example_sentences": [
+        {
+          "example_en": "The dolphin jumps out of the water.",
+          "example_fr": "Le dauphin saute hors de l'eau.",
+          "highlight": "dauphin"
+        }
+      ]
+    },
+    {
+      "name_en": "Whale",
+      "name_fr": "Baleine",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Whales",
+      "plural_name_fr": "Baleines",
+      "example_sentences": [
+        {
+          "example_en": "The whale is very large.",
+          "example_fr": "La baleine est très grande.",
+          "highlight": "baleine"
+        }
+      ]
+    },
+    {
+      "name_en": "Octopus",
+      "name_fr": "Poulpe",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Octopuses",
+      "plural_name_fr": "Poulpes",
+      "example_sentences": [
+        {
+          "example_en": "The octopus has eight arms.",
+          "example_fr": "Le poulpe a huit bras.",
+          "highlight": "poulpe"
+        }
+      ]
+    },
+    {
+      "name_en": "Squid",
+      "name_fr": "Calmar",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Squids",
+      "plural_name_fr": "Calmars",
+      "example_sentences": [
+        {
+          "example_en": "The squid squirts ink.",
+          "example_fr": "Le calmar projette de l'encre.",
+          "highlight": "calmar"
+        }
+      ]
+    },
+    {
+      "name_en": "Seal",
+      "name_fr": "Phoque",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Seals",
+      "plural_name_fr": "Phoques",
+      "example_sentences": [
+        {
+          "example_en": "The seal claps its flippers.",
+          "example_fr": "Le phoque tape avec ses nageoires.",
+          "highlight": "phoque"
+        }
+      ]
+    },
+    {
+      "name_en": "Sea Turtle",
+      "name_fr": "Tortue de mer",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Sea Turtles",
+      "plural_name_fr": "Tortues de mer",
+      "example_sentences": [
+        {
+          "example_en": "The sea turtle lays eggs on the beach.",
+          "example_fr": "La tortue de mer pond des œufs sur la plage.",
+          "highlight": "tortue de mer"
+        }
+      ]
+    },
+    {
+      "name_en": "Crab",
+      "name_fr": "Crabe",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Crabs",
+      "plural_name_fr": "Crabes",
+      "example_sentences": [
+        {
+          "example_en": "The crab walks sideways.",
+          "example_fr": "Le crabe marche de côté.",
+          "highlight": "crabe"
+        }
+      ]
+    },
+    {
+      "name_en": "Lobster",
+      "name_fr": "Homard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Lobsters",
+      "plural_name_fr": "Homards",
+      "example_sentences": [
+        {
+          "example_en": "The lobster has big claws.",
+          "example_fr": "Le homard a de grandes pinces.",
+          "highlight": "homard"
+        }
+      ]
+    },
+    {
+      "name_en": "Jellyfish",
+      "name_fr": "Méduse",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Jellyfish",
+      "plural_name_fr": "Méduses",
+      "example_sentences": [
+        {
+          "example_en": "The jellyfish floats in the water.",
+          "example_fr": "La méduse flotte dans l'eau.",
+          "highlight": "méduse"
+        }
+      ]
+    },
+    {
+      "name_en": "Orca",
+      "name_fr": "Orque",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Orcas",
+      "plural_name_fr": "Orques",
+      "example_sentences": [
+        {
+          "example_en": "The orca is also called a killer whale.",
+          "example_fr": "L'orque est aussi appelée épaulard.",
+          "highlight": "orque"
+        }
+      ]
+    },
+    {
+      "name_en": "Sea Lion",
+      "name_fr": "Lion de mer",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sea Lions",
+      "plural_name_fr": "Lions de mer",
+      "example_sentences": [
+        {
+          "example_en": "The sea lion barks loudly.",
+          "example_fr": "Le lion de mer aboie bruyamment.",
+          "highlight": "lion de mer"
+        }
+      ]
+    },
+    {
+      "name_en": "Shrimp",
+      "name_fr": "Crevette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Shrimp",
+      "plural_name_fr": "Crevettes",
+      "example_sentences": [
+        {
+          "example_en": "The shrimp is pink and small.",
+          "example_fr": "La crevette est rose et petite.",
+          "highlight": "crevette"
+        }
+      ]
+    }
+  ]
+}

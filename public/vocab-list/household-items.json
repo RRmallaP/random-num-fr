@@ -1,0 +1,936 @@
+{
+  "name_en": "Household Items",
+  "name_fr": "Objets ménagers",
+  "list": [
+    {
+      "name_en": "Table",
+      "name_fr": "Table",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Tables",
+      "plural_name_fr": "Tables",
+      "example_sentences": [
+        {
+          "example_en": "The table is in the dining room.",
+          "example_fr": "La table est dans la salle à manger.",
+          "highlight": "table"
+        }
+      ]
+    },
+    {
+      "name_en": "Chair",
+      "name_fr": "Chaise",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Chairs",
+      "plural_name_fr": "Chaises",
+      "example_sentences": [
+        {
+          "example_en": "He sits on the chair.",
+          "example_fr": "Il s'assoit sur la chaise.",
+          "highlight": "chaise"
+        }
+      ]
+    },
+    {
+      "name_en": "Bed",
+      "name_fr": "Lit",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Beds",
+      "plural_name_fr": "Lits",
+      "example_sentences": [
+        {
+          "example_en": "The bed is comfortable.",
+          "example_fr": "Le lit est confortable.",
+          "highlight": "lit"
+        }
+      ]
+    },
+    {
+      "name_en": "Sofa",
+      "name_fr": "Canapé",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sofas",
+      "plural_name_fr": "Canapés",
+      "example_sentences": [
+        {
+          "example_en": "The sofa is in the living room.",
+          "example_fr": "Le canapé est dans le salon.",
+          "highlight": "canapé"
+        }
+      ]
+    },
+    {
+      "name_en": "Armchair",
+      "name_fr": "Fauteuil",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Armchairs",
+      "plural_name_fr": "Fauteuils",
+      "example_sentences": [
+        {
+          "example_en": "She reads in the armchair.",
+          "example_fr": "Elle lit dans le fauteuil.",
+          "highlight": "fauteuil"
+        }
+      ]
+    },
+    {
+      "name_en": "Desk",
+      "name_fr": "Bureau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Desks",
+      "plural_name_fr": "Bureaux",
+      "example_sentences": [
+        {
+          "example_en": "The desk is made of wood.",
+          "example_fr": "Le bureau est en bois.",
+          "highlight": "bureau"
+        }
+      ]
+    },
+    {
+      "name_en": "Bookshelf",
+      "name_fr": "Étagère",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Bookshelves",
+      "plural_name_fr": "Étagères",
+      "example_sentences": [
+        {
+          "example_en": "The bookshelf is full of books.",
+          "example_fr": "L'étagère est pleine de livres.",
+          "highlight": "étagère"
+        }
+      ]
+    },
+    {
+      "name_en": "Lamp",
+      "name_fr": "Lampe",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Lamps",
+      "plural_name_fr": "Lampes",
+      "example_sentences": [
+        {
+          "example_en": "The lamp is on the table.",
+          "example_fr": "La lampe est sur la table.",
+          "highlight": "lampe"
+        }
+      ]
+    },
+    {
+      "name_en": "Clock",
+      "name_fr": "Horloge",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Clocks",
+      "plural_name_fr": "Horloges",
+      "example_sentences": [
+        {
+          "example_en": "The clock shows the time.",
+          "example_fr": "L'horloge indique l'heure.",
+          "highlight": "horloge"
+        }
+      ]
+    },
+    {
+      "name_en": "Mirror",
+      "name_fr": "Miroir",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Mirrors",
+      "plural_name_fr": "Miroirs",
+      "example_sentences": [
+        {
+          "example_en": "She looks in the mirror.",
+          "example_fr": "Elle se regarde dans le miroir.",
+          "highlight": "miroir"
+        }
+      ]
+    },
+    {
+      "name_en": "Curtain",
+      "name_fr": "Rideau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Curtains",
+      "plural_name_fr": "Rideaux",
+      "example_sentences": [
+        {
+          "example_en": "The curtain is blue.",
+          "example_fr": "Le rideau est bleu.",
+          "highlight": "rideau"
+        }
+      ]
+    },
+    {
+      "name_en": "Carpet",
+      "name_fr": "Tapis",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Carpets",
+      "plural_name_fr": "Tapis",
+      "example_sentences": [
+        {
+          "example_en": "The carpet is soft.",
+          "example_fr": "Le tapis est doux.",
+          "highlight": "tapis"
+        }
+      ]
+    },
+    {
+      "name_en": "Rug",
+      "name_fr": "Paillasson",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Rugs",
+      "plural_name_fr": "Paillassons",
+      "example_sentences": [
+        {
+          "example_en": "The rug is at the door.",
+          "example_fr": "Le paillasson est à la porte.",
+          "highlight": "paillasson"
+        }
+      ]
+    },
+    {
+      "name_en": "Pillow",
+      "name_fr": "Oreiller",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Pillows",
+      "plural_name_fr": "Oreillers",
+      "example_sentences": [
+        {
+          "example_en": "The pillow is soft.",
+          "example_fr": "L'oreiller est doux.",
+          "highlight": "oreiller"
+        }
+      ]
+    },
+    {
+      "name_en": "Blanket",
+      "name_fr": "Couverture",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Blankets",
+      "plural_name_fr": "Couvertures",
+      "example_sentences": [
+        {
+          "example_en": "The blanket is warm.",
+          "example_fr": "La couverture est chaude.",
+          "highlight": "couverture"
+        }
+      ]
+    },
+    {
+      "name_en": "Sheet",
+      "name_fr": "Drap",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sheets",
+      "plural_name_fr": "Draps",
+      "example_sentences": [
+        {
+          "example_en": "The sheet is clean.",
+          "example_fr": "Le drap est propre.",
+          "highlight": "drap"
+        }
+      ]
+    },
+    {
+      "name_en": "Towel",
+      "name_fr": "Serviette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Towels",
+      "plural_name_fr": "Serviettes",
+      "example_sentences": [
+        {
+          "example_en": "The towel is dry.",
+          "example_fr": "La serviette est sèche.",
+          "highlight": "serviette"
+        }
+      ]
+    },
+    {
+      "name_en": "Soap",
+      "name_fr": "Savon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Soaps",
+      "plural_name_fr": "Savons",
+      "example_sentences": [
+        {
+          "example_en": "The soap smells good.",
+          "example_fr": "Le savon sent bon.",
+          "highlight": "savon"
+        }
+      ]
+    },
+    {
+      "name_en": "Toothbrush",
+      "name_fr": "Brosse à dents",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Toothbrushes",
+      "plural_name_fr": "Brosses à dents",
+      "example_sentences": [
+        {
+          "example_en": "He uses a toothbrush every morning.",
+          "example_fr": "Il utilise une brosse à dents chaque matin.",
+          "highlight": "brosse à dents"
+        }
+      ]
+    },
+    {
+      "name_en": "Toothpaste",
+      "name_fr": "Dentifrice",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Toothpastes",
+      "plural_name_fr": "Dentifrices",
+      "example_sentences": [
+        {
+          "example_en": "The toothpaste is minty.",
+          "example_fr": "Le dentifrice est à la menthe.",
+          "highlight": "dentifrice"
+        }
+      ]
+    },
+    {
+      "name_en": "Shampoo",
+      "name_fr": "Shampooing",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Shampoos",
+      "plural_name_fr": "Shampooings",
+      "example_sentences": [
+        {
+          "example_en": "The shampoo cleans hair.",
+          "example_fr": "Le shampooing nettoie les cheveux.",
+          "highlight": "shampooing"
+        }
+      ]
+    },
+    {
+      "name_en": "Comb",
+      "name_fr": "Peigne",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Combs",
+      "plural_name_fr": "Peignes",
+      "example_sentences": [
+        {
+          "example_en": "She uses a comb.",
+          "example_fr": "Elle utilise un peigne.",
+          "highlight": "peigne"
+        }
+      ]
+    },
+    {
+      "name_en": "Brush",
+      "name_fr": "Brosse",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Brushes",
+      "plural_name_fr": "Brosses",
+      "example_sentences": [
+        {
+          "example_en": "The brush is new.",
+          "example_fr": "La brosse est neuve.",
+          "highlight": "brosse"
+        }
+      ]
+    },
+    {
+      "name_en": "Bucket",
+      "name_fr": "Seau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Buckets",
+      "plural_name_fr": "Seaux",
+      "example_sentences": [
+        {
+          "example_en": "The bucket is full of water.",
+          "example_fr": "Le seau est plein d'eau.",
+          "highlight": "seau"
+        }
+      ]
+    },
+    {
+      "name_en": "Broom",
+      "name_fr": "Balai",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Brooms",
+      "plural_name_fr": "Balais",
+      "example_sentences": [
+        {
+          "example_en": "She sweeps with the broom.",
+          "example_fr": "Elle balaie avec le balai.",
+          "highlight": "balai"
+        }
+      ]
+    },
+    {
+      "name_en": "Vacuum Cleaner",
+      "name_fr": "Aspirateur",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Vacuum Cleaners",
+      "plural_name_fr": "Aspirateurs",
+      "example_sentences": [
+        {
+          "example_en": "The vacuum cleaner is noisy.",
+          "example_fr": "L'aspirateur est bruyant.",
+          "highlight": "aspirateur"
+        }
+      ]
+    },
+    {
+      "name_en": "Iron",
+      "name_fr": "Fer à repasser",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Irons",
+      "plural_name_fr": "Fers à repasser",
+      "example_sentences": [
+        {
+          "example_en": "She uses the iron for clothes.",
+          "example_fr": "Elle utilise le fer à repasser pour les vêtements.",
+          "highlight": "fer à repasser"
+        }
+      ]
+    },
+    {
+      "name_en": "Washing Machine",
+      "name_fr": "Machine à laver",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Washing Machines",
+      "plural_name_fr": "Machines à laver",
+      "example_sentences": [
+        {
+          "example_en": "The washing machine is running.",
+          "example_fr": "La machine à laver fonctionne.",
+          "highlight": "machine à laver"
+        }
+      ]
+    },
+    {
+      "name_en": "Refrigerator",
+      "name_fr": "Réfrigérateur",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Refrigerators",
+      "plural_name_fr": "Réfrigérateurs",
+      "example_sentences": [
+        {
+          "example_en": "The refrigerator keeps food cold.",
+          "example_fr": "Le réfrigérateur garde les aliments au frais.",
+          "highlight": "réfrigérateur"
+        }
+      ]
+    },
+    {
+      "name_en": "Oven",
+      "name_fr": "Four",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Ovens",
+      "plural_name_fr": "Fours",
+      "example_sentences": [
+        {
+          "example_en": "The oven is hot.",
+          "example_fr": "Le four est chaud.",
+          "highlight": "four"
+        }
+      ]
+    },
+    {
+      "name_en": "Stove",
+      "name_fr": "Cuisinière",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Stoves",
+      "plural_name_fr": "Cuisinières",
+      "example_sentences": [
+        {
+          "example_en": "The stove is used for cooking.",
+          "example_fr": "La cuisinière sert à cuisiner.",
+          "highlight": "cuisinière"
+        }
+      ]
+    },
+    {
+      "name_en": "Microwave",
+      "name_fr": "Micro-ondes",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Microwaves",
+      "plural_name_fr": "Micro-ondes",
+      "example_sentences": [
+        {
+          "example_en": "The microwave heats food quickly.",
+          "example_fr": "Le micro-ondes chauffe la nourriture rapidement.",
+          "highlight": "micro-ondes"
+        }
+      ]
+    },
+    {
+      "name_en": "Dishwasher",
+      "name_fr": "Lave-vaisselle",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Dishwashers",
+      "plural_name_fr": "Lave-vaisselle",
+      "example_sentences": [
+        {
+          "example_en": "The dishwasher cleans the plates.",
+          "example_fr": "Le lave-vaisselle nettoie les assiettes.",
+          "highlight": "lave-vaisselle"
+        }
+      ]
+    },
+    {
+      "name_en": "Kettle",
+      "name_fr": "Bouilloire",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Kettles",
+      "plural_name_fr": "Bouilloires",
+      "example_sentences": [
+        {
+          "example_en": "The kettle boils water.",
+          "example_fr": "La bouilloire fait bouillir l'eau.",
+          "highlight": "bouilloire"
+        }
+      ]
+    },
+    {
+      "name_en": "Toaster",
+      "name_fr": "Grille-pain",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Toasters",
+      "plural_name_fr": "Grille-pain",
+      "example_sentences": [
+        {
+          "example_en": "The toaster makes toast.",
+          "example_fr": "Le grille-pain fait des toasts.",
+          "highlight": "grille-pain"
+        }
+      ]
+    },
+    {
+      "name_en": "Pan",
+      "name_fr": "Poêle",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Pans",
+      "plural_name_fr": "Poêles",
+      "example_sentences": [
+        {
+          "example_en": "She fries eggs in the pan.",
+          "example_fr": "Elle fait frire des œufs dans la poêle.",
+          "highlight": "poêle"
+        }
+      ]
+    },
+    {
+      "name_en": "Pot",
+      "name_fr": "Casserole",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Pots",
+      "plural_name_fr": "Casseroles",
+      "example_sentences": [
+        {
+          "example_en": "The pot is on the stove.",
+          "example_fr": "La casserole est sur la cuisinière.",
+          "highlight": "casserole"
+        }
+      ]
+    },
+    {
+      "name_en": "Knife",
+      "name_fr": "Couteau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Knives",
+      "plural_name_fr": "Couteaux",
+      "example_sentences": [
+        {
+          "example_en": "The knife is sharp.",
+          "example_fr": "Le couteau est tranchant.",
+          "highlight": "couteau"
+        }
+      ]
+    },
+    {
+      "name_en": "Fork",
+      "name_fr": "Fourchette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Forks",
+      "plural_name_fr": "Fourchettes",
+      "example_sentences": [
+        {
+          "example_en": "She uses a fork to eat.",
+          "example_fr": "Elle utilise une fourchette pour manger.",
+          "highlight": "fourchette"
+        }
+      ]
+    },
+    {
+      "name_en": "Spoon",
+      "name_fr": "Cuillère",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Spoons",
+      "plural_name_fr": "Cuillères",
+      "example_sentences": [
+        {
+          "example_en": "The spoon is in the bowl.",
+          "example_fr": "La cuillère est dans le bol.",
+          "highlight": "cuillère"
+        }
+      ]
+    },
+    {
+      "name_en": "Plate",
+      "name_fr": "Assiette",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Plates",
+      "plural_name_fr": "Assiettes",
+      "example_sentences": [
+        {
+          "example_en": "The plate is round.",
+          "example_fr": "L'assiette est ronde.",
+          "highlight": "assiette"
+        }
+      ]
+    },
+    {
+      "name_en": "Glass",
+      "name_fr": "Verre",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Glasses",
+      "plural_name_fr": "Verres",
+      "example_sentences": [
+        {
+          "example_en": "The glass is full of water.",
+          "example_fr": "Le verre est plein d'eau.",
+          "highlight": "verre"
+        }
+      ]
+    },
+    {
+      "name_en": "Cup",
+      "name_fr": "Tasse",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Cups",
+      "plural_name_fr": "Tasses",
+      "example_sentences": [
+        {
+          "example_en": "She drinks tea from a cup.",
+          "example_fr": "Elle boit du thé dans une tasse.",
+          "highlight": "tasse"
+        }
+      ]
+    },
+    {
+      "name_en": "Bowl",
+      "name_fr": "Bol",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Bowls",
+      "plural_name_fr": "Bols",
+      "example_sentences": [
+        {
+          "example_en": "The bowl is for soup.",
+          "example_fr": "Le bol est pour la soupe.",
+          "highlight": "bol"
+        }
+      ]
+    },
+    {
+      "name_en": "Bottle",
+      "name_fr": "Bouteille",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Bottles",
+      "plural_name_fr": "Bouteilles",
+      "example_sentences": [
+        {
+          "example_en": "The bottle is made of glass.",
+          "example_fr": "La bouteille est en verre.",
+          "highlight": "bouteille"
+        }
+      ]
+    },
+    {
+      "name_en": "Jar",
+      "name_fr": "Bocal",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Jars",
+      "plural_name_fr": "Bocaux",
+      "example_sentences": [
+        {
+          "example_en": "The jar is full of jam.",
+          "example_fr": "Le bocal est plein de confiture.",
+          "highlight": "bocal"
+        }
+      ]
+    },
+    {
+      "name_en": "Trash Can",
+      "name_fr": "Poubelle",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Trash Cans",
+      "plural_name_fr": "Poubelles",
+      "example_sentences": [
+        {
+          "example_en": "The trash can is outside.",
+          "example_fr": "La poubelle est dehors.",
+          "highlight": "poubelle"
+        }
+      ]
+    },
+    {
+      "name_en": "Door",
+      "name_fr": "Porte",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Doors",
+      "plural_name_fr": "Portes",
+      "example_sentences": [
+        {
+          "example_en": "The door is open.",
+          "example_fr": "La porte est ouverte.",
+          "highlight": "porte"
+        }
+      ]
+    },
+    {
+      "name_en": "Window",
+      "name_fr": "Fenêtre",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Windows",
+      "plural_name_fr": "Fenêtres",
+      "example_sentences": [
+        {
+          "example_en": "She looks out the window.",
+          "example_fr": "Elle regarde par la fenêtre.",
+          "highlight": "fenêtre"
+        }
+      ]
+    },
+    {
+      "name_en": "Remote Control",
+      "name_fr": "Télécommande",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Remote Controls",
+      "plural_name_fr": "Télécommandes",
+      "example_sentences": [
+        {
+          "example_en": "Where is the remote control?",
+          "example_fr": "Où est la télécommande ?",
+          "highlight": "télécommande"
+        }
+      ]
+    },
+    {
+      "name_en": "Fan",
+      "name_fr": "Ventilateur",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Fans",
+      "plural_name_fr": "Ventilateurs",
+      "example_sentences": [
+        {
+          "example_en": "The fan cools the room.",
+          "example_fr": "Le ventilateur rafraîchit la pièce.",
+          "highlight": "ventilateur"
+        }
+      ]
+    },
+    {
+      "name_en": "Heater",
+      "name_fr": "Radiateur",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Heaters",
+      "plural_name_fr": "Radiateurs",
+      "example_sentences": [
+        {
+          "example_en": "The heater warms the bedroom.",
+          "example_fr": "Le radiateur chauffe la chambre.",
+          "highlight": "radiateur"
+        }
+      ]
+    },
+    {
+      "name_en": "Light Bulb",
+      "name_fr": "Ampoule",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Light Bulbs",
+      "plural_name_fr": "Ampoules",
+      "example_sentences": [
+        {
+          "example_en": "The light bulb is broken.",
+          "example_fr": "L'ampoule est cassée.",
+          "highlight": "ampoule"
+        }
+      ]
+    },
+    {
+      "name_en": "Drawer",
+      "name_fr": "Tiroir",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Drawers",
+      "plural_name_fr": "Tiroirs",
+      "example_sentences": [
+        {
+          "example_en": "The drawer is full of cutlery.",
+          "example_fr": "Le tiroir est plein de couverts.",
+          "highlight": "tiroir"
+        }
+      ]
+    },
+    {
+      "name_en": "Cupboard",
+      "name_fr": "Placard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Cupboards",
+      "plural_name_fr": "Placards",
+      "example_sentences": [
+        {
+          "example_en": "The dishes are in the cupboard.",
+          "example_fr": "La vaisselle est dans le placard.",
+          "highlight": "placard"
+        }
+      ]
+    },
+    {
+      "name_en": "Staircase",
+      "name_fr": "Escalier",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Staircases",
+      "plural_name_fr": "Escaliers",
+      "example_sentences": [
+        {
+          "example_en": "The staircase leads upstairs.",
+          "example_fr": "L'escalier mène à l'étage.",
+          "highlight": "escalier"
+        }
+      ]
+    },
+    {
+      "name_en": "Garage",
+      "name_fr": "Garage",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Garages",
+      "plural_name_fr": "Garages",
+      "example_sentences": [
+        {
+          "example_en": "The car is in the garage.",
+          "example_fr": "La voiture est dans le garage.",
+          "highlight": "garage"
+        }
+      ]
+    },
+    {
+      "name_en": "Attic",
+      "name_fr": "Grenier",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Attics",
+      "plural_name_fr": "Greniers",
+      "example_sentences": [
+        {
+          "example_en": "The attic is used for storage.",
+          "example_fr": "Le grenier sert de rangement.",
+          "highlight": "grenier"
+        }
+      ]
+    },
+    {
+      "name_en": "Basement",
+      "name_fr": "Sous-sol",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Basements",
+      "plural_name_fr": "Sous-sols",
+      "example_sentences": [
+        {
+          "example_en": "The basement is cold.",
+          "example_fr": "Le sous-sol est froid.",
+          "highlight": "sous-sol"
+        }
+      ]
+    },
+    {
+      "name_en": "Toilet",
+      "name_fr": "Toilettes",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Toilets",
+      "plural_name_fr": "Toilettes",
+      "example_sentences": [
+        {
+          "example_en": "The toilet is clean.",
+          "example_fr": "Les toilettes sont propres.",
+          "highlight": "toilettes"
+        }
+      ]
+    },
+    {
+      "name_en": "Bathtub",
+      "name_fr": "Baignoire",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Bathtubs",
+      "plural_name_fr": "Baignoires",
+      "example_sentences": [
+        {
+          "example_en": "The bathtub is big.",
+          "example_fr": "La baignoire est grande.",
+          "highlight": "baignoire"
+        }
+      ]
+    },
+    {
+      "name_en": "Shower",
+      "name_fr": "Douche",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Showers",
+      "plural_name_fr": "Douches",
+      "example_sentences": [
+        {
+          "example_en": "The shower is hot.",
+          "example_fr": "La douche est chaude.",
+          "highlight": "douche"
+        }
+      ]
+    }
+  ]
+}

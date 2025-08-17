@@ -1,0 +1,291 @@
+{
+  "name_en": "Birds",
+  "name_fr": "Oiseaux",
+  "list": [
+    {
+      "name_en": "Sparrow",
+      "name_fr": "Moineau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sparrows",
+      "plural_name_fr": "Moineaux",
+      "example_sentences": [
+        {
+          "example_en": "The sparrow sings in the morning.",
+          "example_fr": "Le moineau chante le matin.",
+          "highlight": "moineau"
+        }
+      ]
+    },
+    {
+      "name_en": "Pigeon",
+      "name_fr": "Pigeon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Pigeons",
+      "plural_name_fr": "Pigeons",
+      "example_sentences": [
+        {
+          "example_en": "The pigeon pecks at crumbs.",
+          "example_fr": "Le pigeon picore des miettes.",
+          "highlight": "pigeon"
+        }
+      ]
+    },
+    {
+      "name_en": "Crow",
+      "name_fr": "Corbeau",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Crows",
+      "plural_name_fr": "Corbeaux",
+      "example_sentences": [
+        {
+          "example_en": "The crow caws loudly.",
+          "example_fr": "Le corbeau croasse bruyamment.",
+          "highlight": "corbeau"
+        }
+      ]
+    },
+    {
+      "name_en": "Magpie",
+      "name_fr": "Pie",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Magpies",
+      "plural_name_fr": "Pies",
+      "example_sentences": [
+        {
+          "example_en": "The magpie collects shiny objects.",
+          "example_fr": "La pie collectionne des objets brillants.",
+          "highlight": "pie"
+        }
+      ]
+    },
+    {
+      "name_en": "Robin",
+      "name_fr": "Rouge-gorge",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Robins",
+      "plural_name_fr": "Rouge-gorges",
+      "example_sentences": [
+        {
+          "example_en": "The robin has a red chest.",
+          "example_fr": "Le rouge-gorge a une poitrine rouge.",
+          "highlight": "rouge-gorge"
+        }
+      ]
+    },
+    {
+      "name_en": "Blackbird",
+      "name_fr": "Merle",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Blackbirds",
+      "plural_name_fr": "Merles",
+      "example_sentences": [
+        {
+          "example_en": "The blackbird sings beautifully.",
+          "example_fr": "Le merle chante magnifiquement.",
+          "highlight": "merle"
+        }
+      ]
+    },
+    {
+      "name_en": "Swallow",
+      "name_fr": "Hirondelle",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Swallows",
+      "plural_name_fr": "Hirondelles",
+      "example_sentences": [
+        {
+          "example_en": "The swallow flies swiftly.",
+          "example_fr": "L'hirondelle vole rapidement.",
+          "highlight": "hirondelle"
+        }
+      ]
+    },
+    {
+      "name_en": "Woodpecker",
+      "name_fr": "Pic",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Woodpeckers",
+      "plural_name_fr": "Pics",
+      "example_sentences": [
+        {
+          "example_en": "The woodpecker pecks at the tree.",
+          "example_fr": "Le pic frappe l'arbre.",
+          "highlight": "pic"
+        }
+      ]
+    },
+    {
+      "name_en": "Finch",
+      "name_fr": "Pinson",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Finches",
+      "plural_name_fr": "Pinsons",
+      "example_sentences": [
+        {
+          "example_en": "The finch hops on the branch.",
+          "example_fr": "Le pinson saute sur la branche.",
+          "highlight": "pinson"
+        }
+      ]
+    },
+    {
+      "name_en": "Canary",
+      "name_fr": "Canari",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Canaries",
+      "plural_name_fr": "Canaris",
+      "example_sentences": [
+        {
+          "example_en": "The canary sings in its cage.",
+          "example_fr": "Le canari chante dans sa cage.",
+          "highlight": "canari"
+        }
+      ]
+    },
+    {
+      "name_en": "Duck",
+      "name_fr": "Canard",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Ducks",
+      "plural_name_fr": "Canards",
+      "example_sentences": [
+        {
+          "example_en": "The duck swims in the pond.",
+          "example_fr": "Le canard nage dans l'étang.",
+          "highlight": "canard"
+        }
+      ]
+    },
+    {
+      "name_en": "Goose",
+      "name_fr": "Oie",
+      "article": "l'",
+      "gender": "feminine",
+      "plural_name_en": "Geese",
+      "plural_name_fr": "Oies",
+      "example_sentences": [
+        {
+          "example_en": "The goose honks loudly.",
+          "example_fr": "L'oie cacarde bruyamment.",
+          "highlight": "oie"
+        }
+      ]
+    },
+    {
+      "name_en": "Swan",
+      "name_fr": "Cygne",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Swans",
+      "plural_name_fr": "Cygnes",
+      "example_sentences": [
+        {
+          "example_en": "The swan glides on the lake.",
+          "example_fr": "Le cygne glisse sur le lac.",
+          "highlight": "cygne"
+        }
+      ]
+    },
+    {
+      "name_en": "Eagle",
+      "name_fr": "Aigle",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Eagles",
+      "plural_name_fr": "Aigles",
+      "example_sentences": [
+        {
+          "example_en": "The eagle flies high in the sky.",
+          "example_fr": "L'aigle vole haut dans le ciel.",
+          "highlight": "aigle"
+        }
+      ]
+    },
+    {
+      "name_en": "Falcon",
+      "name_fr": "Faucon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Falcons",
+      "plural_name_fr": "Faucons",
+      "example_sentences": [
+        {
+          "example_en": "The falcon dives quickly.",
+          "example_fr": "Le faucon plonge rapidement.",
+          "highlight": "faucon"
+        }
+      ]
+    },
+    {
+      "name_en": "Owl",
+      "name_fr": "Chouette",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Owls",
+      "plural_name_fr": "Chouettes",
+      "example_sentences": [
+        {
+          "example_en": "The owl hunts at night.",
+          "example_fr": "La chouette chasse la nuit.",
+          "highlight": "chouette"
+        }
+      ]
+    },
+    {
+      "name_en": "Parrot",
+      "name_fr": "Perroquet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Parrots",
+      "plural_name_fr": "Perroquets",
+      "example_sentences": [
+        {
+          "example_en": "The parrot repeats words.",
+          "example_fr": "Le perroquet répète des mots.",
+          "highlight": "perroquet"
+        }
+      ]
+    },
+    {
+      "name_en": "Peacock",
+      "name_fr": "Paon",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Peacocks",
+      "plural_name_fr": "Paons",
+      "example_sentences": [
+        {
+          "example_en": "The peacock spreads its colorful tail.",
+          "example_fr": "Le paon déploie sa queue colorée.",
+          "highlight": "paon"
+        }
+      ]
+    },
+    {
+      "name_en": "Turkey",
+      "name_fr": "Dinde",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Turkeys",
+      "plural_name_fr": "Dindes",
+      "example_sentences": [
+        {
+          "example_en": "The turkey is a big bird.",
+          "example_fr": "La dinde est un gros oiseau.",
+          "highlight": "dinde"
+        }
+      ]
+    }
+  ]
+}
