@@ -1,14 +1,14 @@
 export const Utilitise = {
-  playIt: (whatToPlay, lang = 'fr-FR', onEndCb = null) => {
+  playIt: (whatToPlay, lang = 'fr-CA', onEndCb = null) => {
     const synth = new SpeechSynthesisUtterance(whatToPlay);
     const voices = speechSynthesis
         .getVoices()
         .filter(voice => voice.lang === lang);
 
     synth.lang = lang;
-    synth.rate = lang === 'fr-FR' ? 0.8 : 1;
+    synth.rate = lang === 'fr-CA' ? 0.8 : 1;
     synth.volume = 1;
-    synth.voice = lang === 'fr-FR' ? voices[10] : voices.find(v => v.name === "Samantha");
+    synth.voice = lang === 'fr-CA' ? voices[0] : voices.find(v => v.name === "Samantha");
     speechSynthesis.speak(synth);
 
     if (onEndCb) {

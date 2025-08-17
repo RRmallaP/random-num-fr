@@ -7,9 +7,9 @@ function utterNumber(number) {
   const synth = new SpeechSynthesisUtterance(number);
   const voices = speechSynthesis
       .getVoices()
-      .filter(voice => voice.lang === "fr-FR");
+      .filter(voice => voice.lang === "fr-CA");
 
-  synth.lang = "fr-FR";
+  synth.lang = "fr-CA";
   synth.rate = 0.8;
   synth.voice = voices[10];
   speechSynthesis.speak(synth);

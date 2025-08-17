@@ -10,7 +10,7 @@ function FlashCard({ vocab }) {
   function handleFlip() {
     // Only play audio if flipping by user click and not already flipped
     if (!flipped && vocab.name_fr) {
-      Utilitise.playIt(vocab.name_fr, 'fr-FR');
+      Utilitise.playIt(vocab.name_fr, 'fr-CA');
     }
     setFlipped(prev => !prev);
     setChecked(false);

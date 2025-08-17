@@ -61,7 +61,7 @@ function MenuBar({ onCategorySelect, config, setConfig }) {
           <div className="relative">
             <button
               onClick={() => setOpen(!open)}
-              className="px-4 py-2 bg-white dark:bg-gray-800 rounded shadow hover:bg-gray-200 dark:hover:bg-gray-700 focus:outline-none"
+              className="cursor-pointer px-4 py-2 bg-white dark:bg-gray-800 rounded shadow hover:bg-gray-200 dark:hover:bg-gray-700 focus:outline-none"
             >
               Menu
               <svg className="inline ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" /></svg>
@@ -73,7 +73,7 @@ function MenuBar({ onCategorySelect, config, setConfig }) {
                   return (
                     <div key={cat.name_en + idx} className="mb-1">
                       <button
-                        className="text-left w-full px-2 py-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded text-gray-800 dark:text-gray-200 font-medium"
+                        className="cursor-pointer text-left w-full px-2 py-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded text-gray-800 dark:text-gray-200 font-medium"
                         onClick={() => {
                           onCategorySelect(fullPath);
                           setOpen(false);

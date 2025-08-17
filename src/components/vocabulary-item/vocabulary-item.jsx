@@ -22,7 +22,7 @@ function VocabularyItem({vocab, config}) {
     return prom;
   }
   async function playit(){
-    Utilitise.playIt(vocab.name_fr, 'fr-FR', async () => {
+    Utilitise.playIt(vocab.name_fr, 'fr-CA', async () => {
       await pause(1000);
       Utilitise.playIt(vocab.name_en, 'en-US');
     });
