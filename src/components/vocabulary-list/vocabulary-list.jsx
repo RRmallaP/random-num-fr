@@ -6,7 +6,7 @@ import FlashCard from '../flash-card';
 
 export default function VocabularyList() {
   const [vocabs, setVocabs] = useState(null);
-  const [currentFile, setCurrentFile] = useState('daily-routine-verbs.json');
+  const [currentFile, setCurrentFile] = useState('/greetings_and_introductions/basic_greetings.json');
   const [config, setConfig] = useState({ enToFr: true, writingMode: false, flashcardMode: false });
   const [flashCardStates, setFlashCardStates] = useState([]);
 
