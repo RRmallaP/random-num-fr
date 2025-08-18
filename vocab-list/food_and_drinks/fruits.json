@@ -1,0 +1,522 @@
+{
+  "name_en": "Fruits",
+  "name_fr": "Fruits",
+  "list": [
+    {
+      "name_en": "Apple",
+      "name_fr": "pomme",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "The apple is red.",
+          "example_fr": "La pomme est rouge.",
+          "highlight": "pomme"
+        }
+      ]
+    },
+    {
+      "name_en": "Banana",
+      "name_fr": "banane",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Bananas are yellow.",
+          "example_fr": "Les bananes sont jaunes.",
+          "highlight": "banane"
+        }
+      ]
+    },
+    {
+      "name_en": "Orange",
+      "name_fr": "orange",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Oranges are juicy.",
+          "example_fr": "Les oranges sont juteuses.",
+          "highlight": "orange"
+        }
+      ]
+    },
+    {
+      "name_en": "Pear",
+      "name_fr": "poire",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "The pear is sweet.",
+          "example_fr": "La poire est sucrée.",
+          "highlight": "poire"
+        }
+      ]
+    },
+    {
+      "name_en": "Grape",
+      "name_fr": "raisin",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Grapes grow in bunches.",
+          "example_fr": "Les raisins poussent en grappes.",
+          "highlight": "raisin"
+        }
+      ]
+    },
+    {
+      "name_en": "Pineapple",
+      "name_fr": "ananas",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Pineapple is tropical.",
+          "example_fr": "L'ananas est tropical.",
+          "highlight": "ananas"
+        }
+      ]
+    },
+    {
+      "name_en": "Mango",
+      "name_fr": "mangue",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Mango is delicious.",
+          "example_fr": "La mangue est délicieuse.",
+          "highlight": "mangue"
+        }
+      ]
+    },
+    {
+      "name_en": "Strawberry",
+      "name_fr": "fraise",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Strawberries are sweet.",
+          "example_fr": "Les fraises sont sucrées.",
+          "highlight": "fraise"
+        }
+      ]
+    },
+    {
+      "name_en": "Blueberry",
+      "name_fr": "myrtille",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Blueberries are small.",
+          "example_fr": "Les myrtilles sont petites.",
+          "highlight": "myrtille"
+        }
+      ]
+    },
+    {
+      "name_en": "Raspberry",
+      "name_fr": "framboise",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Raspberries are red.",
+          "example_fr": "Les framboises sont rouges.",
+          "highlight": "framboise"
+        }
+      ]
+    },
+    {
+      "name_en": "Cherry",
+      "name_fr": "cerise",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Cherries are tasty.",
+          "example_fr": "Les cerises sont savoureuses.",
+          "highlight": "cerise"
+        }
+      ]
+    },
+    {
+      "name_en": "Peach",
+      "name_fr": "pêche",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Peaches are soft.",
+          "example_fr": "Les pêches sont douces.",
+          "highlight": "pêche"
+        }
+      ]
+    },
+    {
+      "name_en": "Plum",
+      "name_fr": "prune",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Plums are purple.",
+          "example_fr": "Les prunes sont violettes.",
+          "highlight": "prune"
+        }
+      ]
+    },
+    {
+      "name_en": "Apricot",
+      "name_fr": "abricot",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Apricots are orange.",
+          "example_fr": "Les abricots sont orange.",
+          "highlight": "abricot"
+        }
+      ]
+    },
+    {
+      "name_en": "Kiwi",
+      "name_fr": "kiwi",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Kiwi is green inside.",
+          "example_fr": "Le kiwi est vert à l'intérieur.",
+          "highlight": "kiwi"
+        }
+      ]
+    },
+    {
+      "name_en": "Watermelon",
+      "name_fr": "pastèque",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Watermelon is refreshing.",
+          "example_fr": "La pastèque est rafraîchissante.",
+          "highlight": "pastèque"
+        }
+      ]
+    },
+    {
+      "name_en": "Melon",
+      "name_fr": "melon",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Melon is sweet.",
+          "example_fr": "Le melon est sucré.",
+          "highlight": "melon"
+        }
+      ]
+    },
+    {
+      "name_en": "Fig",
+      "name_fr": "figue",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Figs are healthy.",
+          "example_fr": "Les figues sont saines.",
+          "highlight": "figue"
+        }
+      ]
+    },
+    {
+      "name_en": "Date",
+      "name_fr": "datte",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Dates are eaten in many countries.",
+          "example_fr": "Les dattes sont consommées dans de nombreux pays.",
+          "highlight": "datte"
+        }
+      ]
+    },
+    {
+      "name_en": "Lemon",
+      "name_fr": "citron",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Lemon is sour.",
+          "example_fr": "Le citron est acide.",
+          "highlight": "citron"
+        }
+      ]
+    },
+    {
+      "name_en": "Lime",
+      "name_fr": "citron vert",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Lime is used in drinks.",
+          "example_fr": "Le citron vert est utilisé dans les boissons.",
+          "highlight": "citron vert"
+        }
+      ]
+    },
+    {
+      "name_en": "Grapefruit",
+      "name_fr": "pamplemousse",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Grapefruit is bitter.",
+          "example_fr": "Le pamplemousse est amer.",
+          "highlight": "pamplemousse"
+        }
+      ]
+    },
+    {
+      "name_en": "Coconut",
+      "name_fr": "noix de coco",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Coconut is tropical.",
+          "example_fr": "La noix de coco est tropicale.",
+          "highlight": "noix de coco"
+        }
+      ]
+    },
+    {
+      "name_en": "Papaya",
+      "name_fr": "papaye",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Papaya is orange.",
+          "example_fr": "La papaye est orange.",
+          "highlight": "papaye"
+        }
+      ]
+    },
+    {
+      "name_en": "Guava",
+      "name_fr": "goyave",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Guava is sweet.",
+          "example_fr": "La goyave est sucrée.",
+          "highlight": "goyave"
+        }
+      ]
+    },
+    {
+      "name_en": "Passion Fruit",
+      "name_fr": "fruit de la passion",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Passion fruit is exotic.",
+          "example_fr": "Le fruit de la passion est exotique.",
+          "highlight": "fruit de la passion"
+        }
+      ]
+    },
+    {
+      "name_en": "Blackberry",
+      "name_fr": "mûre",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Blackberries are dark.",
+          "example_fr": "Les mûres sont foncées.",
+          "highlight": "mûre"
+        }
+      ]
+    },
+    {
+      "name_en": "Gooseberry",
+      "name_fr": "groseille",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Gooseberries are tart.",
+          "example_fr": "Les groseilles sont acidulées.",
+          "highlight": "groseille"
+        }
+      ]
+    },
+    {
+      "name_en": "Currant",
+      "name_fr": "cassis",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Currants are used in jams.",
+          "example_fr": "Le cassis est utilisé dans les confitures.",
+          "highlight": "cassis"
+        }
+      ]
+    },
+    {
+      "name_en": "Starfruit",
+      "name_fr": "carambole",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Starfruit is star-shaped.",
+          "example_fr": "La carambole a la forme d'une étoile.",
+          "highlight": "carambole"
+        }
+      ]
+    },
+    {
+      "name_en": "Lychee",
+      "name_fr": "litchi",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Lychee is sweet.",
+          "example_fr": "Le litchi est sucré.",
+          "highlight": "litchi"
+        }
+      ]
+    },
+    {
+      "name_en": "Persimmon",
+      "name_fr": "kaki",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Persimmon is orange.",
+          "example_fr": "Le kaki est orange.",
+          "highlight": "kaki"
+        }
+      ]
+    },
+    {
+      "name_en": "Pomegranate",
+      "name_fr": "grenade",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Pomegranate is full of seeds.",
+          "example_fr": "La grenade est pleine de graines.",
+          "highlight": "grenade"
+        }
+      ]
+    },
+    {
+      "name_en": "Tangerine",
+      "name_fr": "mandarine",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Tangerines are small oranges.",
+          "example_fr": "Les mandarines sont de petites oranges.",
+          "highlight": "mandarine"
+        }
+      ]
+    },
+    {
+      "name_en": "Cranberry",
+      "name_fr": "canneberge",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Cranberries are used in juice.",
+          "example_fr": "Les canneberges sont utilisées dans le jus.",
+          "highlight": "canneberge"
+        }
+      ]
+    },
+    {
+      "name_en": "Avocado",
+      "name_fr": "avocat",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Avocado is creamy.",
+          "example_fr": "L'avocat est crémeux.",
+          "highlight": "avocat"
+        }
+      ]
+    },
+    {
+      "name_en": "Olive",
+      "name_fr": "olive",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Olives are used in salads.",
+          "example_fr": "Les olives sont utilisées dans les salades.",
+          "highlight": "olive"
+        }
+      ]
+    },
+    {
+      "name_en": "Jackfruit",
+      "name_fr": "jacquier",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Jackfruit is very large.",
+          "example_fr": "Le jacquier est très grand.",
+          "highlight": "jacquier"
+        }
+      ]
+    },
+    {
+      "name_en": "Dragon Fruit",
+      "name_fr": "fruit du dragon",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Dragon fruit is exotic.",
+          "example_fr": "Le fruit du dragon est exotique.",
+          "highlight": "fruit du dragon"
+        }
+      ]
+    },
+    {
+      "name_en": "Mulberry",
+      "name_fr": "mûrier",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Mulberries are sweet.",
+          "example_fr": "Le mûrier est sucré.",
+          "highlight": "mûrier"
+        }
+      ]
+    },
+    {
+      "name_en": "Soursop",
+      "name_fr": "corossol",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Soursop is tropical.",
+          "example_fr": "Le corossol est tropical.",
+          "highlight": "corossol"
+        }
+      ]
+    },
+    {
+      "name_en": "Quince",
+      "name_fr": "coing",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Quince is used in jams.",
+          "example_fr": "Le coing est utilisé dans les confitures.",
+          "highlight": "coing"
+        }
+      ]
+    },
+    {
+      "name_en": "Goji Berry",
+      "name_fr": "baie de goji",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Goji berries are healthy.",
+          "example_fr": "Les baies de goji sont saines.",
+          "highlight": "baie de goji"
+        }
+      ]
+    }
+  ]
+}

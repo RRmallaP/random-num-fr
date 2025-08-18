@@ -436,6 +436,96 @@
           "highlight": "barque"
         }
       ]
+    },
+    {
+      "name_en": "Monorail",
+      "name_fr": "Monorail",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Monorails",
+      "plural_name_fr": "Monorails",
+      "example_sentences": [
+        {
+          "example_en": "The monorail is modern.",
+          "example_fr": "Le monorail est moderne.",
+          "highlight": "monorail"
+        }
+      ]
+    },
+    {
+      "name_en": "Hovercraft",
+      "name_fr": "Aéroglisseur",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Hovercrafts",
+      "plural_name_fr": "Aéroglisseurs",
+      "example_sentences": [
+        {
+          "example_en": "The hovercraft moves over water and land.",
+          "example_fr": "L'aéroglisseur se déplace sur l'eau et la terre.",
+          "highlight": "aéroglisseur"
+        }
+      ]
+    },
+    {
+      "name_en": "Segway",
+      "name_fr": "Gyropode",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Segways",
+      "plural_name_fr": "Gyropodes",
+      "example_sentences": [
+        {
+          "example_en": "He rides a Segway in the park.",
+          "example_fr": "Il roule en gyropode dans le parc.",
+          "highlight": "gyropode"
+        }
+      ]
+    },
+    {
+      "name_en": "Handcart",
+      "name_fr": "Chariot à bras",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Handcarts",
+      "plural_name_fr": "Chariots à bras",
+      "example_sentences": [
+        {
+          "example_en": "The handcart is used for carrying goods.",
+          "example_fr": "Le chariot à bras sert à transporter des marchandises.",
+          "highlight": "chariot à bras"
+        }
+      ]
+    },
+    {
+      "name_en": "Paraglider",
+      "name_fr": "Parapente",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Paragliders",
+      "plural_name_fr": "Parapentes",
+      "example_sentences": [
+        {
+          "example_en": "The paraglider flies over the valley.",
+          "example_fr": "Le parapente vole au-dessus de la vallée.",
+          "highlight": "parapente"
+        }
+      ]
+    },
+    {
+      "name_en": "Submarine",
+      "name_fr": "Sous-marin",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Submarines",
+      "plural_name_fr": "Sous-marins",
+      "example_sentences": [
+        {
+          "example_en": "The submarine dives deep into the ocean.",
+          "example_fr": "Le sous-marin plonge dans l'océan.",
+          "highlight": "sous-marin"
+        }
+      ]
     }
   ]
 }

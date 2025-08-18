@@ -1,0 +1,246 @@
+{
+  "name_en": "Spices",
+  "name_fr": "Épices",
+  "list": [
+    {
+      "name_en": "Salt",
+      "name_fr": "sel",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Salt is used in cooking.",
+          "example_fr": "Le sel est utilisé en cuisine.",
+          "highlight": "sel"
+        }
+      ]
+    },
+    {
+      "name_en": "Pepper",
+      "name_fr": "poivre",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Pepper adds flavor.",
+          "example_fr": "Le poivre ajoute de la saveur.",
+          "highlight": "poivre"
+        }
+      ]
+    },
+    {
+      "name_en": "Cumin",
+      "name_fr": "cumin",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Cumin is common in Indian food.",
+          "example_fr": "Le cumin est courant dans la cuisine indienne.",
+          "highlight": "cumin"
+        }
+      ]
+    },
+    {
+      "name_en": "Turmeric",
+      "name_fr": "curcuma",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Turmeric is yellow.",
+          "example_fr": "Le curcuma est jaune.",
+          "highlight": "curcuma"
+        }
+      ]
+    },
+    {
+      "name_en": "Coriander",
+      "name_fr": "coriandre",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Coriander is used in salads.",
+          "example_fr": "La coriandre est utilisée dans les salades.",
+          "highlight": "coriandre"
+        }
+      ]
+    },
+    {
+      "name_en": "Cardamom",
+      "name_fr": "cardamome",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Cardamom is aromatic.",
+          "example_fr": "La cardamome est aromatique.",
+          "highlight": "cardamome"
+        }
+      ]
+    },
+    {
+      "name_en": "Clove",
+      "name_fr": "clou de girofle",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Cloves are used in desserts.",
+          "example_fr": "Les clous de girofle sont utilisés dans les desserts.",
+          "highlight": "clou de girofle"
+        }
+      ]
+    },
+    {
+      "name_en": "Cinnamon",
+      "name_fr": "cannelle",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Cinnamon is sweet.",
+          "example_fr": "La cannelle est sucrée.",
+          "highlight": "cannelle"
+        }
+      ]
+    },
+    {
+      "name_en": "Nutmeg",
+      "name_fr": "muscade",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Nutmeg is used in baking.",
+          "example_fr": "La muscade est utilisée en pâtisserie.",
+          "highlight": "muscade"
+        }
+      ]
+    },
+    {
+      "name_en": "Mustard Seed",
+      "name_fr": "graine de moutarde",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Mustard seeds are small.",
+          "example_fr": "Les graines de moutarde sont petites.",
+          "highlight": "graine de moutarde"
+        }
+      ]
+    },
+    {
+      "name_en": "Fenugreek",
+      "name_fr": "fenugrec",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Fenugreek is used in curries.",
+          "example_fr": "Le fenugrec est utilisé dans les currys.",
+          "highlight": "fenugrec"
+        }
+      ]
+    },
+    {
+      "name_en": "Bay Leaf",
+      "name_fr": "feuille de laurier",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Bay leaves add aroma.",
+          "example_fr": "Les feuilles de laurier ajoutent de l'arôme.",
+          "highlight": "feuille de laurier"
+        }
+      ]
+    },
+    {
+      "name_en": "Saffron",
+      "name_fr": "safran",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Saffron is very expensive.",
+          "example_fr": "Le safran est très cher.",
+          "highlight": "safran"
+        }
+      ]
+    },
+    {
+      "name_en": "Ginger",
+      "name_fr": "gingembre",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Ginger is spicy.",
+          "example_fr": "Le gingembre est épicé.",
+          "highlight": "gingembre"
+        }
+      ]
+    },
+    {
+      "name_en": "Turmeric Powder",
+      "name_fr": "poudre de curcuma",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Turmeric powder is used in curries.",
+          "example_fr": "La poudre de curcuma est utilisée dans les currys.",
+          "highlight": "poudre de curcuma"
+        }
+      ]
+    },
+    {
+      "name_en": "Paprika",
+      "name_fr": "paprika",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Paprika adds color to dishes.",
+          "example_fr": "Le paprika ajoute de la couleur aux plats.",
+          "highlight": "paprika"
+        }
+      ]
+    },
+    {
+      "name_en": "Rosemary",
+      "name_fr": "romarin",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Rosemary is used with meat.",
+          "example_fr": "Le romarin est utilisé avec la viande.",
+          "highlight": "romarin"
+        }
+      ]
+    },
+    {
+      "name_en": "Thyme",
+      "name_fr": "thym",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Thyme is aromatic.",
+          "example_fr": "Le thym est aromatique.",
+          "highlight": "thym"
+        }
+      ]
+    },
+    {
+      "name_en": "Oregano",
+      "name_fr": "origan",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Oregano is used in pizza.",
+          "example_fr": "L'origan est utilisé dans la pizza.",
+          "highlight": "origan"
+        }
+      ]
+    },
+    {
+      "name_en": "Basil",
+      "name_fr": "basilic",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Basil is used in pesto.",
+          "example_fr": "Le basilic est utilisé dans le pesto.",
+          "highlight": "basilic"
+        }
+      ]
+    }
+  ]
+}
