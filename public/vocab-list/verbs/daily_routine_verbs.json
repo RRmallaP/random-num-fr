@@ -8,7 +8,8 @@
       "example_sentences": [
         {
           "example_en": "I wake up at 7 a.m.",
-          "example_fr": "Je me réveille à 7 heures."
+          "example_fr": "Je me réveille à 7 heures.",
+          "highlight": "réveille"
         }
       ]
     },
@@ -18,7 +19,8 @@
       "example_sentences": [
         {
           "example_en": "He gets up quickly.",
-          "example_fr": "Il se lève rapidement."
+          "example_fr": "Il se lève rapidement.",
+          "highlight": "lève"
         }
       ]
     },
@@ -28,7 +30,8 @@
       "example_sentences": [
         {
           "example_en": "She washes her face.",
-          "example_fr": "Elle se lave le visage."
+          "example_fr": "Elle se lave le visage.",
+          "highlight": "lave"
         }
       ]
     },
@@ -38,7 +41,8 @@
       "example_sentences": [
         {
           "example_en": "I brush my teeth twice a day.",
-          "example_fr": "Je me brosse les dents deux fois par jour."
+          "example_fr": "Je me brosse les dents deux fois par jour.",
+          "highlight": "brosse"
         }
       ]
     },
@@ -48,7 +52,8 @@
       "example_sentences": [
         {
           "example_en": "He takes a shower every morning.",
-          "example_fr": "Il prend une douche chaque matin."
+          "example_fr": "Il prend une douche chaque matin.",
+          "highlight": "prend"
         }
       ]
     },
@@ -58,7 +63,8 @@
       "example_sentences": [
         {
           "example_en": "She gets dressed quickly.",
-          "example_fr": "Elle s'habille rapidement."
+          "example_fr": "Elle s'habille rapidement.",
+          "highlight": "habille"
         }
       ]
     },
@@ -68,7 +74,8 @@
       "example_sentences": [
         {
           "example_en": "He combs his hair before leaving.",
-          "example_fr": "Il se coiffe avant de partir."
+          "example_fr": "Il se coiffe avant de partir.",
+          "highlight": "coiffe"
         }
       ]
     },
@@ -78,7 +85,8 @@
       "example_sentences": [
         {
           "example_en": "We have breakfast together.",
-          "example_fr": "Nous prenons le petit-déjeuner ensemble."
+          "example_fr": "Nous prenons le petit-déjeuner ensemble.",
+          "highlight": "prenons"
         }
       ]
     },
@@ -88,7 +96,8 @@
       "example_sentences": [
         {
           "example_en": "Children go to school at 8 a.m.",
-          "example_fr": "Les enfants vont à l'école à 8 heures."
+          "example_fr": "Les enfants vont à l'école à 8 heures.",
+          "highlight": "vont"
         }
       ]
     },
@@ -98,7 +107,8 @@
       "example_sentences": [
         {
           "example_en": "She studies every evening.",
-          "example_fr": "Elle étudie chaque soir."
+          "example_fr": "Elle étudie chaque soir.",
+          "highlight": "étudie"
         }
       ]
     },
@@ -108,7 +118,8 @@
       "example_sentences": [
         {
           "example_en": "He works in an office.",
-          "example_fr": "Il travaille dans un bureau."
+          "example_fr": "Il travaille dans un bureau.",
+          "highlight": "travaille"
         }
       ]
     },
@@ -118,7 +129,8 @@
       "example_sentences": [
         {
           "example_en": "We have lunch at noon.",
-          "example_fr": "Nous déjeunons à midi."
+          "example_fr": "Nous déjeunons à midi.",
+          "highlight": "déjeunons"
         }
       ]
     },
@@ -128,7 +140,8 @@
       "example_sentences": [
         {
           "example_en": "He goes home after work.",
-          "example_fr": "Il rentre à la maison après le travail."
+          "example_fr": "Il rentre à la maison après le travail.",
+          "highlight": "rentre"
         }
       ]
     },
@@ -138,7 +151,8 @@
       "example_sentences": [
         {
           "example_en": "She rests for a while.",
-          "example_fr": "Elle se repose un moment."
+          "example_fr": "Elle se repose un moment.",
+          "highlight": "repose"
         }
       ]
     },
@@ -148,7 +162,8 @@
       "example_sentences": [
         {
           "example_en": "Children play in the park.",
-          "example_fr": "Les enfants jouent dans le parc."
+          "example_fr": "Les enfants jouent dans le parc.",
+          "highlight": "jouent"
         }
       ]
     },
@@ -158,7 +173,8 @@
       "example_sentences": [
         {
           "example_en": "We watch TV in the evening.",
-          "example_fr": "Nous regardons la télévision le soir."
+          "example_fr": "Nous regardons la télévision le soir.",
+          "highlight": "regardons"
         }
       ]
     },
@@ -168,7 +184,8 @@
       "example_sentences": [
         {
           "example_en": "He reads a book before bed.",
-          "example_fr": "Il lit un livre avant de dormir."
+          "example_fr": "Il lit un livre avant de dormir.",
+          "highlight": "lit"
         }
       ]
     },
@@ -178,7 +195,8 @@
       "example_sentences": [
         {
           "example_en": "We have dinner at 7 p.m.",
-          "example_fr": "Nous dînons à 19 heures."
+          "example_fr": "Nous dînons à 19 heures.",
+          "highlight": "dînons"
         }
       ]
     },
@@ -188,7 +206,8 @@
       "example_sentences": [
         {
           "example_en": "She takes a nap after lunch.",
-          "example_fr": "Elle fait une sieste après le déjeuner."
+          "example_fr": "Elle fait une sieste après le déjeuner.",
+          "highlight": "fait"
         }
       ]
     },
@@ -198,7 +217,8 @@
       "example_sentences": [
         {
           "example_en": "Children do their homework in the afternoon.",
-          "example_fr": "Les enfants font leurs devoirs l'après-midi."
+          "example_fr": "Les enfants font leurs devoirs l'après-midi.",
+          "highlight": "font"
         }
       ]
     },
@@ -208,7 +228,8 @@
       "example_sentences": [
         {
           "example_en": "He exercises every morning.",
-          "example_fr": "Il fait de l'exercice chaque matin."
+          "example_fr": "Il fait de l'exercice chaque matin.",
+          "highlight": "fait"
         }
       ]
     },
@@ -218,7 +239,8 @@
       "example_sentences": [
         {
           "example_en": "She cooks dinner for her family.",
-          "example_fr": "Elle cuisine le dîner pour sa famille."
+          "example_fr": "Elle cuisine le dîner pour sa famille.",
+          "highlight": "cuisine"
         }
       ]
     },
@@ -228,7 +250,8 @@
       "example_sentences": [
         {
           "example_en": "He cleans his room every week.",
-          "example_fr": "Il nettoie sa chambre chaque semaine."
+          "example_fr": "Il nettoie sa chambre chaque semaine.",
+          "highlight": "nettoie"
         }
       ]
     },
@@ -238,7 +261,8 @@
       "example_sentences": [
         {
           "example_en": "She washes the dishes after dinner.",
-          "example_fr": "Elle fait la vaisselle après le dîner."
+          "example_fr": "Elle fait la vaisselle après le dîner.",
+          "highlight": "fait"
         }
       ]
     },
@@ -248,7 +272,8 @@
       "example_sentences": [
         {
           "example_en": "He feeds his pets in the morning.",
-          "example_fr": "Il nourrit ses animaux le matin."
+          "example_fr": "Il nourrit ses animaux le matin.",
+          "highlight": "nourrit"
         }
       ]
     },
@@ -258,7 +283,8 @@
       "example_sentences": [
         {
           "example_en": "We go shopping on Saturdays.",
-          "example_fr": "Nous faisons les courses le samedi."
+          "example_fr": "Nous faisons les courses le samedi.",
+          "highlight": "faisons"
         }
       ]
     },
@@ -268,7 +294,8 @@
       "example_sentences": [
         {
           "example_en": "He drives to work every day.",
-          "example_fr": "Il conduit au travail tous les jours."
+          "example_fr": "Il conduit au travail tous les jours.",
+          "highlight": "conduit"
         }
       ]
     },
@@ -278,7 +305,8 @@
       "example_sentences": [
         {
           "example_en": "She takes out the trash in the evening.",
-          "example_fr": "Elle sort la poubelle le soir."
+          "example_fr": "Elle sort la poubelle le soir.",
+          "highlight": "sort"
         }
       ]
     },
@@ -288,7 +316,8 @@
       "example_sentences": [
         {
           "example_en": "He makes the bed every morning.",
-          "example_fr": "Il fait le lit chaque matin."
+          "example_fr": "Il fait le lit chaque matin.",
+          "highlight": "fait"
         }
       ]
     },
@@ -298,7 +327,8 @@
       "example_sentences": [
         {
           "example_en": "She calls her friend after school.",
-          "example_fr": "Elle téléphone à son amie après l'école."
+          "example_fr": "Elle téléphone à son amie après l'école.",
+          "highlight": "téléphone"
         }
       ]
     },
@@ -308,7 +338,8 @@
       "example_sentences": [
         {
           "example_en": "He meets his friends on weekends.",
-          "example_fr": "Il rencontre ses amis le week-end."
+          "example_fr": "Il rencontre ses amis le week-end.",
+          "highlight": "rencontre"
         }
       ]
     },
@@ -318,7 +349,8 @@
       "example_sentences": [
         {
           "example_en": "We go for a walk after dinner.",
-          "example_fr": "Nous nous promenons après le dîner."
+          "example_fr": "Nous nous promenons après le dîner.",
+          "highlight": "promenons"
         }
       ]
     },
@@ -328,7 +360,8 @@
       "example_sentences": [
         {
           "example_en": "He sleeps eight hours every night.",
-          "example_fr": "Il dort huit heures chaque nuit."
+          "example_fr": "Il dort huit heures chaque nuit.",
+          "highlight": "dort"
         }
       ]
     },
@@ -338,7 +371,8 @@
       "example_sentences": [
         {
           "example_en": "She dreams about traveling.",
-          "example_fr": "Elle rêve de voyager."
+          "example_fr": "Elle rêve de voyager.",
+          "highlight": "rêve"
         }
       ]
     },
@@ -348,7 +382,8 @@
       "example_sentences": [
         {
           "example_en": "He relaxes on Sundays.",
-          "example_fr": "Il se détend le dimanche."
+          "example_fr": "Il se détend le dimanche.",
+          "highlight": "détend"
         }
       ]
     },
@@ -358,7 +393,8 @@
       "example_sentences": [
         {
           "example_en": "She prepares her bag for school.",
-          "example_fr": "Elle prépare son sac pour l'école."
+          "example_fr": "Elle prépare son sac pour l'école.",
+          "highlight": "prépare"
         }
       ]
     },
@@ -368,7 +404,8 @@
       "example_sentences": [
         {
           "example_en": "She packs her suitcase for the trip.",
-          "example_fr": "Elle fait sa valise pour le voyage."
+          "example_fr": "Elle fait sa valise pour le voyage.",
+          "highlight": "fait"
         }
       ]
     },
@@ -378,7 +415,8 @@
       "example_sentences": [
         {
           "example_en": "He irons his shirt before work.",
-          "example_fr": "Il repasse sa chemise avant le travail."
+          "example_fr": "Il repasse sa chemise avant le travail.",
+          "highlight": "repasser"
         }
       ]
     },
@@ -388,7 +426,8 @@
       "example_sentences": [
         {
           "example_en": "He shaves every morning.",
-          "example_fr": "Il se rase chaque matin."
+          "example_fr": "Il se rase chaque matin.",
+          "highlight": "rase"
         }
       ]
     },
@@ -398,7 +437,8 @@
       "example_sentences": [
         {
           "example_en": "She puts on makeup before going out.",
-          "example_fr": "Elle se maquille avant de sortir."
+          "example_fr": "Elle se maquille avant de sortir.",
+          "highlight": "maquille"
         }
       ]
     },
@@ -408,7 +448,8 @@
       "example_sentences": [
         {
           "example_en": "He takes medicine when he is sick.",
-          "example_fr": "Il prend des médicaments quand il est malade."
+          "example_fr": "Il prend des médicaments quand il est malade.",
+          "highlight": "prend"
         }
       ]
     },
@@ -418,7 +459,8 @@
       "example_sentences": [
         {
           "example_en": "She goes online to check emails.",
-          "example_fr": "Elle va sur Internet pour vérifier ses e-mails."
+          "example_fr": "Elle va sur Internet pour vérifier ses e-mails.",
+          "highlight": "va"
         }
       ]
     },
@@ -428,7 +470,8 @@
       "example_sentences": [
         {
           "example_en": "He charges his phone at night.",
-          "example_fr": "Il recharge son téléphone la nuit."
+          "example_fr": "Il recharge son téléphone la nuit.",
+          "highlight": "recharge"
         }
       ]
     },
@@ -438,7 +481,8 @@
       "example_sentences": [
         {
           "example_en": "She listens to music while studying.",
-          "example_fr": "Elle écoute de la musique en étudiant."
+          "example_fr": "Elle écoute de la musique en étudiant.",
+          "highlight": "écoute"
         }
       ]
     },
@@ -448,7 +492,8 @@
       "example_sentences": [
         {
           "example_en": "He sends a message to his friend.",
-          "example_fr": "Il envoie un message à son ami."
+          "example_fr": "Il envoie un message à son ami.",
+          "highlight": "envoie"
         }
       ]
     },
@@ -458,7 +503,8 @@
       "example_sentences": [
         {
           "example_en": "She waits for the bus every morning.",
-          "example_fr": "Elle attend le bus chaque matin."
+          "example_fr": "Elle attend le bus chaque matin.",
+          "highlight": "attend"
         }
       ]
     }

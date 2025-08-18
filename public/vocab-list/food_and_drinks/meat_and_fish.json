@@ -9,7 +9,8 @@
       "example_sentences": [
         {
           "example_en": "Beef is used in many dishes.",
-          "example_fr": "Le bœuf est utilisé dans de nombreux plats."
+          "example_fr": "Le bœuf est utilisé dans de nombreux plats.",
+          "highlight": "bœuf"
         }
       ]
     },
@@ -20,7 +21,8 @@
       "example_sentences": [
         {
           "example_en": "Chicken is a popular meat.",
-          "example_fr": "Le poulet est une viande populaire."
+          "example_fr": "Le poulet est une viande populaire.",
+          "highlight": "poulet"
         }
       ]
     },
@@ -31,7 +33,8 @@
       "example_sentences": [
         {
           "example_en": "Pork can be roasted or grilled.",
-          "example_fr": "Le porc peut être rôti ou grillé."
+          "example_fr": "Le porc peut être rôti ou grillé.",
+          "highlight": "porc"
         }
       ]
     },
@@ -42,7 +45,8 @@
       "example_sentences": [
         {
           "example_en": "Lamb is tender and tasty.",
-          "example_fr": "L'agneau est tendre et savoureux."
+          "example_fr": "L'agneau est tendre et savoureux.",
+          "highlight": "agneau"
         }
       ]
     },
@@ -53,7 +57,8 @@
       "example_sentences": [
         {
           "example_en": "Duck is served with orange sauce.",
-          "example_fr": "Le canard est servi avec une sauce à l'orange."
+          "example_fr": "Le canard est servi avec une sauce à l'orange.",
+          "highlight": "canard"
         }
       ]
     },
@@ -64,7 +69,8 @@
       "example_sentences": [
         {
           "example_en": "Turkey is eaten at Christmas.",
-          "example_fr": "La dinde est mangée à Noël."
+          "example_fr": "La dinde est mangée à Noël.",
+          "highlight": "dinde"
         }
       ]
     },
@@ -75,7 +81,8 @@
       "example_sentences": [
         {
           "example_en": "Veal is very tender.",
-          "example_fr": "Le veau est très tendre."
+          "example_fr": "Le veau est très tendre.",
+          "highlight": "veau"
         }
       ]
     },
@@ -86,7 +93,8 @@
       "example_sentences": [
         {
           "example_en": "Rabbit is cooked in mustard sauce.",
-          "example_fr": "Le lapin est cuisiné à la moutarde."
+          "example_fr": "Le lapin est cuisiné à la moutarde.",
+          "highlight": "lapin"
         }
       ]
     },
@@ -97,7 +105,8 @@
       "example_sentences": [
         {
           "example_en": "Sausage is grilled for breakfast.",
-          "example_fr": "La saucisse est grillée pour le petit-déjeuner."
+          "example_fr": "La saucisse est grillée pour le petit-déjeuner.",
+          "highlight": "saucisse"
         }
       ]
     },
@@ -108,7 +117,8 @@
       "example_sentences": [
         {
           "example_en": "Ham is used in sandwiches.",
-          "example_fr": "Le jambon est utilisé dans les sandwiches."
+          "example_fr": "Le jambon est utilisé dans les sandwiches.",
+          "highlight": "jambon"
         }
       ]
     },
@@ -119,7 +129,8 @@
       "example_sentences": [
         {
           "example_en": "Bacon is crispy and salty.",
-          "example_fr": "Le bacon est croustillant et salé."
+          "example_fr": "Le bacon est croustillant et salé.",
+          "highlight": "bacon"
         }
       ]
     },
@@ -130,7 +141,8 @@
       "example_sentences": [
         {
           "example_en": "Salmon is rich in omega-3.",
-          "example_fr": "Le saumon est riche en oméga-3."
+          "example_fr": "Le saumon est riche en oméga-3.",
+          "highlight": "saumon"
         }
       ]
     },
@@ -141,7 +153,8 @@
       "example_sentences": [
         {
           "example_en": "Tuna is often eaten raw in sushi.",
-          "example_fr": "Le thon est souvent mangé cru dans les sushis."
+          "example_fr": "Le thon est souvent mangé cru dans les sushis.",
+          "highlight": "thon"
         }
       ]
     },
@@ -152,7 +165,8 @@
       "example_sentences": [
         {
           "example_en": "Cod is used in fish and chips.",
-          "example_fr": "La morue est utilisée dans le fish and chips."
+          "example_fr": "La morue est utilisée dans le fish and chips.",
+          "highlight": "morue"
         }
       ]
     },
@@ -163,7 +177,8 @@
       "example_sentences": [
         {
           "example_en": "Trout lives in rivers.",
-          "example_fr": "La truite vit dans les rivières."
+          "example_fr": "La truite vit dans les rivières.",
+          "highlight": "truite"
         }
       ]
     },
@@ -174,7 +189,8 @@
       "example_sentences": [
         {
           "example_en": "Sardines are packed in oil.",
-          "example_fr": "Les sardines sont conservées dans l'huile."
+          "example_fr": "Les sardines sont conservées dans l'huile.",
+          "highlight": "sardine"
         }
       ]
     },
@@ -185,7 +201,8 @@
       "example_sentences": [
         {
           "example_en": "Shrimp is used in paella.",
-          "example_fr": "La crevette est utilisée dans la paella."
+          "example_fr": "La crevette est utilisée dans la paella.",
+          "highlight": "crevette"
         }
       ]
     },
@@ -196,7 +213,8 @@
       "example_sentences": [
         {
           "example_en": "Oysters are eaten raw.",
-          "example_fr": "Les huîtres sont mangées crues."
+          "example_fr": "Les huîtres sont mangées crues.",
+          "highlight": "huître"
         }
       ]
     },
@@ -207,7 +225,8 @@
       "example_sentences": [
         {
           "example_en": "Mussels are cooked with white wine.",
-          "example_fr": "Les moules sont cuisinées au vin blanc."
+          "example_fr": "Les moules sont cuisinées au vin blanc.",
+          "highlight": "moule"
         }
       ]
     },
@@ -218,7 +237,8 @@
       "example_sentences": [
         {
           "example_en": "Octopus is a delicacy in Spain.",
-          "example_fr": "Le poulpe est un mets délicat en Espagne."
+          "example_fr": "Le poulpe est un mets délicat en Espagne.",
+          "highlight": "poulpe"
         }
       ]
     }
