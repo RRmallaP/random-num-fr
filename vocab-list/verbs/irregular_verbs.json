@@ -9,29 +9,44 @@
         {
           "tense": "présent",
           "example_en": "I am happy.",
-          "example_fr": "Je suis heureux."
+          "example_fr": "Je suis heureux.",
+          "highlight": "suis"
         },
         {
           "tense": "passé composé",
           "example_en": "You were tired yesterday.",
-          "example_fr": "Tu as été fatigué hier."
+          "example_fr": "Tu as été fatigué hier.",
+          "highlight": "été"
         },
         {
           "tense": "imparfait",
           "example_en": "He was always late.",
-          "example_fr": "Il était toujours en retard."
+          "example_fr": "Il était toujours en retard.",
+          "highlight": "était"
         },
         {
           "tense": "futur",
           "example_en": "We will be ready soon.",
-          "example_fr": "Nous serons bientôt prêts."
+          "example_fr": "Nous serons bientôt prêts.",
+          "highlight": "serons"
         },
         {
           "tense": "conditionnel",
           "example_en": "They would be surprised.",
-          "example_fr": "Ils seraient surpris."
+          "example_fr": "Ils seraient surpris.",
+          "highlight": "seraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je suis",
+          "tu es",
+          "il/elle/on est",
+          "nous sommes",
+          "vous êtes",
+          "ils/elles sont"
+        ]
+      }
     },
     {
       "name_en": "to have",
@@ -40,29 +55,44 @@
         {
           "tense": "présent",
           "example_en": "You have a cat.",
-          "example_fr": "Tu as un chat."
+          "example_fr": "Tu as un chat.",
+          "highlight": "as"
         },
         {
           "tense": "passé composé",
           "example_en": "She had a good day.",
-          "example_fr": "Elle a eu une bonne journée."
+          "example_fr": "Elle a eu une bonne journée.",
+          "highlight": "eu"
         },
         {
           "tense": "imparfait",
           "example_en": "We used to have a dog.",
-          "example_fr": "Nous avions un chien."
+          "example_fr": "Nous avions un chien.",
+          "highlight": "avions"
         },
         {
           "tense": "futur",
           "example_en": "I will have time tomorrow.",
-          "example_fr": "J'aurai du temps demain."
+          "example_fr": "J'aurai du temps demain.",
+          "highlight": "aurai"
         },
         {
           "tense": "conditionnel",
           "example_en": "They would have more money.",
-          "example_fr": "Ils auraient plus d'argent."
+          "example_fr": "Ils auraient plus d'argent.",
+          "highlight": "auraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'ai",
+          "tu as",
+          "il/elle/on a",
+          "nous avons",
+          "vous avez",
+          "ils/elles ont"
+        ]
+      }
     },
     {
       "name_en": "to go",
@@ -71,29 +101,44 @@
         {
           "tense": "présent",
           "example_en": "He goes to school.",
-          "example_fr": "Il va à l'école."
+          "example_fr": "Il va à l'école.",
+          "highlight": "va"
         },
         {
           "tense": "passé composé",
           "example_en": "We went to Paris.",
-          "example_fr": "Nous sommes allés à Paris."
+          "example_fr": "Nous sommes allés à Paris.",
+          "highlight": "allés"
         },
         {
           "tense": "imparfait",
           "example_en": "She used to go to the park.",
-          "example_fr": "Elle allait au parc."
+          "example_fr": "Elle allait au parc.",
+          "highlight": "allait"
         },
         {
           "tense": "futur",
           "example_en": "You will go to the store.",
-          "example_fr": "Tu iras au magasin."
+          "example_fr": "Tu iras au magasin.",
+          "highlight": "iras"
         },
         {
           "tense": "conditionnel",
           "example_en": "I would go if I could.",
-          "example_fr": "J'irais si je pouvais."
+          "example_fr": "J'irais si je pouvais.",
+          "highlight": "irais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je vais",
+          "tu vas",
+          "il/elle/on va",
+          "nous allons",
+          "vous allez",
+          "ils/elles vont"
+        ]
+      }
     },
     {
       "name_en": "to do/make",
@@ -102,29 +147,44 @@
         {
           "tense": "présent",
           "example_en": "We do our homework.",
-          "example_fr": "Nous faisons nos devoirs."
+          "example_fr": "Nous faisons nos devoirs.",
+          "highlight": "faisons"
         },
         {
           "tense": "passé composé",
           "example_en": "I made a cake.",
-          "example_fr": "J'ai fait un gâteau."
+          "example_fr": "J'ai fait un gâteau.",
+          "highlight": "fait"
         },
         {
           "tense": "imparfait",
           "example_en": "They used to make bread.",
-          "example_fr": "Ils faisaient du pain."
+          "example_fr": "Ils faisaient du pain.",
+          "highlight": "faisaient"
         },
         {
           "tense": "futur",
           "example_en": "She will do the shopping.",
-          "example_fr": "Elle fera les courses."
+          "example_fr": "Elle fera les courses.",
+          "highlight": "fera"
         },
         {
           "tense": "conditionnel",
           "example_en": "You would make dinner.",
-          "example_fr": "Tu ferais le dîner."
+          "example_fr": "Tu ferais le dîner.",
+          "highlight": "ferais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ]
+      }
     },
     {
       "name_en": "to say",
@@ -133,29 +193,44 @@
         {
           "tense": "présent",
           "example_en": "She says hello.",
-          "example_fr": "Elle dit bonjour."
+          "example_fr": "Elle dit bonjour.",
+          "highlight": "dit"
         },
         {
           "tense": "passé composé",
           "example_en": "He said yes.",
-          "example_fr": "Il a dit oui."
+          "example_fr": "Il a dit oui.",
+          "highlight": "dit"
         },
         {
           "tense": "imparfait",
           "example_en": "I used to say thank you.",
-          "example_fr": "Je disais merci."
+          "example_fr": "Je disais merci.",
+          "highlight": "disais"
         },
         {
           "tense": "futur",
           "example_en": "We will say goodbye.",
-          "example_fr": "Nous dirons au revoir."
+          "example_fr": "Nous dirons au revoir.",
+          "highlight": "dirons"
         },
         {
           "tense": "conditionnel",
           "example_en": "You would say something.",
-          "example_fr": "Tu dirais quelque chose."
+          "example_fr": "Tu dirais quelque chose.",
+          "highlight": "dirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je dis",
+          "tu dis",
+          "il/elle/on dit",
+          "nous disons",
+          "vous dites",
+          "ils/elles disent"
+        ]
+      }
     },
     {
       "name_en": "to see",
@@ -164,29 +239,44 @@
         {
           "tense": "présent",
           "example_en": "I see the car.",
-          "example_fr": "Je vois la voiture."
+          "example_fr": "Je vois la voiture.",
+          "highlight": "vois"
         },
         {
           "tense": "passé composé",
           "example_en": "We saw a movie.",
-          "example_fr": "Nous avons vu un film."
+          "example_fr": "Nous avons vu un film.",
+          "highlight": "vu"
         },
         {
           "tense": "imparfait",
           "example_en": "She used to see her friends.",
-          "example_fr": "Elle voyait ses amis."
+          "example_fr": "Elle voyait ses amis.",
+          "highlight": "voyait"
         },
         {
           "tense": "futur",
           "example_en": "He will see the doctor.",
-          "example_fr": "Il verra le médecin."
+          "example_fr": "Il verra le médecin.",
+          "highlight": "verra"
         },
         {
           "tense": "conditionnel",
           "example_en": "They would see the results.",
-          "example_fr": "Ils verraient les résultats."
+          "example_fr": "Ils verraient les résultats.",
+          "highlight": "verraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je vois",
+          "tu vois",
+          "il/elle/on voit",
+          "nous voyons",
+          "vous voyez",
+          "ils/elles voient"
+        ]
+      }
     },
     {
       "name_en": "to know",
@@ -195,29 +285,44 @@
         {
           "tense": "présent",
           "example_en": "You know the answer.",
-          "example_fr": "Tu sais la réponse."
+          "example_fr": "Tu sais la réponse.",
+          "highlight": "sais"
         },
         {
           "tense": "passé composé",
           "example_en": "I knew the truth.",
-          "example_fr": "J'ai su la vérité."
+          "example_fr": "J'ai su la vérité.",
+          "highlight": "su"
         },
         {
           "tense": "imparfait",
           "example_en": "He used to know French.",
-          "example_fr": "Il savait le français."
+          "example_fr": "Il savait le français.",
+          "highlight": "savait"
         },
         {
           "tense": "futur",
           "example_en": "She will know soon.",
-          "example_fr": "Elle saura bientôt."
+          "example_fr": "Elle saura bientôt.",
+          "highlight": "saura"
         },
         {
           "tense": "conditionnel",
           "example_en": "We would know more.",
-          "example_fr": "Nous saurions plus."
+          "example_fr": "Nous saurions plus.",
+          "highlight": "saurions"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je sais",
+          "tu sais",
+          "il/elle/on sait",
+          "nous savons",
+          "vous savez",
+          "ils/elles savent"
+        ]
+      }
     },
     {
       "name_en": "to want",
@@ -226,29 +331,44 @@
         {
           "tense": "présent",
           "example_en": "He wants a dog.",
-          "example_fr": "Il veut un chien."
+          "example_fr": "Il veut un chien.",
+          "highlight": "veut"
         },
         {
           "tense": "passé composé",
           "example_en": "She wanted to travel.",
-          "example_fr": "Elle a voulu voyager."
+          "example_fr": "Elle a voulu voyager.",
+          "highlight": "voulu"
         },
         {
           "tense": "imparfait",
           "example_en": "I used to want ice cream.",
-          "example_fr": "Je voulais de la glace."
+          "example_fr": "Je voulais de la glace.",
+          "highlight": "voulais"
         },
         {
           "tense": "futur",
           "example_en": "We will want more time.",
-          "example_fr": "Nous voudrons plus de temps."
+          "example_fr": "Nous voudrons plus de temps.",
+          "highlight": "voudrons"
         },
         {
           "tense": "conditionnel",
           "example_en": "You would want to help.",
-          "example_fr": "Tu voudrais aider."
+          "example_fr": "Tu voudrais aider.",
+          "highlight": "voudrais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je veux",
+          "tu veux",
+          "il/elle/on veut",
+          "nous voulons",
+          "vous voulez",
+          "ils/elles veulent"
+        ]
+      }
     },
     {
       "name_en": "to come",
@@ -257,29 +377,44 @@
         {
           "tense": "présent",
           "example_en": "We come every week.",
-          "example_fr": "Nous venons chaque semaine."
+          "example_fr": "Nous venons chaque semaine.",
+          "highlight": "venons"
         },
         {
           "tense": "passé composé",
           "example_en": "I came yesterday.",
-          "example_fr": "Je suis venu hier."
+          "example_fr": "Je suis venu hier.",
+          "highlight": "venu"
         },
         {
           "tense": "imparfait",
           "example_en": "She used to come early.",
-          "example_fr": "Elle venait tôt."
+          "example_fr": "Elle venait tôt.",
+          "highlight": "venait"
         },
         {
           "tense": "futur",
           "example_en": "He will come soon.",
-          "example_fr": "Il viendra bientôt."
+          "example_fr": "Il viendra bientôt.",
+          "highlight": "viendra"
         },
         {
           "tense": "conditionnel",
           "example_en": "They would come if invited.",
-          "example_fr": "Ils viendraient si on les invitait."
+          "example_fr": "Ils viendraient si on les invitait.",
+          "highlight": "viendraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je viens",
+          "tu viens",
+          "il/elle/on vient",
+          "nous venons",
+          "vous venez",
+          "ils/elles viennent"
+        ]
+      }
     },
     {
       "name_en": "to take",
@@ -288,29 +423,44 @@
         {
           "tense": "présent",
           "example_en": "She takes the bus.",
-          "example_fr": "Elle prend le bus."
+          "example_fr": "Elle prend le bus.",
+          "highlight": "prend"
         },
         {
           "tense": "passé composé",
           "example_en": "He took the train.",
-          "example_fr": "Il a pris le train."
+          "example_fr": "Il a pris le train.",
+          "highlight": "pris"
         },
         {
           "tense": "imparfait",
           "example_en": "I used to take notes.",
-          "example_fr": "Je prenais des notes."
+          "example_fr": "Je prenais des notes.",
+          "highlight": "prenais"
         },
         {
           "tense": "futur",
           "example_en": "We will take a break.",
-          "example_fr": "Nous prendrons une pause."
+          "example_fr": "Nous prendrons une pause.",
+          "highlight": "prendrons"
         },
         {
           "tense": "conditionnel",
           "example_en": "You would take the job.",
-          "example_fr": "Tu prendrais le travail."
+          "example_fr": "Tu prendrais le travail.",
+          "highlight": "prendrais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je prends",
+          "tu prends",
+          "il/elle/on prend",
+          "nous prenons",
+          "vous prenez",
+          "ils/elles prennent"
+        ]
+      }
     },
     {
       "name_en": "to write",
@@ -319,29 +469,44 @@
         {
           "tense": "présent",
           "example_en": "I write a letter.",
-          "example_fr": "J'écris une lettre."
+          "example_fr": "J'écris une lettre.",
+          "highlight": "écris"
         },
         {
           "tense": "passé composé",
           "example_en": "She wrote a story.",
-          "example_fr": "Elle a écrit une histoire."
+          "example_fr": "Elle a écrit une histoire.",
+          "highlight": "écrit"
         },
         {
           "tense": "imparfait",
           "example_en": "He used to write poems.",
-          "example_fr": "Il écrivait des poèmes."
+          "example_fr": "Il écrivait des poèmes.",
+          "highlight": "écrivait"
         },
         {
           "tense": "futur",
           "example_en": "We will write an email.",
-          "example_fr": "Nous écrirons un e-mail."
+          "example_fr": "Nous écrirons un e-mail.",
+          "highlight": "écrirons"
         },
         {
           "tense": "conditionnel",
           "example_en": "You would write a book.",
-          "example_fr": "Tu écrirais un livre."
+          "example_fr": "Tu écrirais un livre.",
+          "highlight": "écrirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'écris",
+          "tu écris",
+          "il/elle/on écrit",
+          "nous écrivons",
+          "vous écrivez",
+          "ils/elles écrivent"
+        ]
+      }
     },
     {
       "name_en": "to read",
@@ -350,29 +515,44 @@
         {
           "tense": "présent",
           "example_en": "She reads a newspaper.",
-          "example_fr": "Elle lit un journal."
+          "example_fr": "Elle lit un journal.",
+          "highlight": "lit"
         },
         {
           "tense": "passé composé",
           "example_en": "I read the article.",
-          "example_fr": "J'ai lu l'article."
+          "example_fr": "J'ai lu l'article.",
+          "highlight": "lu"
         },
         {
           "tense": "imparfait",
           "example_en": "We used to read together.",
-          "example_fr": "Nous lisions ensemble."
+          "example_fr": "Nous lisions ensemble.",
+          "highlight": "lisions"
         },
         {
           "tense": "futur",
           "example_en": "He will read the book.",
-          "example_fr": "Il lira le livre."
+          "example_fr": "Il lira le livre.",
+          "highlight": "lira"
         },
         {
           "tense": "conditionnel",
           "example_en": "They would read more.",
-          "example_fr": "Ils liraient plus."
+          "example_fr": "Ils liraient plus.",
+          "highlight": "liraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je lis",
+          "tu lis",
+          "il/elle/on lit",
+          "nous lisons",
+          "vous lisez",
+          "ils/elles lisent"
+        ]
+      }
     },
     {
       "name_en": "to put",
@@ -381,29 +561,44 @@
         {
           "tense": "présent",
           "example_en": "He puts the keys on the table.",
-          "example_fr": "Il met les clés sur la table."
+          "example_fr": "Il met les clés sur la table.",
+          "highlight": "met"
         },
         {
           "tense": "passé composé",
           "example_en": "She put the book away.",
-          "example_fr": "Elle a mis le livre de côté."
+          "example_fr": "Elle a mis le livre de côté.",
+          "highlight": "mis"
         },
         {
           "tense": "imparfait",
           "example_en": "I used to put my shoes here.",
-          "example_fr": "Je mettais mes chaussures ici."
+          "example_fr": "Je mettais mes chaussures ici.",
+          "highlight": "mettais"
         },
         {
           "tense": "futur",
           "example_en": "We will put the chairs outside.",
-          "example_fr": "Nous mettrons les chaises dehors."
+          "example_fr": "Nous mettrons les chaises dehors.",
+          "highlight": "mettrons"
         },
         {
           "tense": "conditionnel",
           "example_en": "You would put salt in the soup.",
-          "example_fr": "Tu mettrais du sel dans la soupe."
+          "example_fr": "Tu mettrais du sel dans la soupe.",
+          "highlight": "mettrais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je mets",
+          "tu mets",
+          "il/elle/on met",
+          "nous mettons",
+          "vous mettez",
+          "ils/elles mettent"
+        ]
+      }
     },
     {
       "name_en": "to take out",
@@ -412,29 +607,44 @@
         {
           "tense": "présent",
           "example_en": "I take out the trash.",
-          "example_fr": "Je sors la poubelle."
+          "example_fr": "Je sors la poubelle.",
+          "highlight": "sors"
         },
         {
           "tense": "passé composé",
           "example_en": "He took out the dog.",
-          "example_fr": "Il a sorti le chien."
+          "example_fr": "Il a sorti le chien.",
+          "highlight": "sorti"
         },
         {
           "tense": "imparfait",
           "example_en": "She used to take out the recycling.",
-          "example_fr": "Elle sortait le recyclage."
+          "example_fr": "Elle sortait le recyclage.",
+          "highlight": "sortait"
         },
         {
           "tense": "futur",
           "example_en": "We will take out the boxes.",
-          "example_fr": "Nous sortirons les boîtes."
+          "example_fr": "Nous sortirons les boîtes.",
+          "highlight": "sortirons"
         },
         {
           "tense": "conditionnel",
           "example_en": "They would take out the old furniture.",
-          "example_fr": "Ils sortiraient les vieux meubles."
+          "example_fr": "Ils sortiraient les vieux meubles.",
+          "highlight": "sortiraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je sors",
+          "tu sors",
+          "il/elle/on sort",
+          "nous sortons",
+          "vous sortez",
+          "ils/elles sortent"
+        ]
+      }
     },
     {
       "name_en": "to open",
@@ -443,29 +653,44 @@
         {
           "tense": "présent",
           "example_en": "She opens the window.",
-          "example_fr": "Elle ouvre la fenêtre."
+          "example_fr": "Elle ouvre la fenêtre.",
+          "highlight": "ouvre"
         },
         {
           "tense": "passé composé",
           "example_en": "I opened the door.",
-          "example_fr": "J'ai ouvert la porte."
+          "example_fr": "J'ai ouvert la porte.",
+          "highlight": "ouvert"
         },
         {
           "tense": "imparfait",
           "example_en": "He used to open the shop early.",
-          "example_fr": "Il ouvrait le magasin tôt."
+          "example_fr": "Il ouvrait le magasin tôt.",
+          "highlight": "ouvrait"
         },
         {
           "tense": "futur",
           "example_en": "We will open the gifts.",
-          "example_fr": "Nous ouvrirons les cadeaux."
+          "example_fr": "Nous ouvrirons les cadeaux.",
+          "highlight": "ouvrirons"
         },
         {
           "tense": "conditionnel",
           "example_en": "You would open the file.",
-          "example_fr": "Tu ouvrirais le fichier."
+          "example_fr": "Tu ouvrirais le fichier.",
+          "highlight": "ouvrirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'ouvre",
+          "tu ouvres",
+          "il/elle/on ouvre",
+          "nous ouvrons",
+          "vous ouvrez",
+          "ils/elles ouvrent"
+        ]
+      }
     },
     {
       "name_en": "to close",
@@ -474,29 +699,44 @@
         {
           "tense": "présent",
           "example_en": "He closes the shop.",
-          "example_fr": "Il ferme le magasin."
+          "example_fr": "Il ferme le magasin.",
+          "highlight": "ferme"
         },
         {
           "tense": "passé composé",
           "example_en": "She closed the window.",
-          "example_fr": "Elle a fermé la fenêtre."
+          "example_fr": "Elle a fermé la fenêtre.",
+          "highlight": "fermé"
         },
         {
           "tense": "imparfait",
           "example_en": "I used to close the door.",
-          "example_fr": "Je fermais la porte."
+          "example_fr": "Je fermais la porte.",
+          "highlight": "fermais"
         },
         {
           "tense": "futur",
           "example_en": "We will close the meeting.",
-          "example_fr": "Nous fermerons la réunion."
+          "example_fr": "Nous fermerons la réunion.",
+          "highlight": "fermerons"
         },
         {
           "tense": "conditionnel",
           "example_en": "They would close the shop early.",
-          "example_fr": "Ils fermeraient le magasin tôt."
+          "example_fr": "Ils fermeraient le magasin tôt.",
+          "highlight": "fermeraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je ferme",
+          "tu fermes",
+          "il/elle/on ferme",
+          "nous fermons",
+          "vous fermez",
+          "ils/elles ferment"
+        ]
+      }
     },
     {
       "name_en": "to drive",
@@ -505,29 +745,44 @@
         {
           "tense": "présent",
           "example_en": "I drive to work.",
-          "example_fr": "Je conduis au travail."
+          "example_fr": "Je conduis au travail.",
+          "highlight": "conduis"
         },
         {
           "tense": "passé composé",
           "example_en": "He drove to Paris.",
-          "example_fr": "Il a conduit à Paris."
+          "example_fr": "Il a conduit à Paris.",
+          "highlight": "conduit"
         },
         {
           "tense": "imparfait",
           "example_en": "She used to drive every day.",
-          "example_fr": "Elle conduisait tous les jours."
+          "example_fr": "Elle conduisait tous les jours.",
+          "highlight": "conduisait"
         },
         {
           "tense": "futur",
           "example_en": "We will drive to the beach.",
-          "example_fr": "Nous conduirons à la plage."
+          "example_fr": "Nous conduirons à la plage.",
+          "highlight": "conduirons"
         },
         {
           "tense": "conditionnel",
           "example_en": "You would drive the car.",
-          "example_fr": "Tu conduirais la voiture."
+          "example_fr": "Tu conduirais la voiture.",
+          "highlight": "conduirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je conduis",
+          "tu conduis",
+          "il/elle/on conduit",
+          "nous conduisons",
+          "vous conduisez",
+          "ils/elles conduisent"
+        ]
+      }
     },
     {
       "name_en": "to run",
@@ -536,29 +791,44 @@
         {
           "tense": "présent",
           "example_en": "She runs every morning.",
-          "example_fr": "Elle court chaque matin."
+          "example_fr": "Elle court chaque matin.",
+          "highlight": "court"
         },
         {
           "tense": "passé composé",
           "example_en": "I ran yesterday.",
-          "example_fr": "J'ai couru hier."
+          "example_fr": "J'ai couru hier.",
+          "highlight": "couru"
         },
         {
           "tense": "imparfait",
           "example_en": "He used to run fast.",
-          "example_fr": "Il courait vite."
+          "example_fr": "Il courait vite.",
+          "highlight": "courait"
         },
         {
           "tense": "futur",
           "example_en": "We will run together.",
-          "example_fr": "Nous courrons ensemble."
+          "example_fr": "Nous courrons ensemble.",
+          "highlight": "courrons"
         },
         {
           "tense": "conditionnel",
           "example_en": "They would run in the park.",
-          "example_fr": "Ils courraient dans le parc."
+          "example_fr": "Ils courraient dans le parc.",
+          "highlight": "courraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je cours",
+          "tu cours",
+          "il/elle/on court",
+          "nous courons",
+          "vous courez",
+          "ils/elles courent"
+        ]
+      }
     },
     {
       "name_en": "to sleep",
@@ -567,29 +837,44 @@
         {
           "tense": "présent",
           "example_en": "He sleeps eight hours.",
-          "example_fr": "Il dort huit heures."
+          "example_fr": "Il dort huit heures.",
+          "highlight": "dort"
         },
         {
           "tense": "passé composé",
           "example_en": "She slept well.",
-          "example_fr": "Elle a bien dormi."
+          "example_fr": "Elle a bien dormi.",
+          "highlight": "dormi"
         },
         {
           "tense": "imparfait",
           "example_en": "I used to sleep early.",
-          "example_fr": "Je dormais tôt."
+          "example_fr": "Je dormais tôt.",
+          "highlight": "dormais"
         },
         {
           "tense": "futur",
           "example_en": "We will sleep at the hotel.",
-          "example_fr": "Nous dormirons à l'hôtel."
+          "example_fr": "Nous dormirons à l'hôtel.",
+          "highlight": "dormirons"
         },
         {
           "tense": "conditionnel",
           "example_en": "You would sleep longer.",
-          "example_fr": "Tu dormirais plus longtemps."
+          "example_fr": "Tu dormirais plus longtemps.",
+          "highlight": "dormirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je dors",
+          "tu dors",
+          "il/elle/on dort",
+          "nous dormons",
+          "vous dormez",
+          "ils/elles dorment"
+        ]
+      }
     },
     {
       "name_en": "to drink",
@@ -598,29 +883,44 @@
         {
           "tense": "présent",
           "example_en": "I drink water.",
-          "example_fr": "Je bois de l'eau."
+          "example_fr": "Je bois de l'eau.",
+          "highlight": "bois"
         },
         {
           "tense": "passé composé",
           "example_en": "He drank coffee.",
-          "example_fr": "Il a bu du café."
+          "example_fr": "Il a bu du café.",
+          "highlight": "bu"
         },
         {
           "tense": "imparfait",
           "example_en": "She used to drink tea.",
-          "example_fr": "Elle buvait du thé."
+          "example_fr": "Elle buvait du thé.",
+          "highlight": "buvait"
         },
         {
           "tense": "futur",
           "example_en": "We will drink juice.",
-          "example_fr": "Nous boirons du jus."
+          "example_fr": "Nous boirons du jus.",
+          "highlight": "boirons"
         },
         {
           "tense": "conditionnel",
           "example_en": "They would drink wine.",
-          "example_fr": "Ils boiraient du vin."
+          "example_fr": "Ils boiraient du vin.",
+          "highlight": "boiraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je bois",
+          "tu bois",
+          "il/elle/on boit",
+          "nous buvons",
+          "vous buvez",
+          "ils/elles boivent"
+        ]
+      }
     }
   ]
 }

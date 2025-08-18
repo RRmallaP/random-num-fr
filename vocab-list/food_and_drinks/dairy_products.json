@@ -9,7 +9,8 @@
       "example_sentences": [
         {
           "example_en": "I drink milk every morning.",
-          "example_fr": "Je bois du lait chaque matin."
+          "example_fr": "Je bois du lait chaque matin.",
+          "highlight": "lait"
         }
       ]
     },
@@ -20,7 +21,8 @@
       "example_sentences": [
         {
           "example_en": "She spreads butter on her bread.",
-          "example_fr": "Elle étale du beurre sur son pain."
+          "example_fr": "Elle étale du beurre sur son pain.",
+          "highlight": "beurre"
         }
       ]
     },
@@ -31,7 +33,8 @@
       "example_sentences": [
         {
           "example_en": "French cheese is delicious.",
-          "example_fr": "Le fromage français est délicieux."
+          "example_fr": "Le fromage français est délicieux.",
+          "highlight": "fromage"
         }
       ]
     },
@@ -42,7 +45,8 @@
       "example_sentences": [
         {
           "example_en": "Yogurt is good for digestion.",
-          "example_fr": "Le yaourt est bon pour la digestion."
+          "example_fr": "Le yaourt est bon pour la digestion.",
+          "highlight": "yaourt"
         }
       ]
     },
@@ -53,7 +57,8 @@
       "example_sentences": [
         {
           "example_en": "He adds cream to his coffee.",
-          "example_fr": "Il ajoute de la crème à son café."
+          "example_fr": "Il ajoute de la crème à son café.",
+          "highlight": "crème"
         }
       ]
     },
@@ -64,7 +69,8 @@
       "example_sentences": [
         {
           "example_en": "Children love ice cream.",
-          "example_fr": "Les enfants adorent la glace."
+          "example_fr": "Les enfants adorent la glace.",
+          "highlight": "glace"
         }
       ]
     },
@@ -75,7 +81,8 @@
       "example_sentences": [
         {
           "example_en": "Cottage cheese is healthy.",
-          "example_fr": "Le fromage blanc est sain."
+          "example_fr": "Le fromage blanc est sain.",
+          "highlight": "fromage blanc"
         }
       ]
     },
@@ -86,7 +93,8 @@
       "example_sentences": [
         {
           "example_en": "Sour cream is used in many recipes.",
-          "example_fr": "La crème fraîche est utilisée dans de nombreuses recettes."
+          "example_fr": "La crème fraîche est utilisée dans de nombreuses recettes.",
+          "highlight": "crème fraîche"
         }
       ]
     },
@@ -97,7 +105,8 @@
       "example_sentences": [
         {
           "example_en": "He puts whipped cream on his cake.",
-          "example_fr": "Il met de la crème chantilly sur son gâteau."
+          "example_fr": "Il met de la crème chantilly sur son gâteau.",
+          "highlight": "crème chantilly"
         }
       ]
     },
@@ -108,7 +117,8 @@
       "example_sentences": [
         {
           "example_en": "Condensed milk is sweet.",
-          "example_fr": "Le lait concentré est sucré."
+          "example_fr": "Le lait concentré est sucré.",
+          "highlight": "lait concentré"
         }
       ]
     },
@@ -119,7 +129,8 @@
       "example_sentences": [
         {
           "example_en": "Evaporated milk is used in desserts.",
-          "example_fr": "Le lait évaporé est utilisé dans les desserts."
+          "example_fr": "Le lait évaporé est utilisé dans les desserts.",
+          "highlight": "lait évaporé"
         }
       ]
     },
@@ -130,7 +141,8 @@
       "example_sentences": [
         {
           "example_en": "Goat cheese is popular in salads.",
-          "example_fr": "Le fromage de chèvre est populaire dans les salades."
+          "example_fr": "Le fromage de chèvre est populaire dans les salades.",
+          "highlight": "fromage de chèvre"
         }
       ]
     },
@@ -141,7 +153,8 @@
       "example_sentences": [
         {
           "example_en": "Blue cheese has a strong flavor.",
-          "example_fr": "Le fromage bleu a un goût fort."
+          "example_fr": "Le fromage bleu a un goût fort.",
+          "highlight": "fromage bleu"
         }
       ]
     },
@@ -152,7 +165,8 @@
       "example_sentences": [
         {
           "example_en": "Feta is used in Greek salads.",
-          "example_fr": "La feta est utilisée dans les salades grecques."
+          "example_fr": "La feta est utilisée dans les salades grecques.",
+          "highlight": "feta"
         }
       ]
     },
@@ -163,7 +177,8 @@
       "example_sentences": [
         {
           "example_en": "Brie is a soft cheese.",
-          "example_fr": "Le brie est un fromage doux."
+          "example_fr": "Le brie est un fromage doux.",
+          "highlight": "brie"
         }
       ]
     },
@@ -174,7 +189,8 @@
       "example_sentences": [
         {
           "example_en": "Camembert is famous in France.",
-          "example_fr": "Le camembert est célèbre en France."
+          "example_fr": "Le camembert est célèbre en France.",
+          "highlight": "camembert"
         }
       ]
     },
@@ -185,7 +201,8 @@
       "example_sentences": [
         {
           "example_en": "Ricotta is used in Italian dishes.",
-          "example_fr": "La ricotta est utilisée dans les plats italiens."
+          "example_fr": "La ricotta est utilisée dans les plats italiens.",
+          "highlight": "ricotta"
         }
       ]
     },
@@ -196,7 +213,8 @@
       "example_sentences": [
         {
           "example_en": "Mozzarella is perfect for pizza.",
-          "example_fr": "La mozzarella est parfaite pour la pizza."
+          "example_fr": "La mozzarella est parfaite pour la pizza.",
+          "highlight": "mozzarella"
         }
       ]
     },
@@ -207,7 +225,8 @@
       "example_sentences": [
         {
           "example_en": "Parmesan is grated on pasta.",
-          "example_fr": "On râpe du parmesan sur les pâtes."
+          "example_fr": "On râpe du parmesan sur les pâtes.",
+          "highlight": "parmesan"
         }
       ]
     },
@@ -218,7 +237,8 @@
       "example_sentences": [
         {
           "example_en": "Ghee is clarified butter.",
-          "example_fr": "Le ghee est du beurre clarifié."
+          "example_fr": "Le ghee est du beurre clarifié.",
+          "highlight": "ghee"
         }
       ]
     }
