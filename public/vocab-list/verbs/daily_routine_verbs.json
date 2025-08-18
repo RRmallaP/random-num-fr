@@ -11,7 +11,17 @@
           "example_fr": "Je me réveille à 7 heures.",
           "highlight": "réveille"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me réveille",
+          "tu te réveilles",
+          "il/elle/on se réveille",
+          "nous nous réveillons",
+          "vous vous réveillez",
+          "ils/elles se réveillent"
+        ]
+      }
     },
     {
       "name_en": "get up",
@@ -22,7 +32,17 @@
           "example_fr": "Il se lève rapidement.",
           "highlight": "lève"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me lève",
+          "tu te lèves",
+          "il/elle/on se lève",
+          "nous nous levons",
+          "vous vous levez",
+          "ils/elles se lèvent"
+        ]
+      }
     },
     {
       "name_en": "wash",
@@ -33,7 +53,17 @@
           "example_fr": "Elle se lave le visage.",
           "highlight": "lave"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me lave",
+          "tu te laves",
+          "il/elle/on se lave",
+          "nous nous lavons",
+          "vous vous lavez",
+          "ils/elles se lavent"
+        ]
+      }
     },
     {
       "name_en": "brush teeth",
@@ -44,7 +74,17 @@
           "example_fr": "Je me brosse les dents deux fois par jour.",
           "highlight": "brosse"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me brosse",
+          "tu te brosses",
+          "il/elle/on se brosse",
+          "nous nous brossons",
+          "vous vous brossez",
+          "ils/elles se brossent"
+        ]
+      }
     },
     {
       "name_en": "take a shower",
@@ -55,7 +95,17 @@
           "example_fr": "Il prend une douche chaque matin.",
           "highlight": "prend"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je prends",
+          "tu prends",
+          "il/elle/on prend",
+          "nous prenons",
+          "vous prenez",
+          "ils/elles prennent"
+        ]
+      }
     },
     {
       "name_en": "get dressed",
@@ -66,7 +116,17 @@
           "example_fr": "Elle s'habille rapidement.",
           "highlight": "habille"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je m'habille",
+          "tu t'habilles",
+          "il/elle/on s'habille",
+          "nous nous habillons",
+          "vous vous habillez",
+          "ils/elles s'habillent"
+        ]
+      }
     },
     {
       "name_en": "comb hair",
@@ -77,7 +137,17 @@
           "example_fr": "Il se coiffe avant de partir.",
           "highlight": "coiffe"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me coiffe",
+          "tu te coiffes",
+          "il/elle/on se coiffe",
+          "nous nous coiffons",
+          "vous vous coiffez",
+          "ils/elles se coiffent"
+        ]
+      }
     },
     {
       "name_en": "have breakfast",
@@ -88,7 +158,17 @@
           "example_fr": "Nous prenons le petit-déjeuner ensemble.",
           "highlight": "prenons"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je prends",
+          "tu prends",
+          "il/elle/on prend",
+          "nous prenons",
+          "vous prenez",
+          "ils/elles prennent"
+        ]
+      }
     },
     {
       "name_en": "go to school",
@@ -99,7 +179,17 @@
           "example_fr": "Les enfants vont à l'école à 8 heures.",
           "highlight": "vont"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je vais",
+          "tu vas",
+          "il/elle/on va",
+          "nous allons",
+          "vous allez",
+          "ils/elles vont"
+        ]
+      }
     },
     {
       "name_en": "study",
@@ -110,7 +200,17 @@
           "example_fr": "Elle étudie chaque soir.",
           "highlight": "étudie"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'étudie",
+          "tu étudies",
+          "il/elle/on étudie",
+          "nous étudions",
+          "vous étudiez",
+          "ils/elles étudient"
+        ]
+      }
     },
     {
       "name_en": "work",
@@ -121,7 +221,17 @@
           "example_fr": "Il travaille dans un bureau.",
           "highlight": "travaille"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je travaille",
+          "tu travailles",
+          "il/elle/on travaille",
+          "nous travaillons",
+          "vous travaillez",
+          "ils/elles travaillent"
+        ]
+      }
     },
     {
       "name_en": "have lunch",
@@ -132,7 +242,17 @@
           "example_fr": "Nous déjeunons à midi.",
           "highlight": "déjeunons"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je déjeune",
+          "tu déjeunes",
+          "il/elle/on déjeune",
+          "nous déjeunons",
+          "vous déjeunez",
+          "ils/elles déjeunent"
+        ]
+      }
     },
     {
       "name_en": "go home",
@@ -143,7 +263,17 @@
           "example_fr": "Il rentre à la maison après le travail.",
           "highlight": "rentre"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je rentre",
+          "tu rentres",
+          "il/elle/on rentre",
+          "nous rentrons",
+          "vous rentrez",
+          "ils/elles rentrent"
+        ]
+      }
     },
     {
       "name_en": "rest",
@@ -154,7 +284,17 @@
           "example_fr": "Elle se repose un moment.",
           "highlight": "repose"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me repose",
+          "tu te reposes",
+          "il/elle/on se repose",
+          "nous nous reposons",
+          "vous vous reposez",
+          "ils/elles se reposent"
+        ]
+      }
     },
     {
       "name_en": "play",
@@ -165,7 +305,17 @@
           "example_fr": "Les enfants jouent dans le parc.",
           "highlight": "jouent"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je joue",
+          "tu joues",
+          "il/elle/on joue",
+          "nous jouons",
+          "vous jouez",
+          "ils/elles jouent"
+        ]
+      }
     },
     {
       "name_en": "watch TV",
@@ -176,7 +326,17 @@
           "example_fr": "Nous regardons la télévision le soir.",
           "highlight": "regardons"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je regarde",
+          "tu regardes",
+          "il/elle/on regarde",
+          "nous regardons",
+          "vous regardez",
+          "ils/elles regardent"
+        ]
+      }
     },
     {
       "name_en": "read",
@@ -187,7 +347,17 @@
           "example_fr": "Il lit un livre avant de dormir.",
           "highlight": "lit"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je lis",
+          "tu lis",
+          "il/elle/on lit",
+          "nous lisons",
+          "vous lisez",
+          "ils/elles lisent"
+        ]
+      }
     },
     {
       "name_en": "have dinner",
@@ -198,7 +368,17 @@
           "example_fr": "Nous dînons à 19 heures.",
           "highlight": "dînons"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je dîne",
+          "tu dînes",
+          "il/elle/on dîne",
+          "nous dînons",
+          "vous dînez",
+          "ils/elles dînent"
+        ]
+      }
     },
     {
       "name_en": "take a nap",
@@ -209,7 +389,17 @@
           "example_fr": "Elle fait une sieste après le déjeuner.",
           "highlight": "fait"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ]
+      }
     },
     {
       "name_en": "do homework",
@@ -220,7 +410,17 @@
           "example_fr": "Les enfants font leurs devoirs l'après-midi.",
           "highlight": "font"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ]
+      }
     },
     {
       "name_en": "exercise",
@@ -231,7 +431,17 @@
           "example_fr": "Il fait de l'exercice chaque matin.",
           "highlight": "fait"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ]
+      }
     },
     {
       "name_en": "cook",
@@ -242,7 +452,17 @@
           "example_fr": "Elle cuisine le dîner pour sa famille.",
           "highlight": "cuisine"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je cuisine",
+          "tu cuisines",
+          "il/elle/on cuisine",
+          "nous cuisinons",
+          "vous cuisinez",
+          "ils/elles cuisinent"
+        ]
+      }
     },
     {
       "name_en": "clean",
@@ -253,7 +473,17 @@
           "example_fr": "Il nettoie sa chambre chaque semaine.",
           "highlight": "nettoie"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je nettoie",
+          "tu nettoies",
+          "il/elle/on nettoie",
+          "nous nettoyons",
+          "vous nettoyez",
+          "ils/elles nettoient"
+        ]
+      }
     },
     {
       "name_en": "wash dishes",
@@ -264,7 +494,17 @@
           "example_fr": "Elle fait la vaisselle après le dîner.",
           "highlight": "fait"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ]
+      }
     },
     {
       "name_en": "feed pets",
@@ -275,7 +515,17 @@
           "example_fr": "Il nourrit ses animaux le matin.",
           "highlight": "nourrit"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je nourris",
+          "tu nourris",
+          "il/elle/on nourrit",
+          "nous nourrissons",
+          "vous nourrissez",
+          "ils/elles nourrissent"
+        ]
+      }
     },
     {
       "name_en": "go shopping",
@@ -286,7 +536,17 @@
           "example_fr": "Nous faisons les courses le samedi.",
           "highlight": "faisons"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ]
+      }
     },
     {
       "name_en": "drive",
@@ -297,7 +557,17 @@
           "example_fr": "Il conduit au travail tous les jours.",
           "highlight": "conduit"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je conduis",
+          "tu conduis",
+          "il/elle/on conduit",
+          "nous conduisons",
+          "vous conduisez",
+          "ils/elles conduisent"
+        ]
+      }
     },
     {
       "name_en": "take out the trash",
@@ -308,7 +578,17 @@
           "example_fr": "Elle sort la poubelle le soir.",
           "highlight": "sort"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je sors",
+          "tu sors",
+          "il/elle/on sort",
+          "nous sortons",
+          "vous sortez",
+          "ils/elles sortent"
+        ]
+      }
     },
     {
       "name_en": "make the bed",
@@ -319,7 +599,17 @@
           "example_fr": "Il fait le lit chaque matin.",
           "highlight": "fait"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ]
+      }
     },
     {
       "name_en": "call",
@@ -330,7 +620,17 @@
           "example_fr": "Elle téléphone à son amie après l'école.",
           "highlight": "téléphone"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je téléphone",
+          "tu téléphones",
+          "il/elle/on téléphone",
+          "nous téléphonons",
+          "vous téléphonez",
+          "ils/elles téléphonent"
+        ]
+      }
     },
     {
       "name_en": "meet friends",
@@ -341,7 +641,17 @@
           "example_fr": "Il rencontre ses amis le week-end.",
           "highlight": "rencontre"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je rencontre",
+          "tu rencontres",
+          "il/elle/on rencontre",
+          "nous rencontrons",
+          "vous rencontrez",
+          "ils/elles rencontrent"
+        ]
+      }
     },
     {
       "name_en": "go for a walk",
@@ -352,7 +662,17 @@
           "example_fr": "Nous nous promenons après le dîner.",
           "highlight": "promenons"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me promène",
+          "tu te promènes",
+          "il/elle/on se promène",
+          "nous nous promenons",
+          "vous vous promenez",
+          "ils/elles se promènent"
+        ]
+      }
     },
     {
       "name_en": "sleep",
@@ -363,7 +683,17 @@
           "example_fr": "Il dort huit heures chaque nuit.",
           "highlight": "dort"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je dors",
+          "tu dors",
+          "il/elle/on dort",
+          "nous dormons",
+          "vous dormez",
+          "ils/elles dorment"
+        ]
+      }
     },
     {
       "name_en": "dream",
@@ -374,7 +704,17 @@
           "example_fr": "Elle rêve de voyager.",
           "highlight": "rêve"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je rêve",
+          "tu rêves",
+          "il/elle/on rêve",
+          "nous rêvons",
+          "vous rêvez",
+          "ils/elles rêvent"
+        ]
+      }
     },
     {
       "name_en": "relax",
@@ -385,7 +725,17 @@
           "example_fr": "Il se détend le dimanche.",
           "highlight": "détend"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me détends",
+          "tu te détends",
+          "il/elle/on se détend",
+          "nous nous détendons",
+          "vous vous détendez",
+          "ils/elles se détendent"
+        ]
+      }
     },
     {
       "name_en": "prepare",
@@ -396,7 +746,17 @@
           "example_fr": "Elle prépare son sac pour l'école.",
           "highlight": "prépare"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je prépare",
+          "tu prépares",
+          "il/elle/on prépare",
+          "nous préparons",
+          "vous préparez",
+          "ils/elles préparent"
+        ]
+      }
     },
     {
       "name_en": "pack",
@@ -407,7 +767,17 @@
           "example_fr": "Elle fait sa valise pour le voyage.",
           "highlight": "fait"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ]
+      }
     },
     {
       "name_en": "iron",
@@ -418,7 +788,17 @@
           "example_fr": "Il repasse sa chemise avant le travail.",
           "highlight": "repasser"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je repasse",
+          "tu repasses",
+          "il/elle/on repasse",
+          "nous repassons",
+          "vous repassez",
+          "ils/elles repassent"
+        ]
+      }
     },
     {
       "name_en": "shave",
@@ -429,7 +809,17 @@
           "example_fr": "Il se rase chaque matin.",
           "highlight": "rase"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me rase",
+          "tu te rases",
+          "il/elle/on se rase",
+          "nous nous rasons",
+          "vous vous rasez",
+          "ils/elles se rasent"
+        ]
+      }
     },
     {
       "name_en": "put on makeup",
@@ -440,7 +830,17 @@
           "example_fr": "Elle se maquille avant de sortir.",
           "highlight": "maquille"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me maquille",
+          "tu te maquilles",
+          "il/elle/on se maquille",
+          "nous nous maquillons",
+          "vous vous maquillez",
+          "ils/elles se maquillent"
+        ]
+      }
     },
     {
       "name_en": "take medicine",
@@ -451,7 +851,17 @@
           "example_fr": "Il prend des médicaments quand il est malade.",
           "highlight": "prend"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je prends",
+          "tu prends",
+          "il/elle/on prend",
+          "nous prenons",
+          "vous prenez",
+          "ils/elles prennent"
+        ]
+      }
     },
     {
       "name_en": "go online",
@@ -462,7 +872,17 @@
           "example_fr": "Elle va sur Internet pour vérifier ses e-mails.",
           "highlight": "va"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je vais",
+          "tu vas",
+          "il/elle/on va",
+          "nous allons",
+          "vous allez",
+          "ils/elles vont"
+        ]
+      }
     },
     {
       "name_en": "charge phone",
@@ -473,7 +893,17 @@
           "example_fr": "Il recharge son téléphone la nuit.",
           "highlight": "recharge"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je recharge",
+          "tu recharges",
+          "il/elle/on recharge",
+          "nous rechargons",
+          "vous rechargez",
+          "ils/elles rechargent"
+        ]
+      }
     },
     {
       "name_en": "listen to music",
@@ -484,7 +914,17 @@
           "example_fr": "Elle écoute de la musique en étudiant.",
           "highlight": "écoute"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'écoute",
+          "tu écoutes",
+          "il/elle/on écoute",
+          "nous écoutons",
+          "vous écoutez",
+          "ils/elles écoutent"
+        ]
+      }
     },
     {
       "name_en": "send a message",
@@ -495,7 +935,17 @@
           "example_fr": "Il envoie un message à son ami.",
           "highlight": "envoie"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'envoie",
+          "tu envoies",
+          "il/elle/on envoie",
+          "nous envoyons",
+          "vous envoyez",
+          "ils/elles envoient"
+        ]
+      }
     },
     {
       "name_en": "wait",
@@ -506,7 +956,17 @@
           "example_fr": "Elle attend le bus chaque matin.",
           "highlight": "attend"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'attends",
+          "tu attends",
+          "il/elle/on attend",
+          "nous attendons",
+          "vous attendez",
+          "ils/elles attendent"
+        ]
+      }
     }
   ]
 }

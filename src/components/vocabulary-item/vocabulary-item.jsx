@@ -5,6 +5,8 @@ import { useRef, useEffect, useState } from "react";
 function VocabularyItem({vocab, config}) {
   const [showAllExamples, setShowAllExamples] = useState(false);
   const examplesWrapperRef = useRef(null);
+  // Modal state for conjugation
+  const [showConjugationModal, setShowConjugationModal] = useState(false);
 
   useEffect(() => {
     function handleClickOutside(event) {
@@ -89,13 +91,50 @@ function VocabularyItem({vocab, config}) {
           </>
         )}
 
-        { vocab.conjugation && 
-          (
-            <div className="">
-              <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Show conjugations</a>
+        { vocab.conjugation && (
+          <div className="mt-2">
+            <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" onClick={e => {e.preventDefault(); setShowConjugationModal(true);}}>Show conjugation</a>
+          </div>
+        )}
+        {/* Modal for conjugation */}
+        {showConjugationModal && (
+          <div
+            className="fixed inset-0 z-50 flex items-center justify-center bg-gray-500/50"
+            onClick={() => setShowConjugationModal(false)}
+          >
+            <div
+              className="bg-white dark:bg-gray-900 rounded-lg shadow-lg p-6 max-w-lg w-full relative"
+              onClick={e => e.stopPropagation()}
+            >
+              <button className="absolute top-2 right-2 text-gray-500 hover:text-gray-700 text-3xl font-bold" onClick={() => setShowConjugationModal(false)}>&times;</button>
+              <h3 className="text-xl font-bold mb-2 text-gray-900 dark:text-white">Conjugation of {vocab.name_fr}</h3>
+              <div className="conjugation-table text-gray-900 dark:text-white">
+                {typeof vocab.conjugation === 'string' ? (
+                  <div>{vocab.conjugation}</div>
+                ) : (
+                  <table className="w-full text-left border-collapse">
+                    <tbody>
+                      {Object.entries(vocab.conjugation).map(([tense, forms], idx) => (
+                        <tr key={tense+idx}>
+                          <td className="font-semibold pr-2 align-top">{tense}</td>
+                          <td>
+                            {Array.isArray(forms) ? (
+                              <ul className="list-disc ml-4">
+                                {forms.map((form, i) => <li key={i}>{form}</li>)}
+                              </ul>
+                            ) : (
+                              <span>{forms}</span>
+                            )}
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                )}
+              </div>
             </div>
-          )
-        }
+          </div>
+        )}
       </div>
     </div>
   );

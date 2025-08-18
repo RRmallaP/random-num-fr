@@ -36,7 +36,17 @@
           "example_fr": "Ils seraient surpris.",
           "highlight": "seraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je suis",
+          "tu es",
+          "il/elle/on est",
+          "nous sommes",
+          "vous êtes",
+          "ils/elles sont"
+        ]
+      }
     },
     {
       "name_en": "to have",
@@ -72,7 +82,17 @@
           "example_fr": "Ils auraient plus d'argent.",
           "highlight": "auraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'ai",
+          "tu as",
+          "il/elle/on a",
+          "nous avons",
+          "vous avez",
+          "ils/elles ont"
+        ]
+      }
     },
     {
       "name_en": "to go",
@@ -108,7 +128,17 @@
           "example_fr": "J'irais si je pouvais.",
           "highlight": "irais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je vais",
+          "tu vas",
+          "il/elle/on va",
+          "nous allons",
+          "vous allez",
+          "ils/elles vont"
+        ]
+      }
     },
     {
       "name_en": "to do/make",
@@ -144,7 +174,17 @@
           "example_fr": "Tu ferais le dîner.",
           "highlight": "ferais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ]
+      }
     },
     {
       "name_en": "to say",
@@ -180,7 +220,17 @@
           "example_fr": "Tu dirais quelque chose.",
           "highlight": "dirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je dis",
+          "tu dis",
+          "il/elle/on dit",
+          "nous disons",
+          "vous dites",
+          "ils/elles disent"
+        ]
+      }
     },
     {
       "name_en": "to see",
@@ -216,7 +266,17 @@
           "example_fr": "Ils verraient les résultats.",
           "highlight": "verraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je vois",
+          "tu vois",
+          "il/elle/on voit",
+          "nous voyons",
+          "vous voyez",
+          "ils/elles voient"
+        ]
+      }
     },
     {
       "name_en": "to know",
@@ -252,7 +312,17 @@
           "example_fr": "Nous saurions plus.",
           "highlight": "saurions"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je sais",
+          "tu sais",
+          "il/elle/on sait",
+          "nous savons",
+          "vous savez",
+          "ils/elles savent"
+        ]
+      }
     },
     {
       "name_en": "to want",
@@ -288,7 +358,17 @@
           "example_fr": "Tu voudrais aider.",
           "highlight": "voudrais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je veux",
+          "tu veux",
+          "il/elle/on veut",
+          "nous voulons",
+          "vous voulez",
+          "ils/elles veulent"
+        ]
+      }
     },
     {
       "name_en": "to come",
@@ -324,7 +404,17 @@
           "example_fr": "Ils viendraient si on les invitait.",
           "highlight": "viendraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je viens",
+          "tu viens",
+          "il/elle/on vient",
+          "nous venons",
+          "vous venez",
+          "ils/elles viennent"
+        ]
+      }
     },
     {
       "name_en": "to take",
@@ -360,7 +450,17 @@
           "example_fr": "Tu prendrais le travail.",
           "highlight": "prendrais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je prends",
+          "tu prends",
+          "il/elle/on prend",
+          "nous prenons",
+          "vous prenez",
+          "ils/elles prennent"
+        ]
+      }
     },
     {
       "name_en": "to write",
@@ -396,7 +496,17 @@
           "example_fr": "Tu écrirais un livre.",
           "highlight": "écrirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'écris",
+          "tu écris",
+          "il/elle/on écrit",
+          "nous écrivons",
+          "vous écrivez",
+          "ils/elles écrivent"
+        ]
+      }
     },
     {
       "name_en": "to read",
@@ -432,7 +542,17 @@
           "example_fr": "Ils liraient plus.",
           "highlight": "liraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je lis",
+          "tu lis",
+          "il/elle/on lit",
+          "nous lisons",
+          "vous lisez",
+          "ils/elles lisent"
+        ]
+      }
     },
     {
       "name_en": "to put",
@@ -468,7 +588,17 @@
           "example_fr": "Tu mettrais du sel dans la soupe.",
           "highlight": "mettrais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je mets",
+          "tu mets",
+          "il/elle/on met",
+          "nous mettons",
+          "vous mettez",
+          "ils/elles mettent"
+        ]
+      }
     },
     {
       "name_en": "to take out",
@@ -504,7 +634,17 @@
           "example_fr": "Ils sortiraient les vieux meubles.",
           "highlight": "sortiraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je sors",
+          "tu sors",
+          "il/elle/on sort",
+          "nous sortons",
+          "vous sortez",
+          "ils/elles sortent"
+        ]
+      }
     },
     {
       "name_en": "to open",
@@ -540,7 +680,17 @@
           "example_fr": "Tu ouvrirais le fichier.",
           "highlight": "ouvrirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'ouvre",
+          "tu ouvres",
+          "il/elle/on ouvre",
+          "nous ouvrons",
+          "vous ouvrez",
+          "ils/elles ouvrent"
+        ]
+      }
     },
     {
       "name_en": "to close",
@@ -576,7 +726,17 @@
           "example_fr": "Ils fermeraient le magasin tôt.",
           "highlight": "fermeraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je ferme",
+          "tu fermes",
+          "il/elle/on ferme",
+          "nous fermons",
+          "vous fermez",
+          "ils/elles ferment"
+        ]
+      }
     },
     {
       "name_en": "to drive",
@@ -612,7 +772,17 @@
           "example_fr": "Tu conduirais la voiture.",
           "highlight": "conduirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je conduis",
+          "tu conduis",
+          "il/elle/on conduit",
+          "nous conduisons",
+          "vous conduisez",
+          "ils/elles conduisent"
+        ]
+      }
     },
     {
       "name_en": "to run",
@@ -648,7 +818,17 @@
           "example_fr": "Ils courraient dans le parc.",
           "highlight": "courraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je cours",
+          "tu cours",
+          "il/elle/on court",
+          "nous courons",
+          "vous courez",
+          "ils/elles courent"
+        ]
+      }
     },
     {
       "name_en": "to sleep",
@@ -684,7 +864,17 @@
           "example_fr": "Tu dormirais plus longtemps.",
           "highlight": "dormirais"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je dors",
+          "tu dors",
+          "il/elle/on dort",
+          "nous dormons",
+          "vous dormez",
+          "ils/elles dorment"
+        ]
+      }
     },
     {
       "name_en": "to drink",
@@ -720,7 +910,17 @@
           "example_fr": "Ils boiraient du vin.",
           "highlight": "boiraient"
         }
-      ]
+      ],
+      "conjugation": {
+        "Présent": [
+          "je bois",
+          "tu bois",
+          "il/elle/on boit",
+          "nous buvons",
+          "vous buvez",
+          "ils/elles boivent"
+        ]
+      }
     }
   ]
 }
