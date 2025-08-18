@@ -1,0 +1,226 @@
+{
+  "name_en": "Beverages",
+  "name_fr": "Boissons",
+  "list": [
+    {
+      "name_en": "Water",
+      "name_fr": "l'eau",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Water is essential for life.",
+          "example_fr": "L'eau est essentielle à la vie."
+        }
+      ]
+    },
+    {
+      "name_en": "Tea",
+      "name_fr": "le thé",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "She drinks tea every afternoon.",
+          "example_fr": "Elle boit du thé chaque après-midi."
+        }
+      ]
+    },
+    {
+      "name_en": "Coffee",
+      "name_fr": "le café",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Coffee wakes me up in the morning.",
+          "example_fr": "Le café me réveille le matin."
+        }
+      ]
+    },
+    {
+      "name_en": "Juice",
+      "name_fr": "le jus",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Orange juice is fresh and sweet.",
+          "example_fr": "Le jus d'orange est frais et sucré."
+        }
+      ]
+    },
+    {
+      "name_en": "Milk",
+      "name_fr": "le lait",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Milk is good for bones.",
+          "example_fr": "Le lait est bon pour les os."
+        }
+      ]
+    },
+    {
+      "name_en": "Hot Chocolate",
+      "name_fr": "le chocolat chaud",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Hot chocolate is perfect in winter.",
+          "example_fr": "Le chocolat chaud est parfait en hiver."
+        }
+      ]
+    },
+    {
+      "name_en": "Lemonade",
+      "name_fr": "la limonade",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Lemonade is refreshing in summer.",
+          "example_fr": "La limonade est rafraîchissante en été."
+        }
+      ]
+    },
+    {
+      "name_en": "Soda",
+      "name_fr": "le soda",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Soda is fizzy and sweet.",
+          "example_fr": "Le soda est pétillant et sucré."
+        }
+      ]
+    },
+    {
+      "name_en": "Wine",
+      "name_fr": "le vin",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Wine is made from grapes.",
+          "example_fr": "Le vin est fait à partir de raisins."
+        }
+      ]
+    },
+    {
+      "name_en": "Beer",
+      "name_fr": "la bière",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Beer is served cold.",
+          "example_fr": "La bière est servie froide."
+        }
+      ]
+    },
+    {
+      "name_en": "Champagne",
+      "name_fr": "le champagne",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Champagne is used for celebrations.",
+          "example_fr": "Le champagne est utilisé pour les célébrations."
+        }
+      ]
+    },
+    {
+      "name_en": "Smoothie",
+      "name_fr": "le smoothie",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "A smoothie is made with fruits.",
+          "example_fr": "Un smoothie est fait avec des fruits."
+        }
+      ]
+    },
+    {
+      "name_en": "Cider",
+      "name_fr": "le cidre",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Cider is made from apples.",
+          "example_fr": "Le cidre est fait à partir de pommes."
+        }
+      ]
+    },
+    {
+      "name_en": "Mineral Water",
+      "name_fr": "l'eau minérale",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Mineral water is sold in bottles.",
+          "example_fr": "L'eau minérale est vendue en bouteilles."
+        }
+      ]
+    },
+    {
+      "name_en": "Iced Tea",
+      "name_fr": "le thé glacé",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Iced tea is popular in summer.",
+          "example_fr": "Le thé glacé est populaire en été."
+        }
+      ]
+    },
+    {
+      "name_en": "Espresso",
+      "name_fr": "l'espresso",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Espresso is strong and bitter.",
+          "example_fr": "L'espresso est fort et amer."
+        }
+      ]
+    },
+    {
+      "name_en": "Herbal Tea",
+      "name_fr": "la tisane",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Herbal tea helps you relax.",
+          "example_fr": "La tisane aide à se détendre."
+        }
+      ]
+    },
+    {
+      "name_en": "Cocoa",
+      "name_fr": "le cacao",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Cocoa is used in desserts and drinks.",
+          "example_fr": "Le cacao est utilisé dans les desserts et les boissons."
+        }
+      ]
+    },
+    {
+      "name_en": "Energy Drink",
+      "name_fr": "la boisson énergisante",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Energy drinks are popular among athletes.",
+          "example_fr": "Les boissons énergisantes sont populaires chez les sportifs."
+        }
+      ]
+    },
+    {
+      "name_en": "Milkshake",
+      "name_fr": "le milk-shake",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "A milkshake is made with milk and ice cream.",
+          "example_fr": "Un milk-shake est fait avec du lait et de la glace."
+        }
+      ]
+    }
+  ]
+}

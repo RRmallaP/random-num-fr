@@ -1,0 +1,226 @@
+{
+  "name_en": "Meat and Fish",
+  "name_fr": "Viande et Poisson",
+  "list": [
+    {
+      "name_en": "beef",
+      "name_fr": "le bœuf",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Beef is used in many dishes.",
+          "example_fr": "Le bœuf est utilisé dans de nombreux plats."
+        }
+      ]
+    },
+    {
+      "name_en": "chicken",
+      "name_fr": "le poulet",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Chicken is a popular meat.",
+          "example_fr": "Le poulet est une viande populaire."
+        }
+      ]
+    },
+    {
+      "name_en": "pork",
+      "name_fr": "le porc",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Pork can be roasted or grilled.",
+          "example_fr": "Le porc peut être rôti ou grillé."
+        }
+      ]
+    },
+    {
+      "name_en": "lamb",
+      "name_fr": "l'agneau",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Lamb is tender and tasty.",
+          "example_fr": "L'agneau est tendre et savoureux."
+        }
+      ]
+    },
+    {
+      "name_en": "duck",
+      "name_fr": "le canard",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Duck is served with orange sauce.",
+          "example_fr": "Le canard est servi avec une sauce à l'orange."
+        }
+      ]
+    },
+    {
+      "name_en": "turkey",
+      "name_fr": "la dinde",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Turkey is eaten at Christmas.",
+          "example_fr": "La dinde est mangée à Noël."
+        }
+      ]
+    },
+    {
+      "name_en": "veal",
+      "name_fr": "le veau",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Veal is very tender.",
+          "example_fr": "Le veau est très tendre."
+        }
+      ]
+    },
+    {
+      "name_en": "rabbit",
+      "name_fr": "le lapin",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Rabbit is cooked in mustard sauce.",
+          "example_fr": "Le lapin est cuisiné à la moutarde."
+        }
+      ]
+    },
+    {
+      "name_en": "sausage",
+      "name_fr": "la saucisse",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Sausage is grilled for breakfast.",
+          "example_fr": "La saucisse est grillée pour le petit-déjeuner."
+        }
+      ]
+    },
+    {
+      "name_en": "ham",
+      "name_fr": "le jambon",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Ham is used in sandwiches.",
+          "example_fr": "Le jambon est utilisé dans les sandwiches."
+        }
+      ]
+    },
+    {
+      "name_en": "bacon",
+      "name_fr": "le bacon",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Bacon is crispy and salty.",
+          "example_fr": "Le bacon est croustillant et salé."
+        }
+      ]
+    },
+    {
+      "name_en": "salmon",
+      "name_fr": "le saumon",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Salmon is rich in omega-3.",
+          "example_fr": "Le saumon est riche en oméga-3."
+        }
+      ]
+    },
+    {
+      "name_en": "tuna",
+      "name_fr": "le thon",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Tuna is often eaten raw in sushi.",
+          "example_fr": "Le thon est souvent mangé cru dans les sushis."
+        }
+      ]
+    },
+    {
+      "name_en": "cod",
+      "name_fr": "la morue",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Cod is used in fish and chips.",
+          "example_fr": "La morue est utilisée dans le fish and chips."
+        }
+      ]
+    },
+    {
+      "name_en": "trout",
+      "name_fr": "la truite",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Trout lives in rivers.",
+          "example_fr": "La truite vit dans les rivières."
+        }
+      ]
+    },
+    {
+      "name_en": "sardine",
+      "name_fr": "la sardine",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Sardines are packed in oil.",
+          "example_fr": "Les sardines sont conservées dans l'huile."
+        }
+      ]
+    },
+    {
+      "name_en": "shrimp",
+      "name_fr": "la crevette",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Shrimp is used in paella.",
+          "example_fr": "La crevette est utilisée dans la paella."
+        }
+      ]
+    },
+    {
+      "name_en": "oyster",
+      "name_fr": "l'huître",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Oysters are eaten raw.",
+          "example_fr": "Les huîtres sont mangées crues."
+        }
+      ]
+    },
+    {
+      "name_en": "mussel",
+      "name_fr": "la moule",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Mussels are cooked with white wine.",
+          "example_fr": "Les moules sont cuisinées au vin blanc."
+        }
+      ]
+    },
+    {
+      "name_en": "octopus",
+      "name_fr": "le poulpe",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Octopus is a delicacy in Spain.",
+          "example_fr": "Le poulpe est un mets délicat en Espagne."
+        }
+      ]
+    }
+  ]
+}

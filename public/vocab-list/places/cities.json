@@ -1,0 +1,413 @@
+{
+  "name_en": "Cities",
+  "name_fr": "Des Villes",
+  "list": [
+    {
+      "name_en": "New York",
+      "name_fr": "New York",
+      "example_sentences": [
+        {
+          "example_en": "New York is in the United States.",
+          "example_fr": "New York est aux États-Unis.",
+          "highlight": "New York"
+        }
+      ]
+    },
+    {
+      "name_en": "London",
+      "name_fr": "Londres",
+      "example_sentences": [
+        {
+          "example_en": "London is in the United Kingdom.",
+          "example_fr": "Londres est au Royaume-Uni.",
+          "highlight": "Londres"
+        }
+      ]
+    },
+    {
+      "name_en": "Paris",
+      "name_fr": "Paris",
+      "example_sentences": [
+        {
+          "example_en": "Paris is in France.",
+          "example_fr": "Paris est en France.",
+          "highlight": "Paris"
+        }
+      ]
+    },
+    {
+      "name_en": "Tokyo",
+      "name_fr": "Tokyo",
+      "example_sentences": [
+        {
+          "example_en": "Tokyo is in Japan.",
+          "example_fr": "Tokyo est au Japon.",
+          "highlight": "Tokyo"
+        }
+      ]
+    },
+    {
+      "name_en": "Beijing",
+      "name_fr": "Pékin",
+      "example_sentences": [
+        {
+          "example_en": "Beijing is in China.",
+          "example_fr": "Pékin est en Chine.",
+          "highlight": "Pékin"
+        }
+      ]
+    },
+    {
+      "name_en": "Moscow",
+      "name_fr": "Moscou",
+      "example_sentences": [
+        {
+          "example_en": "Moscow is in Russia.",
+          "example_fr": "Moscou est en Russie.",
+          "highlight": "Moscou"
+        }
+      ]
+    },
+    {
+      "name_en": "Sydney",
+      "name_fr": "Sydney",
+      "example_sentences": [
+        {
+          "example_en": "Sydney is in Australia.",
+          "example_fr": "Sydney est en Australie.",
+          "highlight": "Sydney"
+        }
+      ]
+    },
+    {
+      "name_en": "Rio de Janeiro",
+      "name_fr": "Rio de Janeiro",
+      "example_sentences": [
+        {
+          "example_en": "Rio de Janeiro is in Brazil.",
+          "example_fr": "Rio de Janeiro est au Brésil.",
+          "highlight": "Rio de Janeiro"
+        }
+      ]
+    },
+    {
+      "name_en": "Cairo",
+      "name_fr": "Le Caire",
+      "example_sentences": [
+        {
+          "example_en": "Cairo is in Egypt.",
+          "example_fr": "Le Caire est en Égypte.",
+          "highlight": "Le Caire"
+        }
+      ]
+    },
+    {
+      "name_en": "Berlin",
+      "name_fr": "Berlin",
+      "example_sentences": [
+        {
+          "example_en": "Berlin is in Germany.",
+          "example_fr": "Berlin est en Allemagne.",
+          "highlight": "Berlin"
+        }
+      ]
+    },
+    {
+      "name_en": "Toronto",
+      "name_fr": "Toronto",
+      "example_sentences": [
+        {
+          "example_en": "Toronto is in Canada.",
+          "example_fr": "Toronto est au Canada.",
+          "highlight": "Toronto"
+        }
+      ]
+    },
+    {
+      "name_en": "Dubai",
+      "name_fr": "Dubaï",
+      "example_sentences": [
+        {
+          "example_en": "Dubai is in the United Arab Emirates.",
+          "example_fr": "Dubaï est aux Émirats arabes unis.",
+          "highlight": "Dubaï"
+        }
+      ]
+    },
+    {
+      "name_en": "Istanbul",
+      "name_fr": "Istanbul",
+      "example_sentences": [
+        {
+          "example_en": "Istanbul is in Turkey.",
+          "example_fr": "Istanbul est en Turquie.",
+          "highlight": "Istanbul"
+        }
+      ]
+    },
+    {
+      "name_en": "Mumbai",
+      "name_fr": "Bombay",
+      "example_sentences": [
+        {
+          "example_en": "Mumbai is in India.",
+          "example_fr": "Bombay est en Inde.",
+          "highlight": "Bombay"
+        }
+      ]
+    },
+    {
+      "name_en": "Los Angeles",
+      "name_fr": "Los Angeles",
+      "example_sentences": [
+        {
+          "example_en": "Los Angeles is in the United States.",
+          "example_fr": "Los Angeles est aux États-Unis.",
+          "highlight": "Los Angeles"
+        }
+      ]
+    },
+    {
+      "name_en": "Bangkok",
+      "name_fr": "Bangkok",
+      "example_sentences": [
+        {
+          "example_en": "Bangkok is in Thailand.",
+          "example_fr": "Bangkok est en Thaïlande.",
+          "highlight": "Bangkok"
+        }
+      ]
+    },
+    {
+      "name_en": "Johannesburg",
+      "name_fr": "Johannesburg",
+      "example_sentences": [
+        {
+          "example_en": "Johannesburg is in South Africa.",
+          "example_fr": "Johannesburg est en Afrique du Sud.",
+          "highlight": "Johannesburg"
+        }
+      ]
+    },
+    {
+      "name_en": "Buenos Aires",
+      "name_fr": "Buenos Aires",
+      "example_sentences": [
+        {
+          "example_en": "Buenos Aires is in Argentina.",
+          "example_fr": "Buenos Aires est en Argentine.",
+          "highlight": "Buenos Aires"
+        }
+      ]
+    },
+    {
+      "name_en": "Lagos",
+      "name_fr": "Lagos",
+      "example_sentences": [
+        {
+          "example_en": "Lagos is in Nigeria.",
+          "example_fr": "Lagos est au Nigéria.",
+          "highlight": "Lagos"
+        }
+      ]
+    },
+    {
+      "name_en": "Jakarta",
+      "name_fr": "Jakarta",
+      "example_sentences": [
+        {
+          "example_en": "Jakarta is in Indonesia.",
+          "example_fr": "Jakarta est en Indonésie.",
+          "highlight": "Jakarta"
+        }
+      ]
+    },
+    {
+      "name_en": "Seoul",
+      "name_fr": "Séoul",
+      "example_sentences": [
+        {
+          "example_en": "Seoul is in South Korea.",
+          "example_fr": "Séoul est en Corée du Sud.",
+          "highlight": "Séoul"
+        }
+      ]
+    },
+    {
+      "name_en": "Madrid",
+      "name_fr": "Madrid",
+      "example_sentences": [
+        {
+          "example_en": "Madrid is in Spain.",
+          "example_fr": "Madrid est en Espagne.",
+          "highlight": "Madrid"
+        }
+      ]
+    },
+    {
+      "name_en": "Rome",
+      "name_fr": "Rome",
+      "example_sentences": [
+        {
+          "example_en": "Rome is in Italy.",
+          "example_fr": "Rome est en Italie.",
+          "highlight": "Rome"
+        }
+      ]
+    },
+    {
+      "name_en": "Vienna",
+      "name_fr": "Vienne",
+      "example_sentences": [
+        {
+          "example_en": "Vienna is in Austria.",
+          "example_fr": "Vienne est en Autriche.",
+          "highlight": "Vienne"
+        }
+      ]
+    },
+    {
+      "name_en": "Budapest",
+      "name_fr": "Budapest",
+      "example_sentences": [
+        {
+          "example_en": "Budapest is in Hungary.",
+          "example_fr": "Budapest est en Hongrie.",
+          "highlight": "Budapest"
+        }
+      ]
+    },
+    {
+      "name_en": "Prague",
+      "name_fr": "Prague",
+      "example_sentences": [
+        {
+          "example_en": "Prague is in the Czech Republic.",
+          "example_fr": "Prague est en République tchèque.",
+          "highlight": "Prague"
+        }
+      ]
+    },
+    {
+      "name_en": "Brussels",
+      "name_fr": "Bruxelles",
+      "example_sentences": [
+        {
+          "example_en": "Brussels is in Belgium.",
+          "example_fr": "Bruxelles est en Belgique.",
+          "highlight": "Bruxelles"
+        }
+      ]
+    },
+    {
+      "name_en": "Zurich",
+      "name_fr": "Zurich",
+      "example_sentences": [
+        {
+          "example_en": "Zurich is in Switzerland.",
+          "example_fr": "Zurich est en Suisse.",
+          "highlight": "Zurich"
+        }
+      ]
+    },
+    {
+      "name_en": "Stockholm",
+      "name_fr": "Stockholm",
+      "example_sentences": [
+        {
+          "example_en": "Stockholm is in Sweden.",
+          "example_fr": "Stockholm est en Suède.",
+          "highlight": "Stockholm"
+        }
+      ]
+    },
+    {
+      "name_en": "Oslo",
+      "name_fr": "Oslo",
+      "example_sentences": [
+        {
+          "example_en": "Oslo is in Norway.",
+          "example_fr": "Oslo est en Norvège.",
+          "highlight": "Oslo"
+        }
+      ]
+    },
+    {
+      "name_en": "Copenhagen",
+      "name_fr": "Copenhague",
+      "example_sentences": [
+        {
+          "example_en": "Copenhagen is in Denmark.",
+          "example_fr": "Copenhague est au Danemark.",
+          "highlight": "Copenhague"
+        }
+      ]
+    },
+    {
+      "name_en": "Athens",
+      "name_fr": "Athènes",
+      "example_sentences": [
+        {
+          "example_en": "Athens is in Greece.",
+          "example_fr": "Athènes est en Grèce.",
+          "highlight": "Athènes"
+        }
+      ]
+    },
+    {
+      "name_en": "Warsaw",
+      "name_fr": "Varsovie",
+      "example_sentences": [
+        {
+          "example_en": "Warsaw is in Poland.",
+          "example_fr": "Varsovie est en Pologne.",
+          "highlight": "Varsovie"
+        }
+      ]
+    },
+    {
+      "name_en": "Helsinki",
+      "name_fr": "Helsinki",
+      "example_sentences": [
+        {
+          "example_en": "Helsinki is in Finland.",
+          "example_fr": "Helsinki est en Finlande.",
+          "highlight": "Helsinki"
+        }
+      ]
+    },
+    {
+      "name_en": "Lisbon",
+      "name_fr": "Lisbonne",
+      "example_sentences": [
+        {
+          "example_en": "Lisbon is in Portugal.",
+          "example_fr": "Lisbonne est au Portugal.",
+          "highlight": "Lisbonne"
+        }
+      ]
+    },
+    {
+      "name_en": "Dublin",
+      "name_fr": "Dublin",
+      "example_sentences": [
+        {
+          "example_en": "Dublin is in Ireland.",
+          "example_fr": "Dublin est en Irlande.",
+          "highlight": "Dublin"
+        }
+      ]
+    },
+    {
+      "name_en": "Edinburgh",
+      "name_fr": "Édimbourg",
+      "example_sentences": [
+        {
+          "example_en": "Edinburgh is in Scotland.",
+          "example_fr": "Édimbourg est en Écosse.",
+          "highlight": "Édimbourg"
+        }
+      ]
+    }
+  ]
+}

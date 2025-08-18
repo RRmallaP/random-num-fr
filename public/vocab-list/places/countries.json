@@ -1,0 +1,630 @@
+{
+  "name_en": "Countries",
+  "name_fr": "Pays",
+  "list": [
+    {
+      "name_en": "United States",
+      "name_fr": "les États-Unis",
+      "article": "les",
+      "example_sentences": [
+        {
+          "example_en": "The United States is a large country.",
+          "example_fr": "Les États-Unis sont un grand pays.",
+          "highlight": "États-Unis"
+        }
+      ]
+    },
+    {
+      "name_en": "United Kingdom",
+      "name_fr": "le Royaume-Uni",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "The United Kingdom is in Europe.",
+          "example_fr": "Le Royaume-Uni est en Europe.",
+          "highlight": "Royaume-Uni"
+        }
+      ]
+    },
+    {
+      "name_en": "France",
+      "name_fr": "la France",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "France is famous for its cuisine.",
+          "example_fr": "La France est célèbre pour sa cuisine.",
+          "highlight": "France"
+        }
+      ]
+    },
+    {
+      "name_en": "Germany",
+      "name_fr": "l'Allemagne",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Germany is known for its cars.",
+          "example_fr": "L'Allemagne est connue pour ses voitures.",
+          "highlight": "Allemagne"
+        }
+      ]
+    },
+    {
+      "name_en": "Italy",
+      "name_fr": "l'Italie",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Italy is famous for pizza.",
+          "example_fr": "L'Italie est célèbre pour la pizza.",
+          "highlight": "Italie"
+        }
+      ]
+    },
+    {
+      "name_en": "Spain",
+      "name_fr": "l'Espagne",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Spain is in southern Europe.",
+          "example_fr": "L'Espagne est dans le sud de l'Europe.",
+          "highlight": "Espagne"
+        }
+      ]
+    },
+    {
+      "name_en": "Canada",
+      "name_fr": "le Canada",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Canada is very cold in winter.",
+          "example_fr": "Le Canada est très froid en hiver.",
+          "highlight": "Canada"
+        }
+      ]
+    },
+    {
+      "name_en": "Australia",
+      "name_fr": "l'Australie",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Australia is famous for kangaroos.",
+          "example_fr": "L'Australie est célèbre pour les kangourous.",
+          "highlight": "Australie"
+        }
+      ]
+    },
+    {
+      "name_en": "Japan",
+      "name_fr": "le Japon",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Japan is an island nation.",
+          "example_fr": "Le Japon est un pays insulaire.",
+          "highlight": "Japon"
+        }
+      ]
+    },
+    {
+      "name_en": "China",
+      "name_fr": "la Chine",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "China has a long history.",
+          "example_fr": "La Chine a une longue histoire.",
+          "highlight": "Chine"
+        }
+      ]
+    },
+    {
+      "name_en": "India",
+      "name_fr": "l'Inde",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "India is very diverse.",
+          "example_fr": "L'Inde est très diversifiée.",
+          "highlight": "Inde"
+        }
+      ]
+    },
+    {
+      "name_en": "Brazil",
+      "name_fr": "le Brésil",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Brazil is famous for football.",
+          "example_fr": "Le Brésil est célèbre pour le football.",
+          "highlight": "Brésil"
+        }
+      ]
+    },
+    {
+      "name_en": "Russia",
+      "name_fr": "la Russie",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Russia is the largest country.",
+          "example_fr": "La Russie est le plus grand pays.",
+          "highlight": "Russie"
+        }
+      ]
+    },
+    {
+      "name_en": "Mexico",
+      "name_fr": "le Mexique",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Mexico is in North America.",
+          "example_fr": "Le Mexique est en Amérique du Nord.",
+          "highlight": "Mexique"
+        }
+      ]
+    },
+    {
+      "name_en": "South Africa",
+      "name_fr": "l'Afrique du Sud",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "South Africa is famous for safaris.",
+          "example_fr": "L'Afrique du Sud est célèbre pour les safaris.",
+          "highlight": "Afrique du Sud"
+        }
+      ]
+    },
+    {
+      "name_en": "Egypt",
+      "name_fr": "l'Égypte",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Egypt has ancient pyramids.",
+          "example_fr": "L'Égypte a des pyramides anciennes.",
+          "highlight": "Égypte"
+        }
+      ]
+    },
+    {
+      "name_en": "Turkey",
+      "name_fr": "la Turquie",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Turkey is a bridge between Europe and Asia.",
+          "example_fr": "La Turquie est un pont entre l'Europe et l'Asie.",
+          "highlight": "Turquie"
+        }
+      ]
+    },
+    {
+      "name_en": "Argentina",
+      "name_fr": "l'Argentine",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Argentina is famous for tango.",
+          "example_fr": "L'Argentine est célèbre pour le tango.",
+          "highlight": "Argentine"
+        }
+      ]
+    },
+    {
+      "name_en": "Nigeria",
+      "name_fr": "le Nigéria",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Nigeria is the most populous country in Africa.",
+          "example_fr": "Le Nigéria est le pays le plus peuplé d'Afrique.",
+          "highlight": "Nigéria"
+        }
+      ]
+    },
+    {
+      "name_en": "Indonesia",
+      "name_fr": "l'Indonésie",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Indonesia has many islands.",
+          "example_fr": "L'Indonésie a beaucoup d'îles.",
+          "highlight": "Indonésie"
+        }
+      ]
+    },
+    {
+      "name_en": "South Korea",
+      "name_fr": "la Corée du Sud",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "South Korea is known for technology.",
+          "example_fr": "La Corée du Sud est connue pour la technologie.",
+          "highlight": "Corée du Sud"
+        }
+      ]
+    },
+    {
+      "name_en": "Saudi Arabia",
+      "name_fr": "l'Arabie saoudite",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Saudi Arabia is rich in oil.",
+          "example_fr": "L'Arabie saoudite est riche en pétrole.",
+          "highlight": "Arabie saoudite"
+        }
+      ]
+    },
+    {
+      "name_en": "Thailand",
+      "name_fr": "la Thaïlande",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Thailand is famous for its beaches.",
+          "example_fr": "La Thaïlande est célèbre pour ses plages.",
+          "highlight": "Thaïlande"
+        }
+      ]
+    },
+    {
+      "name_en": "Pakistan",
+      "name_fr": "le Pakistan",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Pakistan is in South Asia.",
+          "example_fr": "Le Pakistan est en Asie du Sud.",
+          "highlight": "Pakistan"
+        }
+      ]
+    },
+    {
+      "name_en": "Bangladesh",
+      "name_fr": "le Bangladesh",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Bangladesh is a densely populated country.",
+          "example_fr": "Le Bangladesh est un pays très peuplé.",
+          "highlight": "Bangladesh"
+        }
+      ]
+    },
+    {
+      "name_en": "Iran",
+      "name_fr": "l'Iran",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Iran is in the Middle East.",
+          "example_fr": "L'Iran est au Moyen-Orient.",
+          "highlight": "Iran"
+        }
+      ]
+    },
+    {
+      "name_en": "Philippines",
+      "name_fr": "les Philippines",
+      "article": "les",
+      "example_sentences": [
+        {
+          "example_en": "The Philippines is an archipelago.",
+          "example_fr": "Les Philippines sont un archipel.",
+          "highlight": "Philippines"
+        }
+      ]
+    },
+    {
+      "name_en": "Vietnam",
+      "name_fr": "le Viêt Nam",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Vietnam is in Southeast Asia.",
+          "example_fr": "Le Viêt Nam est en Asie du Sud-Est.",
+          "highlight": "Viêt Nam"
+        }
+      ]
+    },
+    {
+      "name_en": "Ukraine",
+      "name_fr": "l'Ukraine",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Ukraine is in Eastern Europe.",
+          "example_fr": "L'Ukraine est en Europe de l'Est.",
+          "highlight": "Ukraine"
+        }
+      ]
+    },
+    {
+      "name_en": "Colombia",
+      "name_fr": "la Colombie",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Colombia is in South America.",
+          "example_fr": "La Colombie est en Amérique du Sud.",
+          "highlight": "Colombie"
+        }
+      ]
+    },
+    {
+      "name_en": "Poland",
+      "name_fr": "la Pologne",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Poland is in Central Europe.",
+          "example_fr": "La Pologne est en Europe centrale.",
+          "highlight": "Pologne"
+        }
+      ]
+    },
+    {
+      "name_en": "Netherlands",
+      "name_fr": "les Pays-Bas",
+      "article": "les",
+      "example_sentences": [
+        {
+          "example_en": "The Netherlands is famous for windmills.",
+          "example_fr": "Les Pays-Bas sont célèbres pour les moulins à vent.",
+          "highlight": "Pays-Bas"
+        }
+      ]
+    },
+    {
+      "name_en": "Malaysia",
+      "name_fr": "la Malaisie",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Malaysia is in Southeast Asia.",
+          "example_fr": "La Malaisie est en Asie du Sud-Est.",
+          "highlight": "Malaisie"
+        }
+      ]
+    },
+    {
+      "name_en": "Belgium",
+      "name_fr": "la Belgique",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Belgium is famous for chocolate.",
+          "example_fr": "La Belgique est célèbre pour le chocolat.",
+          "highlight": "Belgique"
+        }
+      ]
+    },
+    {
+      "name_en": "Switzerland",
+      "name_fr": "la Suisse",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Switzerland is known for its mountains.",
+          "example_fr": "La Suisse est connue pour ses montagnes.",
+          "highlight": "Suisse"
+        }
+      ]
+    },
+    {
+      "name_en": "Sweden",
+      "name_fr": "la Suède",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Sweden is in Northern Europe.",
+          "example_fr": "La Suède est en Europe du Nord.",
+          "highlight": "Suède"
+        }
+      ]
+    },
+    {
+      "name_en": "Austria",
+      "name_fr": "l'Autriche",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Austria is famous for classical music.",
+          "example_fr": "L'Autriche est célèbre pour la musique classique.",
+          "highlight": "Autriche"
+        }
+      ]
+    },
+    {
+      "name_en": "Norway",
+      "name_fr": "la Norvège",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Norway is famous for fjords.",
+          "example_fr": "La Norvège est célèbre pour ses fjords.",
+          "highlight": "Norvège"
+        }
+      ]
+    },
+    {
+      "name_en": "Denmark",
+      "name_fr": "le Danemark",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Denmark is in Scandinavia.",
+          "example_fr": "Le Danemark est en Scandinavie.",
+          "highlight": "Danemark"
+        }
+      ]
+    },
+    {
+      "name_en": "Greece",
+      "name_fr": "la Grèce",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Greece is famous for ancient ruins.",
+          "example_fr": "La Grèce est célèbre pour ses ruines antiques.",
+          "highlight": "Grèce"
+        }
+      ]
+    },
+    {
+      "name_en": "Ireland",
+      "name_fr": "l'Irlande",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Ireland is known for its green landscapes.",
+          "example_fr": "L'Irlande est connue pour ses paysages verts.",
+          "highlight": "Irlande"
+        }
+      ]
+    },
+    {
+      "name_en": "Finland",
+      "name_fr": "la Finlande",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Finland is famous for its lakes.",
+          "example_fr": "La Finlande est célèbre pour ses lacs.",
+          "highlight": "Finlande"
+        }
+      ]
+    },
+    {
+      "name_en": "Israel",
+      "name_fr": "Israël",
+      "article": "",
+      "example_sentences": [
+        {
+          "example_en": "Israel is in the Middle East.",
+          "example_fr": "Israël est au Moyen-Orient.",
+          "highlight": "Israël"
+        }
+      ]
+    },
+    {
+      "name_en": "Singapore",
+      "name_fr": "Singapour",
+      "article": "",
+      "example_sentences": [
+        {
+          "example_en": "Singapore is a city-state.",
+          "example_fr": "Singapour est une cité-État.",
+          "highlight": "Singapour"
+        }
+      ]
+    },
+    {
+      "name_en": "Chile",
+      "name_fr": "le Chili",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Chile is a long, narrow country.",
+          "example_fr": "Le Chili est un pays long et étroit.",
+          "highlight": "Chili"
+        }
+      ]
+    },
+    {
+      "name_en": "Morocco",
+      "name_fr": "le Maroc",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Morocco is in North Africa.",
+          "example_fr": "Le Maroc est en Afrique du Nord.",
+          "highlight": "Maroc"
+        }
+      ]
+    },
+    {
+      "name_en": "Peru",
+      "name_fr": "le Pérou",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Peru is famous for Machu Picchu.",
+          "example_fr": "Le Pérou est célèbre pour le Machu Picchu.",
+          "highlight": "Pérou"
+        }
+      ]
+    },
+    {
+      "name_en": "Venezuela",
+      "name_fr": "le Venezuela",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Venezuela is in South America.",
+          "example_fr": "Le Venezuela est en Amérique du Sud.",
+          "highlight": "Venezuela"
+        }
+      ]
+    },
+    {
+      "name_en": "Hungary",
+      "name_fr": "la Hongrie",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Hungary is in Central Europe.",
+          "example_fr": "La Hongrie est en Europe centrale.",
+          "highlight": "Hongrie"
+        }
+      ]
+    },
+    {
+      "name_en": "Czech Republic",
+      "name_fr": "la République tchèque",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "The Czech Republic is famous for Prague.",
+          "example_fr": "La République tchèque est célèbre pour Prague.",
+          "highlight": "République tchèque"
+        }
+      ]
+    },
+    {
+      "name_en": "Romania",
+      "name_fr": "la Roumanie",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Romania is known for its castles.",
+          "example_fr": "La Roumanie est connue pour ses châteaux.",
+          "highlight": "Roumanie"
+        }
+      ]
+    },
+    {
+      "name_en": "Nepal",
+      "name_fr": "le Népal",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Nepal is famous for Mount Everest.",
+          "example_fr": "Le Népal est célèbre pour le mont Everest.",
+          "highlight": "Népal"
+        }
+      ]
+    }
+  ]
+}

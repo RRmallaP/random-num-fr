@@ -1,0 +1,378 @@
+{
+  "name_en": "Vegetables",
+  "name_fr": "Légumes",
+  "list": [
+    {
+      "name_en": "Carrot",
+      "name_fr": "carotte",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Carrots are orange.",
+          "example_fr": "Les carottes sont orange.",
+          "highlight": "carotte"
+        }
+      ]
+    },
+    {
+      "name_en": "Potato",
+      "name_fr": "pomme de terre",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Potatoes grow underground.",
+          "example_fr": "Les pommes de terre poussent sous terre.",
+          "highlight": "pomme de terre"
+        }
+      ]
+    },
+    {
+      "name_en": "Tomato",
+      "name_fr": "tomate",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Tomatoes are red.",
+          "example_fr": "Les tomates sont rouges.",
+          "highlight": "tomate"
+        }
+      ]
+    },
+    {
+      "name_en": "Onion",
+      "name_fr": "oignon",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Onions make you cry.",
+          "example_fr": "Les oignons font pleurer.",
+          "highlight": "oignon"
+        }
+      ]
+    },
+    {
+      "name_en": "Garlic",
+      "name_fr": "ail",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Garlic is used in cooking.",
+          "example_fr": "L'ail est utilisé en cuisine.",
+          "highlight": "ail"
+        }
+      ]
+    },
+    {
+      "name_en": "Cabbage",
+      "name_fr": "chou",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Cabbage is green.",
+          "example_fr": "Le chou est vert.",
+          "highlight": "chou"
+        }
+      ]
+    },
+    {
+      "name_en": "Broccoli",
+      "name_fr": "brocoli",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Broccoli looks like a tree.",
+          "example_fr": "Le brocoli ressemble à un arbre.",
+          "highlight": "brocoli"
+        }
+      ]
+    },
+    {
+      "name_en": "Cauliflower",
+      "name_fr": "chou-fleur",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Cauliflower is white.",
+          "example_fr": "Le chou-fleur est blanc.",
+          "highlight": "chou-fleur"
+        }
+      ]
+    },
+    {
+      "name_en": "Spinach",
+      "name_fr": "épinard",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Spinach is healthy.",
+          "example_fr": "L'épinard est sain.",
+          "highlight": "épinard"
+        }
+      ]
+    },
+    {
+      "name_en": "Lettuce",
+      "name_fr": "laitue",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Lettuce is used in salads.",
+          "example_fr": "La laitue est utilisée dans les salades.",
+          "highlight": "laitue"
+        }
+      ]
+    },
+    {
+      "name_en": "Cucumber",
+      "name_fr": "concombre",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Cucumbers are green.",
+          "example_fr": "Les concombres sont verts.",
+          "highlight": "concombre"
+        }
+      ]
+    },
+    {
+      "name_en": "Pepper",
+      "name_fr": "poivron",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Peppers can be red, green, or yellow.",
+          "example_fr": "Les poivrons peuvent être rouges, verts ou jaunes.",
+          "highlight": "poivron"
+        }
+      ]
+    },
+    {
+      "name_en": "Eggplant",
+      "name_fr": "aubergine",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Eggplants are purple.",
+          "example_fr": "Les aubergines sont violettes.",
+          "highlight": "aubergine"
+        }
+      ]
+    },
+    {
+      "name_en": "Zucchini",
+      "name_fr": "courgette",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Zucchini is green.",
+          "example_fr": "La courgette est verte.",
+          "highlight": "courgette"
+        }
+      ]
+    },
+    {
+      "name_en": "Pumpkin",
+      "name_fr": "citrouille",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Pumpkins are used for Halloween.",
+          "example_fr": "Les citrouilles sont utilisées pour Halloween.",
+          "highlight": "citrouille"
+        }
+      ]
+    },
+    {
+      "name_en": "Radish",
+      "name_fr": "radis",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Radishes are spicy.",
+          "example_fr": "Les radis sont piquants.",
+          "highlight": "radis"
+        }
+      ]
+    },
+    {
+      "name_en": "Beetroot",
+      "name_fr": "betterave",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Beetroot is red.",
+          "example_fr": "La betterave est rouge.",
+          "highlight": "betterave"
+        }
+      ]
+    },
+    {
+      "name_en": "Sweet Potato",
+      "name_fr": "patate douce",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Sweet potatoes are sweet.",
+          "example_fr": "Les patates douces sont sucrées.",
+          "highlight": "patate douce"
+        }
+      ]
+    },
+    {
+      "name_en": "Pea",
+      "name_fr": "petit pois",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Peas are small and green.",
+          "example_fr": "Les petits pois sont petits et verts.",
+          "highlight": "petit pois"
+        }
+      ]
+    },
+    {
+      "name_en": "Corn",
+      "name_fr": "maïs",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Corn is yellow.",
+          "example_fr": "Le maïs est jaune.",
+          "highlight": "maïs"
+        }
+      ]
+    },
+    {
+      "name_en": "Celery",
+      "name_fr": "céleri",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Celery is crunchy.",
+          "example_fr": "Le céleri est croquant.",
+          "highlight": "céleri"
+        }
+      ]
+    },
+    {
+      "name_en": "Mushroom",
+      "name_fr": "champignon",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Mushrooms grow in forests.",
+          "example_fr": "Les champignons poussent dans les forêts.",
+          "highlight": "champignon"
+        }
+      ]
+    },
+    {
+      "name_en": "Leek",
+      "name_fr": "poireau",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Leeks are used in soups.",
+          "example_fr": "Les poireaux sont utilisés dans les soupes.",
+          "highlight": "poireau"
+        }
+      ]
+    },
+    {
+      "name_en": "Turnip",
+      "name_fr": "navet",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Turnips are white and purple.",
+          "example_fr": "Les navets sont blancs et violets.",
+          "highlight": "navet"
+        }
+      ]
+    },
+    {
+      "name_en": "Artichoke",
+      "name_fr": "artichaut",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Artichokes are green.",
+          "example_fr": "Les artichauts sont verts.",
+          "highlight": "artichaut"
+        }
+      ]
+    },
+    {
+      "name_en": "Asparagus",
+      "name_fr": "asperge",
+      "article": "l'",
+      "example_sentences": [
+        {
+          "example_en": "Asparagus is long and green.",
+          "example_fr": "L'asperge est longue et verte.",
+          "highlight": "asperge"
+        }
+      ]
+    },
+    {
+      "name_en": "Fennel",
+      "name_fr": "fenouil",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Fennel has a strong flavor.",
+          "example_fr": "Le fenouil a une saveur forte.",
+          "highlight": "fenouil"
+        }
+      ]
+    },
+    {
+      "name_en": "Parsnip",
+      "name_fr": "panais",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Parsnips are white.",
+          "example_fr": "Les panais sont blancs.",
+          "highlight": "panais"
+        }
+      ]
+    },
+    {
+      "name_en": "Okra",
+      "name_fr": "gombo",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Okra is used in soups.",
+          "example_fr": "Le gombo est utilisé dans les soupes.",
+          "highlight": "gombo"
+        }
+      ]
+    },
+    {
+      "name_en": "Chili Pepper",
+      "name_fr": "piment",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Chili peppers are spicy.",
+          "example_fr": "Les piments sont épicés.",
+          "highlight": "piment"
+        }
+      ]
+    },
+    {
+      "name_en": "Pumpkin",
+      "name_fr": "potiron",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Pumpkin is used in pies.",
+          "example_fr": "Le potiron est utilisé dans les tartes.",
+          "highlight": "potiron"
+        }
+      ]
+    }
+  ]
+}

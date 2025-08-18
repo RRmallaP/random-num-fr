@@ -3,6 +3,7 @@ import VocabularyItem from "../vocabulary-item/vocabulary-item";
 import MenuBar from '../menu-bar';
 import { snakeCase } from '../utilities';
 import FlashCard from '../flash-card';
+import { Utilitise } from "../utilities";
 
 export default function VocabularyList() {
   const [vocabs, setVocabs] = useState(null);
@@ -52,7 +53,16 @@ export default function VocabularyList() {
           <div className="w-full max-w-7xl p-4 bg-white sm:p-8">
             <MenuBar onCategorySelect={handleCategorySelect} config={config} setConfig={setConfig} />
             <div className="flex flex-col items-center justify-between mb-4">
-              <h2 className="mb-4 text-3xl font-bold leading-none text-gray-900 dark:text-white">{vocabs.name_fr}</h2>
+              <h2 
+                className="mb-4 text-3xl font-bold leading-none text-gray-900 dark:text-white cursor-pointer"
+                onClick={() => {
+                  if (vocabs.name_fr) {
+                    Utilitise.playIt(vocabs.name_fr, 'fr-CA');
+                  }
+                }}
+              >
+                {vocabs.name_fr}
+              </h2>
               <h3 className="text-2xl font-light leading-none text-gray-900 dark:text-white">{vocabs.name_en}</h3>
             </div>
             {config.flashcardMode ? (

@@ -1,0 +1,226 @@
+{
+  "name_en": "Dairy Products",
+  "name_fr": "Produits laitiers",
+  "list": [
+    {
+      "name_en": "Milk",
+      "name_fr": "le lait",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "I drink milk every morning.",
+          "example_fr": "Je bois du lait chaque matin."
+        }
+      ]
+    },
+    {
+      "name_en": "Butter",
+      "name_fr": "le beurre",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "She spreads butter on her bread.",
+          "example_fr": "Elle étale du beurre sur son pain."
+        }
+      ]
+    },
+    {
+      "name_en": "Cheese",
+      "name_fr": "le fromage",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "French cheese is delicious.",
+          "example_fr": "Le fromage français est délicieux."
+        }
+      ]
+    },
+    {
+      "name_en": "Yogurt",
+      "name_fr": "le yaourt",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Yogurt is good for digestion.",
+          "example_fr": "Le yaourt est bon pour la digestion."
+        }
+      ]
+    },
+    {
+      "name_en": "Cream",
+      "name_fr": "la crème",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "He adds cream to his coffee.",
+          "example_fr": "Il ajoute de la crème à son café."
+        }
+      ]
+    },
+    {
+      "name_en": "Ice Cream",
+      "name_fr": "la glace",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Children love ice cream.",
+          "example_fr": "Les enfants adorent la glace."
+        }
+      ]
+    },
+    {
+      "name_en": "Cottage Cheese",
+      "name_fr": "le fromage blanc",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Cottage cheese is healthy.",
+          "example_fr": "Le fromage blanc est sain."
+        }
+      ]
+    },
+    {
+      "name_en": "Sour Cream",
+      "name_fr": "la crème fraîche",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Sour cream is used in many recipes.",
+          "example_fr": "La crème fraîche est utilisée dans de nombreuses recettes."
+        }
+      ]
+    },
+    {
+      "name_en": "Whipped Cream",
+      "name_fr": "la crème chantilly",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "He puts whipped cream on his cake.",
+          "example_fr": "Il met de la crème chantilly sur son gâteau."
+        }
+      ]
+    },
+    {
+      "name_en": "Condensed Milk",
+      "name_fr": "le lait concentré",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Condensed milk is sweet.",
+          "example_fr": "Le lait concentré est sucré."
+        }
+      ]
+    },
+    {
+      "name_en": "Evaporated Milk",
+      "name_fr": "le lait évaporé",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Evaporated milk is used in desserts.",
+          "example_fr": "Le lait évaporé est utilisé dans les desserts."
+        }
+      ]
+    },
+    {
+      "name_en": "Goat Cheese",
+      "name_fr": "le fromage de chèvre",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Goat cheese is popular in salads.",
+          "example_fr": "Le fromage de chèvre est populaire dans les salades."
+        }
+      ]
+    },
+    {
+      "name_en": "Blue Cheese",
+      "name_fr": "le fromage bleu",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Blue cheese has a strong flavor.",
+          "example_fr": "Le fromage bleu a un goût fort."
+        }
+      ]
+    },
+    {
+      "name_en": "Feta",
+      "name_fr": "la feta",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Feta is used in Greek salads.",
+          "example_fr": "La feta est utilisée dans les salades grecques."
+        }
+      ]
+    },
+    {
+      "name_en": "Brie",
+      "name_fr": "le brie",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Brie is a soft cheese.",
+          "example_fr": "Le brie est un fromage doux."
+        }
+      ]
+    },
+    {
+      "name_en": "Camembert",
+      "name_fr": "le camembert",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Camembert is famous in France.",
+          "example_fr": "Le camembert est célèbre en France."
+        }
+      ]
+    },
+    {
+      "name_en": "Ricotta",
+      "name_fr": "la ricotta",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Ricotta is used in Italian dishes.",
+          "example_fr": "La ricotta est utilisée dans les plats italiens."
+        }
+      ]
+    },
+    {
+      "name_en": "Mozzarella",
+      "name_fr": "la mozzarella",
+      "article": "la",
+      "example_sentences": [
+        {
+          "example_en": "Mozzarella is perfect for pizza.",
+          "example_fr": "La mozzarella est parfaite pour la pizza."
+        }
+      ]
+    },
+    {
+      "name_en": "Parmesan",
+      "name_fr": "le parmesan",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Parmesan is grated on pasta.",
+          "example_fr": "On râpe du parmesan sur les pâtes."
+        }
+      ]
+    },
+    {
+      "name_en": "Ghee",
+      "name_fr": "le ghee",
+      "article": "le",
+      "example_sentences": [
+        {
+          "example_en": "Ghee is clarified butter.",
+          "example_fr": "Le ghee est du beurre clarifié."
+        }
+      ]
+    }
+  ]
+}

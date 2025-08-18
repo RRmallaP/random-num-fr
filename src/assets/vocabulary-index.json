@@ -146,12 +146,6 @@
           "name_fr": "Pays",
           "pic": "",
           "sub-category": []
-        },
-        {
-          "name_en": "Landmarks",
-          "name_fr": "Monuments",
-          "pic": "",
-          "sub-category": []
         }
       ]
     },
@@ -169,6 +163,12 @@
         {
           "name_en": "Vegetables",
           "name_fr": "Légumes",
+          "pic": "",
+          "sub-category": []
+        },
+        {
+          "name_en": "Spices",
+          "name_fr": "Épices",
           "pic": "",
           "sub-category": []
         },

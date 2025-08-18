@@ -1,7 +1,26 @@
 import DOMPurify from "dompurify";
 import { Utilitise } from "../utilities";
+import { useRef, useEffect, useState } from "react";
 
 function VocabularyItem({vocab, config}) {
+  const [showAllExamples, setShowAllExamples] = useState(false);
+  const examplesWrapperRef = useRef(null);
+
+  useEffect(() => {
+    function handleClickOutside(event) {
+      if (examplesWrapperRef.current && !examplesWrapperRef.current.contains(event.target)) {
+        setShowAllExamples(false);
+      }
+    }
+    if (showAllExamples) {
+      document.addEventListener("mousedown", handleClickOutside);
+    } else {
+      document.removeEventListener("mousedown", handleClickOutside);
+    }
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [showAllExamples]);
 
   function getFrenchNameWithArticle(vocab) {
     if (vocab.article && vocab.gender) {
@@ -47,17 +66,28 @@ function VocabularyItem({vocab, config}) {
           {config.enToFr ? getFrenchNameWithArticle(vocab) : vocab.name_en}
         </h3>
       </div>
-      <div className="flex flex-col items-center justify-between">
-        { vocab.example_sentences.map((sentence, index) => {
-            const fr_sentence_with_highlight = sentence.example_fr.replace(sentence.highlight, `<span class="vocab-highlight text-orange-600">${sentence.highlight}</span>`);
-            return (
-              <div key={index} className="mb-1">
-                <div className="fr_example_sentence mb-0.5 text-xl" dangerouslySetInnerHTML={{__html: DOMPurify.sanitize(fr_sentence_with_highlight)}}></div> 
-                <div className="en_example_sentence font-light">{sentence.example_en}</div>
-              </div>     
-            );
-          })
-        }
+      <div className="flex flex-col items-center justify-between" ref={examplesWrapperRef}>
+        {vocab.example_sentences && vocab.example_sentences.length > 0 && (
+          <>
+            {(!showAllExamples ? [vocab.example_sentences[0]] : vocab.example_sentences).map((sentence, index) => {
+              const fr_sentence_with_highlight = sentence.example_fr && sentence.highlight ? sentence.example_fr.replace(sentence.highlight, `<span class="vocab-highlight text-orange-600">${sentence.highlight}</span>`) : sentence.example_fr;
+              const fr_sentence_clean = fr_sentence_with_highlight.replace(/\\"/g, '"');
+              return (
+                <div key={index} className="mb-1">
+                  <div 
+                    className="fr_example_sentence mb-0.5 text-xl cursor-pointer"
+                    dangerouslySetInnerHTML={{__html: DOMPurify.sanitize(fr_sentence_clean)}}
+                    onClick={() => {
+                      if (!showAllExamples) setShowAllExamples(true);
+                      Utilitise.playIt(sentence.example_fr, 'fr-CA');
+                    }}
+                  ></div> 
+                  <div className="en_example_sentence font-light">{sentence.example_en}</div>
+                </div>     
+              );
+            })}
+          </>
+        )}
 
         { vocab.conjugation && 
           (
