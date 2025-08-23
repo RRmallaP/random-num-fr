@@ -36,7 +36,7 @@ function MenuBar({ onCategorySelect, config, setConfig }) {
           return (
             <div key={sub.name_en + idx} className="py-1">
               <button
-                className="text-left w-full px-2 py-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded text-gray-800 dark:text-gray-200"
+                className="text-left w-full px-2 py-1 hover:bg-gray-100 dark:hover:bg-gray-100 rounded text-gray-800 dark:text-black"
                 onClick={() => {
                   onCategorySelect(fullPath);
                   setOpen(false);
@@ -61,19 +61,19 @@ function MenuBar({ onCategorySelect, config, setConfig }) {
           <div className="relative">
             <button
               onClick={() => setOpen(!open)}
-              className="cursor-pointer px-4 py-2 bg-white dark:bg-gray-800 rounded shadow hover:bg-gray-200 dark:hover:bg-gray-700 focus:outline-none"
+              className="cursor-pointer px-4 py-2 bg-white dark:bg-white rounded shadow hover:bg-gray-200 dark:hover:bg-gray-100 focus:outline-none"
             >
               Menu
               <svg className="inline ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" /></svg>
             </button>
             {open && (
-              <div className="absolute -left-25 mt-2 w-64 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded shadow-lg z-10 p-2 max-h-96 overflow-y-auto">
+              <div className="absolute -left-25 mt-2 w-64 bg-white dark:bg-white border border-gray-200 dark:border-gray-700 rounded shadow-lg z-10 p-2 max-h-96 overflow-y-auto">
                 {vocabularyIndex.category.map((cat, idx) => {
                   const fullPath = [cat.name_en];
                   return (
                     <div key={cat.name_en + idx} className="mb-1">
                       <button
-                        className="cursor-pointer text-left w-full px-2 py-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded text-gray-800 dark:text-gray-200 font-medium"
+                        className="cursor-pointer text-left w-full px-2 py-1 hover:bg-gray-100 dark:hover:bg-gray-100 rounded text-gray-800 dark:text-black font-medium"
                         onClick={() => {
                           onCategorySelect(fullPath);
                           setOpen(false);
@@ -93,29 +93,29 @@ function MenuBar({ onCategorySelect, config, setConfig }) {
             <button
               ref={configButtonRef}
               onClick={() => setConfigOpen(!configOpen)}
-              className="px-4 py-2 bg-white dark:bg-gray-800 rounded shadow hover:bg-gray-200 dark:hover:bg-gray-700 focus:outline-none"
+              className="px-4 py-2 bg-white dark:bg-white rounded shadow hover:bg-gray-200 dark:hover:bg-gray-100 focus:outline-none"
             >
               Config
               <svg className="inline ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" /></svg>
             </button>
             {configOpen && (
-              <div ref={configDropdownRef} className="absolute right-0 mt-2 w-56 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded shadow-lg z-10 p-4">
+              <div ref={configDropdownRef} className="absolute right-0 mt-2 w-56 bg-white dark:bg-white border border-gray-200 dark:border-gray-700 rounded shadow-lg z-10 p-4">
                 <div className="flex items-center justify-between mb-2">
-                  <span className="text-gray-800 dark:text-gray-200">En -&gt; Fr</span>
+                  <span className="text-gray-800 dark:text-black">En -&gt; Fr</span>
                   <label className="inline-flex relative items-center cursor-pointer">
                     <input type="checkbox" className="sr-only peer" checked={config.enToFr} onChange={() => setConfig(c => ({ ...c, enToFr: !c.enToFr }))} />
                     <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-2 peer-focus:ring-blue-500 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:bg-blue-600 transition-all"></div>
                   </label>
                 </div>
                 <div className="flex items-center justify-between mb-2">
-                  <span className="text-gray-800 dark:text-gray-200">Writing mode</span>
+                  <span className="text-gray-800 dark:text-black">Writing mode</span>
                   <label className="inline-flex relative items-center cursor-pointer">
                     <input type="checkbox" className="sr-only peer" checked={config.writingMode} onChange={() => setConfig(c => ({ ...c, writingMode: !c.writingMode }))} />
                     <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-2 peer-focus:ring-blue-500 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:bg-blue-600 transition-all"></div>
                   </label>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-gray-800 dark:text-gray-200">Flashcard mode</span>
+                  <span className="text-gray-800 dark:text-black">Flashcard mode</span>
                   <label className="inline-flex relative items-center cursor-pointer">
                     <input type="checkbox" className="sr-only peer" checked={config.flashcardMode} onChange={() => setConfig(c => ({ ...c, flashcardMode: !c.flashcardMode }))} />
                     <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-2 peer-focus:ring-blue-500 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:bg-blue-600 transition-all"></div>
