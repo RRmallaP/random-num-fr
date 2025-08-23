@@ -1,0 +1,292 @@
+{
+  "name_en": "Emotional Adjectives",
+  "name_fr": "Adjectifs émotionnels",
+  "list": [
+    {
+      "name_en": "happy",
+      "name_fr": "heureux",
+      "example_sentences": [
+        {
+          "example_en": "He is happy today.",
+          "example_fr": "Il est heureux aujourd'hui.",
+          "highlight": "heureux"
+        }
+      ]
+    },
+    {
+      "name_en": "sad",
+      "name_fr": "triste",
+      "example_sentences": [
+        {
+          "example_en": "She feels sad.",
+          "example_fr": "Elle se sent triste.",
+          "highlight": "triste"
+        }
+      ]
+    },
+    {
+      "name_en": "calm",
+      "name_fr": "calme",
+      "example_sentences": [
+        {
+          "example_en": "He is calm in stressful situations.",
+          "example_fr": "Il est calme dans les situations stressantes.",
+          "highlight": "calme"
+        }
+      ]
+    },
+    {
+      "name_en": "angry",
+      "name_fr": "en colère",
+      "example_sentences": [
+        {
+          "example_en": "She is angry about the news.",
+          "example_fr": "Elle est en colère à propos des nouvelles.",
+          "highlight": "en colère"
+        }
+      ]
+    },
+    {
+      "name_en": "confident",
+      "name_fr": "confiant",
+      "example_sentences": [
+        {
+          "example_en": "He is confident in his abilities.",
+          "example_fr": "Il est confiant dans ses capacités.",
+          "highlight": "confiant"
+        }
+      ]
+    },
+    {
+      "name_en": "insecure",
+      "name_fr": "inquiet",
+      "example_sentences": [
+        {
+          "example_en": "She feels insecure.",
+          "example_fr": "Elle se sent inquiète.",
+          "highlight": "inquiète"
+        }
+      ]
+    },
+    {
+      "name_en": "excited",
+      "name_fr": "excité",
+      "example_sentences": [
+        {
+          "example_en": "He is excited for the trip.",
+          "example_fr": "Il est excité pour le voyage.",
+          "highlight": "excité"
+        }
+      ]
+    },
+    {
+      "name_en": "bored",
+      "name_fr": "ennuyé",
+      "example_sentences": [
+        {
+          "example_en": "She is bored at home.",
+          "example_fr": "Elle est ennuyée à la maison.",
+          "highlight": "ennuyée"
+        }
+      ]
+    },
+    {
+      "name_en": "hopeful",
+      "name_fr": "plein d'espoir",
+      "example_sentences": [
+        {
+          "example_en": "He is hopeful about the future.",
+          "example_fr": "Il est plein d'espoir pour l'avenir.",
+          "highlight": "plein d'espoir"
+        }
+      ]
+    },
+    {
+      "name_en": "hopeless",
+      "name_fr": "désespéré",
+      "example_sentences": [
+        {
+          "example_en": "She feels hopeless.",
+          "example_fr": "Elle se sent désespérée.",
+          "highlight": "désespérée"
+        }
+      ]
+    },
+    {
+      "name_en": "proud",
+      "name_fr": "fier",
+      "example_sentences": [
+        {
+          "example_en": "He is proud of his work.",
+          "example_fr": "Il est fier de son travail.",
+          "highlight": "fier"
+        }
+      ]
+    },
+    {
+      "name_en": "ashamed",
+      "name_fr": "honteux",
+      "example_sentences": [
+        {
+          "example_en": "She feels ashamed.",
+          "example_fr": "Elle se sent honteuse.",
+          "highlight": "honteuse"
+        }
+      ]
+    },
+    {
+      "name_en": "relaxed",
+      "name_fr": "détendu",
+      "example_sentences": [
+        {
+          "example_en": "He is relaxed on vacation.",
+          "example_fr": "Il est détendu en vacances.",
+          "highlight": "détendu"
+        }
+      ]
+    },
+    {
+      "name_en": "stressed",
+      "name_fr": "stressé",
+      "example_sentences": [
+        {
+          "example_en": "She is stressed at work.",
+          "example_fr": "Elle est stressée au travail.",
+          "highlight": "stressée"
+        }
+      ]
+    },
+    {
+      "name_en": "grateful",
+      "name_fr": "reconnaissant",
+      "example_sentences": [
+        {
+          "example_en": "He is grateful for the help.",
+          "example_fr": "Il est reconnaissant pour l'aide.",
+          "highlight": "reconnaissant"
+        }
+      ]
+    },
+    {
+      "name_en": "ungrateful",
+      "name_fr": "ingrat",
+      "example_sentences": [
+        {
+          "example_en": "She is ungrateful.",
+          "example_fr": "Elle est ingrate.",
+          "highlight": "ingrate"
+        }
+      ]
+    },
+    {
+      "name_en": "optimistic",
+      "name_fr": "optimiste",
+      "example_sentences": [
+        {
+          "example_en": "He is optimistic about the results.",
+          "example_fr": "Il est optimiste quant aux résultats.",
+          "highlight": "optimiste"
+        }
+      ]
+    },
+    {
+      "name_en": "pessimistic",
+      "name_fr": "pessimiste",
+      "example_sentences": [
+        {
+          "example_en": "She is pessimistic.",
+          "example_fr": "Elle est pessimiste.",
+          "highlight": "pessimiste"
+        }
+      ]
+    },
+    {
+      "name_en": "energetic",
+      "name_fr": "énergique",
+      "example_sentences": [
+        {
+          "example_en": "He is energetic in the morning.",
+          "example_fr": "Il est énergique le matin.",
+          "highlight": "énergique"
+        }
+      ]
+    },
+    {
+      "name_en": "tired",
+      "name_fr": "fatigué",
+      "example_sentences": [
+        {
+          "example_en": "She is tired after work.",
+          "example_fr": "Elle est fatiguée après le travail.",
+          "highlight": "fatiguée"
+        }
+      ]
+    },
+    {
+      "name_en": "surprised",
+      "name_fr": "surpris",
+      "example_sentences": [
+        {
+          "example_en": "He is surprised by the news.",
+          "example_fr": "Il est surpris par la nouvelle.",
+          "highlight": "surpris"
+        }
+      ]
+    },
+    {
+      "name_en": "unsurprised",
+      "name_fr": "pas surpris",
+      "example_sentences": [
+        {
+          "example_en": "She is unsurprised.",
+          "example_fr": "Elle n'est pas surprise.",
+          "highlight": "pas surprise"
+        }
+      ]
+    },
+    {
+      "name_en": "jealous",
+      "name_fr": "jaloux",
+      "example_sentences": [
+        {
+          "example_en": "He is jealous of his friend.",
+          "example_fr": "Il est jaloux de son ami.",
+          "highlight": "jaloux"
+        }
+      ]
+    },
+    {
+      "name_en": "trusting",
+      "name_fr": "confiant",
+      "example_sentences": [
+        {
+          "example_en": "She is trusting.",
+          "example_fr": "Elle est confiante.",
+          "highlight": "confiante"
+        }
+      ]
+    },
+    {
+      "name_en": "fearful",
+      "name_fr": "craintif",
+      "example_sentences": [
+        {
+          "example_en": "He is fearful at night.",
+          "example_fr": "Il est craintif la nuit.",
+          "highlight": "craintif"
+        }
+      ]
+    },
+    {
+      "name_en": "brave",
+      "name_fr": "courageux",
+      "example_sentences": [
+        {
+          "example_en": "She is brave.",
+          "example_fr": "Elle est courageuse.",
+          "highlight": "courageuse"
+        }
+      ]
+    }
+  ]
+}
