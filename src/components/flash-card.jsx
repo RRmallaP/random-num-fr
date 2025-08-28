@@ -33,7 +33,7 @@ function FlashCard({ vocab }) {
   return (
     <div className="flashcard-container flex flex-col items-center justify-center">
       <div
-        className="flashcard w-70 h-48 p-6 border rounded-lg shadow-lg bg-white dark:bg-gray-800 cursor-pointer flex flex-col items-center justify-center transition-transform duration-500"
+        className={`flashcard w-70 h-48 p-6 border rounded-lg shadow-lg cursor-pointer flex flex-col items-center justify-center transition-transform duration-500 ${flipped ? (vocab.gender === 'masculine' ? 'bg-blue-200' : vocab.gender === 'feminine' ? 'bg-pink-200' : 'bg-white dark:bg-gray-800') : 'bg-white dark:bg-gray-800'}`}
         onClick={handleFlip}
         style={{ perspective: '1000px' }}
       >
@@ -66,6 +66,10 @@ function FlashCard({ vocab }) {
             <div className="text-2xl font-bold mb-4 text-orange-600">{vocab.name_fr}</div>
             {checked && (
               <div className={`mt-2 text-lg font-semibold ${result === 'Correct!' ? 'text-green-600' : 'text-red-600'}`}>{result ? result : ''}</div>
+            )}
+            {/* Show entered text when flipped */}
+            {input && (
+              <div className="mt-2 text-base text-gray-700 dark:text-gray-200">Your answer: <span className="font-bold">{input}</span></div>
             )}
           </>
         )}
