@@ -24,7 +24,7 @@
       "example_sentences": [
         {
           "example_en": "Excuse me, can I ask you a question?",
-          "example_fr": "Excusez-moi, puis-je vous poser une question ?",
+          "example_fr": "Excusez-moi, puis-je vous poser une question?",
           "highlight": "Excusez-moi"
         }
       ]
@@ -37,7 +37,7 @@
       "example_sentences": [
         {
           "example_en": "Good afternoon, how can I assist you?",
-          "example_fr": "Bon après-midi, comment puis-je vous aider ?",
+          "example_fr": "Bon après-midi, comment puis-je vous aider?",
           "highlight": "Bon après-midi"
         }
       ]
@@ -89,7 +89,7 @@
       "example_sentences": [
         {
           "example_en": "Good morning, how did you sleep?",
-          "example_fr": "Bonjour, comment avez-vous dormi ?",
+          "example_fr": "Bonjour, comment avez-vous dormi?",
           "highlight": "Bonjour"
         }
       ]
@@ -148,13 +148,13 @@
     },
     {
       "name_en": "How are you?",
-      "name_fr": "Comment ça va ?",
+      "name_fr": "Comment ça va?",
       "plural_name_en": "",
       "plural_name_fr": "",
       "example_sentences": [
         {
           "example_en": "How are you doing today?",
-          "example_fr": "Comment ça va aujourd'hui ?",
+          "example_fr": "Comment ça va aujourd'hui?",
           "highlight": "Comment ça va"
         }
       ]

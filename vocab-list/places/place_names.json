@@ -1,0 +1,499 @@
+{
+  "name_en": "Place Names",
+  "name_fr": "Noms de lieux",
+  "is_a_noun": true,
+  "list": [
+    {
+      "name_en": "Kiosk",
+      "name_fr": "Kiosque",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She bought a newspaper at the kiosk.",
+          "example_fr": "Elle a acheté un journal au kiosque.",
+          "highlight": "kiosque"
+        }
+      ]
+    },
+    {
+      "name_en": "Hospital",
+      "name_fr": "Hôpital",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He works at the hospital.",
+          "example_fr": "Il travaille à l'hôpital.",
+          "highlight": "hôpital"
+        }
+      ]
+    },
+    {
+      "name_en": "Office",
+      "name_fr": "Bureau",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The office is on the third floor.",
+          "example_fr": "Le bureau est au troisième étage.",
+          "highlight": "bureau"
+        }
+      ]
+    },
+    {
+      "name_en": "Supermarket",
+      "name_fr": "Supermarché",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "They shop at the supermarket every week.",
+          "example_fr": "Ils font leurs courses au supermarché chaque semaine.",
+          "highlight": "supermarché"
+        }
+      ]
+    },
+    {
+      "name_en": "Museum",
+      "name_fr": "Musée",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The museum has ancient artifacts.",
+          "example_fr": "Le musée possède des objets anciens.",
+          "highlight": "musée"
+        }
+      ]
+    },
+    {
+      "name_en": "Stadium",
+      "name_fr": "Stade",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The match is at the stadium.",
+          "example_fr": "Le match est au stade.",
+          "highlight": "stade"
+        }
+      ]
+    },
+    {
+      "name_en": "Court",
+      "name_fr": "Tribunal",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The lawyer went to court.",
+          "example_fr": "L'avocat est allé au tribunal.",
+          "highlight": "tribunal"
+        }
+      ]
+    },
+    {
+      "name_en": "Library",
+      "name_fr": "Bibliothèque",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "She studies at the library.",
+          "example_fr": "Elle étudie à la bibliothèque.",
+          "highlight": "bibliothèque"
+        }
+      ]
+    },
+    {
+      "name_en": "Bakery",
+      "name_fr": "Boulangerie",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He buys bread at the bakery.",
+          "example_fr": "Il achète du pain à la boulangerie.",
+          "highlight": "boulangerie"
+        }
+      ]
+    },
+    {
+      "name_en": "Pharmacy",
+      "name_fr": "Pharmacie",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "The pharmacy is open late.",
+          "example_fr": "La pharmacie est ouverte tard.",
+          "highlight": "pharmacie"
+        }
+      ]
+    },
+    {
+      "name_en": "Bank",
+      "name_fr": "Banque",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "She went to the bank.",
+          "example_fr": "Elle est allée à la banque.",
+          "highlight": "banque"
+        }
+      ]
+    },
+    {
+      "name_en": "Post Office",
+      "name_fr": "Bureau de poste",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He sent a letter from the post office.",
+          "example_fr": "Il a envoyé une lettre du bureau de poste.",
+          "highlight": "bureau de poste"
+        }
+      ]
+    },
+    {
+      "name_en": "Restaurant",
+      "name_fr": "Restaurant",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "They had dinner at a restaurant.",
+          "example_fr": "Ils ont dîné dans un restaurant.",
+          "highlight": "restaurant"
+        }
+      ]
+    },
+    {
+      "name_en": "Cafe",
+      "name_fr": "Café",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She drinks coffee at the cafe.",
+          "example_fr": "Elle boit du café au café.",
+          "highlight": "café"
+        }
+      ]
+    },
+    {
+      "name_en": "Bar",
+      "name_fr": "Bar",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He met his friends at the bar.",
+          "example_fr": "Il a retrouvé ses amis au bar.",
+          "highlight": "bar"
+        }
+      ]
+    },
+    {
+      "name_en": "Cinema",
+      "name_fr": "Cinéma",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "They watched a movie at the cinema.",
+          "example_fr": "Ils ont regardé un film au cinéma.",
+          "highlight": "cinéma"
+        }
+      ]
+    },
+    {
+      "name_en": "School",
+      "name_fr": "École",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "The children go to school.",
+          "example_fr": "Les enfants vont à l'école.",
+          "highlight": "école"
+        }
+      ]
+    },
+    {
+      "name_en": "University",
+      "name_fr": "Université",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "She studies at the university.",
+          "example_fr": "Elle étudie à l'université.",
+          "highlight": "université"
+        }
+      ]
+    },
+    {
+      "name_en": "Police Station",
+      "name_fr": "Commissariat de police",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "He reported the theft at the police station.",
+          "example_fr": "Il a signalé le vol au commissariat de police.",
+          "highlight": "commissariat de police"
+        }
+      ]
+    },
+    {
+      "name_en": "Fire Station",
+      "name_fr": "Caserne de pompiers",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "The fire station is near the park.",
+          "example_fr": "La caserne de pompiers est près du parc.",
+          "highlight": "caserne de pompiers"
+        }
+      ]
+    },
+    {
+      "name_en": "Park",
+      "name_fr": "Parc",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "Children play in the park.",
+          "example_fr": "Les enfants jouent dans le parc.",
+          "highlight": "parc"
+        }
+      ]
+    },
+    {
+      "name_en": "Bridge",
+      "name_fr": "Pont",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The bridge crosses the river.",
+          "example_fr": "Le pont traverse la rivière.",
+          "highlight": "pont"
+        }
+      ]
+    },
+    {
+      "name_en": "Airport",
+      "name_fr": "Aéroport",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The plane landed at the airport.",
+          "example_fr": "L'avion a atterri à l'aéroport.",
+          "highlight": "aéroport"
+        }
+      ]
+    },
+    {
+      "name_en": "Harbor",
+      "name_fr": "Port",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The ship is in the harbor.",
+          "example_fr": "Le navire est dans le port.",
+          "highlight": "port"
+        }
+      ]
+    },
+    {
+      "name_en": "Zoo",
+      "name_fr": "Zoo",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "They visited the zoo.",
+          "example_fr": "Ils ont visité le zoo.",
+          "highlight": "zoo"
+        }
+      ]
+    },
+    {
+      "name_en": "Swimming Pool",
+      "name_fr": "Piscine",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "The swimming pool is open in summer.",
+          "example_fr": "La piscine est ouverte en été.",
+          "highlight": "piscine"
+        }
+      ]
+    },
+    {
+      "name_en": "Church",
+      "name_fr": "Église",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "The church is old.",
+          "example_fr": "L'église est ancienne.",
+          "highlight": "église"
+        }
+      ]
+    },
+    {
+      "name_en": "Mosque",
+      "name_fr": "Mosquée",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "The mosque is beautiful.",
+          "example_fr": "La mosquée est belle.",
+          "highlight": "mosquée"
+        }
+      ]
+    },
+    {
+      "name_en": "Temple",
+      "name_fr": "Temple",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The temple is peaceful.",
+          "example_fr": "Le temple est paisible.",
+          "highlight": "temple"
+        }
+      ]
+    },
+    {
+      "name_en": "Market",
+      "name_fr": "Marché",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The market is crowded on weekends.",
+          "example_fr": "Le marché est bondé le week-end.",
+          "highlight": "marché"
+        }
+      ]
+    },
+    {
+      "name_en": "Hotel",
+      "name_fr": "Hôtel",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "They stayed at a hotel.",
+          "example_fr": "Ils ont séjourné dans un hôtel.",
+          "highlight": "hôtel"
+        }
+      ]
+    },
+    {
+      "name_en": "Gym",
+      "name_fr": "Salle de sport",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He goes to the gym every morning.",
+          "example_fr": "Il va à la salle de sport chaque matin.",
+          "highlight": "salle de sport"
+        }
+      ]
+    },
+    {
+      "name_en": "Playground",
+      "name_fr": "Terrain de jeu",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "Children play at the playground.",
+          "example_fr": "Les enfants jouent au terrain de jeu.",
+          "highlight": "terrain de jeu"
+        }
+      ]
+    },
+    {
+      "name_en": "Aquarium",
+      "name_fr": "Aquarium",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "They visited the aquarium on Sunday.",
+          "example_fr": "Ils ont visité l'aquarium dimanche.",
+          "highlight": "aquarium"
+        }
+      ]
+    },
+    {
+      "name_en": "Gallery",
+      "name_fr": "Galerie",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "The gallery displays modern art.",
+          "example_fr": "La galerie expose de l'art moderne.",
+          "highlight": "galerie"
+        }
+      ]
+    },
+    {
+      "name_en": "Embassy",
+      "name_fr": "Ambassade",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "The embassy is in the city center.",
+          "example_fr": "L'ambassade est au centre-ville.",
+          "highlight": "ambassade"
+        }
+      ]
+    },
+    {
+      "name_en": "Bus Stop",
+      "name_fr": "Arrêt de bus",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "She waits at the bus stop.",
+          "example_fr": "Elle attend à l'arrêt de bus.",
+          "highlight": "arrêt de bus"
+        }
+      ]
+    },
+    {
+      "name_en": "Parking Lot",
+      "name_fr": "Parking",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "The parking lot is full.",
+          "example_fr": "Le parking est plein.",
+          "highlight": "parking"
+        }
+      ]
+    },
+    {
+      "name_en": "Shopping Mall",
+      "name_fr": "Centre commercial",
+      "gender": "masculine",
+      "example_sentences": [
+        {
+          "example_en": "They went to the shopping mall.",
+          "example_fr": "Ils sont allés au centre commercial.",
+          "highlight": "centre commercial"
+        }
+      ]
+    },
+    {
+      "name_en": "Factory",
+      "name_fr": "Usine",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "He works in a factory.",
+          "example_fr": "Il travaille dans une usine.",
+          "highlight": "usine"
+        }
+      ]
+    },
+    {
+      "name_en": "Farm",
+      "name_fr": "Ferme",
+      "gender": "feminine",
+      "example_sentences": [
+        {
+          "example_en": "The farm has many animals.",
+          "example_fr": "La ferme a beaucoup d'animaux.",
+          "highlight": "ferme"
+        }
+      ]
+    }
+  ]
+}

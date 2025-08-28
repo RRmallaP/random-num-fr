@@ -1,0 +1,490 @@
+{
+  "name_en": "Connecting Words",
+  "name_fr": "Mots de liaison",
+  "list": [
+    {
+      "name_en": "Moreover",
+      "name_fr": "De plus",
+      "example_sentences": [
+        {
+          "example_en": "He is talented; moreover, he is hardworking.",
+          "example_fr": "Il est talentueux; de plus, il est travailleur.",
+          "highlight": "de plus"
+        }
+      ]
+    },
+    {
+      "name_en": "Despite",
+      "name_fr": "Malgré",
+      "example_sentences": [
+        {
+          "example_en": "Despite the rain, they went out.",
+          "example_fr": "Malgré la pluie, ils sont sortis.",
+          "highlight": "malgré"
+        }
+      ]
+    },
+    {
+      "name_en": "Hence",
+      "name_fr": "Donc",
+      "example_sentences": [
+        {
+          "example_en": "He was late, hence the meeting started without him.",
+          "example_fr": "Il était en retard, donc la réunion a commencé sans lui.",
+          "highlight": "donc"
+        }
+      ]
+    },
+    {
+      "name_en": "However",
+      "name_fr": "Cependant",
+      "example_sentences": [
+        {
+          "example_en": "She wanted to come; however, she was busy.",
+          "example_fr": "Elle voulait venir; cependant, elle était occupée.",
+          "highlight": "cependant"
+        }
+      ]
+    },
+    {
+      "name_en": "Therefore",
+      "name_fr": "Par conséquent",
+      "example_sentences": [
+        {
+          "example_en": "He didn't study; therefore, he failed.",
+          "example_fr": "Il n'a pas étudié; par conséquent, il a échoué.",
+          "highlight": "par conséquent"
+        }
+      ]
+    },
+    {
+      "name_en": "Although",
+      "name_fr": "Bien que",
+      "example_sentences": [
+        {
+          "example_en": "Although it was cold, they went swimming.",
+          "example_fr": "Bien qu'il fasse froid, ils sont allés nager.",
+          "highlight": "bien que"
+        }
+      ]
+    },
+    {
+      "name_en": "Because",
+      "name_fr": "Parce que",
+      "example_sentences": [
+        {
+          "example_en": "She left because she was tired.",
+          "example_fr": "Elle est partie parce qu'elle était fatiguée.",
+          "highlight": "parce que"
+        }
+      ]
+    },
+    {
+      "name_en": "Since",
+      "name_fr": "Depuis que",
+      "example_sentences": [
+        {
+          "example_en": "Since he arrived, things have improved.",
+          "example_fr": "Depuis qu'il est arrivé, les choses se sont améliorées.",
+          "highlight": "depuis que"
+        }
+      ]
+    },
+    {
+      "name_en": "As soon as",
+      "name_fr": "Dès que",
+      "example_sentences": [
+        {
+          "example_en": "Call me as soon as you arrive.",
+          "example_fr": "Appelle-moi dès que tu arrives.",
+          "highlight": "dès que"
+        }
+      ]
+    },
+    {
+      "name_en": "While",
+      "name_fr": "Pendant que",
+      "example_sentences": [
+        {
+          "example_en": "She read while he cooked.",
+          "example_fr": "Elle lisait pendant qu'il cuisinait.",
+          "highlight": "pendant que"
+        }
+      ]
+    },
+    {
+      "name_en": "In order to",
+      "name_fr": "Afin de",
+      "example_sentences": [
+        {
+          "example_en": "He works hard in order to succeed.",
+          "example_fr": "Il travaille dur afin de réussir.",
+          "highlight": "afin de"
+        }
+      ]
+    },
+    {
+      "name_en": "Even if",
+      "name_fr": "Même si",
+      "example_sentences": [
+        {
+          "example_en": "Even if it rains, we will go.",
+          "example_fr": "Même s'il pleut, nous irons.",
+          "highlight": "même si"
+        }
+      ]
+    },
+    {
+      "name_en": "As",
+      "name_fr": "Comme",
+      "example_sentences": [
+        {
+          "example_en": "As he was tired, he went to bed early.",
+          "example_fr": "Comme il était fatigué, il s'est couché tôt.",
+          "highlight": "comme"
+        }
+      ]
+    },
+    {
+      "name_en": "Before",
+      "name_fr": "Avant que",
+      "example_sentences": [
+        {
+          "example_en": "Finish your homework before you go out.",
+          "example_fr": "Finis tes devoirs avant que tu sortes.",
+          "highlight": "avant que"
+        }
+      ]
+    },
+    {
+      "name_en": "After",
+      "name_fr": "Après que",
+      "example_sentences": [
+        {
+          "example_en": "We will eat after we finish.",
+          "example_fr": "Nous mangerons après que nous aurons fini.",
+          "highlight": "après que"
+        }
+      ]
+    },
+    {
+      "name_en": "Otherwise",
+      "name_fr": "Sinon",
+      "example_sentences": [
+        {
+          "example_en": "You must hurry, otherwise you'll miss the train.",
+          "example_fr": "Tu dois te dépêcher, sinon tu rateras le train.",
+          "highlight": "sinon"
+        }
+      ]
+    },
+    {
+      "name_en": "Even though",
+      "name_fr": "Même si",
+      "example_sentences": [
+        {
+          "example_en": "Even though it was raining, they went out.",
+          "example_fr": "Même s'il pleuvait, ils sont sortis.",
+          "highlight": "même si"
+        }
+      ]
+    },
+    {
+      "name_en": "Whenever",
+      "name_fr": "Chaque fois que",
+      "example_sentences": [
+        {
+          "example_en": "Call me whenever you need help.",
+          "example_fr": "Appelle-moi chaque fois que tu as besoin d'aide.",
+          "highlight": "chaque fois que"
+        }
+      ]
+    },
+    {
+      "name_en": "Wherever",
+      "name_fr": "Où que",
+      "example_sentences": [
+        {
+          "example_en": "Go wherever you want.",
+          "example_fr": "Va où que tu veuilles.",
+          "highlight": "où que"
+        }
+      ]
+    },
+    {
+      "name_en": "As long as",
+      "name_fr": "Tant que",
+      "example_sentences": [
+        {
+          "example_en": "You can stay as long as you like.",
+          "example_fr": "Tu peux rester tant que tu veux.",
+          "highlight": "tant que"
+        }
+      ]
+    },
+    {
+      "name_en": "So that",
+      "name_fr": "Afin que",
+      "example_sentences": [
+        {
+          "example_en": "He whispered so that nobody could hear.",
+          "example_fr": "Il a chuchoté afin que personne n'entende.",
+          "highlight": "afin que"
+        }
+      ]
+    },
+    {
+      "name_en": "In case",
+      "name_fr": "Au cas où",
+      "example_sentences": [
+        {
+          "example_en": "Take an umbrella in case it rains.",
+          "example_fr": "Prends un parapluie au cas où il pleuve.",
+          "highlight": "au cas où"
+        }
+      ]
+    },
+    {
+      "name_en": "Even so",
+      "name_fr": "Quand même",
+      "example_sentences": [
+        {
+          "example_en": "He was tired; even so, he finished the work.",
+          "example_fr": "Il était fatigué; quand même, il a terminé le travail.",
+          "highlight": "quand même"
+        }
+      ]
+    },
+    {
+      "name_en": "As if",
+      "name_fr": "Comme si",
+      "example_sentences": [
+        {
+          "example_en": "She acted as if nothing happened.",
+          "example_fr": "Elle a agi comme si rien ne s'était passé.",
+          "highlight": "comme si"
+        }
+      ]
+    },
+    {
+      "name_en": "In other words",
+      "name_fr": "Autrement dit",
+      "example_sentences": [
+        {
+          "example_en": "He is frugal, in other words, he saves money.",
+          "example_fr": "Il est économe, autrement dit, il économise de l'argent.",
+          "highlight": "autrement dit"
+        }
+      ]
+    },
+    {
+      "name_en": "Furthermore",
+      "name_fr": "En outre",
+      "example_sentences": [
+        {
+          "example_en": "The book is interesting; furthermore, it is easy to read.",
+          "example_fr": "Le livre est intéressant; en outre, il est facile à lire.",
+          "highlight": "en outre"
+        }
+      ]
+    },
+    {
+      "name_en": "Nevertheless",
+      "name_fr": "Néanmoins",
+      "example_sentences": [
+        {
+          "example_en": "He was tired; nevertheless, he finished the work.",
+          "example_fr": "Il était fatigué; néanmoins, il a terminé le travail.",
+          "highlight": "néanmoins"
+        }
+      ]
+    },
+    {
+      "name_en": "For example",
+      "name_fr": "Par exemple",
+      "example_sentences": [
+        {
+          "example_en": "For example, apples and oranges are fruits.",
+          "example_fr": "Par exemple, les pommes et les oranges sont des fruits.",
+          "highlight": "par exemple"
+        }
+      ]
+    },
+    {
+      "name_en": "In addition",
+      "name_fr": "En plus",
+      "example_sentences": [
+        {
+          "example_en": "He speaks French. In addition, he speaks Spanish.",
+          "example_fr": "Il parle français. En plus, il parle espagnol.",
+          "highlight": "en plus"
+        }
+      ]
+    },
+    {
+      "name_en": "On the other hand",
+      "name_fr": "D'autre part",
+      "example_sentences": [
+        {
+          "example_en": "He likes sports. On the other hand, his brother prefers music.",
+          "example_fr": "Il aime le sport. D'autre part, son frère préfère la musique.",
+          "highlight": "d'autre part"
+        }
+      ]
+    },
+    {
+      "name_en": "As a result",
+      "name_fr": "En conséquence",
+      "example_sentences": [
+        {
+          "example_en": "He didn't sleep well. As a result, he was tired.",
+          "example_fr": "Il n'a pas bien dormi. En conséquence, il était fatigué.",
+          "highlight": "en conséquence"
+        }
+      ]
+    },
+    {
+      "name_en": "Whereas",
+      "name_fr": "Tandis que",
+      "example_sentences": [
+        {
+          "example_en": "She likes tea, whereas he prefers coffee.",
+          "example_fr": "Elle aime le thé, tandis qu'il préfère le café.",
+          "highlight": "tandis que"
+        }
+      ]
+    },
+    {
+      "name_en": "Unless",
+      "name_fr": "À moins que",
+      "example_sentences": [
+        {
+          "example_en": "We will go unless it rains.",
+          "example_fr": "Nous irons à moins qu'il ne pleuve.",
+          "highlight": "à moins que"
+        }
+      ]
+    },
+    {
+      "name_en": "Whenever",
+      "name_fr": "Chaque fois que",
+      "example_sentences": [
+        {
+          "example_en": "Call me whenever you need help.",
+          "example_fr": "Appelle-moi chaque fois que tu as besoin d'aide.",
+          "highlight": "chaque fois que"
+        }
+      ]
+    },
+    {
+      "name_en": "In fact",
+      "name_fr": "En fait",
+      "example_sentences": [
+        {
+          "example_en": "In fact, he already knew the answer.",
+          "example_fr": "En fait, il connaissait déjà la réponse.",
+          "highlight": "en fait"
+        }
+      ]
+    },
+    {
+      "name_en": "Meanwhile",
+      "name_fr": "Pendant ce temps",
+      "example_sentences": [
+        {
+          "example_en": "She cooked dinner; meanwhile, he set the table.",
+          "example_fr": "Elle a préparé le dîner; pendant ce temps, il a mis la table.",
+          "highlight": "pendant ce temps"
+        }
+      ]
+    },
+    {
+      "name_en": "Otherwise",
+      "name_fr": "Autrement",
+      "example_sentences": [
+        {
+          "example_en": "You must study, otherwise you will fail.",
+          "example_fr": "Tu dois étudier, autrement tu échoueras.",
+          "highlight": "autrement"
+        }
+      ]
+    },
+    {
+      "name_en": "For instance",
+      "name_fr": "Par exemple",
+      "example_sentences": [
+        {
+          "example_en": "For instance, Paris is a beautiful city.",
+          "example_fr": "Par exemple, Paris est une belle ville.",
+          "highlight": "par exemple"
+        }
+      ]
+    },
+    {
+      "name_en": "Thus",
+      "name_fr": "Ainsi",
+      "example_sentences": [
+        {
+          "example_en": "He was late, thus he missed the bus.",
+          "example_fr": "Il était en retard, ainsi il a raté le bus.",
+          "highlight": "ainsi"
+        }
+      ]
+    },
+    {
+      "name_en": "In summary",
+      "name_fr": "En résumé",
+      "example_sentences": [
+        {
+          "example_en": "In summary, the project was a success.",
+          "example_fr": "En résumé, le projet a été un succès.",
+          "highlight": "en résumé"
+        }
+      ]
+    },
+    {
+      "name_en": "In contrast",
+      "name_fr": "En contraste",
+      "example_sentences": [
+        {
+          "example_en": "In contrast, his brother is very quiet.",
+          "example_fr": "En contraste, son frère est très calme.",
+          "highlight": "en contraste"
+        }
+      ]
+    },
+    {
+      "name_en": "First of all",
+      "name_fr": "Tout d'abord",
+      "example_sentences": [
+        {
+          "example_en": "First of all, I want to thank you.",
+          "example_fr": "Tout d'abord, je veux te remercier.",
+          "highlight": "tout d'abord"
+        }
+      ]
+    },
+    {
+      "name_en": "Finally",
+      "name_fr": "Enfin",
+      "example_sentences": [
+        {
+          "example_en": "Finally, we finished the work.",
+          "example_fr": "Enfin, nous avons terminé le travail.",
+          "highlight": "enfin"
+        }
+      ]
+    },
+    {
+      "name_en": "In conclusion",
+      "name_fr": "En conclusion",
+      "example_sentences": [
+        {
+          "example_en": "In conclusion, the results are positive.",
+          "example_fr": "En conclusion, les résultats sont positifs.",
+          "highlight": "en conclusion"
+        }
+      ]
+    }
+  ]
+}

@@ -19,14 +19,14 @@
     },
     {
       "name_en": "What is your name?",
-      "name_fr": "Comment vous appelez-vous ?",
+      "name_fr": "Comment vous appelez-vous?",
       "plural_name_en": "",
       "plural_name_fr": "",
       "example_sentences": []
     },
     {
       "name_en": "Where are you from?",
-      "name_fr": "D'où venez-vous ?",
+      "name_fr": "D'où venez-vous?",
       "plural_name_en": "",
       "plural_name_fr": "",
       "example_sentences": []
@@ -39,8 +39,8 @@
       "example_sentences": []
     },
     {
-      "name_en": "J'apprends le français depuis un an.",
-      "name_fr": "I have been learning French for a year.",
+      "name_en": "I have been learning French for a year.",
+      "name_fr": "J'apprends le français depuis un an.",
       "plural_name_en": "",
       "plural_name_fr": "",
       "example_sentences": []

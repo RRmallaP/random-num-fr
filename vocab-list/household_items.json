@@ -931,6 +931,261 @@
           "highlight": "douche"
         }
       ]
+    },
+    {
+      "name_en": "Cutting Board",
+      "name_fr": "Planche à découper",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Cutting Boards",
+      "plural_name_fr": "Planches à découper",
+      "example_sentences": [
+        {
+          "example_en": "The cutting board is used for vegetables.",
+          "example_fr": "La planche à découper sert pour les légumes.",
+          "highlight": "planche à découper"
+        }
+      ]
+    },
+    {
+      "name_en": "Colander",
+      "name_fr": "Passoire",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Colanders",
+      "plural_name_fr": "Passoires",
+      "example_sentences": [
+        {
+          "example_en": "The colander drains pasta.",
+          "example_fr": "La passoire égoutte les pâtes.",
+          "highlight": "passoire"
+        }
+      ]
+    },
+    {
+      "name_en": "Measuring Cup",
+      "name_fr": "Tasse à mesurer",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Measuring Cups",
+      "plural_name_fr": "Tasses à mesurer",
+      "example_sentences": [
+        {
+          "example_en": "She uses a measuring cup for flour.",
+          "example_fr": "Elle utilise une tasse à mesurer pour la farine.",
+          "highlight": "tasse à mesurer"
+        }
+      ]
+    },
+    {
+      "name_en": "Whisk",
+      "name_fr": "Fouet",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Whisks",
+      "plural_name_fr": "Fouets",
+      "example_sentences": [
+        {
+          "example_en": "The whisk mixes eggs.",
+          "example_fr": "Le fouet mélange les œufs.",
+          "highlight": "fouet"
+        }
+      ]
+    },
+    {
+      "name_en": "Grater",
+      "name_fr": "Râpe",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Graters",
+      "plural_name_fr": "Râpes",
+      "example_sentences": [
+        {
+          "example_en": "The grater is used for cheese.",
+          "example_fr": "La râpe sert pour le fromage.",
+          "highlight": "râpe"
+        }
+      ]
+    },
+    {
+      "name_en": "Peeler",
+      "name_fr": "Éplucheur",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Peelers",
+      "plural_name_fr": "Éplucheurs",
+      "example_sentences": [
+        {
+          "example_en": "The peeler peels potatoes.",
+          "example_fr": "L'éplucheur épluche les pommes de terre.",
+          "highlight": "éplucheur"
+        }
+      ]
+    },
+    {
+      "name_en": "Can Opener",
+      "name_fr": "Ouvre-boîte",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Can Openers",
+      "plural_name_fr": "Ouvre-boîtes",
+      "example_sentences": [
+        {
+          "example_en": "The can opener opens cans.",
+          "example_fr": "L'ouvre-boîte ouvre les boîtes de conserve.",
+          "highlight": "ouvre-boîte"
+        }
+      ]
+    },
+    {
+      "name_en": "Sieve",
+      "name_fr": "Tamis",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Sieves",
+      "plural_name_fr": "Tamis",
+      "example_sentences": [
+        {
+          "example_en": "The sieve is used for flour.",
+          "example_fr": "Le tamis sert pour la farine.",
+          "highlight": "tamis"
+        }
+      ]
+    },
+    {
+      "name_en": "Rolling Pin",
+      "name_fr": "Rouleau à pâtisserie",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Rolling Pins",
+      "plural_name_fr": "Rouleaux à pâtisserie",
+      "example_sentences": [
+        {
+          "example_en": "The rolling pin flattens dough.",
+          "example_fr": "Le rouleau à pâtisserie aplatit la pâte.",
+          "highlight": "rouleau à pâtisserie"
+        }
+      ]
+    },
+    {
+      "name_en": "Ladle",
+      "name_fr": "Louche",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Ladles",
+      "plural_name_fr": "Louches",
+      "example_sentences": [
+        {
+          "example_en": "The ladle serves soup.",
+          "example_fr": "La louche sert la soupe.",
+          "highlight": "louche"
+        }
+      ]
+    },
+    {
+      "name_en": "Tongs",
+      "name_fr": "Pinces",
+      "article": "les",
+      "gender": "feminine",
+      "plural_name_en": "Tongs",
+      "plural_name_fr": "Pinces",
+      "example_sentences": [
+        {
+          "example_en": "She uses tongs for salad.",
+          "example_fr": "Elle utilise des pinces pour la salade.",
+          "highlight": "pinces"
+        }
+      ]
+    },
+    {
+      "name_en": "Spatula",
+      "name_fr": "Spatule",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Spatulas",
+      "plural_name_fr": "Spatules",
+      "example_sentences": [
+        {
+          "example_en": "The spatula flips pancakes.",
+          "example_fr": "La spatule retourne les crêpes.",
+          "highlight": "spatule"
+        }
+      ]
+    },
+    {
+      "name_en": "Kitchen Scale",
+      "name_fr": "Balance de cuisine",
+      "article": "la",
+      "gender": "feminine",
+      "plural_name_en": "Kitchen Scales",
+      "plural_name_fr": "Balances de cuisine",
+      "example_sentences": [
+        {
+          "example_en": "The kitchen scale measures ingredients.",
+          "example_fr": "La balance de cuisine mesure les ingrédients.",
+          "highlight": "balance de cuisine"
+        }
+      ]
+    },
+    {
+      "name_en": "Blender",
+      "name_fr": "Mixeur",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Blenders",
+      "plural_name_fr": "Mixeurs",
+      "example_sentences": [
+        {
+          "example_en": "The blender makes smoothies.",
+          "example_fr": "Le mixeur prépare des smoothies.",
+          "highlight": "mixeur"
+        }
+      ]
+    },
+    {
+      "name_en": "Food Processor",
+      "name_fr": "Robot de cuisine",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Food Processors",
+      "plural_name_fr": "Robots de cuisine",
+      "example_sentences": [
+        {
+          "example_en": "The food processor chops vegetables.",
+          "example_fr": "Le robot de cuisine hache les légumes.",
+          "highlight": "robot de cuisine"
+        }
+      ]
+    },
+    {
+      "name_en": "Pressure Cooker",
+      "name_fr": "Autocuiseur",
+      "article": "l'",
+      "gender": "masculine",
+      "plural_name_en": "Pressure Cookers",
+      "plural_name_fr": "Autocuiseurs",
+      "example_sentences": [
+        {
+          "example_en": "The pressure cooker cooks food quickly.",
+          "example_fr": "L'autocuiseur cuit les aliments rapidement.",
+          "highlight": "autocuiseur"
+        }
+      ]
+    },
+    {
+      "name_en": "Apron",
+      "name_fr": "Tablier",
+      "article": "le",
+      "gender": "masculine",
+      "plural_name_en": "Aprons",
+      "plural_name_fr": "Tabliers",
+      "example_sentences": [
+        {
+          "example_en": "He wears an apron while cooking.",
+          "example_fr": "Il porte un tablier en cuisinant.",
+          "highlight": "tablier"
+        }
+      ]
     }
   ]
 }
