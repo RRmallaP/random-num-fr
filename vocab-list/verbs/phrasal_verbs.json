@@ -1,0 +1,1110 @@
+{
+  "name_en": "Phrasal Verbs",
+  "name_fr": "Verbes à particule",
+  "list": [
+    {
+      "name_en": "to get up",
+      "name_fr": "se lever",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I get up at 6 a.m.",
+          "example_fr": "Je me lève à 6 heures.",
+          "highlight": "lève"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She got up late.",
+          "example_fr": "Elle s'est levée tard.",
+          "highlight": "levée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to get up early.",
+          "example_fr": "Nous nous levions tôt.",
+          "highlight": "levions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will get up soon.",
+          "example_fr": "Il se lèvera bientôt.",
+          "highlight": "lèvera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to get up early.",
+          "example_fr": "Je vais me lever tôt.",
+          "highlight": "vais me lever"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just got up.",
+          "example_fr": "Ils viennent de se lever.",
+          "highlight": "viennent de se lever"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me lève",
+          "tu te lèves",
+          "il/elle/on se lève",
+          "nous nous levons",
+          "vous vous levez",
+          "ils/elles se lèvent"
+        ],
+        "Imparfait": [
+          "je me levais",
+          "tu te levais",
+          "il/elle/on se levait",
+          "nous nous levions",
+          "vous vous leviez",
+          "ils/elles se levaient"
+        ],
+        "Futur": [
+          "je me lèverai",
+          "tu te lèveras",
+          "il/elle/on se lèvera",
+          "nous nous lèverons",
+          "vous vous lèverez",
+          "ils/elles se lèveront"
+        ],
+        "Passé composé": [
+          "je me suis levé(e)",
+          "tu t'es levé(e)",
+          "il/elle/on s'est levé(e)",
+          "nous nous sommes levé(e)s",
+          "vous vous êtes levé(e)(s)",
+          "ils/elles se sont levé(e)s"
+        ],
+        "Futur proche": [
+          "je vais me lever",
+          "tu vas te lever",
+          "il/elle/on va se lever",
+          "nous allons nous lever",
+          "vous allez vous lever",
+          "ils/elles vont se lever"
+        ],
+        "Passé récent": [
+          "je viens de me lever",
+          "tu viens de te lever",
+          "il/elle/on vient de se lever",
+          "nous venons de nous lever",
+          "vous venez de vous lever",
+          "ils/elles viennent de se lever"
+        ]
+      }
+    },
+    {
+      "name_en": "to turn on",
+      "name_fr": "allumer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "He turns on the light.",
+          "example_fr": "Il allume la lumière.",
+          "highlight": "allume"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She turned on the TV.",
+          "example_fr": "Elle a allumé la télé.",
+          "highlight": "allumé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to turn on the radio.",
+          "example_fr": "Nous allumions la radio.",
+          "highlight": "allumions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "I will turn on the computer.",
+          "example_fr": "J'allumerai l'ordinateur.",
+          "highlight": "allumerai"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "You are going to turn on the oven.",
+          "example_fr": "Tu vas allumer le four.",
+          "highlight": "vas allumer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just turned on the fan.",
+          "example_fr": "Ils viennent d'allumer le ventilateur.",
+          "highlight": "viennent d'allumer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'allume",
+          "tu allumes",
+          "il/elle/on allume",
+          "nous allumons",
+          "vous allumez",
+          "ils/elles allument"
+        ],
+        "Imparfait": [
+          "j'allumais",
+          "tu allumais",
+          "il/elle/on allumait",
+          "nous allumions",
+          "vous allumiez",
+          "ils/elles allumaient"
+        ],
+        "Futur": [
+          "j'allumerai",
+          "tu allumeras",
+          "il/elle/on allumera",
+          "nous allumerons",
+          "vous allumerez",
+          "ils/elles allumeront"
+        ],
+        "Passé composé": [
+          "j'ai allumé",
+          "tu as allumé",
+          "il/elle/on a allumé",
+          "nous avons allumé",
+          "vous avez allumé",
+          "ils/elles ont allumé"
+        ],
+        "Futur proche": [
+          "je vais allumer",
+          "tu vas allumer",
+          "il/elle/on va allumer",
+          "nous allons allumer",
+          "vous allez allumer",
+          "ils/elles vont allumer"
+        ],
+        "Passé récent": [
+          "je viens d'allumer",
+          "tu viens d'allumer",
+          "il/elle/on vient d'allumer",
+          "nous venons d'allumer",
+          "vous venez d'allumer",
+          "ils/elles viennent d'allumer"
+        ]
+      }
+    },
+    {
+      "name_en": "to give up",
+      "name_fr": "abandonner",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "She gives up easily.",
+          "example_fr": "Elle abandonne facilement.",
+          "highlight": "abandonne"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "He gave up the race.",
+          "example_fr": "Il a abandonné la course.",
+          "highlight": "abandonné"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to give up quickly.",
+          "example_fr": "Nous abandonnions rapidement.",
+          "highlight": "abandonnions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "I will give up smoking.",
+          "example_fr": "J'abandonnerai de fumer.",
+          "highlight": "abandonnerai"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "You are going to give up sugar.",
+          "example_fr": "Tu vas abandonner le sucre.",
+          "highlight": "vas abandonner"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just given up hope.",
+          "example_fr": "Ils viennent d'abandonner l'espoir.",
+          "highlight": "viennent d'abandonner"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'abandonne",
+          "tu abandonnes",
+          "il/elle/on abandonne",
+          "nous abandonnons",
+          "vous abandonnez",
+          "ils/elles abandonnent"
+        ],
+        "Imparfait": [
+          "j'abandonnais",
+          "tu abandonnais",
+          "il/elle/on abandonnait",
+          "nous abandonnions",
+          "vous abandonniez",
+          "ils/elles abandonnaient"
+        ],
+        "Futur": [
+          "j'abandonnerai",
+          "tu abandonneras",
+          "il/elle/on abandonnera",
+          "nous abandonnerons",
+          "vous abandonnerez",
+          "ils/elles abandonneront"
+        ],
+        "Passé composé": [
+          "j'ai abandonné",
+          "tu as abandonné",
+          "il/elle/on a abandonné",
+          "nous avons abandonné",
+          "vous avez abandonné",
+          "ils/elles ont abandonné"
+        ],
+        "Futur proche": [
+          "je vais abandonner",
+          "tu vas abandonner",
+          "il/elle/on va abandonner",
+          "nous allons abandonner",
+          "vous allez abandonner",
+          "ils/elles vont abandonner"
+        ],
+        "Passé récent": [
+          "je viens d'abandonner",
+          "tu viens d'abandonner",
+          "il/elle/on vient d'abandonner",
+          "nous venons d'abandonner",
+          "vous venez d'abandonner",
+          "ils/elles viennent d'abandonner"
+        ]
+      }
+    },
+    {
+      "name_en": "to look after",
+      "name_fr": "s'occuper de",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I look after my brother.",
+          "example_fr": "Je m'occupe de mon frère.",
+          "highlight": "occupe"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She looked after the children.",
+          "example_fr": "Elle s'est occupée des enfants.",
+          "highlight": "occupée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to look after the house.",
+          "example_fr": "Nous nous occupions de la maison.",
+          "highlight": "occupions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will look after the dog.",
+          "example_fr": "Il s'occupera du chien.",
+          "highlight": "occupera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to look after the plants.",
+          "example_fr": "Je vais m'occuper des plantes.",
+          "highlight": "vais m'occuper"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just looked after the cat.",
+          "example_fr": "Ils viennent de s'occuper du chat.",
+          "highlight": "viennent de s'occuper"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je m'occupe",
+          "tu t'occupes",
+          "il/elle/on s'occupe",
+          "nous nous occupons",
+          "vous vous occupez",
+          "ils/elles s'occupent"
+        ],
+        "Imparfait": [
+          "je m'occupais",
+          "tu t'occupais",
+          "il/elle/on s'occupait",
+          "nous nous occupions",
+          "vous vous occupiez",
+          "ils/elles s'occupaient"
+        ],
+        "Futur": [
+          "je m'occuperai",
+          "tu t'occuperas",
+          "il/elle/on s'occupera",
+          "nous nous occuperons",
+          "vous vous occuperez",
+          "ils/elles s'occuperont"
+        ],
+        "Passé composé": [
+          "je me suis occupé(e)",
+          "tu t'es occupé(e)",
+          "il/elle/on s'est occupé(e)",
+          "nous nous sommes occupé(e)s",
+          "vous vous êtes occupé(e)(s)",
+          "ils/elles se sont occupé(e)s"
+        ],
+        "Futur proche": [
+          "je vais m'occuper",
+          "tu vas t'occuper",
+          "il/elle/on va s'occuper",
+          "nous allons nous occuper",
+          "vous allez vous occuper",
+          "ils/elles vont s'occuper"
+        ],
+        "Passé récent": [
+          "je viens de m'occuper",
+          "tu viens de t'occuper",
+          "il/elle/on vient de s'occuper",
+          "nous venons de nous occuper",
+          "vous venez de vous occuper",
+          "ils/elles viennent de s'occuper"
+        ]
+      }
+    },
+    {
+      "name_en": "to get on",
+      "name_fr": "monter",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "He gets on the bus.",
+          "example_fr": "Il monte dans le bus.",
+          "highlight": "monte"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She got on the train.",
+          "example_fr": "Elle est montée dans le train.",
+          "highlight": "montée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to get on early.",
+          "example_fr": "Nous montions tôt.",
+          "highlight": "montions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "I will get on the plane.",
+          "example_fr": "Je monterai dans l'avion.",
+          "highlight": "monterai"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "You are going to get on the boat.",
+          "example_fr": "Tu vas monter sur le bateau.",
+          "highlight": "vas monter"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just got on the tram.",
+          "example_fr": "Ils viennent de monter dans le tramway.",
+          "highlight": "viennent de monter"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je monte",
+          "tu montes",
+          "il/elle/on monte",
+          "nous montons",
+          "vous montez",
+          "ils/elles montent"
+        ],
+        "Imparfait": [
+          "je montais",
+          "tu montais",
+          "il/elle/on montait",
+          "nous montions",
+          "vous montiez",
+          "ils/elles montaient"
+        ],
+        "Futur": [
+          "je monterai",
+          "tu monteras",
+          "il/elle/on montera",
+          "nous monterons",
+          "vous monterez",
+          "ils/elles monteront"
+        ],
+        "Passé composé": [
+          "je suis monté(e)",
+          "tu es monté(e)",
+          "il/elle/on est monté(e)",
+          "nous sommes monté(e)s",
+          "vous êtes monté(e)(s)",
+          "ils/elles sont monté(e)s"
+        ],
+        "Futur proche": [
+          "je vais monter",
+          "tu vas monter",
+          "il/elle/on va monter",
+          "nous allons monter",
+          "vous allez monter",
+          "ils/elles vont monter"
+        ],
+        "Passé récent": [
+          "je viens de monter",
+          "tu viens de monter",
+          "il/elle/on vient de monter",
+          "nous venons de monter",
+          "vous venez de monter",
+          "ils/elles viennent de monter"
+        ]
+      }
+    },
+    {
+      "name_en": "to get off",
+      "name_fr": "descendre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "She gets off the bus.",
+          "example_fr": "Elle descend du bus.",
+          "highlight": "descend"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "He got off the train.",
+          "example_fr": "Il est descendu du train.",
+          "highlight": "descendu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to get off late.",
+          "example_fr": "Nous descendions tard.",
+          "highlight": "descendions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "I will get off at the next stop.",
+          "example_fr": "Je descendrai au prochain arrêt.",
+          "highlight": "descendrai"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "You are going to get off soon.",
+          "example_fr": "Tu vas descendre bientôt.",
+          "highlight": "vas descendre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just got off the tram.",
+          "example_fr": "Ils viennent de descendre du tramway.",
+          "highlight": "viennent de descendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je descends",
+          "tu descends",
+          "il/elle/on descend",
+          "nous descendons",
+          "vous descendez",
+          "ils/elles descendent"
+        ],
+        "Imparfait": [
+          "je descendais",
+          "tu descendais",
+          "il/elle/on descendait",
+          "nous descendions",
+          "vous descendiez",
+          "ils/elles descendaient"
+        ],
+        "Futur": [
+          "je descendrai",
+          "tu descendras",
+          "il/elle/on descendra",
+          "nous descendrons",
+          "vous descendrez",
+          "ils/elles descendront"
+        ],
+        "Passé composé": [
+          "je suis descendu(e)",
+          "tu es descendu(e)",
+          "il/elle/on est descendu(e)",
+          "nous sommes descendu(e)s",
+          "vous êtes descendu(e)(s)",
+          "ils/elles sont descendu(e)s"
+        ],
+        "Futur proche": [
+          "je vais descendre",
+          "tu vas descendre",
+          "il/elle/on va descendre",
+          "nous allons descendre",
+          "vous allez descendre",
+          "ils/elles vont descendre"
+        ],
+        "Passé récent": [
+          "je viens de descendre",
+          "tu viens de descendre",
+          "il/elle/on vient de descendre",
+          "nous venons de descendre",
+          "vous venez de descendre",
+          "ils/elles viennent de descendre"
+        ]
+      }
+    },
+    {
+      "name_en": "to find out",
+      "name_fr": "découvrir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I find out the truth.",
+          "example_fr": "Je découvre la vérité.",
+          "highlight": "découvre"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She found out the answer.",
+          "example_fr": "Elle a découvert la réponse.",
+          "highlight": "découvert"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to find out together.",
+          "example_fr": "Nous découvrions ensemble.",
+          "highlight": "découvrions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will find out soon.",
+          "example_fr": "Il découvrira bientôt.",
+          "highlight": "découvrira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to find out tomorrow.",
+          "example_fr": "Je vais découvrir demain.",
+          "highlight": "vais découvrir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just found out the news.",
+          "example_fr": "Ils viennent de découvrir la nouvelle.",
+          "highlight": "viennent de découvrir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je découvre",
+          "tu découvres",
+          "il/elle/on découvre",
+          "nous découvrons",
+          "vous découvrez",
+          "ils/elles découvrent"
+        ],
+        "Imparfait": [
+          "je découvrais",
+          "tu découvrais",
+          "il/elle/on découvrait",
+          "nous découvrions",
+          "vous découvriez",
+          "ils/elles découvraient"
+        ],
+        "Futur": [
+          "je découvrirai",
+          "tu découvriras",
+          "il/elle/on découvrira",
+          "nous découvrirons",
+          "vous découvrirez",
+          "ils/elles découvriront"
+        ],
+        "Passé composé": [
+          "j'ai découvert",
+          "tu as découvert",
+          "il/elle/on a découvert",
+          "nous avons découvert",
+          "vous avez découvert",
+          "ils/elles ont découvert"
+        ],
+        "Futur proche": [
+          "je vais découvrir",
+          "tu vas découvrir",
+          "il/elle/on va découvrir",
+          "nous allons découvrir",
+          "vous allez découvrir",
+          "ils/elles vont découvrir"
+        ],
+        "Passé récent": [
+          "je viens de découvrir",
+          "tu viens de découvrir",
+          "il/elle/on vient de découvrir",
+          "nous venons de découvrir",
+          "vous venez de découvrir",
+          "ils/elles viennent de découvrir"
+        ]
+      }
+    },
+    {
+      "name_en": "to break down",
+      "name_fr": "tomber en panne",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "The car breaks down often.",
+          "example_fr": "La voiture tombe souvent en panne.",
+          "highlight": "tombe en panne"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "It broke down yesterday.",
+          "example_fr": "Elle est tombée en panne hier.",
+          "highlight": "tombée en panne"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "Our old car used to break down.",
+          "example_fr": "Notre vieille voiture tombait souvent en panne.",
+          "highlight": "tombait en panne"
+        },
+        {
+          "tense": "futur",
+          "example_en": "The bus will break down soon.",
+          "example_fr": "Le bus tombera bientôt en panne.",
+          "highlight": "tombera en panne"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "It is going to break down.",
+          "example_fr": "Elle va tomber en panne.",
+          "highlight": "va tomber en panne"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "The machine has just broken down.",
+          "example_fr": "La machine vient de tomber en panne.",
+          "highlight": "vient de tomber en panne"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je tombe en panne",
+          "tu tombes en panne",
+          "il/elle/on tombe en panne",
+          "nous tombons en panne",
+          "vous tombez en panne",
+          "ils/elles tombent en panne"
+        ],
+        "Imparfait": [
+          "je tombais en panne",
+          "tu tombais en panne",
+          "il/elle/on tombait en panne",
+          "nous tombions en panne",
+          "vous tombiez en panne",
+          "ils/elles tombaient en panne"
+        ],
+        "Futur": [
+          "je tomberai en panne",
+          "tu tomberas en panne",
+          "il/elle/on tombera en panne",
+          "nous tomberons en panne",
+          "vous tomberez en panne",
+          "ils/elles tomberont en panne"
+        ],
+        "Passé composé": [
+          "je suis tombé(e) en panne",
+          "tu es tombé(e) en panne",
+          "il/elle/on est tombé(e) en panne",
+          "nous sommes tombé(e)s en panne",
+          "vous êtes tombé(e)(s) en panne",
+          "ils/elles sont tombé(e)s en panne"
+        ],
+        "Futur proche": [
+          "je vais tomber en panne",
+          "tu vas tomber en panne",
+          "il/elle/on va tomber en panne",
+          "nous allons tomber en panne",
+          "vous allez tomber en panne",
+          "ils/elles vont tomber en panne"
+        ],
+        "Passé récent": [
+          "je viens de tomber en panne",
+          "tu viens de tomber en panne",
+          "il/elle/on vient de tomber en panne",
+          "nous venons de tomber en panne",
+          "vous venez de tomber en panne",
+          "ils/elles viennent de tomber en panne"
+        ]
+      }
+    },
+    {
+      "name_en": "to check in",
+      "name_fr": "s'enregistrer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "We check in at the hotel.",
+          "example_fr": "Nous nous enregistrons à l'hôtel.",
+          "highlight": "enregistrons"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She checked in yesterday.",
+          "example_fr": "Elle s'est enregistrée hier.",
+          "highlight": "enregistrée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "I used to check in online.",
+          "example_fr": "Je m'enregistrais en ligne.",
+          "highlight": "enregistrais"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will check in soon.",
+          "example_fr": "Il s'enregistrera bientôt.",
+          "highlight": "enregistrera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to check in now.",
+          "example_fr": "Nous allons nous enregistrer maintenant.",
+          "highlight": "allons nous enregistrer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just checked in.",
+          "example_fr": "Ils viennent de s'enregistrer.",
+          "highlight": "viennent de s'enregistrer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je m'enregistre",
+          "tu t'enregistres",
+          "il/elle/on s'enregistre",
+          "nous nous enregistrons",
+          "vous vous enregistrez",
+          "ils/elles s'enregistrent"
+        ],
+        "Imparfait": [
+          "je m'enregistrais",
+          "tu t'enregistrais",
+          "il/elle/on s'enregistrait",
+          "nous nous enregistrions",
+          "vous vous enregistriez",
+          "ils/elles s'enregistraient"
+        ],
+        "Futur": [
+          "je m'enregistrerai",
+          "tu t'enregistreras",
+          "il/elle/on s'enregistrera",
+          "nous nous enregistrerons",
+          "vous vous enregistrerez",
+          "ils/elles s'enregistreront"
+        ],
+        "Passé composé": [
+          "je me suis enregistré(e)",
+          "tu t'es enregistré(e)",
+          "il/elle/on s'est enregistré(e)",
+          "nous nous sommes enregistré(e)s",
+          "vous vous êtes enregistré(e)(s)",
+          "ils/elles se sont enregistré(e)s"
+        ],
+        "Futur proche": [
+          "je vais m'enregistrer",
+          "tu vas t'enregistrer",
+          "il/elle/on va s'enregistrer",
+          "nous allons nous enregistrer",
+          "vous allez vous enregistrer",
+          "ils/elles vont s'enregistrer"
+        ],
+        "Passé récent": [
+          "je viens de m'enregistrer",
+          "tu viens de t'enregistrer",
+          "il/elle/on vient de s'enregistrer",
+          "nous venons de nous enregistrer",
+          "vous venez de vous enregistrer",
+          "ils/elles viennent de s'enregistrer"
+        ]
+      }
+    },
+    {
+      "name_en": "to check out",
+      "name_fr": "quitter (l'hôtel)",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "We check out at noon.",
+          "example_fr": "Nous quittons l'hôtel à midi.",
+          "highlight": "quittons"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She checked out yesterday.",
+          "example_fr": "Elle a quitté l'hôtel hier.",
+          "highlight": "quitté"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "I used to check out late.",
+          "example_fr": "Je quittais l'hôtel tard.",
+          "highlight": "quittais"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will check out soon.",
+          "example_fr": "Il quittera l'hôtel bientôt.",
+          "highlight": "quittera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to check out now.",
+          "example_fr": "Nous allons quitter l'hôtel maintenant.",
+          "highlight": "allons quitter"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just checked out.",
+          "example_fr": "Ils viennent de quitter l'hôtel.",
+          "highlight": "viennent de quitter"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je quitte",
+          "tu quittes",
+          "il/elle/on quitte",
+          "nous quittons",
+          "vous quittez",
+          "ils/elles quittent"
+        ],
+        "Imparfait": [
+          "je quittais",
+          "tu quittais",
+          "il/elle/on quittait",
+          "nous quittions",
+          "vous quittiez",
+          "ils/elles quittaient"
+        ],
+        "Futur": [
+          "je quitterai",
+          "tu quitteras",
+          "il/elle/on quittera",
+          "nous quitterons",
+          "vous quitterez",
+          "ils/elles quitteront"
+        ],
+        "Passé composé": [
+          "j'ai quitté",
+          "tu as quitté",
+          "il/elle/on a quitté",
+          "nous avons quitté",
+          "vous avez quitté",
+          "ils/elles ont quitté"
+        ],
+        "Futur proche": [
+          "je vais quitter",
+          "tu vas quitter",
+          "il/elle/on va quitter",
+          "nous allons quitter",
+          "vous allez quitter",
+          "ils/elles vont quitter"
+        ],
+        "Passé récent": [
+          "je viens de quitter",
+          "tu viens de quitter",
+          "il/elle/on vient de quitter",
+          "nous venons de quitter",
+          "vous venez de quitter",
+          "ils/elles viennent de quitter"
+        ]
+      }
+    },
+    {
+      "name_en": "to fill out",
+      "name_fr": "remplir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I fill out the form.",
+          "example_fr": "Je remplis le formulaire.",
+          "highlight": "remplis"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She filled out the document.",
+          "example_fr": "Elle a rempli le document.",
+          "highlight": "rempli"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to fill out papers.",
+          "example_fr": "Nous remplissions des papiers.",
+          "highlight": "remplissions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will fill out the application.",
+          "example_fr": "Il remplira la demande.",
+          "highlight": "remplira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to fill out the survey.",
+          "example_fr": "Je vais remplir le sondage.",
+          "highlight": "vais remplir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just filled out the form.",
+          "example_fr": "Ils viennent de remplir le formulaire.",
+          "highlight": "viennent de remplir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je remplis",
+          "tu remplis",
+          "il/elle/on remplit",
+          "nous remplissons",
+          "vous remplissez",
+          "ils/elles remplissent"
+        ],
+        "Imparfait": [
+          "je remplissais",
+          "tu remplissais",
+          "il/elle/on remplissait",
+          "nous remplissions",
+          "vous remplissiez",
+          "ils/elles remplissaient"
+        ],
+        "Futur": [
+          "je remplirai",
+          "tu rempliras",
+          "il/elle/on remplira",
+          "nous remplirons",
+          "vous remplirez",
+          "ils/elles rempliront"
+        ],
+        "Passé composé": [
+          "j'ai rempli",
+          "tu as rempli",
+          "il/elle/on a rempli",
+          "nous avons rempli",
+          "vous avez rempli",
+          "ils/elles ont rempli"
+        ],
+        "Futur proche": [
+          "je vais remplir",
+          "tu vas remplir",
+          "il/elle/on va remplir",
+          "nous allons remplir",
+          "vous allez remplir",
+          "ils/elles vont remplir"
+        ],
+        "Passé récent": [
+          "je viens de remplir",
+          "tu viens de remplir",
+          "il/elle/on vient de remplir",
+          "nous venons de remplir",
+          "vous venez de remplir",
+          "ils/elles viennent de remplir"
+        ]
+      }
+    },
+    {
+      "name_en": "to take off",
+      "name_fr": "enlever",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "He takes off his shoes.",
+          "example_fr": "Il enlève ses chaussures.",
+          "highlight": "enlève"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She took off her coat.",
+          "example_fr": "Elle a enlevé son manteau.",
+          "highlight": "enlevé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to take off our hats.",
+          "example_fr": "Nous enlevions nos chapeaux.",
+          "highlight": "enlevions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "I will take off my jacket.",
+          "example_fr": "J'enlèverai ma veste.",
+          "highlight": "enlèverai"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "You are going to take off your gloves.",
+          "example_fr": "Tu vas enlever tes gants.",
+          "highlight": "vas enlever"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just taken off their shoes.",
+          "example_fr": "Ils viennent d'enlever leurs chaussures.",
+          "highlight": "viennent d'enlever"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'enlève",
+          "tu enlèves",
+          "il/elle/on enlève",
+          "nous enlevons",
+          "vous enlevez",
+          "ils/elles enlèvent"
+        ],
+        "Imparfait": [
+          "j'enlevais",
+          "tu enlevais",
+          "il/elle/on enlevait",
+          "nous enlevions",
+          "vous enleviez",
+          "ils/elles enlevaient"
+        ],
+        "Futur": [
+          "j'enlèverai",
+          "tu enlèveras",
+          "il/elle/on enlèvera",
+          "nous enlèverons",
+          "vous enlèverez",
+          "ils/elles enlèveront"
+        ],
+        "Passé composé": [
+          "j'ai enlevé",
+          "tu as enlevé",
+          "il/elle/on a enlevé",
+          "nous avons enlevé",
+          "vous avez enlevé",
+          "ils/elles ont enlevé"
+        ],
+        "Futur proche": [
+          "je vais enlever",
+          "tu vas enlever",
+          "il/elle/on va enlever",
+          "nous allons enlever",
+          "vous allez enlever",
+          "ils/elles vont enlever"
+        ],
+        "Passé récent": [
+          "je viens d'enlever",
+          "tu viens d'enlever",
+          "il/elle/on vient d'enlever",
+          "nous venons d'enlever",
+          "vous venez d'enlever",
+          "ils/elles viennent d'enlever"
+        ]
+      }
+    }
+  ]
+}

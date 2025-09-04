@@ -1,0 +1,1110 @@
+{
+  "name_en": "Reciprocal Verbs",
+  "name_fr": "Verbes réciproques",
+  "list": [
+    {
+      "name_en": "to help each other",
+      "name_fr": "s'aider",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "They help each other every day.",
+          "example_fr": "Ils s'aident chaque jour.",
+          "highlight": "aident"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We helped each other yesterday.",
+          "example_fr": "Nous nous sommes aidés hier.",
+          "highlight": "aidés"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to help each other.",
+          "example_fr": "Vous vous aidiez autrefois.",
+          "highlight": "aidiez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "They will help each other.",
+          "example_fr": "Ils s'aideront.",
+          "highlight": "aideront"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to help each other.",
+          "example_fr": "Nous allons nous aider.",
+          "highlight": "allons nous aider"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just helped each other.",
+          "example_fr": "Ils viennent de s'aider.",
+          "highlight": "viennent de s'aider"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je m'aide",
+          "tu t'aides",
+          "il/elle/on s'aide",
+          "nous nous aidons",
+          "vous vous aidez",
+          "ils/elles s'aident"
+        ],
+        "Imparfait": [
+          "je m'aidais",
+          "tu t'aidais",
+          "il/elle/on s'aidait",
+          "nous nous aidions",
+          "vous vous aidiez",
+          "ils/elles s'aidaient"
+        ],
+        "Futur": [
+          "je m'aiderai",
+          "tu t'aideras",
+          "il/elle/on s'aidera",
+          "nous nous aiderons",
+          "vous vous aiderez",
+          "ils/elles s'aideront"
+        ],
+        "Passé composé": [
+          "je me suis aidé(e)",
+          "tu t'es aidé(e)",
+          "il/elle/on s'est aidé(e)",
+          "nous nous sommes aidé(e)s",
+          "vous vous êtes aidé(e)(s)",
+          "ils/elles se sont aidé(e)s"
+        ],
+        "Futur proche": [
+          "je vais m'aider",
+          "tu vas t'aider",
+          "il/elle/on va s'aider",
+          "nous allons nous aider",
+          "vous allez vous aider",
+          "ils/elles vont s'aider"
+        ],
+        "Passé récent": [
+          "je viens de m'aider",
+          "tu viens de t'aider",
+          "il/elle/on vient de s'aider",
+          "nous venons de nous aider",
+          "vous venez de vous aider",
+          "ils/elles viennent de s'aider"
+        ]
+      }
+    },
+    {
+      "name_en": "to talk to each other",
+      "name_fr": "se parler",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "We talk to each other every day.",
+          "example_fr": "Nous nous parlons chaque jour.",
+          "highlight": "parlons"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "They talked to each other yesterday.",
+          "example_fr": "Ils se sont parlé hier.",
+          "highlight": "parlé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to talk to each other.",
+          "example_fr": "Vous vous parliez autrefois.",
+          "highlight": "parliez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "We will talk to each other.",
+          "example_fr": "Nous nous parlerons.",
+          "highlight": "parlerons"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "They are going to talk to each other.",
+          "example_fr": "Ils vont se parler.",
+          "highlight": "vont se parler"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "We have just talked to each other.",
+          "example_fr": "Nous venons de nous parler.",
+          "highlight": "venons de nous parler"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me parle",
+          "tu te parles",
+          "il/elle/on se parle",
+          "nous nous parlons",
+          "vous vous parlez",
+          "ils/elles se parlent"
+        ],
+        "Imparfait": [
+          "je me parlais",
+          "tu te parlais",
+          "il/elle/on se parlait",
+          "nous nous parlions",
+          "vous vous parliez",
+          "ils/elles se parlaient"
+        ],
+        "Futur": [
+          "je me parlerai",
+          "tu te parleras",
+          "il/elle/on se parlera",
+          "nous nous parlerons",
+          "vous vous parlerez",
+          "ils/elles se parleront"
+        ],
+        "Passé composé": [
+          "je me suis parlé(e)",
+          "tu t'es parlé(e)",
+          "il/elle/on s'est parlé(e)",
+          "nous nous sommes parlé(e)s",
+          "vous vous êtes parlé(e)(s)",
+          "ils/elles se sont parlé(e)s"
+        ],
+        "Futur proche": [
+          "je vais me parler",
+          "tu vas te parler",
+          "il/elle/on va se parler",
+          "nous allons nous parler",
+          "vous allez vous parler",
+          "ils/elles vont se parler"
+        ],
+        "Passé récent": [
+          "je viens de me parler",
+          "tu viens de te parler",
+          "il/elle/on vient de se parler",
+          "nous venons de nous parler",
+          "vous venez de vous parler",
+          "ils/elles viennent de se parler"
+        ]
+      }
+    },
+    {
+      "name_en": "to see each other",
+      "name_fr": "se voir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "They see each other every weekend.",
+          "example_fr": "Ils se voient chaque week-end.",
+          "highlight": "voient"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We saw each other yesterday.",
+          "example_fr": "Nous nous sommes vus hier.",
+          "highlight": "vus"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to see each other.",
+          "example_fr": "Vous vous voyiez autrefois.",
+          "highlight": "voyiez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "They will see each other.",
+          "example_fr": "Ils se verront.",
+          "highlight": "verront"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to see each other.",
+          "example_fr": "Nous allons nous voir.",
+          "highlight": "allons nous voir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just seen each other.",
+          "example_fr": "Ils viennent de se voir.",
+          "highlight": "viennent de se voir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me vois",
+          "tu te vois",
+          "il/elle/on se voit",
+          "nous nous voyons",
+          "vous vous voyez",
+          "ils/elles se voient"
+        ],
+        "Imparfait": [
+          "je me voyais",
+          "tu te voyais",
+          "il/elle/on se voyait",
+          "nous nous voyions",
+          "vous vous voyiez",
+          "ils/elles se voyaient"
+        ],
+        "Futur": [
+          "je me verrai",
+          "tu te verras",
+          "il/elle/on se verra",
+          "nous nous verrons",
+          "vous vous verrez",
+          "ils/elles se verront"
+        ],
+        "Passé composé": [
+          "je me suis vu(e)",
+          "tu t'es vu(e)",
+          "il/elle/on s'est vu(e)",
+          "nous nous sommes vu(e)s",
+          "vous vous êtes vu(e)(s)",
+          "ils/elles se sont vu(e)s"
+        ],
+        "Futur proche": [
+          "je vais me voir",
+          "tu vas te voir",
+          "il/elle/on va se voir",
+          "nous allons nous voir",
+          "vous allez vous voir",
+          "ils/elles vont se voir"
+        ],
+        "Passé récent": [
+          "je viens de me voir",
+          "tu viens de te voir",
+          "il/elle/on vient de se voir",
+          "nous venons de nous voir",
+          "vous venez de vous voir",
+          "ils/elles viennent de se voir"
+        ]
+      }
+    },
+    {
+      "name_en": "to call each other",
+      "name_fr": "se téléphoner",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "We call each other every evening.",
+          "example_fr": "Nous nous téléphonons chaque soir.",
+          "highlight": "téléphonons"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "They called each other yesterday.",
+          "example_fr": "Ils se sont téléphoné hier.",
+          "highlight": "téléphoné"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to call each other.",
+          "example_fr": "Vous vous téléphoniez autrefois.",
+          "highlight": "téléphoniez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "We will call each other.",
+          "example_fr": "Nous nous téléphonerons.",
+          "highlight": "téléphonerons"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "They are going to call each other.",
+          "example_fr": "Ils vont se téléphoner.",
+          "highlight": "vont se téléphoner"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "We have just called each other.",
+          "example_fr": "Nous venons de nous téléphoner.",
+          "highlight": "venons de nous téléphoner"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me téléphone",
+          "tu te téléphones",
+          "il/elle/on se téléphone",
+          "nous nous téléphonons",
+          "vous vous téléphonez",
+          "ils/elles se téléphonent"
+        ],
+        "Imparfait": [
+          "je me téléphonais",
+          "tu te téléphonais",
+          "il/elle/on se téléphonait",
+          "nous nous téléphonions",
+          "vous vous téléphoniez",
+          "ils/elles se téléphonaient"
+        ],
+        "Futur": [
+          "je me téléphonerai",
+          "tu te téléphoneras",
+          "il/elle/on se téléphonera",
+          "nous nous téléphonerons",
+          "vous vous téléphonerez",
+          "ils/elles se téléphoneront"
+        ],
+        "Passé composé": [
+          "je me suis téléphoné(e)",
+          "tu t'es téléphoné(e)",
+          "il/elle/on s'est téléphoné(e)",
+          "nous nous sommes téléphoné(e)s",
+          "vous vous êtes téléphoné(e)(s)",
+          "ils/elles se sont téléphoné(e)s"
+        ],
+        "Futur proche": [
+          "je vais me téléphoner",
+          "tu vas te téléphoner",
+          "il/elle/on va se téléphoner",
+          "nous allons nous téléphoner",
+          "vous allez vous téléphoner",
+          "ils/elles vont se téléphoner"
+        ],
+        "Passé récent": [
+          "je viens de me téléphoner",
+          "tu viens de te téléphoner",
+          "il/elle/on vient de se téléphoner",
+          "nous venons de nous téléphoner",
+          "vous venez de vous téléphoner",
+          "ils/elles viennent de se téléphoner"
+        ]
+      }
+    },
+    {
+      "name_en": "to write to each other",
+      "name_fr": "s'écrire",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "They write to each other often.",
+          "example_fr": "Ils s'écrivent souvent.",
+          "highlight": "écrivent"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We wrote to each other yesterday.",
+          "example_fr": "Nous nous sommes écrit hier.",
+          "highlight": "écrit"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to write to each other.",
+          "example_fr": "Vous vous écriviez autrefois.",
+          "highlight": "écriviez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "They will write to each other.",
+          "example_fr": "Ils s'écriront.",
+          "highlight": "écriront"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to write to each other.",
+          "example_fr": "Nous allons nous écrire.",
+          "highlight": "allons nous écrire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just written to each other.",
+          "example_fr": "Ils viennent de s'écrire.",
+          "highlight": "viennent de s'écrire"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je m'écris",
+          "tu t'écris",
+          "il/elle/on s'écrit",
+          "nous nous écrivons",
+          "vous vous écrivez",
+          "ils/elles s'écrivent"
+        ],
+        "Imparfait": [
+          "je m'écrivais",
+          "tu t'écrivais",
+          "il/elle/on s'écrivait",
+          "nous nous écrivions",
+          "vous vous écriviez",
+          "ils/elles s'écrivaient"
+        ],
+        "Futur": [
+          "je m'écrirai",
+          "tu t'écriras",
+          "il/elle/on s'écrira",
+          "nous nous écrirons",
+          "vous vous écrirez",
+          "ils/elles s'écriront"
+        ],
+        "Passé composé": [
+          "je me suis écrit(e)",
+          "tu t'es écrit(e)",
+          "il/elle/on s'est écrit(e)",
+          "nous nous sommes écrit(e)s",
+          "vous vous êtes écrit(e)(s)",
+          "ils/elles se sont écrit(e)s"
+        ],
+        "Futur proche": [
+          "je vais m'écrire",
+          "tu vas t'écrire",
+          "il/elle/on va s'écrire",
+          "nous allons nous écrire",
+          "vous allez vous écrire",
+          "ils/elles vont s'écrire"
+        ],
+        "Passé récent": [
+          "je viens de m'écrire",
+          "tu viens de t'écrire",
+          "il/elle/on vient de s'écrire",
+          "nous venons de nous écrire",
+          "vous venez de vous écrire",
+          "ils/elles viennent de s'écrire"
+        ]
+      }
+    },
+    {
+      "name_en": "to meet each other",
+      "name_fr": "se rencontrer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "We meet each other at school.",
+          "example_fr": "Nous nous rencontrons à l'école.",
+          "highlight": "rencontrons"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "They met each other yesterday.",
+          "example_fr": "Ils se sont rencontrés hier.",
+          "highlight": "rencontrés"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to meet each other.",
+          "example_fr": "Vous vous rencontriez autrefois.",
+          "highlight": "rencontriez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "We will meet each other.",
+          "example_fr": "Nous nous rencontrerons.",
+          "highlight": "rencontrerons"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "They are going to meet each other.",
+          "example_fr": "Ils vont se rencontrer.",
+          "highlight": "vont se rencontrer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "We have just met each other.",
+          "example_fr": "Nous venons de nous rencontrer.",
+          "highlight": "venons de nous rencontrer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me rencontre",
+          "tu te rencontres",
+          "il/elle/on se rencontre",
+          "nous nous rencontrons",
+          "vous vous rencontrez",
+          "ils/elles se rencontrent"
+        ],
+        "Imparfait": [
+          "je me rencontrais",
+          "tu te rencontrais",
+          "il/elle/on se rencontrait",
+          "nous nous rencontrions",
+          "vous vous rencontriez",
+          "ils/elles se rencontraient"
+        ],
+        "Futur": [
+          "je me rencontrerai",
+          "tu te rencontreras",
+          "il/elle/on se rencontrera",
+          "nous nous rencontrerons",
+          "vous vous rencontrerez",
+          "ils/elles se rencontreront"
+        ],
+        "Passé composé": [
+          "je me suis rencontré(e)",
+          "tu t'es rencontré(e)",
+          "il/elle/on s'est rencontré(e)",
+          "nous nous sommes rencontré(e)s",
+          "vous vous êtes rencontré(e)(s)",
+          "ils/elles se sont rencontré(e)s"
+        ],
+        "Futur proche": [
+          "je vais me rencontrer",
+          "tu vas te rencontrer",
+          "il/elle/on va se rencontrer",
+          "nous allons nous rencontrer",
+          "vous allez vous rencontrer",
+          "ils/elles vont se rencontrer"
+        ],
+        "Passé récent": [
+          "je viens de me rencontrer",
+          "tu viens de te rencontrer",
+          "il/elle/on vient de se rencontrer",
+          "nous venons de nous rencontrer",
+          "vous venez de vous rencontrer",
+          "ils/elles viennent de se rencontrer"
+        ]
+      }
+    },
+    {
+      "name_en": "to understand each other",
+      "name_fr": "se comprendre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "They understand each other well.",
+          "example_fr": "Ils se comprennent bien.",
+          "highlight": "comprennent"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We understood each other yesterday.",
+          "example_fr": "Nous nous sommes compris hier.",
+          "highlight": "compris"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to understand each other.",
+          "example_fr": "Vous vous compreniez autrefois.",
+          "highlight": "compreniez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "They will understand each other.",
+          "example_fr": "Ils se comprendront.",
+          "highlight": "comprendront"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to understand each other.",
+          "example_fr": "Nous allons nous comprendre.",
+          "highlight": "allons nous comprendre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just understood each other.",
+          "example_fr": "Ils viennent de se comprendre.",
+          "highlight": "viennent de se comprendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me comprends",
+          "tu te comprends",
+          "il/elle/on se comprend",
+          "nous nous comprenons",
+          "vous vous comprenez",
+          "ils/elles se comprennent"
+        ],
+        "Imparfait": [
+          "je me comprenais",
+          "tu te comprenais",
+          "il/elle/on se comprenait",
+          "nous nous comprenions",
+          "vous vous compreniez",
+          "ils/elles se comprenaient"
+        ],
+        "Futur": [
+          "je me comprendrai",
+          "tu te comprendras",
+          "il/elle/on se comprendra",
+          "nous nous comprendrons",
+          "vous vous comprendrez",
+          "ils/elles se comprendront"
+        ],
+        "Passé composé": [
+          "je me suis compris(e)",
+          "tu t'es compris(e)",
+          "il/elle/on s'est compris(e)",
+          "nous nous sommes compris(e)s",
+          "vous vous êtes compris(e)(s)",
+          "ils/elles se sont compris(e)s"
+        ],
+        "Futur proche": [
+          "je vais me comprendre",
+          "tu vas te comprendre",
+          "il/elle/on va se comprendre",
+          "nous allons nous comprendre",
+          "vous allez vous comprendre",
+          "ils/elles vont se comprendre"
+        ],
+        "Passé récent": [
+          "je viens de me comprendre",
+          "tu viens de te comprendre",
+          "il/elle/on vient de se comprendre",
+          "nous venons de nous comprendre",
+          "vous venez de vous comprendre",
+          "ils/elles viennent de se comprendre"
+        ]
+      }
+    },
+    {
+      "name_en": "to argue with each other",
+      "name_fr": "s'engueuler",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "They argue with each other often.",
+          "example_fr": "Ils s'engueulent souvent.",
+          "highlight": "s'engueulent"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We argued with each other yesterday.",
+          "example_fr": "Nous nous sommes engueulés hier.",
+          "highlight": "engueulés"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to argue with each other.",
+          "example_fr": "Vous vous engueuliez autrefois.",
+          "highlight": "engueuliez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "They will argue with each other.",
+          "example_fr": "Ils s'engueuleront.",
+          "highlight": "s'engueuleront"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to argue with each other.",
+          "example_fr": "Nous allons nous engueuler.",
+          "highlight": "allons nous engueuler"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just argued with each other.",
+          "example_fr": "Ils viennent de s'engueuler.",
+          "highlight": "viennent de s'engueuler"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je m'engueule",
+          "tu t'engueules",
+          "il/elle/on s'engueule",
+          "nous nous engueulons",
+          "vous vous engueulez",
+          "ils/elles s'engueulent"
+        ],
+        "Imparfait": [
+          "je m'engueulais",
+          "tu t'engueulais",
+          "il/elle/on s'engueulait",
+          "nous nous engueulions",
+          "vous vous engueuliez",
+          "ils/elles s'engueulaient"
+        ],
+        "Futur": [
+          "je m'engueulerai",
+          "tu t'engueuleras",
+          "il/elle/on s'engueulera",
+          "nous nous engueulerons",
+          "vous vous engueulerez",
+          "ils/elles s'engueuleront"
+        ],
+        "Passé composé": [
+          "je me suis engueulé(e)",
+          "tu t'es engueulé(e)",
+          "il/elle/on s'est engueulé(e)",
+          "nous nous sommes engueulé(e)s",
+          "vous vous êtes engueulé(e)(s)",
+          "ils/elles se sont engueulé(e)s"
+        ],
+        "Futur proche": [
+          "je vais m'engueuler",
+          "tu vas t'engueuler",
+          "il/elle/on va s'engueuler",
+          "nous allons nous engueuler",
+          "vous allez vous engueuler",
+          "ils/elles vont s'engueuler"
+        ],
+        "Passé récent": [
+          "je viens de m'engueuler",
+          "tu viens de t'engueuler",
+          "il/elle/on vient de s'engueuler",
+          "nous venons de nous engueuler",
+          "vous venez de vous engueuler",
+          "ils/elles viennent de s'engueuler"
+        ]
+      }
+    },
+    {
+      "name_en": "to kiss each other",
+      "name_fr": "s'embrasser",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "They kiss each other every morning.",
+          "example_fr": "Ils s'embrassent chaque matin.",
+          "highlight": "s'embrassent"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We kissed each other yesterday.",
+          "example_fr": "Nous nous sommes embrassés hier.",
+          "highlight": "embrassés"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to kiss each other.",
+          "example_fr": "Vous vous embrassiez autrefois.",
+          "highlight": "embrassiez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "They will kiss each other.",
+          "example_fr": "Ils s'embrasseront.",
+          "highlight": "s'embrasseront"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to kiss each other.",
+          "example_fr": "Nous allons nous embrasser.",
+          "highlight": "allons nous embrasser"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just kissed each other.",
+          "example_fr": "Ils viennent de s'embrasser.",
+          "highlight": "viennent de s'embrasser"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je m'embrasse",
+          "tu t'embrasses",
+          "il/elle/on s'embrasse",
+          "nous nous embrassons",
+          "vous vous embrassez",
+          "ils/elles s'embrassent"
+        ],
+        "Imparfait": [
+          "je m'embrassais",
+          "tu t'embrassais",
+          "il/elle/on s'embrassait",
+          "nous nous embrassions",
+          "vous vous embrassiez",
+          "ils/elles s'embrassaient"
+        ],
+        "Futur": [
+          "je m'embrasserai",
+          "tu t'embrasseras",
+          "il/elle/on s'embrassera",
+          "nous nous embrasserons",
+          "vous vous embrasserez",
+          "ils/elles s'embrasseront"
+        ],
+        "Passé composé": [
+          "je me suis embrassé(e)",
+          "tu t'es embrassé(e)",
+          "il/elle/on s'est embrassé(e)",
+          "nous nous sommes embrassé(e)s",
+          "vous vous êtes embrassé(e)(s)",
+          "ils/elles se sont embrassé(e)s"
+        ],
+        "Futur proche": [
+          "je vais m'embrasser",
+          "tu vas t'embrasser",
+          "il/elle/on va s'embrasser",
+          "nous allons nous embrasser",
+          "vous allez vous embrasser",
+          "ils/elles vont s'embrasser"
+        ],
+        "Passé récent": [
+          "je viens de m'embrasser",
+          "tu viens de t'embrasser",
+          "il/elle/on vient de s'embrasser",
+          "nous venons de nous embrasser",
+          "vous venez de vous embrasser",
+          "ils/elles viennent de s'embrasser"
+        ]
+      }
+    },
+    {
+      "name_en": "to help each other out",
+      "name_fr": "s'entraider",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "They help each other out with their homework.",
+          "example_fr": "Ils s'entraident avec leurs devoirs.",
+          "highlight": "s'entraident"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We helped each other out last week.",
+          "example_fr": "Nous nous sommes entraidé(e)s la semaine dernière.",
+          "highlight": "entraidé(e)s"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to help each other out.",
+          "example_fr": "Vous vous entraidiez autrefois.",
+          "highlight": "entraidiez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "They will help each other out.",
+          "example_fr": "Ils s'entraideront.",
+          "highlight": "s'entraideront"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to help each other out.",
+          "example_fr": "Nous allons nous entraider.",
+          "highlight": "allons nous entraider"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just helped each other out.",
+          "example_fr": "Ils viennent de s'entraider.",
+          "highlight": "viennent de s'entraider"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je m'entraide",
+          "tu t'entraides",
+          "il/elle/on s'entraide",
+          "nous nous entraidons",
+          "vous vous entraidez",
+          "ils/elles s'entraident"
+        ],
+        "Imparfait": [
+          "je m'entraidais",
+          "tu t'entraidais",
+          "il/elle/on s'entraidait",
+          "nous nous entraidions",
+          "vous vous entraidiez",
+          "ils/elles s'entraidaient"
+        ],
+        "Futur": [
+          "je m'entraiderai",
+          "tu t'entraideras",
+          "il/elle/on s'entraidera",
+          "nous nous entraiderons",
+          "vous vous entraiderez",
+          "ils/elles s'entraideront"
+        ],
+        "Passé composé": [
+          "je me suis entraidé(e)",
+          "tu t'es entraidé(e)",
+          "il/elle/on s'est entraidé(e)",
+          "nous nous sommes entraidé(e)s",
+          "vous vous êtes entraidé(e)(s)",
+          "ils/elles se sont entraidé(e)s"
+        ],
+        "Futur proche": [
+          "je vais m'entraider",
+          "tu vas t'entraider",
+          "il/elle/on va s'entraider",
+          "nous allons nous entraider",
+          "vous allez vous entraider",
+          "ils/elles vont s'entraider"
+        ],
+        "Passé récent": [
+          "je viens de m'entraider",
+          "tu viens de t'entraider",
+          "il/elle/on vient de s'entraider",
+          "nous venons de nous entraider",
+          "vous venez de vous entraider",
+          "ils/elles viennent de s'entraider"
+        ]
+      }
+    },
+    {
+      "name_en": "to rely on each other",
+      "name_fr": "se fier",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "They rely on each other for support.",
+          "example_fr": "Ils se fient l'un à l'autre pour le soutien.",
+          "highlight": "se fient"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We relied on each other in the past.",
+          "example_fr": "Nous nous sommes fiés dans le passé.",
+          "highlight": "fiés"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to rely on each other.",
+          "example_fr": "Vous vous fiiez autrefois.",
+          "highlight": "fiiez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "They will rely on each other.",
+          "example_fr": "Ils se fieront.",
+          "highlight": "se fieront"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to rely on each other.",
+          "example_fr": "Nous allons nous fier.",
+          "highlight": "allons nous fier"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just relied on each other.",
+          "example_fr": "Ils viennent de se fier.",
+          "highlight": "viennent de se fier"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me fie",
+          "tu te fies",
+          "il/elle/on se fie",
+          "nous nous fions",
+          "vous vous fiez",
+          "ils/elles se fient"
+        ],
+        "Imparfait": [
+          "je me fiais",
+          "tu te fiais",
+          "il/elle/on se fiait",
+          "nous nous fiions",
+          "vous vous fiiez",
+          "ils/elles se fiaient"
+        ],
+        "Futur": [
+          "je me fierai",
+          "tu te fieras",
+          "il/elle/on se fiera",
+          "nous nous fierons",
+          "vous vous fierez",
+          "ils/elles se fieront"
+        ],
+        "Passé composé": [
+          "je me suis fié(e)",
+          "tu t'es fié(e)",
+          "il/elle/on s'est fié(e)",
+          "nous nous sommes fié(e)s",
+          "vous vous êtes fié(e)(s)",
+          "ils/elles se sont fié(e)s"
+        ],
+        "Futur proche": [
+          "je vais me fier",
+          "tu vas te fier",
+          "il/elle/on va se fier",
+          "nous allons nous fier",
+          "vous allez vous fier",
+          "ils/elles vont se fier"
+        ],
+        "Passé récent": [
+          "je viens de me fier",
+          "tu viens de te fier",
+          "il/elle/on vient de se fier",
+          "nous venons de nous fier",
+          "vous venez de vous fier",
+          "ils/elles viennent de se fier"
+        ]
+      }
+    },
+    {
+      "name_en": "to argue with each other (slang)",
+      "name_fr": "se disputer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "They argue with each other about trivial matters.",
+          "example_fr": "Ils se disputent pour des broutilles.",
+          "highlight": "se disputent"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We argued with each other about politics yesterday.",
+          "example_fr": "Nous nous sommes disputés de la politique hier.",
+          "highlight": "disputés"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "You used to argue with each other (slang).",
+          "example_fr": "Vous vous disputiez autrefois.",
+          "highlight": "disputiez"
+        },
+        {
+          "tense": "futur",
+          "example_en": "They will argue with each other (slang).",
+          "example_fr": "Ils se disputeront.",
+          "highlight": "se disputeront"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "We are going to argue with each other (slang).",
+          "example_fr": "Nous allons nous disputer.",
+          "highlight": "allons nous disputer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just argued with each other (slang).",
+          "example_fr": "Ils viennent de se disputer.",
+          "highlight": "viennent de se disputer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je me dispute",
+          "tu te disputes",
+          "il/elle/on se dispute",
+          "nous nous disputons",
+          "vous vous disputez",
+          "ils/elles se disputent"
+        ],
+        "Imparfait": [
+          "je me disputais",
+          "tu te disputais",
+          "il/elle/on se disputait",
+          "nous nous disputions",
+          "vous vous disputiez",
+          "ils/elles se disputaient"
+        ],
+        "Futur": [
+          "je me disputerai",
+          "tu te disputeras",
+          "il/elle/on se disputera",
+          "nous nous disputerons",
+          "vous vous disputerez",
+          "ils/elles se disputeront"
+        ],
+        "Passé composé": [
+          "je me suis disputé(e)",
+          "tu t'es disputé(e)",
+          "il/elle/on s'est disputé(e)",
+          "nous nous sommes disputé(e)s",
+          "vous vous êtes disputé(e)(s)",
+          "ils/elles se sont disputé(e)s"
+        ],
+        "Futur proche": [
+          "je vais me disputer",
+          "tu vas te disputer",
+          "il/elle/on va se disputer",
+          "nous allons nous disputer",
+          "vous allez vous disputer",
+          "ils/elles vont se disputer"
+        ],
+        "Passé récent": [
+          "je viens de me disputer",
+          "tu viens de te disputer",
+          "il/elle/on vient de se disputer",
+          "nous venons de nous disputer",
+          "vous venez de vous disputer",
+          "ils/elles viennent de se disputer"
+        ]
+      }
+    }
+  ]
+}

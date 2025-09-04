@@ -31,10 +31,16 @@
           "highlight": "serons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "They would be surprised.",
-          "example_fr": "Ils seraient surpris.",
-          "highlight": "seraient"
+          "tense": "futur proche",
+          "example_en": "I am going to be on time.",
+          "example_fr": "Je vais être à l'heure.",
+          "highlight": "vais être"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "She has just been promoted.",
+          "example_fr": "Elle vient d'être promue.",
+          "highlight": "vient d'être"
         }
       ],
       "conjugation": {
@@ -45,6 +51,46 @@
           "nous sommes",
           "vous êtes",
           "ils/elles sont"
+        ],
+        "Imparfait": [
+          "j'étais",
+          "tu étais",
+          "il/elle/on était",
+          "nous étions",
+          "vous étiez",
+          "ils/elles étaient"
+        ],
+        "Futur": [
+          "je serai",
+          "tu seras",
+          "il/elle/on sera",
+          "nous serons",
+          "vous serez",
+          "ils/elles seront"
+        ],
+        "Passé composé": [
+          "j'ai été",
+          "tu as été",
+          "il/elle/on a été",
+          "nous avons été",
+          "vous avez été",
+          "ils/elles ont été"
+        ],
+        "Futur proche": [
+          "je vais être",
+          "tu vas être",
+          "il/elle/on va être",
+          "nous allons être",
+          "vous allez être",
+          "ils/elles vont être"
+        ],
+        "Passé récent": [
+          "je viens d'être",
+          "tu viens d'être",
+          "il/elle/on vient d'être",
+          "nous venons d'être",
+          "vous venez d'être",
+          "ils/elles viennent d'être"
         ]
       }
     },
@@ -77,10 +123,16 @@
           "highlight": "aurai"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "They would have more money.",
-          "example_fr": "Ils auraient plus d'argent.",
-          "highlight": "auraient"
+          "tense": "futur proche",
+          "example_en": "They are going to have a party.",
+          "example_fr": "Ils vont avoir une fête.",
+          "highlight": "vont avoir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "We have just had lunch.",
+          "example_fr": "Nous venons d'avoir le déjeuner.",
+          "highlight": "venons d'avoir"
         }
       ],
       "conjugation": {
@@ -91,6 +143,46 @@
           "nous avons",
           "vous avez",
           "ils/elles ont"
+        ],
+        "Imparfait": [
+          "j'avais",
+          "tu avais",
+          "il/elle/on avait",
+          "nous avions",
+          "vous aviez",
+          "ils/elles avaient"
+        ],
+        "Futur": [
+          "je serai",
+          "tu seras",
+          "il/elle/on sera",
+          "nous serons",
+          "vous serez",
+          "ils/elles seront"
+        ],
+        "Passé composé": [
+          "j'ai eu",
+          "tu as eu",
+          "il/elle/on a eu",
+          "nous avons eu",
+          "vous avez eu",
+          "ils/elles ont eu"
+        ],
+        "Futur proche": [
+          "je vais avoir",
+          "tu vas avoir",
+          "il/elle/on va avoir",
+          "nous allons avoir",
+          "vous allez avoir",
+          "ils/elles vont avoir"
+        ],
+        "Passé récent": [
+          "je viens d'avoir",
+          "tu viens d'avoir",
+          "il/elle/on vient d'avoir",
+          "nous venons d'avoir",
+          "vous venez d'avoir",
+          "ils/elles viennent d'avoir"
         ]
       }
     },
@@ -123,10 +215,16 @@
           "highlight": "iras"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "I would go if I could.",
-          "example_fr": "J'irais si je pouvais.",
-          "highlight": "irais"
+          "tense": "futur proche",
+          "example_en": "I am going to go home.",
+          "example_fr": "Je vais rentrer chez moi.",
+          "highlight": "vais rentrer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just gone out.",
+          "example_fr": "Ils viennent de sortir.",
+          "highlight": "viennent de sortir"
         }
       ],
       "conjugation": {
@@ -137,6 +235,46 @@
           "nous allons",
           "vous allez",
           "ils/elles vont"
+        ],
+        "Imparfait": [
+          "j'allais",
+          "tu allais",
+          "il/elle/on allait",
+          "nous allions",
+          "vous alliez",
+          "ils/elles allaient"
+        ],
+        "Futur": [
+          "j'irai",
+          "tu iras",
+          "il/elle/on ira",
+          "nous irons",
+          "vous irez",
+          "ils/elles iront"
+        ],
+        "Passé composé": [
+          "je suis allé",
+          "tu es allé",
+          "il/elle/on est allé",
+          "nous sommes allés",
+          "vous êtes allés",
+          "ils/elles sont allés"
+        ],
+        "Futur proche": [
+          "je vais aller",
+          "tu vas aller",
+          "il/elle/on va aller",
+          "nous allons aller",
+          "vous allez aller",
+          "ils/elles vont aller"
+        ],
+        "Passé récent": [
+          "je viens d'aller",
+          "tu viens d'aller",
+          "il/elle/on vient d'aller",
+          "nous venons d'aller",
+          "vous venez d'aller",
+          "ils/elles viennent d'aller"
         ]
       }
     },
@@ -169,10 +307,16 @@
           "highlight": "fera"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "You would make dinner.",
-          "example_fr": "Tu ferais le dîner.",
-          "highlight": "ferais"
+          "tense": "futur proche",
+          "example_en": "You are going to make dinner.",
+          "example_fr": "Tu vas faire le dîner.",
+          "highlight": "vas faire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "We have just done the laundry.",
+          "example_fr": "Nous venons de faire la lessive.",
+          "highlight": "venons de faire"
         }
       ],
       "conjugation": {
@@ -183,6 +327,46 @@
           "nous faisons",
           "vous faites",
           "ils/elles font"
+        ],
+        "Imparfait": [
+          "je faisais",
+          "tu faisais",
+          "il/elle/on faisait",
+          "nous faisions",
+          "vous faisiez",
+          "ils/elles faisaient"
+        ],
+        "Futur": [
+          "je ferai",
+          "tu feras",
+          "il/elle/on fera",
+          "nous ferons",
+          "vous ferez",
+          "ils/elles feront"
+        ],
+        "Passé composé": [
+          "j'ai fait",
+          "tu as fait",
+          "il/elle/on a fait",
+          "nous avons fait",
+          "vous avez fait",
+          "ils/elles ont fait"
+        ],
+        "Futur proche": [
+          "je vais faire",
+          "tu vas faire",
+          "il/elle/on va faire",
+          "nous allons faire",
+          "vous allez faire",
+          "ils/elles vont faire"
+        ],
+        "Passé récent": [
+          "je viens de faire",
+          "tu viens de faire",
+          "il/elle/on vient de faire",
+          "nous venons de faire",
+          "vous venez de faire",
+          "ils/elles viennent de faire"
         ]
       }
     },
@@ -215,10 +399,16 @@
           "highlight": "dirons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "You would say something.",
-          "example_fr": "Tu dirais quelque chose.",
-          "highlight": "dirais"
+          "tense": "futur proche",
+          "example_en": "You are going to say something.",
+          "example_fr": "Tu vas dire quelque chose.",
+          "highlight": "vas dire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just said the truth.",
+          "example_fr": "Ils viennent de dire la vérité.",
+          "highlight": "viennent de dire"
         }
       ],
       "conjugation": {
@@ -229,6 +419,46 @@
           "nous disons",
           "vous dites",
           "ils/elles disent"
+        ],
+        "Imparfait": [
+          "je disais",
+          "tu disais",
+          "il/elle/on disait",
+          "nous disions",
+          "vous disiez",
+          "ils/elles disaient"
+        ],
+        "Futur": [
+          "je dirai",
+          "tu diras",
+          "il/elle/on dira",
+          "nous dirons",
+          "vous direz",
+          "ils/elles diront"
+        ],
+        "Passé composé": [
+          "j'ai dit",
+          "tu as dit",
+          "il/elle/on a dit",
+          "nous avons dit",
+          "vous avez dit",
+          "ils/elles ont dit"
+        ],
+        "Futur proche": [
+          "je vais dire",
+          "tu vas dire",
+          "il/elle/on va dire",
+          "nous allons dire",
+          "vous allez dire",
+          "ils/elles vont dire"
+        ],
+        "Passé récent": [
+          "je viens de dire",
+          "tu viens de dire",
+          "il/elle/on vient de dire",
+          "nous venons de dire",
+          "vous venez de dire",
+          "ils/elles viennent de dire"
         ]
       }
     },
@@ -261,10 +491,16 @@
           "highlight": "verra"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "They would see the results.",
-          "example_fr": "Ils verraient les résultats.",
-          "highlight": "verraient"
+          "tense": "futur proche",
+          "example_en": "They are going to see the results.",
+          "example_fr": "Ils vont voir les résultats.",
+          "highlight": "vont voir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just seen the news.",
+          "example_fr": "Je viens de voir les nouvelles.",
+          "highlight": "viens de voir"
         }
       ],
       "conjugation": {
@@ -275,6 +511,46 @@
           "nous voyons",
           "vous voyez",
           "ils/elles voient"
+        ],
+        "Imparfait": [
+          "je voyais",
+          "tu voyais",
+          "il/elle/on voyait",
+          "nous voyions",
+          "vous voyiez",
+          "ils/elles voyaient"
+        ],
+        "Futur": [
+          "je verrai",
+          "tu verras",
+          "il/elle/on verra",
+          "nous verrons",
+          "vous verrez",
+          "ils/elles verront"
+        ],
+        "Passé composé": [
+          "j'ai vu",
+          "tu as vu",
+          "il/elle/on a vu",
+          "nous avons vu",
+          "vous avez vu",
+          "ils/elles ont vu"
+        ],
+        "Futur proche": [
+          "je vais voir",
+          "tu vas voir",
+          "il/elle/on va voir",
+          "nous allons voir",
+          "vous allez voir",
+          "ils/elles vont voir"
+        ],
+        "Passé récent": [
+          "je viens de voir",
+          "tu viens de voir",
+          "il/elle/on vient de voir",
+          "nous venons de voir",
+          "vous venez de voir",
+          "ils/elles viennent de voir"
         ]
       }
     },
@@ -307,10 +583,16 @@
           "highlight": "saura"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "We would know more.",
-          "example_fr": "Nous saurions plus.",
-          "highlight": "saurions"
+          "tense": "futur proche",
+          "example_en": "We are going to know more.",
+          "example_fr": "Nous allons savoir plus.",
+          "highlight": "allons savoir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "You have just known about the surprise.",
+          "example_fr": "Tu viens de savoir pour la surprise.",
+          "highlight": "viens de savoir"
         }
       ],
       "conjugation": {
@@ -321,6 +603,46 @@
           "nous savons",
           "vous savez",
           "ils/elles savent"
+        ],
+        "Imparfait": [
+          "je savais",
+          "tu savais",
+          "il/elle/on savait",
+          "nous savions",
+          "vous saviez",
+          "ils/elles savaient"
+        ],
+        "Futur": [
+          "je saurai",
+          "tu sauras",
+          "il/elle/on saura",
+          "nous saurons",
+          "vous saurez",
+          "ils/elles sauront"
+        ],
+        "Passé composé": [
+          "j'ai su",
+          "tu as su",
+          "il/elle/on a su",
+          "nous avons su",
+          "vous avez su",
+          "ils/elles ont su"
+        ],
+        "Futur proche": [
+          "je vais savoir",
+          "tu vas savoir",
+          "il/elle/on va savoir",
+          "nous allons savoir",
+          "vous allez savoir",
+          "ils/elles vont savoir"
+        ],
+        "Passé récent": [
+          "je viens de savoir",
+          "tu viens de savoir",
+          "il/elle/on vient de savoir",
+          "nous venons de savoir",
+          "vous venez de savoir",
+          "ils/elles viennent de savoir"
         ]
       }
     },
@@ -353,10 +675,16 @@
           "highlight": "voudrons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "You would want to help.",
-          "example_fr": "Tu voudrais aider.",
-          "highlight": "voudrais"
+          "tense": "futur proche",
+          "example_en": "You are going to want help.",
+          "example_fr": "Tu vas vouloir de l'aide.",
+          "highlight": "vas vouloir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just wanted a new car.",
+          "example_fr": "Ils viennent de vouloir une nouvelle voiture.",
+          "highlight": "viennent de vouloir"
         }
       ],
       "conjugation": {
@@ -367,6 +695,46 @@
           "nous voulons",
           "vous voulez",
           "ils/elles veulent"
+        ],
+        "Imparfait": [
+          "je voulais",
+          "tu voulais",
+          "il/elle/on voulait",
+          "nous voulions",
+          "vous vouliez",
+          "ils/elles voulaient"
+        ],
+        "Futur": [
+          "je voudrai",
+          "tu voudras",
+          "il/elle/on voudra",
+          "nous voudrons",
+          "vous voudrez",
+          "ils/elles voudront"
+        ],
+        "Passé composé": [
+          "j'ai voulu",
+          "tu as voulu",
+          "il/elle/on a voulu",
+          "nous avons voulu",
+          "vous avez voulu",
+          "ils/elles ont voulu"
+        ],
+        "Futur proche": [
+          "je vais vouloir",
+          "tu vas vouloir",
+          "il/elle/on va vouloir",
+          "nous allons vouloir",
+          "vous allez vouloir",
+          "ils/elles vont vouloir"
+        ],
+        "Passé récent": [
+          "je viens de vouloir",
+          "tu viens de vouloir",
+          "il/elle/on vient de vouloir",
+          "nous venons de vouloir",
+          "vous venez de vouloir",
+          "ils/elles viennent de vouloir"
         ]
       }
     },
@@ -399,10 +767,16 @@
           "highlight": "viendra"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "They would come if invited.",
-          "example_fr": "Ils viendraient si on les invitait.",
-          "highlight": "viendraient"
+          "tense": "futur proche",
+          "example_en": "They are going to come to the party.",
+          "example_fr": "Ils vont venir à la fête.",
+          "highlight": "vont venir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "We have just come back.",
+          "example_fr": "Nous venons de revenir.",
+          "highlight": "venons de revenir"
         }
       ],
       "conjugation": {
@@ -413,6 +787,46 @@
           "nous venons",
           "vous venez",
           "ils/elles viennent"
+        ],
+        "Imparfait": [
+          "je venais",
+          "tu venais",
+          "il/elle/on venait",
+          "nous venions",
+          "vous veniez",
+          "ils/elles venaient"
+        ],
+        "Futur": [
+          "je viendrai",
+          "tu viendras",
+          "il/elle/on viendra",
+          "nous viendrons",
+          "vous viendrez",
+          "ils/elles viendront"
+        ],
+        "Passé composé": [
+          "je suis venu",
+          "tu es venu",
+          "il/elle/on est venu",
+          "nous sommes venus",
+          "vous êtes venus",
+          "ils/elles sont venus"
+        ],
+        "Futur proche": [
+          "je vais venir",
+          "tu vas venir",
+          "il/elle/on va venir",
+          "nous allons venir",
+          "vous allez venir",
+          "ils/elles vont venir"
+        ],
+        "Passé récent": [
+          "je viens de venir",
+          "tu viens de venir",
+          "il/elle/on vient de venir",
+          "nous venons de venir",
+          "vous venez de venir",
+          "ils/elles viennent de venir"
         ]
       }
     },
@@ -445,10 +859,16 @@
           "highlight": "prendrons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "You would take the job.",
-          "example_fr": "Tu prendrais le travail.",
-          "highlight": "prendrais"
+          "tense": "futur proche",
+          "example_en": "You are going to take the job.",
+          "example_fr": "Tu vas prendre le travail.",
+          "highlight": "vas prendre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just taken out the trash.",
+          "example_fr": "Je viens de sortir la poubelle.",
+          "highlight": "viens de sortir"
         }
       ],
       "conjugation": {
@@ -459,6 +879,46 @@
           "nous prenons",
           "vous prenez",
           "ils/elles prennent"
+        ],
+        "Imparfait": [
+          "je prenais",
+          "tu prenais",
+          "il/elle/on prenait",
+          "nous prenions",
+          "vous preniez",
+          "ils/elles prenaient"
+        ],
+        "Futur": [
+          "je prendrai",
+          "tu prendras",
+          "il/elle/on prendra",
+          "nous prendrons",
+          "vous prendrez",
+          "ils/elles prendront"
+        ],
+        "Passé composé": [
+          "j'ai pris",
+          "tu as pris",
+          "il/elle/on a pris",
+          "nous avons pris",
+          "vous avez pris",
+          "ils/elles ont pris"
+        ],
+        "Futur proche": [
+          "je vais prendre",
+          "tu vas prendre",
+          "il/elle/on va prendre",
+          "nous allons prendre",
+          "vous allez prendre",
+          "ils/elles vont prendre"
+        ],
+        "Passé récent": [
+          "je viens de prendre",
+          "tu viens de prendre",
+          "il/elle/on vient de prendre",
+          "nous venons de prendre",
+          "vous venez de prendre",
+          "ils/elles viennent de prendre"
         ]
       }
     },
@@ -491,10 +951,16 @@
           "highlight": "écrirons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "You would write a book.",
-          "example_fr": "Tu écrirais un livre.",
-          "highlight": "écrirais"
+          "tense": "futur proche",
+          "example_en": "You are going to write a book.",
+          "example_fr": "Tu vas écrire un livre.",
+          "highlight": "vas écrire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just written a report.",
+          "example_fr": "Je viens d'écrire un rapport.",
+          "highlight": "viens d'écrire"
         }
       ],
       "conjugation": {
@@ -505,6 +971,46 @@
           "nous écrivons",
           "vous écrivez",
           "ils/elles écrivent"
+        ],
+        "Imparfait": [
+          "j'écrivais",
+          "tu écrivais",
+          "il/elle/on écrivait",
+          "nous écrivions",
+          "vous écriviez",
+          "ils/elles écrivaient"
+        ],
+        "Futur": [
+          "j'écrirai",
+          "tu écriras",
+          "il/elle/on écrira",
+          "nous écrirons",
+          "vous écrirez",
+          "ils/elles écriront"
+        ],
+        "Passé composé": [
+          "j'ai écrit",
+          "tu as écrit",
+          "il/elle/on a écrit",
+          "nous avons écrit",
+          "vous avez écrit",
+          "ils/elles ont écrit"
+        ],
+        "Futur proche": [
+          "je vais écrire",
+          "tu vas écrire",
+          "il/elle/on va écrire",
+          "nous allons écrire",
+          "vous allez écrire",
+          "ils/elles vont écrire"
+        ],
+        "Passé récent": [
+          "je viens d'écrire",
+          "tu viens d'écrire",
+          "il/elle/on vient d'écrire",
+          "nous venons d'écrire",
+          "vous venez d'écrire",
+          "ils/elles viennent d'écrire"
         ]
       }
     },
@@ -537,10 +1043,16 @@
           "highlight": "lira"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "They would read more.",
-          "example_fr": "Ils liraient plus.",
-          "highlight": "liraient"
+          "tense": "futur proche",
+          "example_en": "They are going to read the email.",
+          "example_fr": "Ils vont lire l'e-mail.",
+          "highlight": "vont lire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just read the instructions.",
+          "example_fr": "Je viens de lire les instructions.",
+          "highlight": "viens de lire"
         }
       ],
       "conjugation": {
@@ -551,6 +1063,46 @@
           "nous lisons",
           "vous lisez",
           "ils/elles lisent"
+        ],
+        "Imparfait": [
+          "je lisais",
+          "tu lisais",
+          "il/elle/on lisait",
+          "nous lisions",
+          "vous lisiez",
+          "ils/elles lisaient"
+        ],
+        "Futur": [
+          "je lirai",
+          "tu liras",
+          "il/elle/on lira",
+          "nous lirons",
+          "vous lirez",
+          "ils/elles liront"
+        ],
+        "Passé composé": [
+          "j'ai lu",
+          "tu as lu",
+          "il/elle/on a lu",
+          "nous avons lu",
+          "vous avez lu",
+          "ils/elles ont lu"
+        ],
+        "Futur proche": [
+          "je vais lire",
+          "tu vas lire",
+          "il/elle/on va lire",
+          "nous allons lire",
+          "vous allez lire",
+          "ils/elles vont lire"
+        ],
+        "Passé récent": [
+          "je viens de lire",
+          "tu viens de lire",
+          "il/elle/on vient de lire",
+          "nous venons de lire",
+          "vous venez de lire",
+          "ils/elles viennent de lire"
         ]
       }
     },
@@ -583,10 +1135,16 @@
           "highlight": "mettrons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "You would put salt in the soup.",
-          "example_fr": "Tu mettrais du sel dans la soupe.",
-          "highlight": "mettrais"
+          "tense": "futur proche",
+          "example_en": "You are going to put salt in the soup.",
+          "example_fr": "Tu vas mettre du sel dans la soupe.",
+          "highlight": "vas mettre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just put the groceries on the counter.",
+          "example_fr": "Je viens de mettre les courses sur le comptoir.",
+          "highlight": "viens de mettre"
         }
       ],
       "conjugation": {
@@ -597,6 +1155,46 @@
           "nous mettons",
           "vous mettez",
           "ils/elles mettent"
+        ],
+        "Imparfait": [
+          "je mettais",
+          "tu mettais",
+          "il/elle/on mettait",
+          "nous mettions",
+          "vous mettiez",
+          "ils/elles mettaient"
+        ],
+        "Futur": [
+          "je mettrai",
+          "tu mettras",
+          "il/elle/on mettra",
+          "nous mettrons",
+          "vous mettrez",
+          "ils/elles mettront"
+        ],
+        "Passé composé": [
+          "j'ai mis",
+          "tu as mis",
+          "il/elle/on a mis",
+          "nous avons mis",
+          "vous avez mis",
+          "ils/elles ont mis"
+        ],
+        "Futur proche": [
+          "je vais mettre",
+          "tu vas mettre",
+          "il/elle/on va mettre",
+          "nous allons mettre",
+          "vous allez mettre",
+          "ils/elles vont mettre"
+        ],
+        "Passé récent": [
+          "je viens de mettre",
+          "tu viens de mettre",
+          "il/elle/on vient de mettre",
+          "nous venons de mettre",
+          "vous venez de mettre",
+          "ils/elles viennent de mettre"
         ]
       }
     },
@@ -629,10 +1227,16 @@
           "highlight": "sortirons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "They would take out the old furniture.",
-          "example_fr": "Ils sortiraient les vieux meubles.",
-          "highlight": "sortiraient"
+          "tense": "futur proche",
+          "example_en": "They are going to take out the old furniture.",
+          "example_fr": "Ils vont sortir les vieux meubles.",
+          "highlight": "vont sortir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just taken out the recycling.",
+          "example_fr": "Je viens de sortir le recyclage.",
+          "highlight": "viens de sortir"
         }
       ],
       "conjugation": {
@@ -643,6 +1247,46 @@
           "nous sortons",
           "vous sortez",
           "ils/elles sortent"
+        ],
+        "Imparfait": [
+          "je sortais",
+          "tu sortais",
+          "il/elle/on sortait",
+          "nous sortions",
+          "vous sortiez",
+          "ils/elles sortaient"
+        ],
+        "Futur": [
+          "je sortirai",
+          "tu sortiras",
+          "il/elle/on sortira",
+          "nous sortirons",
+          "vous sortirez",
+          "ils/elles sortiront"
+        ],
+        "Passé composé": [
+          "je suis sorti",
+          "tu es sorti",
+          "il/elle/on est sorti",
+          "nous sommes sortis",
+          "vous êtes sortis",
+          "ils/elles sont sortis"
+        ],
+        "Futur proche": [
+          "je vais sortir",
+          "tu vas sortir",
+          "il/elle/on va sortir",
+          "nous allons sortir",
+          "vous allez sortir",
+          "ils/elles vont sortir"
+        ],
+        "Passé récent": [
+          "je viens de sortir",
+          "tu viens de sortir",
+          "il/elle/on vient de sortir",
+          "nous venons de sortir",
+          "vous venez de sortir",
+          "ils/elles viennent de sortir"
         ]
       }
     },
@@ -675,10 +1319,16 @@
           "highlight": "ouvrirons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "You would open the file.",
-          "example_fr": "Tu ouvrirais le fichier.",
-          "highlight": "ouvrirais"
+          "tense": "futur proche",
+          "example_en": "You are going to open the file.",
+          "example_fr": "Tu vas ouvrir le fichier.",
+          "highlight": "vas ouvrir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just opened the presentation.",
+          "example_fr": "Je viens d'ouvrir la présentation.",
+          "highlight": "viens d'ouvrir"
         }
       ],
       "conjugation": {
@@ -689,6 +1339,46 @@
           "nous ouvrons",
           "vous ouvrez",
           "ils/elles ouvrent"
+        ],
+        "Imparfait": [
+          "j'ouvrais",
+          "tu ouvrais",
+          "il/elle/on ouvrait",
+          "nous ouvrions",
+          "vous ouvriez",
+          "ils/elles ouvraient"
+        ],
+        "Futur": [
+          "j'ouvrirai",
+          "tu ouvriras",
+          "il/elle/on ouvrira",
+          "nous ouvrirons",
+          "vous ouvrirez",
+          "ils/elles ouvriront"
+        ],
+        "Passé composé": [
+          "j'ai ouvert",
+          "tu as ouvert",
+          "il/elle/on a ouvert",
+          "nous avons ouvert",
+          "vous avez ouvert",
+          "ils/elles ont ouvert"
+        ],
+        "Futur proche": [
+          "je vais ouvrir",
+          "tu vas ouvrir",
+          "il/elle/on va ouvrir",
+          "nous allons ouvrir",
+          "vous allez ouvrir",
+          "ils/elles vont ouvrir"
+        ],
+        "Passé récent": [
+          "je viens d'ouvrir",
+          "tu viens d'ouvrir",
+          "il/elle/on vient d'ouvrir",
+          "nous venons d'ouvrir",
+          "vous venez d'ouvrir",
+          "ils/elles viennent d'ouvrir"
         ]
       }
     },
@@ -721,10 +1411,16 @@
           "highlight": "fermerons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "They would close the shop early.",
-          "example_fr": "Ils fermeraient le magasin tôt.",
-          "highlight": "fermeraient"
+          "tense": "futur proche",
+          "example_en": "They are going to close the shop early.",
+          "example_fr": "Ils vont fermer le magasin tôt.",
+          "highlight": "vont fermer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just closed the document.",
+          "example_fr": "Je viens de fermer le document.",
+          "highlight": "viens de fermer"
         }
       ],
       "conjugation": {
@@ -735,6 +1431,46 @@
           "nous fermons",
           "vous fermez",
           "ils/elles ferment"
+        ],
+        "Imparfait": [
+          "je fermais",
+          "tu fermais",
+          "il/elle/on fermait",
+          "nous fermions",
+          "vous fermiez",
+          "ils/elles fermaient"
+        ],
+        "Futur": [
+          "je fermerai",
+          "tu fermeras",
+          "il/elle/on fermera",
+          "nous fermerons",
+          "vous fermerez",
+          "ils/elles fermeront"
+        ],
+        "Passé composé": [
+          "j'ai fermé",
+          "tu as fermé",
+          "il/elle/on a fermé",
+          "nous avons fermé",
+          "vous avez fermé",
+          "ils/elles ont fermé"
+        ],
+        "Futur proche": [
+          "je vais fermer",
+          "tu vas fermer",
+          "il/elle/on va fermer",
+          "nous allons fermer",
+          "vous allez fermer",
+          "ils/elles vont fermer"
+        ],
+        "Passé récent": [
+          "je viens de fermer",
+          "tu viens de fermer",
+          "il/elle/on vient de fermer",
+          "nous venons de fermer",
+          "vous venez de fermer",
+          "ils/elles viennent de fermer"
         ]
       }
     },
@@ -767,10 +1503,16 @@
           "highlight": "conduirons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "You would drive the car.",
-          "example_fr": "Tu conduirais la voiture.",
-          "highlight": "conduirais"
+          "tense": "futur proche",
+          "example_en": "You are going to drive the car.",
+          "example_fr": "Tu vas conduire la voiture.",
+          "highlight": "vas conduire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just driven to the airport.",
+          "example_fr": "Je viens de conduire à l'aéroport.",
+          "highlight": "viens de conduire"
         }
       ],
       "conjugation": {
@@ -781,6 +1523,46 @@
           "nous conduisons",
           "vous conduisez",
           "ils/elles conduisent"
+        ],
+        "Imparfait": [
+          "je conduisais",
+          "tu conduisais",
+          "il/elle/on conduisait",
+          "nous conduisions",
+          "vous conduisiez",
+          "ils/elles conduisaient"
+        ],
+        "Futur": [
+          "je conduirai",
+          "tu conduiras",
+          "il/elle/on conduira",
+          "nous conduirons",
+          "vous conduirez",
+          "ils/elles conduiront"
+        ],
+        "Passé composé": [
+          "j'ai conduit",
+          "tu as conduit",
+          "il/elle/on a conduit",
+          "nous avons conduit",
+          "vous avez conduit",
+          "ils/elles ont conduit"
+        ],
+        "Futur proche": [
+          "je vais conduire",
+          "tu vas conduire",
+          "il/elle/on va conduire",
+          "nous allons conduire",
+          "vous allez conduire",
+          "ils/elles vont conduire"
+        ],
+        "Passé récent": [
+          "je viens de conduire",
+          "tu viens de conduire",
+          "il/elle/on vient de conduire",
+          "nous venons de conduire",
+          "vous venez de conduire",
+          "ils/elles viennent de conduire"
         ]
       }
     },
@@ -813,10 +1595,16 @@
           "highlight": "courrons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "They would run in the park.",
-          "example_fr": "Ils courraient dans le parc.",
-          "highlight": "courraient"
+          "tense": "futur proche",
+          "example_en": "They are going to run in the park.",
+          "example_fr": "Ils vont courir dans le parc.",
+          "highlight": "vont courir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just run five kilometers.",
+          "example_fr": "Je viens de courir cinq kilomètres.",
+          "highlight": "viens de courir"
         }
       ],
       "conjugation": {
@@ -827,6 +1615,46 @@
           "nous courons",
           "vous courez",
           "ils/elles courent"
+        ],
+        "Imparfait": [
+          "je courais",
+          "tu courais",
+          "il/elle/on courait",
+          "nous courions",
+          "vous couriez",
+          "ils/elles couraient"
+        ],
+        "Futur": [
+          "je courrai",
+          "tu courras",
+          "il/elle/on courra",
+          "nous courrons",
+          "vous courrez",
+          "ils/elles courront"
+        ],
+        "Passé composé": [
+          "j'ai couru",
+          "tu as couru",
+          "il/elle/on a couru",
+          "nous avons couru",
+          "vous avez couru",
+          "ils/elles ont couru"
+        ],
+        "Futur proche": [
+          "je vais courir",
+          "tu vas courir",
+          "il/elle/on va courir",
+          "nous allons courir",
+          "vous allez courir",
+          "ils/elles vont courir"
+        ],
+        "Passé récent": [
+          "je viens de courir",
+          "tu viens de courir",
+          "il/elle/on vient de courir",
+          "nous venons de courir",
+          "vous venez de courir",
+          "ils/elles viennent de courir"
         ]
       }
     },
@@ -859,10 +1687,16 @@
           "highlight": "dormirons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "You would sleep longer.",
-          "example_fr": "Tu dormirais plus longtemps.",
-          "highlight": "dormirais"
+          "tense": "futur proche",
+          "example_en": "You are going to sleep longer.",
+          "example_fr": "Tu vas dormir plus longtemps.",
+          "highlight": "vas dormir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just slept on the plane.",
+          "example_fr": "Je viens de dormir dans l'avion.",
+          "highlight": "viens de dormir"
         }
       ],
       "conjugation": {
@@ -873,6 +1707,46 @@
           "nous dormons",
           "vous dormez",
           "ils/elles dorment"
+        ],
+        "Imparfait": [
+          "je dormais",
+          "tu dormais",
+          "il/elle/on dormait",
+          "nous dormions",
+          "vous dormiez",
+          "ils/elles dormaient"
+        ],
+        "Futur": [
+          "je dormirai",
+          "tu dormiras",
+          "il/elle/on dormira",
+          "nous dormirons",
+          "vous dormirez",
+          "ils/elles dormiront"
+        ],
+        "Passé composé": [
+          "j'ai dormi",
+          "tu as dormi",
+          "il/elle/on a dormi",
+          "nous avons dormi",
+          "vous avez dormi",
+          "ils/elles ont dormi"
+        ],
+        "Futur proche": [
+          "je vais dormir",
+          "tu vas dormir",
+          "il/elle/on va dormir",
+          "nous allons dormir",
+          "vous allez dormir",
+          "ils/elles vont dormir"
+        ],
+        "Passé récent": [
+          "je viens de dormir",
+          "tu viens de dormir",
+          "il/elle/on vient de dormir",
+          "nous venons de dormir",
+          "vous venez de dormir",
+          "ils/elles viennent de dormir"
         ]
       }
     },
@@ -905,10 +1779,16 @@
           "highlight": "boirons"
         },
         {
-          "tense": "conditionnel",
-          "example_en": "They would drink wine.",
-          "example_fr": "Ils boiraient du vin.",
-          "highlight": "boiraient"
+          "tense": "futur proche",
+          "example_en": "They are going to drink wine.",
+          "example_fr": "Ils vont boire du vin.",
+          "highlight": "vont boire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just drunk a glass of water.",
+          "example_fr": "Je viens de boire un verre d'eau.",
+          "highlight": "viens de boire"
         }
       ],
       "conjugation": {
@@ -919,6 +1799,46 @@
           "nous buvons",
           "vous buvez",
           "ils/elles boivent"
+        ],
+        "Imparfait": [
+          "je buvais",
+          "tu buvais",
+          "il/elle/on buvait",
+          "nous buvions",
+          "vous buviez",
+          "ils/elles buvaient"
+        ],
+        "Futur": [
+          "je boirai",
+          "tu boiras",
+          "il/elle/on boira",
+          "nous boirons",
+          "vous boirez",
+          "ils/elles boiront"
+        ],
+        "Passé composé": [
+          "j'ai bu",
+          "tu as bu",
+          "il/elle/on a bu",
+          "nous avons bu",
+          "vous avez bu",
+          "ils/elles ont bu"
+        ],
+        "Futur proche": [
+          "je vais boire",
+          "tu vas boire",
+          "il/elle/on va boire",
+          "nous allons boire",
+          "vous allez boire",
+          "ils/elles vont boire"
+        ],
+        "Passé récent": [
+          "je viens de boire",
+          "tu viens de boire",
+          "il/elle/on vient de boire",
+          "nous venons de boire",
+          "vous venez de boire",
+          "ils/elles viennent de boire"
         ]
       }
     }
