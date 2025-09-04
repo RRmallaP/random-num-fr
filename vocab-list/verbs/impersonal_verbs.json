@@ -1,0 +1,192 @@
+{
+  "name_en": "Impersonal Verbs",
+  "name_fr": "Verbes impersonnels",
+  "list": [
+    {
+      "name_en": "it is necessary",
+      "name_fr": "il faut",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "It is necessary to study.",
+          "example_fr": "Il faut étudier.",
+          "highlight": "faut"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "It was necessary to leave.",
+          "example_fr": "Il a fallu partir.",
+          "highlight": "fallu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "It was necessary to work.",
+          "example_fr": "Il fallait travailler.",
+          "highlight": "fallait"
+        },
+        {
+          "tense": "futur",
+          "example_en": "It will be necessary to call.",
+          "example_fr": "Il faudra appeler.",
+          "highlight": "faudra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "It is going to be necessary to pay.",
+          "example_fr": "Il va falloir payer.",
+          "highlight": "va falloir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "It has just been necessary to act.",
+          "example_fr": "Il vient de falloir agir.",
+          "highlight": "vient de falloir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "il faut"
+        ],
+        "Imparfait": [
+          "il fallait"
+        ],
+        "Futur": [
+          "il faudra"
+        ],
+        "Passé composé": [
+          "il a fallu"
+        ],
+        "Futur proche": [
+          "il va falloir"
+        ],
+        "Passé récent": [
+          "il vient de falloir"
+        ]
+      }
+    },
+    {
+      "name_en": "it rains",
+      "name_fr": "il pleut",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "It rains often.",
+          "example_fr": "Il pleut souvent.",
+          "highlight": "pleut"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "It rained yesterday.",
+          "example_fr": "Il a plu hier.",
+          "highlight": "plu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "It was raining.",
+          "example_fr": "Il pleuvait.",
+          "highlight": "pleuvait"
+        },
+        {
+          "tense": "futur",
+          "example_en": "It will rain tomorrow.",
+          "example_fr": "Il pleuvra demain.",
+          "highlight": "pleuvra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "It is going to rain soon.",
+          "example_fr": "Il va pleuvoir bientôt.",
+          "highlight": "va pleuvoir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "It has just rained.",
+          "example_fr": "Il vient de pleuvoir.",
+          "highlight": "vient de pleuvoir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "il pleut"
+        ],
+        "Imparfait": [
+          "il pleuvait"
+        ],
+        "Futur": [
+          "il pleuvra"
+        ],
+        "Passé composé": [
+          "il a plu"
+        ],
+        "Futur proche": [
+          "il va pleuvoir"
+        ],
+        "Passé récent": [
+          "il vient de pleuvoir"
+        ]
+      }
+    },
+    {
+      "name_en": "it snows",
+      "name_fr": "il neige",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "It snows in winter.",
+          "example_fr": "Il neige en hiver.",
+          "highlight": "neige"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "It snowed last week.",
+          "example_fr": "Il a neigé la semaine dernière.",
+          "highlight": "neigé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "It was snowing.",
+          "example_fr": "Il neigeait.",
+          "highlight": "neigeait"
+        },
+        {
+          "tense": "futur",
+          "example_en": "It will snow tomorrow.",
+          "example_fr": "Il neigera demain.",
+          "highlight": "neigera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "It is going to snow soon.",
+          "example_fr": "Il va neiger bientôt.",
+          "highlight": "va neiger"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "It has just snowed.",
+          "example_fr": "Il vient de neiger.",
+          "highlight": "vient de neiger"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "il neige"
+        ],
+        "Imparfait": [
+          "il neigeait"
+        ],
+        "Futur": [
+          "il neigera"
+        ],
+        "Passé composé": [
+          "il a neigé"
+        ],
+        "Futur proche": [
+          "il va neiger"
+        ],
+        "Passé récent": [
+          "il vient de neiger"
+        ]
+      }
+    }
+  ]
+}
