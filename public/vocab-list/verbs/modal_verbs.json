@@ -1,0 +1,466 @@
+{
+  "name_en": "Modal Verbs",
+  "name_fr": "Verbes modaux",
+  "list": [
+    {
+      "name_en": "can",
+      "name_fr": "pouvoir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I can swim.",
+          "example_fr": "Je peux nager.",
+          "highlight": "peux"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She could come yesterday.",
+          "example_fr": "Elle a pu venir hier.",
+          "highlight": "pu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We could go out when we were young.",
+          "example_fr": "Nous pouvions sortir quand nous étions jeunes.",
+          "highlight": "pouvions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will be able to help.",
+          "example_fr": "Il pourra aider.",
+          "highlight": "pourra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to be able to finish.",
+          "example_fr": "Je vais pouvoir finir.",
+          "highlight": "vais pouvoir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just been able to solve it.",
+          "example_fr": "Ils viennent de pouvoir le résoudre.",
+          "highlight": "viennent de pouvoir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je peux",
+          "tu peux",
+          "il/elle/on peut",
+          "nous pouvons",
+          "vous pouvez",
+          "ils/elles peuvent"
+        ],
+        "Imparfait": [
+          "je pouvais",
+          "tu pouvais",
+          "il/elle/on pouvait",
+          "nous pouvions",
+          "vous pouviez",
+          "ils/elles pouvaient"
+        ],
+        "Futur": [
+          "je pourrai",
+          "tu pourras",
+          "il/elle/on pourra",
+          "nous pourrons",
+          "vous pourrez",
+          "ils/elles pourront"
+        ],
+        "Passé composé": [
+          "j'ai pu",
+          "tu as pu",
+          "il/elle/on a pu",
+          "nous avons pu",
+          "vous avez pu",
+          "ils/elles ont pu"
+        ],
+        "Futur proche": [
+          "je vais pouvoir",
+          "tu vas pouvoir",
+          "il/elle/on va pouvoir",
+          "nous allons pouvoir",
+          "vous allez pouvoir",
+          "ils/elles vont pouvoir"
+        ],
+        "Passé récent": [
+          "je viens de pouvoir",
+          "tu viens de pouvoir",
+          "il/elle/on vient de pouvoir",
+          "nous venons de pouvoir",
+          "vous venez de pouvoir",
+          "ils/elles viennent de pouvoir"
+        ]
+      }
+    },
+    {
+      "name_en": "must",
+      "name_fr": "devoir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "You must study.",
+          "example_fr": "Tu dois étudier.",
+          "highlight": "dois"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "He had to leave early.",
+          "example_fr": "Il a dû partir tôt.",
+          "highlight": "dû"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We had to work on weekends.",
+          "example_fr": "Nous devions travailler le week-end.",
+          "highlight": "devions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "She will have to call.",
+          "example_fr": "Elle devra appeler.",
+          "highlight": "devra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to have to go.",
+          "example_fr": "Je vais devoir partir.",
+          "highlight": "vais devoir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just had to pay.",
+          "example_fr": "Ils viennent de devoir payer.",
+          "highlight": "viennent de devoir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je dois",
+          "tu dois",
+          "il/elle/on doit",
+          "nous devons",
+          "vous devez",
+          "ils/elles doivent"
+        ],
+        "Imparfait": [
+          "je devais",
+          "tu devais",
+          "il/elle/on devait",
+          "nous devions",
+          "vous deviez",
+          "ils/elles devaient"
+        ],
+        "Futur": [
+          "je devrai",
+          "tu devras",
+          "il/elle/on devra",
+          "nous devrons",
+          "vous devrez",
+          "ils/elles devront"
+        ],
+        "Passé composé": [
+          "j'ai dû",
+          "tu as dû",
+          "il/elle/on a dû",
+          "nous avons dû",
+          "vous avez dû",
+          "ils/elles ont dû"
+        ],
+        "Futur proche": [
+          "je vais devoir",
+          "tu vas devoir",
+          "il/elle/on va devoir",
+          "nous allons devoir",
+          "vous allez devoir",
+          "ils/elles vont devoir"
+        ],
+        "Passé récent": [
+          "je viens de devoir",
+          "tu viens de devoir",
+          "il/elle/on vient de devoir",
+          "nous venons de devoir",
+          "vous venez de devoir",
+          "ils/elles viennent de devoir"
+        ]
+      }
+    },
+    {
+      "name_en": "to want",
+      "name_fr": "vouloir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "He wants a dog.",
+          "example_fr": "Il veut un chien.",
+          "highlight": "veut"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She wanted to travel.",
+          "example_fr": "Elle a voulu voyager.",
+          "highlight": "voulu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "I used to want ice cream.",
+          "example_fr": "Je voulais de la glace.",
+          "highlight": "voulais"
+        },
+        {
+          "tense": "futur",
+          "example_en": "We will want more time.",
+          "example_fr": "Nous voudrons plus de temps.",
+          "highlight": "voudrons"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "You are going to want to help.",
+          "example_fr": "Tu vas vouloir aider.",
+          "highlight": "vas vouloir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "I have just wanted to leave.",
+          "example_fr": "Je viens de vouloir partir.",
+          "highlight": "viens de vouloir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je veux",
+          "tu veux",
+          "il/elle/on veut",
+          "nous voulons",
+          "vous voulez",
+          "ils/elles veulent"
+        ],
+        "Imparfait": [
+          "je voulais",
+          "tu voulais",
+          "il/elle/on voulait",
+          "nous voulions",
+          "vous vouliez",
+          "ils/elles voulaient"
+        ],
+        "Futur": [
+          "je voudrai",
+          "tu voudras",
+          "il/elle/on voudra",
+          "nous voudrons",
+          "vous voudrez",
+          "ils/elles voudront"
+        ],
+        "Passé composé": [
+          "j'ai voulu",
+          "tu as voulu",
+          "il/elle/on a voulu",
+          "nous avons voulu",
+          "vous avez voulu",
+          "ils/elles ont voulu"
+        ],
+        "Futur proche": [
+          "je vais vouloir",
+          "tu vas vouloir",
+          "il/elle/on va vouloir",
+          "nous allons vouloir",
+          "vous allez vouloir",
+          "ils/elles vont vouloir"
+        ],
+        "Passé récent": [
+          "je viens de vouloir",
+          "tu viens de vouloir",
+          "il/elle/on vient de vouloir",
+          "nous venons de vouloir",
+          "vous venez de vouloir",
+          "ils/elles viennent de vouloir"
+        ]
+      }
+    },
+    {
+      "name_en": "to know how to",
+      "name_fr": "savoir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I know how to cook.",
+          "example_fr": "Je sais cuisiner.",
+          "highlight": "sais"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She knew how to swim.",
+          "example_fr": "Elle a su nager.",
+          "highlight": "su"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to know how to play chess.",
+          "example_fr": "Nous savions jouer aux échecs.",
+          "highlight": "savions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will know how to drive.",
+          "example_fr": "Il saura conduire.",
+          "highlight": "saura"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to know how to fix it.",
+          "example_fr": "Je vais savoir le réparer.",
+          "highlight": "vais savoir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just known how to solve it.",
+          "example_fr": "Ils viennent de savoir le résoudre.",
+          "highlight": "viennent de savoir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je sais",
+          "tu sais",
+          "il/elle/on sait",
+          "nous savons",
+          "vous savez",
+          "ils/elles savent"
+        ],
+        "Imparfait": [
+          "je savais",
+          "tu savais",
+          "il/elle/on savait",
+          "nous savions",
+          "vous saviez",
+          "ils/elles savaient"
+        ],
+        "Futur": [
+          "je saurai",
+          "tu sauras",
+          "il/elle/on saura",
+          "nous saurons",
+          "vous saurez",
+          "ils/elles sauront"
+        ],
+        "Passé composé": [
+          "j'ai su",
+          "tu as su",
+          "il/elle/on a su",
+          "nous avons su",
+          "vous avez su",
+          "ils/elles ont su"
+        ],
+        "Futur proche": [
+          "je vais savoir",
+          "tu vas savoir",
+          "il/elle/on va savoir",
+          "nous allons savoir",
+          "vous allez savoir",
+          "ils/elles vont savoir"
+        ],
+        "Passé récent": [
+          "je viens de savoir",
+          "tu viens de savoir",
+          "il/elle/on vient de savoir",
+          "nous venons de savoir",
+          "vous venez de savoir",
+          "ils/elles viennent de savoir"
+        ]
+      }
+    },
+    {
+      "name_en": "to dare",
+      "name_fr": "oser",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "He dares to speak.",
+          "example_fr": "Il ose parler.",
+          "highlight": "ose"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She dared to ask.",
+          "example_fr": "Elle a osé demander.",
+          "highlight": "osé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to dare to try.",
+          "example_fr": "Nous osions essayer.",
+          "highlight": "osions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will dare to jump.",
+          "example_fr": "Il osera sauter.",
+          "highlight": "osera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to dare to ask.",
+          "example_fr": "Je vais oser demander.",
+          "highlight": "vais oser"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just dared to speak.",
+          "example_fr": "Ils viennent d'oser parler.",
+          "highlight": "viennent d'oser"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'ose",
+          "tu oses",
+          "il/elle/on ose",
+          "nous osons",
+          "vous osez",
+          "ils/elles osent"
+        ],
+        "Imparfait": [
+          "j'osais",
+          "tu osais",
+          "il/elle/on osait",
+          "nous osions",
+          "vous osiez",
+          "ils/elles osaient"
+        ],
+        "Futur": [
+          "j'oserai",
+          "tu oseras",
+          "il/elle/on osera",
+          "nous oserons",
+          "vous oserez",
+          "ils/elles oseront"
+        ],
+        "Passé composé": [
+          "j'ai osé",
+          "tu as osé",
+          "il/elle/on a osé",
+          "nous avons osé",
+          "vous avez osé",
+          "ils/elles ont osé"
+        ],
+        "Futur proche": [
+          "je vais oser",
+          "tu vas oser",
+          "il/elle/on va oser",
+          "nous allons oser",
+          "vous allez oser",
+          "ils/elles vont oser"
+        ],
+        "Passé récent": [
+          "je viens d'oser",
+          "tu viens d'oser",
+          "il/elle/on vient d'oser",
+          "nous venons d'oser",
+          "vous venez d'oser",
+          "ils/elles viennent d'oser"
+        ]
+      }
+    }
+  ]
+}

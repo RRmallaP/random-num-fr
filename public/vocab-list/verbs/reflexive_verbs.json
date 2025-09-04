@@ -17,6 +17,30 @@
           "example_en": "She woke up late.",
           "example_fr": "Elle s'est réveillée tard.",
           "highlight": "réveillée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to wake up early.",
+          "example_fr": "Nous nous réveillions tôt.",
+          "highlight": "réveillions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will wake up soon.",
+          "example_fr": "Il se réveillera bientôt.",
+          "highlight": "réveillera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to wake up early.",
+          "example_fr": "Je vais me réveiller tôt.",
+          "highlight": "vais me réveiller"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just woken up.",
+          "example_fr": "Ils viennent de se réveiller.",
+          "highlight": "viennent de se réveiller"
         }
       ],
       "conjugation": {
@@ -27,6 +51,46 @@
           "nous nous réveillons",
           "vous vous réveillez",
           "ils/elles se réveillent"
+        ],
+        "Imparfait": [
+          "je me réveillais",
+          "tu te réveillais",
+          "il/elle/on se réveillait",
+          "nous nous réveillions",
+          "vous vous réveilliez",
+          "ils/elles se réveillaient"
+        ],
+        "Futur": [
+          "je me réveillerai",
+          "tu te réveilleras",
+          "il/elle/on se réveillera",
+          "nous nous réveillerons",
+          "vous vous réveillerez",
+          "ils/elles se réveilleront"
+        ],
+        "Passé composé": [
+          "je me suis réveillé(e)",
+          "tu t'es réveillé(e)",
+          "il/elle/on s'est réveillé(e)",
+          "nous nous sommes réveillé(e)s",
+          "vous vous êtes réveillé(e)(s)",
+          "ils/elles se sont réveillé(e)s"
+        ],
+        "Futur proche": [
+          "je vais me réveiller",
+          "tu vas te réveiller",
+          "il/elle/on va se réveiller",
+          "nous allons nous réveiller",
+          "vous allez vous réveiller",
+          "ils/elles vont se réveiller"
+        ],
+        "Passé récent": [
+          "je viens de me réveiller",
+          "tu viens de te réveiller",
+          "il/elle/on vient de se réveiller",
+          "nous venons de nous réveiller",
+          "vous venez de vous réveiller",
+          "ils/elles viennent de se réveiller"
         ]
       }
     },
@@ -55,6 +119,46 @@
           "nous nous levons",
           "vous vous levez",
           "ils/elles se lèvent"
+        ],
+        "Imparfait": [
+          "je me levais",
+          "tu te levais",
+          "il/elle/on se levait",
+          "nous nous levions",
+          "vous vous leviez",
+          "ils/elles se levaient"
+        ],
+        "Futur": [
+          "je me lèverai",
+          "tu te lèveras",
+          "il/elle/on se lèvera",
+          "nous nous lèverons",
+          "vous vous lèverez",
+          "ils/elles se lèveront"
+        ],
+        "Passé composé": [
+          "je me suis levé(e)",
+          "tu t'es levé(e)",
+          "il/elle/on s'est levé(e)",
+          "nous nous sommes levé(e)s",
+          "vous vous êtes levé(e)(s)",
+          "ils/elles se sont levé(e)s"
+        ],
+        "Futur proche": [
+          "je vais me lever",
+          "tu vas te lever",
+          "il/elle/on va se lever",
+          "nous allons nous lever",
+          "vous allez vous lever",
+          "ils/elles vont se lever"
+        ],
+        "Passé récent": [
+          "je viens de me lever",
+          "tu viens de te lever",
+          "il/elle/on vient de se lever",
+          "nous venons de nous lever",
+          "vous venez de vous lever",
+          "ils/elles viennent de se lever"
         ]
       }
     },
@@ -83,6 +187,46 @@
           "nous nous lavons",
           "vous vous lavez",
           "ils/elles se lavent"
+        ],
+        "Imparfait": [
+          "je me lavais",
+          "tu te lavais",
+          "il/elle/on se lavait",
+          "nous nous lavions",
+          "vous vous laviez",
+          "ils/elles se lavaient"
+        ],
+        "Futur": [
+          "je me laverai",
+          "tu te laveras",
+          "il/elle/on se lavera",
+          "nous nous laverons",
+          "vous vous laverez",
+          "ils/elles se laveront"
+        ],
+        "Passé composé": [
+          "je me suis lavé(e)",
+          "tu t'es lavé(e)",
+          "il/elle/on s'est lavé(e)",
+          "nous nous sommes lavé(e)s",
+          "vous vous êtes lavé(e)(s)",
+          "ils/elles se sont lavé(e)s"
+        ],
+        "Futur proche": [
+          "je vais me laver",
+          "tu vas te laver",
+          "il/elle/on va se laver",
+          "nous allons nous laver",
+          "vous allez vous laver",
+          "ils/elles vont se laver"
+        ],
+        "Passé récent": [
+          "je viens de me laver",
+          "tu viens de te laver",
+          "il/elle/on vient de se laver",
+          "nous venons de nous laver",
+          "vous venez de vous laver",
+          "ils/elles viennent de se laver"
         ]
       }
     },
@@ -111,448 +255,27 @@
           "nous nous habillons",
           "vous vous habillez",
           "ils/elles s'habillent"
-        ]
-      }
-    },
-    {
-      "name_en": "to comb hair",
-      "name_fr": "se coiffer",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "He combs his hair before leaving.",
-          "example_fr": "Il se coiffe avant de partir.",
-          "highlight": "coiffe"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me coiffe",
-          "tu te coiffes",
-          "il/elle/on se coiffe",
-          "nous nous coiffons",
-          "vous vous coiffez",
-          "ils/elles se coiffent"
-        ]
-      }
-    },
-    {
-      "name_en": "to rest",
-      "name_fr": "se reposer",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "She rests for a while.",
-          "example_fr": "Elle se repose un moment.",
-          "highlight": "repose"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me repose",
-          "tu te reposes",
-          "il/elle/on se repose",
-          "nous nous reposons",
-          "vous vous reposez",
-          "ils/elles se reposent"
-        ]
-      }
-    },
-    {
-      "name_en": "to relax",
-      "name_fr": "se détendre",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "He relaxes on Sundays.",
-          "example_fr": "Il se détend le dimanche.",
-          "highlight": "détend"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me détends",
-          "tu te détends",
-          "il/elle/on se détend",
-          "nous nous détendons",
-          "vous vous détendez",
-          "ils/elles se détendent"
-        ]
-      }
-    },
-    {
-      "name_en": "to hurry",
-      "name_fr": "se dépêcher",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "We hurry to catch the bus.",
-          "example_fr": "Nous nous dépêchons pour attraper le bus.",
-          "highlight": "dépêchons"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me dépêche",
-          "tu te dépêches",
-          "il/elle/on se dépêche",
-          "nous nous dépêchons",
-          "vous vous dépêchez",
-          "ils/elles se dépêchent"
-        ]
-      }
-    },
-    {
-      "name_en": "to remember",
-      "name_fr": "se souvenir",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "I remember his name.",
-          "example_fr": "Je me souviens de son nom.",
-          "highlight": "souviens"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me souviens",
-          "tu te souviens",
-          "il/elle/on se souvient",
-          "nous nous souvenons",
-          "vous vous souvenez",
-          "ils/elles se souviennent"
-        ]
-      }
-    },
-    {
-      "name_en": "to have fun",
-      "name_fr": "s'amuser",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "They have fun at the party.",
-          "example_fr": "Ils s'amusent à la fête.",
-          "highlight": "amusent"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je m'amuse",
-          "tu t'amuses",
-          "il/elle/on s'amuse",
-          "nous nous amusons",
-          "vous vous amusez",
-          "ils/elles s'amusent"
-        ]
-      }
-    },
-    {
-      "name_en": "to get angry",
-      "name_fr": "se fâcher",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "He gets angry easily.",
-          "example_fr": "Il se fâche facilement.",
-          "highlight": "fâche"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me fâche",
-          "tu te fâches",
-          "il/elle/on se fâche",
-          "nous nous fâchons",
-          "vous vous fâchez",
-          "ils/elles se fâchent"
-        ]
-      }
-    },
-    {
-      "name_en": "to get married",
-      "name_fr": "se marier",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "They get married in June.",
-          "example_fr": "Ils se marient en juin.",
-          "highlight": "marient"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me marie",
-          "tu te maries",
-          "il/elle/on se marie",
-          "nous nous marions",
-          "vous vous mariez",
-          "ils/elles se marient"
-        ]
-      }
-    },
-    {
-      "name_en": "to get bored",
-      "name_fr": "s'ennuyer",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "She gets bored easily.",
-          "example_fr": "Elle s'ennuie facilement.",
-          "highlight": "ennuie"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je m'ennuie",
-          "tu t'ennuies",
-          "il/elle/on s'ennuie",
-          "nous nous ennuyons",
-          "vous vous ennuyez",
-          "ils/elles s'ennuient"
-        ]
-      }
-    },
-    {
-      "name_en": "to sit down",
-      "name_fr": "s'asseoir",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "Please sit down.",
-          "example_fr": "Veuillez vous asseoir.",
-          "highlight": "asseoir"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je m'assieds",
-          "tu t'assieds",
-          "il/elle/on s'assied",
-          "nous nous asseyons",
-          "vous vous asseyez",
-          "ils/elles s'asseyent"
-        ]
-      }
-    },
-    {
-      "name_en": "to get lost",
-      "name_fr": "se perdre",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "He gets lost in the city.",
-          "example_fr": "Il se perd dans la ville.",
-          "highlight": "perd"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me perds",
-          "tu te perds",
-          "il/elle/on se perd",
-          "nous nous perdons",
-          "vous vous perdez",
-          "ils/elles se perdent"
-        ]
-      }
-    },
-    {
-      "name_en": "to get tired",
-      "name_fr": "se fatiguer",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "I get tired after work.",
-          "example_fr": "Je me fatigue après le travail.",
-          "highlight": "fatigue"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me fatigue",
-          "tu te fatigues",
-          "il/elle/on se fatigue",
-          "nous nous fatiguons",
-          "vous vous fatiguez",
-          "ils/elles se fatiguent"
-        ]
-      }
-    },
-    {
-      "name_en": "to apologize",
-      "name_fr": "s'excuser",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "She apologizes for the mistake.",
-          "example_fr": "Elle s'excuse pour l'erreur.",
-          "highlight": "excuse"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je m'excuse",
-          "tu t'excuses",
-          "il/elle/on s'excuse",
-          "nous nous excusons",
-          "vous vous excusez",
-          "ils/elles s'excusent"
-        ]
-      }
-    },
-    {
-      "name_en": "to get along",
-      "name_fr": "s'entendre",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "They get along well.",
-          "example_fr": "Ils s'entendent bien.",
-          "highlight": "entendent"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je m'entends",
-          "tu t'entends",
-          "il/elle/on s'entend",
-          "nous nous entendons",
-          "vous vous entendez",
-          "ils/elles s'entendent"
-        ]
-      }
-    },
-    {
-      "name_en": "to worry",
-      "name_fr": "s'inquiéter",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "He worries about his exams.",
-          "example_fr": "Il s'inquiète pour ses examens.",
-          "highlight": "inquiète"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je m'inquiète",
-          "tu t'inquiètes",
-          "il/elle/on s'inquiète",
-          "nous nous inquiétons",
-          "vous vous inquiétez",
-          "ils/elles s'inquiètent"
-        ]
-      }
-    },
-    {
-      "name_en": "to get used to",
-      "name_fr": "s'habituer",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "She gets used to new places.",
-          "example_fr": "Elle s'habitue aux nouveaux endroits.",
-          "highlight": "habitue"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je m'habitue",
-          "tu t'habitues",
-          "il/elle/on s'habitue",
-          "nous nous habituons",
-          "vous vous habituez",
-          "ils/elles s'habituent"
-        ]
-      }
-    },
-    {
-      "name_en": "to move (change residence)",
-      "name_fr": "se déplacer",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "We move to a new city.",
-          "example_fr": "Nous nous déplaçons dans une nouvelle ville.",
-          "highlight": "déplaçons"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me déplace",
-          "tu te déplaces",
-          "il/elle/on se déplace",
-          "nous nous déplaçons",
-          "vous vous déplacez",
-          "ils/elles se déplacent"
-        ]
-      }
-    },
-    {
-      "name_en": "to get closer",
-      "name_fr": "se rapprocher",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "They get closer to the goal.",
-          "example_fr": "Ils se rapprochent de l'objectif.",
-          "highlight": "rapprochent"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me rapproche",
-          "tu te rapproches",
-          "il/elle/on se rapproche",
-          "nous nous rapprochons",
-          "vous vous rapprochez",
-          "ils/elles se rapprochent"
-        ]
-      }
-    },
-    {
-      "name_en": "to hide",
-      "name_fr": "se cacher",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "He hides behind the door.",
-          "example_fr": "Il se cache derrière la porte.",
-          "highlight": "cache"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me cache",
-          "tu te caches",
-          "il/elle/on se cache",
-          "nous nous cachons",
-          "vous vous cachez",
-          "ils/elles se cachent"
-        ]
-      }
-    },
-    {
-      "name_en": "to get sick",
-      "name_fr": "se sentir mal",
-      "example_sentences": [
-        {
-          "tense": "présent",
-          "example_en": "I get sick sometimes.",
-          "example_fr": "Je me sens mal parfois.",
-          "highlight": "sens"
-        }
-      ],
-      "conjugation": {
-        "Présent": [
-          "je me sens",
-          "tu te sens",
-          "il/elle/on se sent",
-          "nous nous sentons",
-          "vous vous sentez",
-          "ils/elles se sentent"
-        ]
-      }
-    }
-  ]
-}
+        ],
+        "Imparfait": [
+          "je m'habillais",
+          "tu t'habillais",
+          "il/elle/on s'habillait",
+          "nous nous habillions",
+          "vous vous habilliez",
+          "ils/elles s'habillaient"
+        ],
+        "Futur": [
+          "je m'habillerai",
+          "tu t'habilleras",
+          "il/elle/on s'habillera",
+          "nous nous habillerons",
+          "vous vous habillerez",
+          "ils/elles s'habilleront"
+        ],
+        "Passé composé": [
+          "je me suis habillé(e)",
+          "tu t'es habillé(e)",
+          "il/elle/on s'est habillé(e)",
+          "nous nous sommes habillé(e)s",
+          "vous vous êtes habillé(e)(s)",
+          "ils/elles s'habillent
