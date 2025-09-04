@@ -1,0 +1,1570 @@
+{
+  "name_en": "Intransitive Verbs",
+  "name_fr": "Verbes intransitifs",
+  "list": [
+    {
+      "name_en": "to come",
+      "name_fr": "venir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I come every day.",
+          "example_fr": "Je viens chaque jour.",
+          "highlight": "viens"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She came yesterday.",
+          "example_fr": "Elle est venue hier.",
+          "highlight": "venue"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to come early.",
+          "example_fr": "Nous venions tôt.",
+          "highlight": "venions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will come soon.",
+          "example_fr": "Il viendra bientôt.",
+          "highlight": "viendra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to come tomorrow.",
+          "example_fr": "Je vais venir demain.",
+          "highlight": "vais venir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just come.",
+          "example_fr": "Ils viennent de venir.",
+          "highlight": "viennent de venir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je viens",
+          "tu viens",
+          "il/elle/on vient",
+          "nous venons",
+          "vous venez",
+          "ils/elles viennent"
+        ],
+        "Imparfait": [
+          "je venais",
+          "tu venais",
+          "il/elle/on venait",
+          "nous venions",
+          "vous veniez",
+          "ils/elles venaient"
+        ],
+        "Futur": [
+          "je viendrai",
+          "tu viendras",
+          "il/elle/on viendra",
+          "nous viendrons",
+          "vous viendrez",
+          "ils/elles viendront"
+        ],
+        "Passé composé": [
+          "je suis venu(e)",
+          "tu es venu(e)",
+          "il/elle/on est venu(e)",
+          "nous sommes venu(e)s",
+          "vous êtes venu(e)(s)",
+          "ils/elles sont venu(e)s"
+        ],
+        "Futur proche": [
+          "je vais venir",
+          "tu vas venir",
+          "il/elle/on va venir",
+          "nous allons venir",
+          "vous allez venir",
+          "ils/elles vont venir"
+        ],
+        "Passé récent": [
+          "je viens de venir",
+          "tu viens de venir",
+          "il/elle/on vient de venir",
+          "nous venons de venir",
+          "vous venez de venir",
+          "ils/elles viennent de venir"
+        ]
+      }
+    },
+    {
+      "name_en": "to go",
+      "name_fr": "aller",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "He goes to school.",
+          "example_fr": "Il va à l'école.",
+          "highlight": "va"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We went to Paris.",
+          "example_fr": "Nous sommes allés à Paris.",
+          "highlight": "allés"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "She used to go to the park.",
+          "example_fr": "Elle allait au parc.",
+          "highlight": "allait"
+        },
+        {
+          "tense": "futur",
+          "example_en": "You will go to the store.",
+          "example_fr": "Tu iras au magasin.",
+          "highlight": "iras"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to go soon.",
+          "example_fr": "Je vais aller bientôt.",
+          "highlight": "vais aller"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just gone.",
+          "example_fr": "Ils viennent d'aller.",
+          "highlight": "viennent d'aller"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je vais",
+          "tu vas",
+          "il/elle/on va",
+          "nous allons",
+          "vous allez",
+          "ils/elles vont"
+        ],
+        "Imparfait": [
+          "j'allais",
+          "tu allais",
+          "il/elle/on allait",
+          "nous allions",
+          "vous alliez",
+          "ils/elles allaient"
+        ],
+        "Futur": [
+          "j'irai",
+          "tu iras",
+          "il/elle/on ira",
+          "nous irons",
+          "vous irez",
+          "ils/elles iront"
+        ],
+        "Passé composé": [
+          "je suis allé(e)",
+          "tu es allé(e)",
+          "il/elle/on est allé(e)",
+          "nous sommes allé(e)s",
+          "vous êtes allé(e)(s)",
+          "ils/elles sont allé(e)s"
+        ],
+        "Futur proche": [
+          "je vais aller",
+          "tu vas aller",
+          "il/elle/on va aller",
+          "nous allons aller",
+          "vous allez aller",
+          "ils/elles vont aller"
+        ],
+        "Passé récent": [
+          "je viens d'aller",
+          "tu viens d'aller",
+          "il/elle/on vient d'aller",
+          "nous venons d'aller",
+          "vous venez d'aller",
+          "ils/elles viennent d'aller"
+        ]
+      }
+    },
+    {
+      "name_en": "to arrive",
+      "name_fr": "arriver",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I arrive at 8 a.m.",
+          "example_fr": "J'arrive à 8 heures.",
+          "highlight": "arrive"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She arrived late.",
+          "example_fr": "Elle est arrivée en retard.",
+          "highlight": "arrivée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to arrive early.",
+          "example_fr": "Nous arrivions tôt.",
+          "highlight": "arrivions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will arrive soon.",
+          "example_fr": "Il arrivera bientôt.",
+          "highlight": "arrivera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to arrive tomorrow.",
+          "example_fr": "Je vais arriver demain.",
+          "highlight": "vais arriver"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just arrived.",
+          "example_fr": "Ils viennent d'arriver.",
+          "highlight": "viennent d'arriver"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'arrive",
+          "tu arrives",
+          "il/elle/on arrive",
+          "nous arrivons",
+          "vous arrivez",
+          "ils/elles arrivent"
+        ],
+        "Imparfait": [
+          "j'arrivais",
+          "tu arrivais",
+          "il/elle/on arrivait",
+          "nous arrivions",
+          "vous arriviez",
+          "ils/elles arrivaient"
+        ],
+        "Futur": [
+          "j'arriverai",
+          "tu arriveras",
+          "il/elle/on arrivera",
+          "nous arriverons",
+          "vous arriverez",
+          "ils/elles arriveront"
+        ],
+        "Passé composé": [
+          "je suis arrivé(e)",
+          "tu es arrivé(e)",
+          "il/elle/on est arrivé(e)",
+          "nous sommes arrivé(e)s",
+          "vous êtes arrivé(e)(s)",
+          "ils/elles sont arrivé(e)s"
+        ],
+        "Futur proche": [
+          "je vais arriver",
+          "tu vas arriver",
+          "il/elle/on va arriver",
+          "nous allons arriver",
+          "vous allez arriver",
+          "ils/elles vont arriver"
+        ],
+        "Passé récent": [
+          "je viens d'arriver",
+          "tu viens d'arriver",
+          "il/elle/on vient d'arriver",
+          "nous venons d'arriver",
+          "vous venez d'arriver",
+          "ils/elles viennent d'arriver"
+        ]
+      }
+    },
+    {
+      "name_en": "to leave",
+      "name_fr": "partir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I leave at noon.",
+          "example_fr": "Je pars à midi.",
+          "highlight": "pars"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She left yesterday.",
+          "example_fr": "Elle est partie hier.",
+          "highlight": "partie"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to leave together.",
+          "example_fr": "Nous partions ensemble.",
+          "highlight": "partions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will leave soon.",
+          "example_fr": "Il partira bientôt.",
+          "highlight": "partira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to leave now.",
+          "example_fr": "Je vais partir maintenant.",
+          "highlight": "vais partir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just left.",
+          "example_fr": "Ils viennent de partir.",
+          "highlight": "viennent de partir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je pars",
+          "tu pars",
+          "il/elle/on part",
+          "nous partons",
+          "vous partez",
+          "ils/elles partent"
+        ],
+        "Imparfait": [
+          "je partais",
+          "tu partais",
+          "il/elle/on partait",
+          "nous partions",
+          "vous partiez",
+          "ils/elles partaient"
+        ],
+        "Futur": [
+          "je partirai",
+          "tu partiras",
+          "il/elle/on partira",
+          "nous partirons",
+          "vous partirez",
+          "ils/elles partiront"
+        ],
+        "Passé composé": [
+          "je suis parti(e)",
+          "tu es parti(e)",
+          "il/elle/on est parti(e)",
+          "nous sommes parti(e)s",
+          "vous êtes parti(e)(s)",
+          "ils/elles sont parti(e)s"
+        ],
+        "Futur proche": [
+          "je vais partir",
+          "tu vas partir",
+          "il/elle/on va partir",
+          "nous allons partir",
+          "vous allez partir",
+          "ils/elles vont partir"
+        ],
+        "Passé récent": [
+          "je viens de partir",
+          "tu viens de partir",
+          "il/elle/on vient de partir",
+          "nous venons de partir",
+          "vous venez de partir",
+          "ils/elles viennent de partir"
+        ]
+      }
+    },
+    {
+      "name_en": "to fall",
+      "name_fr": "tomber",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I fall often.",
+          "example_fr": "Je tombe souvent.",
+          "highlight": "tombe"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She fell yesterday.",
+          "example_fr": "Elle est tombée hier.",
+          "highlight": "tombée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to fall as children.",
+          "example_fr": "Nous tombions enfants.",
+          "highlight": "tombions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will fall soon.",
+          "example_fr": "Il tombera bientôt.",
+          "highlight": "tombera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to fall.",
+          "example_fr": "Je vais tomber.",
+          "highlight": "vais tomber"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just fallen.",
+          "example_fr": "Ils viennent de tomber.",
+          "highlight": "viennent de tomber"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je tombe",
+          "tu tombes",
+          "il/elle/on tombe",
+          "nous tombons",
+          "vous tombez",
+          "ils/elles tombent"
+        ],
+        "Imparfait": [
+          "je tombais",
+          "tu tombais",
+          "il/elle/on tombait",
+          "nous tombions",
+          "vous tombiez",
+          "ils/elles tombaient"
+        ],
+        "Futur": [
+          "je tomberai",
+          "tu tomberas",
+          "il/elle/on tombera",
+          "nous tomberons",
+          "vous tomberez",
+          "ils/elles tomberont"
+        ],
+        "Passé composé": [
+          "je suis tombé(e)",
+          "tu es tombé(e)",
+          "il/elle/on est tombé(e)",
+          "nous sommes tombé(e)s",
+          "vous êtes tombé(e)(s)",
+          "ils/elles sont tombé(e)s"
+        ],
+        "Futur proche": [
+          "je vais tomber",
+          "tu vas tomber",
+          "il/elle/on va tomber",
+          "nous allons tomber",
+          "vous allez tomber",
+          "ils/elles vont tomber"
+        ],
+        "Passé récent": [
+          "je viens de tomber",
+          "tu viens de tomber",
+          "il/elle/on vient de tomber",
+          "nous venons de tomber",
+          "vous venez de tomber",
+          "ils/elles viennent de tomber"
+        ]
+      }
+    },
+    {
+      "name_en": "to stay",
+      "name_fr": "rester",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I stay at home.",
+          "example_fr": "Je reste à la maison.",
+          "highlight": "reste"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She stayed late.",
+          "example_fr": "Elle est restée tard.",
+          "highlight": "restée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to stay together.",
+          "example_fr": "Nous restions ensemble.",
+          "highlight": "restions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will stay for dinner.",
+          "example_fr": "Il restera pour le dîner.",
+          "highlight": "restera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to stay here.",
+          "example_fr": "Je vais rester ici.",
+          "highlight": "vais rester"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just stayed.",
+          "example_fr": "Ils viennent de rester.",
+          "highlight": "viennent de rester"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je reste",
+          "tu restes",
+          "il/elle/on reste",
+          "nous restons",
+          "vous restez",
+          "ils/elles restent"
+        ],
+        "Imparfait": [
+          "je restais",
+          "tu restais",
+          "il/elle/on restait",
+          "nous restions",
+          "vous restiez",
+          "ils/elles restaient"
+        ],
+        "Futur": [
+          "je resterai",
+          "tu resteras",
+          "il/elle/on restera",
+          "nous resterons",
+          "vous resterez",
+          "ils/elles resteront"
+        ],
+        "Passé composé": [
+          "je suis resté(e)",
+          "tu es resté(e)",
+          "il/elle/on est resté(e)",
+          "nous sommes resté(e)s",
+          "vous êtes resté(e)(s)",
+          "ils/elles sont resté(e)s"
+        ],
+        "Futur proche": [
+          "je vais rester",
+          "tu vas rester",
+          "il/elle/on va rester",
+          "nous allons rester",
+          "vous allez rester",
+          "ils/elles vont rester"
+        ],
+        "Passé récent": [
+          "je viens de rester",
+          "tu viens de rester",
+          "il/elle/on vient de rester",
+          "nous venons de rester",
+          "vous venez de rester",
+          "ils/elles viennent de rester"
+        ]
+      }
+    },
+    {
+      "name_en": "to die",
+      "name_fr": "mourir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "He dies in the story.",
+          "example_fr": "Il meurt dans l'histoire.",
+          "highlight": "meurt"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She died last year.",
+          "example_fr": "Elle est morte l'année dernière.",
+          "highlight": "morte"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to die in the game.",
+          "example_fr": "Nous mourions dans le jeu.",
+          "highlight": "mourions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will die in the end.",
+          "example_fr": "Il mourra à la fin.",
+          "highlight": "mourra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to die soon.",
+          "example_fr": "Je vais mourir bientôt.",
+          "highlight": "vais mourir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just died.",
+          "example_fr": "Ils viennent de mourir.",
+          "highlight": "viennent de mourir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je meurs",
+          "tu meurs",
+          "il/elle/on meurt",
+          "nous mourons",
+          "vous mourez",
+          "ils/elles meurent"
+        ],
+        "Imparfait": [
+          "je mourais",
+          "tu mourais",
+          "il/elle/on mourait",
+          "nous mourions",
+          "vous mouriez",
+          "ils/elles mouraient"
+        ],
+        "Futur": [
+          "je mourrai",
+          "tu mourras",
+          "il/elle/on mourra",
+          "nous mourrons",
+          "vous mourrez",
+          "ils/elles mourront"
+        ],
+        "Passé composé": [
+          "je suis mort(e)",
+          "tu es mort(e)",
+          "il/elle/on est mort(e)",
+          "nous sommes mort(e)s",
+          "vous êtes mort(e)(s)",
+          "ils/elles sont mort(e)s"
+        ],
+        "Futur proche": [
+          "je vais mourir",
+          "tu vas mourir",
+          "il/elle/on va mourir",
+          "nous allons mourir",
+          "vous allez mourir",
+          "ils/elles vont mourir"
+        ],
+        "Passé récent": [
+          "je viens de mourir",
+          "tu viens de mourir",
+          "il/elle/on vient de mourir",
+          "nous venons de mourir",
+          "vous venez de mourir",
+          "ils/elles viennent de mourir"
+        ]
+      }
+    },
+    {
+      "name_en": "to go out",
+      "name_fr": "sortir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I go out every Friday.",
+          "example_fr": "Je sors chaque vendredi.",
+          "highlight": "sors"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She went out last night.",
+          "example_fr": "Elle est sortie hier soir.",
+          "highlight": "sortie"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to go out together.",
+          "example_fr": "Nous sortions ensemble.",
+          "highlight": "sortions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will go out tomorrow.",
+          "example_fr": "Il sortira demain.",
+          "highlight": "sortira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to go out tonight.",
+          "example_fr": "Je vais sortir ce soir.",
+          "highlight": "vais sortir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just gone out.",
+          "example_fr": "Ils viennent de sortir.",
+          "highlight": "viennent de sortir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je sors",
+          "tu sors",
+          "il/elle/on sort",
+          "nous sortons",
+          "vous sortez",
+          "ils/elles sortent"
+        ],
+        "Imparfait": [
+          "je sortais",
+          "tu sortais",
+          "il/elle/on sortait",
+          "nous sortions",
+          "vous sortiez",
+          "ils/elles sortaient"
+        ],
+        "Futur": [
+          "je sortirai",
+          "tu sortiras",
+          "il/elle/on sortira",
+          "nous sortirons",
+          "vous sortirez",
+          "ils/elles sortiront"
+        ],
+        "Passé composé": [
+          "je suis sorti(e)",
+          "tu es sorti(e)",
+          "il/elle/on est sorti(e)",
+          "nous sommes sorti(e)s",
+          "vous êtes sorti(e)(s)",
+          "ils/elles sont sorti(e)s"
+        ],
+        "Futur proche": [
+          "je vais sortir",
+          "tu vas sortir",
+          "il/elle/on va sortir",
+          "nous allons sortir",
+          "vous allez sortir",
+          "ils/elles vont sortir"
+        ],
+        "Passé récent": [
+          "je viens de sortir",
+          "tu viens de sortir",
+          "il/elle/on vient de sortir",
+          "nous venons de sortir",
+          "vous venez de sortir",
+          "ils/elles viennent de sortir"
+        ]
+      }
+    },
+    {
+      "name_en": "to pass",
+      "name_fr": "passer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I pass by the bakery.",
+          "example_fr": "Je passe devant la boulangerie.",
+          "highlight": "passe"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She passed by yesterday.",
+          "example_fr": "Elle est passée hier.",
+          "highlight": "passée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to pass by every morning.",
+          "example_fr": "Nous passions chaque matin.",
+          "highlight": "passions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will pass by soon.",
+          "example_fr": "Il passera bientôt.",
+          "highlight": "passera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to pass by tomorrow.",
+          "example_fr": "Je vais passer demain.",
+          "highlight": "vais passer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just passed by.",
+          "example_fr": "Ils viennent de passer.",
+          "highlight": "viennent de passer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je passe",
+          "tu passes",
+          "il/elle/on passe",
+          "nous passons",
+          "vous passez",
+          "ils/elles passent"
+        ],
+        "Imparfait": [
+          "je passais",
+          "tu passais",
+          "il/elle/on passait",
+          "nous passions",
+          "vous passiez",
+          "ils/elles passaient"
+        ],
+        "Futur": [
+          "je passerai",
+          "tu passeras",
+          "il/elle/on passera",
+          "nous passerons",
+          "vous passerez",
+          "ils/elles passeront"
+        ],
+        "Passé composé": [
+          "je suis passé(e)",
+          "tu es passé(e)",
+          "il/elle/on est passé(e)",
+          "nous sommes passé(e)s",
+          "vous êtes passé(e)(s)",
+          "ils/elles sont passé(e)s"
+        ],
+        "Futur proche": [
+          "je vais passer",
+          "tu vas passer",
+          "il/elle/on va passer",
+          "nous allons passer",
+          "vous allez passer",
+          "ils/elles vont passer"
+        ],
+        "Passé récent": [
+          "je viens de passer",
+          "tu viens de passer",
+          "il/elle/on vient de passer",
+          "nous venons de passer",
+          "vous venez de passer",
+          "ils/elles viennent de passer"
+        ]
+      }
+    },
+    {
+      "name_en": "to return",
+      "name_fr": "retourner",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I return home.",
+          "example_fr": "Je retourne à la maison.",
+          "highlight": "retourne"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She returned last night.",
+          "example_fr": "Elle est retournée hier soir.",
+          "highlight": "retournée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to return together.",
+          "example_fr": "Nous retournions ensemble.",
+          "highlight": "retournions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will return soon.",
+          "example_fr": "Il retournera bientôt.",
+          "highlight": "retournera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to return tomorrow.",
+          "example_fr": "Je vais retourner demain.",
+          "highlight": "vais retourner"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just returned.",
+          "example_fr": "Ils viennent de retourner.",
+          "highlight": "viennent de retourner"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je retourne",
+          "tu retournes",
+          "il/elle/on retourne",
+          "nous retournons",
+          "vous retournez",
+          "ils/elles retournent"
+        ],
+        "Imparfait": [
+          "je retournais",
+          "tu retournais",
+          "il/elle/on retournait",
+          "nous retournions",
+          "vous retourniez",
+          "ils/elles retournaient"
+        ],
+        "Futur": [
+          "je retournerai",
+          "tu retourneras",
+          "il/elle/on retournera",
+          "nous retournerons",
+          "vous retournerez",
+          "ils/elles retourneront"
+        ],
+        "Passé composé": [
+          "je suis retourné(e)",
+          "tu es retourné(e)",
+          "il/elle/on est retourné(e)",
+          "nous sommes retourné(e)s",
+          "vous êtes retourné(e)(s)",
+          "ils/elles sont retourné(e)s"
+        ],
+        "Futur proche": [
+          "je vais retourner",
+          "tu vas retourner",
+          "il/elle/on va retourner",
+          "nous allons retourner",
+          "vous allez retourner",
+          "ils/elles vont retourner"
+        ],
+        "Passé récent": [
+          "je viens de retourner",
+          "tu viens de retourner",
+          "il/elle/on vient de retourner",
+          "nous venons de retourner",
+          "vous venez de retourner",
+          "ils/elles viennent de retourner"
+        ]
+      }
+    },
+    {
+      "name_en": "to descend",
+      "name_fr": "descendre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I descend the stairs.",
+          "example_fr": "Je descends les escaliers.",
+          "highlight": "descends"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She descended quickly.",
+          "example_fr": "Elle est descendue rapidement.",
+          "highlight": "descendue"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to descend together.",
+          "example_fr": "Nous descendions ensemble.",
+          "highlight": "descendions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will descend soon.",
+          "example_fr": "Il descendra bientôt.",
+          "highlight": "descendra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to descend now.",
+          "example_fr": "Je vais descendre maintenant.",
+          "highlight": "vais descendre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just descended.",
+          "example_fr": "Ils viennent de descendre.",
+          "highlight": "viennent de descendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je descends",
+          "tu descends",
+          "il/elle/on descend",
+          "nous descendons",
+          "vous descendez",
+          "ils/elles descendent"
+        ],
+        "Imparfait": [
+          "je descendais",
+          "tu descendais",
+          "il/elle/on descendait",
+          "nous descendions",
+          "vous descendiez",
+          "ils/elles descendaient"
+        ],
+        "Futur": [
+          "je descendrai",
+          "tu descendras",
+          "il/elle/on descendra",
+          "nous descendrons",
+          "vous descendrez",
+          "ils/elles descendront"
+        ],
+        "Passé composé": [
+          "je suis descendu(e)",
+          "tu es descendu(e)",
+          "il/elle/on est descendu(e)",
+          "nous sommes descendu(e)s",
+          "vous êtes descendu(e)(s)",
+          "ils/elles sont descendu(e)s"
+        ],
+        "Futur proche": [
+          "je vais descendre",
+          "tu vas descendre",
+          "il/elle/on va descendre",
+          "nous allons descendre",
+          "vous allez descendre",
+          "ils/elles vont descendre"
+        ],
+        "Passé récent": [
+          "je viens de descendre",
+          "tu viens de descendre",
+          "il/elle/on vient de descendre",
+          "nous venons de descendre",
+          "vous venez de descendre",
+          "ils/elles viennent de descendre"
+        ]
+      }
+    },
+    {
+      "name_en": "to enter",
+      "name_fr": "entrer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I enter the room.",
+          "example_fr": "J'entre dans la pièce.",
+          "highlight": "entre"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She entered quietly.",
+          "example_fr": "Elle est entrée discrètement.",
+          "highlight": "entrée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to enter together.",
+          "example_fr": "Nous entrions ensemble.",
+          "highlight": "entrions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will enter soon.",
+          "example_fr": "Il entrera bientôt.",
+          "highlight": "entrera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to enter now.",
+          "example_fr": "Je vais entrer maintenant.",
+          "highlight": "vais entrer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just entered.",
+          "example_fr": "Ils viennent d'entrer.",
+          "highlight": "viennent d'entrer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'entre",
+          "tu entres",
+          "il/elle/on entre",
+          "nous entrons",
+          "vous entrez",
+          "ils/elles entrent"
+        ],
+        "Imparfait": [
+          "j'entrais",
+          "tu entrais",
+          "il/elle/on entrait",
+          "nous entrions",
+          "vous entriez",
+          "ils/elles entraient"
+        ],
+        "Futur": [
+          "j'entrerai",
+          "tu entreras",
+          "il/elle/on entrera",
+          "nous entrerons",
+          "vous entrerez",
+          "ils/elles entreront"
+        ],
+        "Passé composé": [
+          "je suis entré(e)",
+          "tu es entré(e)",
+          "il/elle/on est entré(e)",
+          "nous sommes entré(e)s",
+          "vous êtes entré(e)(s)",
+          "ils/elles sont entré(e)s"
+        ],
+        "Futur proche": [
+          "je vais entrer",
+          "tu vas entrer",
+          "il/elle/on va entrer",
+          "nous allons entrer",
+          "vous allez entrer",
+          "ils/elles vont entrer"
+        ],
+        "Passé récent": [
+          "je viens d'entrer",
+          "tu viens d'entrer",
+          "il/elle/on vient d'entrer",
+          "nous venons d'entrer",
+          "vous venez d'entrer",
+          "ils/elles viennent d'entrer"
+        ]
+      }
+    },
+    {
+      "name_en": "to become",
+      "name_fr": "devenir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I become tired.",
+          "example_fr": "Je deviens fatigué.",
+          "highlight": "deviens"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She became famous.",
+          "example_fr": "Elle est devenue célèbre.",
+          "highlight": "devenue"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to become friends.",
+          "example_fr": "Nous devenions amis.",
+          "highlight": "devenions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will become a doctor.",
+          "example_fr": "Il deviendra médecin.",
+          "highlight": "deviendra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to become rich.",
+          "example_fr": "Je vais devenir riche.",
+          "highlight": "vais devenir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just become parents.",
+          "example_fr": "Ils viennent de devenir parents.",
+          "highlight": "viennent de devenir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je deviens",
+          "tu deviens",
+          "il/elle/on devient",
+          "nous devenons",
+          "vous devenez",
+          "ils/elles deviennent"
+        ],
+        "Imparfait": [
+          "je devenais",
+          "tu devenais",
+          "il/elle/on devenait",
+          "nous devenions",
+          "vous deveniez",
+          "ils/elles devenaient"
+        ],
+        "Futur": [
+          "je deviendrai",
+          "tu deviendras",
+          "il/elle/on deviendra",
+          "nous deviendrons",
+          "vous deviendrez",
+          "ils/elles deviendront"
+        ],
+        "Passé composé": [
+          "je suis devenu(e)",
+          "tu es devenu(e)",
+          "il/elle/on est devenu(e)",
+          "nous sommes devenu(e)s",
+          "vous êtes devenu(e)(s)",
+          "ils/elles sont devenu(e)s"
+        ],
+        "Futur proche": [
+          "je vais devenir",
+          "tu vas devenir",
+          "il/elle/on va devenir",
+          "nous allons devenir",
+          "vous allez devenir",
+          "ils/elles vont devenir"
+        ],
+        "Passé récent": [
+          "je viens de devenir",
+          "tu viens de devenir",
+          "il/elle/on vient de devenir",
+          "nous venons de devenir",
+          "vous venez de devenir",
+          "ils/elles viennent de devenir"
+        ]
+      }
+    },
+    {
+      "name_en": "to be born",
+      "name_fr": "naître",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I am born in May.",
+          "example_fr": "Je nais en mai.",
+          "highlight": "nais"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She was born in Paris.",
+          "example_fr": "Elle est née à Paris.",
+          "highlight": "née"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to be born in spring.",
+          "example_fr": "Nous naissions au printemps.",
+          "highlight": "naissions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will be born soon.",
+          "example_fr": "Il naîtra bientôt.",
+          "highlight": "naîtra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to be born in June.",
+          "example_fr": "Je vais naître en juin.",
+          "highlight": "vais naître"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just been born.",
+          "example_fr": "Ils viennent de naître.",
+          "highlight": "viennent de naître"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je nais",
+          "tu nais",
+          "il/elle/on naît",
+          "nous naissons",
+          "vous naissez",
+          "ils/elles naissent"
+        ],
+        "Imparfait": [
+          "je naissais",
+          "tu naissais",
+          "il/elle/on naissait",
+          "nous naissions",
+          "vous naissiez",
+          "ils/elles naissaient"
+        ],
+        "Futur": [
+          "je naîtrai",
+          "tu naîtras",
+          "il/elle/on naîtra",
+          "nous naîtrons",
+          "vous naîtrez",
+          "ils/elles naîtront"
+        ],
+        "Passé composé": [
+          "je suis né(e)",
+          "tu es né(e)",
+          "il/elle/on est né(e)",
+          "nous sommes né(e)s",
+          "vous êtes né(e)(s)",
+          "ils/elles sont né(e)s"
+        ],
+        "Futur proche": [
+          "je vais naître",
+          "tu vas naître",
+          "il/elle/on va naître",
+          "nous allons naître",
+          "vous allez naître",
+          "ils/elles vont naître"
+        ],
+        "Passé récent": [
+          "je viens de naître",
+          "tu viens de naître",
+          "il/elle/on vient de naître",
+          "nous venons de naître",
+          "vous venez de naître",
+          "ils/elles viennent de naître"
+        ]
+      }
+    },
+    {
+      "name_en": "to go up",
+      "name_fr": "monter",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I go up the stairs.",
+          "example_fr": "Je monte les escaliers.",
+          "highlight": "monte"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She went up quickly.",
+          "example_fr": "Elle est montée rapidement.",
+          "highlight": "montée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to go up together.",
+          "example_fr": "Nous montions ensemble.",
+          "highlight": "montions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will go up soon.",
+          "example_fr": "Il montera bientôt.",
+          "highlight": "montera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to go up now.",
+          "example_fr": "Je vais monter maintenant.",
+          "highlight": "vais monter"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just gone up.",
+          "example_fr": "Ils viennent de monter.",
+          "highlight": "viennent de monter"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je monte",
+          "tu montes",
+          "il/elle/on monte",
+          "nous montons",
+          "vous montez",
+          "ils/elles montent"
+        ],
+        "Imparfait": [
+          "je montais",
+          "tu montais",
+          "il/elle/on montait",
+          "nous montions",
+          "vous montiez",
+          "ils/elles montaient"
+        ],
+        "Futur": [
+          "je monterai",
+          "tu monteras",
+          "il/elle/on montera",
+          "nous monterons",
+          "vous monterez",
+          "ils/elles monteront"
+        ],
+        "Passé composé": [
+          "je suis monté(e)",
+          "tu es monté(e)",
+          "il/elle/on est monté(e)",
+          "nous sommes monté(e)s",
+          "vous êtes monté(e)(s)",
+          "ils/elles sont monté(e)s"
+        ],
+        "Futur proche": [
+          "je vais monter",
+          "tu vas monter",
+          "il/elle/on va monter",
+          "nous allons monter",
+          "vous allez monter",
+          "ils/elles vont monter"
+        ],
+        "Passé récent": [
+          "je viens de monter",
+          "tu viens de monter",
+          "il/elle/on vient de monter",
+          "nous venons de monter",
+          "vous venez de monter",
+          "ils/elles viennent de monter"
+        ]
+      }
+    },
+    {
+      "name_en": "to pass away",
+      "name_fr": "décéder",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "He passes away peacefully.",
+          "example_fr": "Il décède paisiblement.",
+          "highlight": "décède"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She passed away last year.",
+          "example_fr": "Elle est décédée l'année dernière.",
+          "highlight": "décédée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to pass away in the story.",
+          "example_fr": "Nous décédions dans l'histoire.",
+          "highlight": "décédions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will pass away in the end.",
+          "example_fr": "Il décèdera à la fin.",
+          "highlight": "décèdera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to pass away soon.",
+          "example_fr": "Je vais décéder bientôt.",
+          "highlight": "vais décéder"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just passed away.",
+          "example_fr": "Ils viennent de décéder.",
+          "highlight": "viennent de décéder"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je décède",
+          "tu décèdes",
+          "il/elle/on décède",
+          "nous décédons",
+          "vous décédez",
+          "ils/elles décèdent"
+        ],
+        "Imparfait": [
+          "je décédais",
+          "tu décédais",
+          "il/elle/on décédait",
+          "nous décédions",
+          "vous décédiez",
+          "ils/elles décédaient"
+        ],
+        "Futur": [
+          "je décèderai",
+          "tu décèderas",
+          "il/elle/on décèdera",
+          "nous décèderons",
+          "vous décèderez",
+          "ils/elles décèderont"
+        ],
+        "Passé composé": [
+          "je suis décédé(e)",
+          "tu es décédé(e)",
+          "il/elle/on est décédé(e)",
+          "nous sommes décédé(e)s",
+          "vous êtes décédé(e)(s)",
+          "ils/elles sont décédé(e)s"
+        ],
+        "Futur proche": [
+          "je vais décéder",
+          "tu vas décéder",
+          "il/elle/on va décéder",
+          "nous allons décéder",
+          "vous allez décéder",
+          "ils/elles vont décéder"
+        ],
+        "Passé récent": [
+          "je viens de décéder",
+          "tu viens de décéder",
+          "il/elle/on vient de décéder",
+          "nous venons de décéder",
+          "vous venez de décéder",
+          "ils/elles viennent de décéder"
+        ]
+      }
+    },
+    {
+      "name_en": "to remain",
+      "name_fr": "demeurer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I remain calm.",
+          "example_fr": "Je demeure calme.",
+          "highlight": "demeure"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She remained silent.",
+          "example_fr": "Elle est demeurée silencieuse.",
+          "highlight": "demeurée"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to remain friends.",
+          "example_fr": "Nous demeurions amis.",
+          "highlight": "demeurions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will remain here.",
+          "example_fr": "Il demeurera ici.",
+          "highlight": "demeurera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to remain positive.",
+          "example_fr": "Je vais demeurer positif.",
+          "highlight": "vais demeurer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just remained.",
+          "example_fr": "Ils viennent de demeurer.",
+          "highlight": "viennent de demeurer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je demeure",
+          "tu demeures",
+          "il/elle/on demeure",
+          "nous demeurons",
+          "vous demeurez",
+          "ils/elles demeurent"
+        ],
+        "Imparfait": [
+          "je demeurais",
+          "tu demeurais",
+          "il/elle/on demeurait",
+          "nous demeurions",
+          "vous demeuriez",
+          "ils/elles demeuraient"
+        ],
+        "Futur": [
+          "je demeurerai",
+          "tu demeureras",
+          "il/elle/on demeurera",
+          "nous demeurerons",
+          "vous demeurerez",
+          "ils/elles demeureront"
+        ],
+        "Passé composé": [
+          "je suis demeuré(e)",
+          "tu es demeuré(e)",
+          "il/elle/on est demeuré(e)",
+          "nous sommes demeuré(e)s",
+          "vous êtes demeuré(e)(s)",
+          "ils/elles sont demeuré(e)s"
+        ],
+        "Futur proche": [
+          "je vais demeurer",
+          "tu vas demeurer",
+          "il/elle/on va demeurer",
+          "nous allons demeurer",
+          "vous allez demeurer",
+          "ils/elles vont demeurer"
+        ],
+        "Passé récent": [
+          "je viens de demeurer",
+          "tu viens de demeurer",
+          "il/elle/on vient de demeurer",
+          "nous venons de demeurer",
+          "vous venez de demeurer",
+          "ils/elles viennent de demeurer"
+        ]
+      }
+    }
+  ]
+}

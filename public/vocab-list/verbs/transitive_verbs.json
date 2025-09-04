@@ -1,0 +1,3134 @@
+{
+  "name_en": "Transitive Verbs",
+  "name_fr": "Verbes transitifs",
+  "list": [
+    {
+      "name_en": "to eat",
+      "name_fr": "manger",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I eat an apple.",
+          "example_fr": "Je mange une pomme.",
+          "highlight": "mange"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She ate bread.",
+          "example_fr": "Elle a mangé du pain.",
+          "highlight": "mangé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to eat together.",
+          "example_fr": "Nous mangions ensemble.",
+          "highlight": "mangions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will eat pizza.",
+          "example_fr": "Il mangera de la pizza.",
+          "highlight": "mangera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to eat rice.",
+          "example_fr": "Je vais manger du riz.",
+          "highlight": "vais manger"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just eaten soup.",
+          "example_fr": "Ils viennent de manger de la soupe.",
+          "highlight": "viennent de manger"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je mange",
+          "tu manges",
+          "il/elle/on mange",
+          "nous mangeons",
+          "vous mangez",
+          "ils/elles mangent"
+        ],
+        "Imparfait": [
+          "je mangeais",
+          "tu mangeais",
+          "il/elle/on mangeait",
+          "nous mangions",
+          "vous mangiez",
+          "ils/elles mangeaient"
+        ],
+        "Futur": [
+          "je mangerai",
+          "tu mangeras",
+          "il/elle/on mangera",
+          "nous mangerons",
+          "vous mangerez",
+          "ils/elles mangeront"
+        ],
+        "Passé composé": [
+          "j'ai mangé",
+          "tu as mangé",
+          "il/elle/on a mangé",
+          "nous avons mangé",
+          "vous avez mangé",
+          "ils/elles ont mangé"
+        ],
+        "Futur proche": [
+          "je vais manger",
+          "tu vas manger",
+          "il/elle/on va manger",
+          "nous allons manger",
+          "vous allez manger",
+          "ils/elles vont manger"
+        ],
+        "Passé récent": [
+          "je viens de manger",
+          "tu viens de manger",
+          "il/elle/on vient de manger",
+          "nous venons de manger",
+          "vous venez de manger",
+          "ils/elles viennent de manger"
+        ]
+      }
+    },
+    {
+      "name_en": "to buy",
+      "name_fr": "acheter",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "He buys a book.",
+          "example_fr": "Il achète un livre.",
+          "highlight": "achète"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She bought a car.",
+          "example_fr": "Elle a acheté une voiture.",
+          "highlight": "acheté"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to buy bread.",
+          "example_fr": "Nous achetions du pain.",
+          "highlight": "achetions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "I will buy a ticket.",
+          "example_fr": "J'achèterai un billet.",
+          "highlight": "achèterai"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "You are going to buy shoes.",
+          "example_fr": "Tu vas acheter des chaussures.",
+          "highlight": "vas acheter"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just bought a house.",
+          "example_fr": "Ils viennent d'acheter une maison.",
+          "highlight": "viennent d'acheter"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'achète",
+          "tu achètes",
+          "il/elle/on achète",
+          "nous achetons",
+          "vous achetez",
+          "ils/elles achètent"
+        ],
+        "Imparfait": [
+          "j'achetais",
+          "tu achetais",
+          "il/elle/on achetait",
+          "nous achetions",
+          "vous achetiez",
+          "ils/elles achetaient"
+        ],
+        "Futur": [
+          "j'achèterai",
+          "tu achèteras",
+          "il/elle/on achètera",
+          "nous achèterons",
+          "vous achèterez",
+          "ils/elles achèteront"
+        ],
+        "Passé composé": [
+          "j'ai acheté",
+          "tu as acheté",
+          "il/elle/on a acheté",
+          "nous avons acheté",
+          "vous avez acheté",
+          "ils/elles ont acheté"
+        ],
+        "Futur proche": [
+          "je vais acheter",
+          "tu vas acheter",
+          "il/elle/on va acheter",
+          "nous allons acheter",
+          "vous allez acheter",
+          "ils/elles vont acheter"
+        ],
+        "Passé récent": [
+          "je viens d'acheter",
+          "tu viens d'acheter",
+          "il/elle/on vient d'acheter",
+          "nous venons d'acheter",
+          "vous venez d'acheter",
+          "ils/elles viennent d'acheter"
+        ]
+      }
+    },
+    {
+      "name_en": "to see",
+      "name_fr": "voir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I see the car.",
+          "example_fr": "Je vois la voiture.",
+          "highlight": "vois"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "We saw a movie.",
+          "example_fr": "Nous avons vu un film.",
+          "highlight": "vu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "She used to see her friends.",
+          "example_fr": "Elle voyait ses amis.",
+          "highlight": "voyait"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will see the doctor.",
+          "example_fr": "Il verra le médecin.",
+          "highlight": "verra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to see the results.",
+          "example_fr": "Je vais voir les résultats.",
+          "highlight": "vais voir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just seen the answer.",
+          "example_fr": "Ils viennent de voir la réponse.",
+          "highlight": "viennent de voir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je vois",
+          "tu vois",
+          "il/elle/on voit",
+          "nous voyons",
+          "vous voyez",
+          "ils/elles voient"
+        ],
+        "Imparfait": [
+          "je voyais",
+          "tu voyais",
+          "il/elle/on voyait",
+          "nous voyions",
+          "vous voyiez",
+          "ils/elles voyaient"
+        ],
+        "Futur": [
+          "je verrai",
+          "tu verras",
+          "il/elle/on verra",
+          "nous verrons",
+          "vous verrez",
+          "ils/elles verront"
+        ],
+        "Passé composé": [
+          "j'ai vu",
+          "tu as vu",
+          "il/elle/on a vu",
+          "nous avons vu",
+          "vous avez vu",
+          "ils/elles ont vu"
+        ],
+        "Futur proche": [
+          "je vais voir",
+          "tu vas voir",
+          "il/elle/on va voir",
+          "nous allons voir",
+          "vous allez voir",
+          "ils/elles vont voir"
+        ],
+        "Passé récent": [
+          "je viens de voir",
+          "tu viens de voir",
+          "il/elle/on vient de voir",
+          "nous venons de voir",
+          "vous venez de voir",
+          "ils/elles viennent de voir"
+        ]
+      }
+    },
+    {
+      "name_en": "to hear",
+      "name_fr": "entendre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "She hears music.",
+          "example_fr": "Elle entend de la musique.",
+          "highlight": "entend"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "He heard a noise.",
+          "example_fr": "Il a entendu un bruit.",
+          "highlight": "entendu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to hear birds.",
+          "example_fr": "Nous entendions des oiseaux.",
+          "highlight": "entendions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "I will hear the news.",
+          "example_fr": "J'entendrai les nouvelles.",
+          "highlight": "entendrai"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "You are going to hear a story.",
+          "example_fr": "Tu vas entendre une histoire.",
+          "highlight": "vas entendre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just heard the song.",
+          "example_fr": "Ils viennent d'entendre la chanson.",
+          "highlight": "viennent d'entendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'entends",
+          "tu entends",
+          "il/elle/on entend",
+          "nous entendons",
+          "vous entendez",
+          "ils/elles entendent"
+        ],
+        "Imparfait": [
+          "j'entendais",
+          "tu entendais",
+          "il/elle/on entendait",
+          "nous entendions",
+          "vous entendiez",
+          "ils/elles entendaient"
+        ],
+        "Futur": [
+          "j'entendrai",
+          "tu entendras",
+          "il/elle/on entendra",
+          "nous entendrons",
+          "vous entendrez",
+          "ils/elles entendront"
+        ],
+        "Passé composé": [
+          "j'ai entendu",
+          "tu as entendu",
+          "il/elle/on a entendu",
+          "nous avons entendu",
+          "vous avez entendu",
+          "ils/elles ont entendu"
+        ],
+        "Futur proche": [
+          "je vais entendre",
+          "tu vas entendre",
+          "il/elle/on va entendre",
+          "nous allons entendre",
+          "vous allez entendre",
+          "ils/elles vont entendre"
+        ],
+        "Passé récent": [
+          "je viens d'entendre",
+          "tu viens d'entendre",
+          "il/elle/on vient d'entendre",
+          "nous venons d'entendre",
+          "vous venez d'entendre",
+          "ils/elles viennent d'entendre"
+        ]
+      }
+    },
+    {
+      "name_en": "to bring",
+      "name_fr": "apporter",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I bring my lunch.",
+          "example_fr": "J'apporte mon déjeuner.",
+          "highlight": "apporte"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She brought a gift.",
+          "example_fr": "Elle a apporté un cadeau.",
+          "highlight": "apporté"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to bring snacks.",
+          "example_fr": "Nous apportions des collations.",
+          "highlight": "apportions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will bring his book.",
+          "example_fr": "Il apportera son livre.",
+          "highlight": "apportera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to bring dessert.",
+          "example_fr": "Je vais apporter le dessert.",
+          "highlight": "vais apporter"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just brought drinks.",
+          "example_fr": "Ils viennent d'apporter des boissons.",
+          "highlight": "viennent d'apporter"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'apporte",
+          "tu apportes",
+          "il/elle/on apporte",
+          "nous apportons",
+          "vous apportez",
+          "ils/elles apportent"
+        ],
+        "Imparfait": [
+          "j'apportais",
+          "tu apportais",
+          "il/elle/on apportait",
+          "nous apportions",
+          "vous apportiez",
+          "ils/elles apportaient"
+        ],
+        "Futur": [
+          "j'apporterai",
+          "tu apporteras",
+          "il/elle/on apportera",
+          "nous apporterons",
+          "vous apporterez",
+          "ils/elles apporteront"
+        ],
+        "Passé composé": [
+          "j'ai apporté",
+          "tu as apporté",
+          "il/elle/on a apporté",
+          "nous avons apporté",
+          "vous avez apporté",
+          "ils/elles ont apporté"
+        ],
+        "Futur proche": [
+          "je vais apporter",
+          "tu vas apporter",
+          "il/elle/on va apporter",
+          "nous allons apporter",
+          "vous allez apporter",
+          "ils/elles vont apporter"
+        ],
+        "Passé récent": [
+          "je viens d'apporter",
+          "tu viens d'apporter",
+          "il/elle/on vient d'apporter",
+          "nous venons d'apporter",
+          "vous venez d'apporter",
+          "ils/elles viennent d'apporter"
+        ]
+      }
+    },
+    {
+      "name_en": "to choose",
+      "name_fr": "choisir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "She chooses a dress.",
+          "example_fr": "Elle choisit une robe.",
+          "highlight": "choisit"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "He chose a movie.",
+          "example_fr": "Il a choisi un film.",
+          "highlight": "choisi"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to choose together.",
+          "example_fr": "Nous choisissions ensemble.",
+          "highlight": "choisissions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "I will choose a book.",
+          "example_fr": "Je choisirai un livre.",
+          "highlight": "choisirai"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "You are going to choose a color.",
+          "example_fr": "Tu vas choisir une couleur.",
+          "highlight": "vas choisir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just chosen a restaurant.",
+          "example_fr": "Ils viennent de choisir un restaurant.",
+          "highlight": "viennent de choisir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je choisis",
+          "tu choisis",
+          "il/elle/on choisit",
+          "nous choisissons",
+          "vous choisissez",
+          "ils/elles choisissent"
+        ],
+        "Imparfait": [
+          "je choisissais",
+          "tu choisissais",
+          "il/elle/on choisissait",
+          "nous choisissions",
+          "vous choisissiez",
+          "ils/elles choisissaient"
+        ],
+        "Futur": [
+          "je choisirai",
+          "tu choisiras",
+          "il/elle/on choisira",
+          "nous choisirons",
+          "vous choisirez",
+          "ils/elles choisiront"
+        ],
+        "Passé composé": [
+          "j'ai choisi",
+          "tu as choisi",
+          "il/elle/on a choisi",
+          "nous avons choisi",
+          "vous avez choisi",
+          "ils/elles ont choisi"
+        ],
+        "Futur proche": [
+          "je vais choisir",
+          "tu vas choisir",
+          "il/elle/on va choisir",
+          "nous allons choisir",
+          "vous allez choisir",
+          "ils/elles vont choisir"
+        ],
+        "Passé récent": [
+          "je viens de choisir",
+          "tu viens de choisir",
+          "il/elle/on vient de choisir",
+          "nous venons de choisir",
+          "vous venez de choisir",
+          "ils/elles viennent de choisir"
+        ]
+      }
+    },
+    {
+      "name_en": "to read",
+      "name_fr": "lire",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I read a book.",
+          "example_fr": "Je lis un livre.",
+          "highlight": "lis"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She read the letter.",
+          "example_fr": "Elle a lu la lettre.",
+          "highlight": "lu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to read together.",
+          "example_fr": "Nous lisions ensemble.",
+          "highlight": "lisions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will read the report.",
+          "example_fr": "Il lira le rapport.",
+          "highlight": "lira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to read the news.",
+          "example_fr": "Je vais lire les nouvelles.",
+          "highlight": "vais lire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just read the book.",
+          "example_fr": "Ils viennent de lire le livre.",
+          "highlight": "viennent de lire"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je lis",
+          "tu lis",
+          "il/elle/on lit",
+          "nous lisons",
+          "vous lisez",
+          "ils/elles lisent"
+        ],
+        "Imparfait": [
+          "je lisais",
+          "tu lisais",
+          "il/elle/on lisait",
+          "nous lisions",
+          "vous lisiez",
+          "ils/elles lisaient"
+        ],
+        "Futur": [
+          "je lirai",
+          "tu liras",
+          "il/elle/on lira",
+          "nous lirons",
+          "vous lirez",
+          "ils/elles liront"
+        ],
+        "Passé composé": [
+          "j'ai lu",
+          "tu as lu",
+          "il/elle/on a lu",
+          "nous avons lu",
+          "vous avez lu",
+          "ils/elles ont lu"
+        ],
+        "Futur proche": [
+          "je vais lire",
+          "tu vas lire",
+          "il/elle/on va lire",
+          "nous allons lire",
+          "vous allez lire",
+          "ils/elles vont lire"
+        ],
+        "Passé récent": [
+          "je viens de lire",
+          "tu viens de lire",
+          "il/elle/on vient de lire",
+          "nous venons de lire",
+          "vous venez de lire",
+          "ils/elles viennent de lire"
+        ]
+      }
+    },
+    {
+      "name_en": "to write",
+      "name_fr": "écrire",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I write a letter.",
+          "example_fr": "J'écris une lettre.",
+          "highlight": "écris"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She wrote a book.",
+          "example_fr": "Elle a écrit un livre.",
+          "highlight": "écrit"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to write stories.",
+          "example_fr": "Nous écrivions des histoires.",
+          "highlight": "écrivions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will write an email.",
+          "example_fr": "Il écrira un e-mail.",
+          "highlight": "écrira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to write a report.",
+          "example_fr": "Je vais écrire un rapport.",
+          "highlight": "vais écrire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just written the answers.",
+          "example_fr": "Ils viennent d'écrire les réponses.",
+          "highlight": "viennent d'écrire"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'écris",
+          "tu écris",
+          "il/elle/on écrit",
+          "nous écrivons",
+          "vous écrivez",
+          "ils/elles écrivent"
+        ],
+        "Imparfait": [
+          "j'écrivais",
+          "tu écrivais",
+          "il/elle/on écrivait",
+          "nous écrivions",
+          "vous écriviez",
+          "ils/elles écrivaient"
+        ],
+        "Futur": [
+          "j'écrirai",
+          "tu écriras",
+          "il/elle/on écrira",
+          "nous écrirons",
+          "vous écrirez",
+          "ils/elles écriront"
+        ],
+        "Passé composé": [
+          "j'ai écrit",
+          "tu as écrit",
+          "il/elle/on a écrit",
+          "nous avons écrit",
+          "vous avez écrit",
+          "ils/elles ont écrit"
+        ],
+        "Futur proche": [
+          "je vais écrire",
+          "tu vas écrire",
+          "il/elle/on va écrire",
+          "nous allons écrire",
+          "vous allez écrire",
+          "ils/elles vont écrire"
+        ],
+        "Passé récent": [
+          "je viens d'écrire",
+          "tu viens d'écrire",
+          "il/elle/on vient d'écrire",
+          "nous venons d'écrire",
+          "vous venez d'écrire",
+          "ils/elles viennent d'écrire"
+        ]
+      }
+    },
+    {
+      "name_en": "to play",
+      "name_fr": "jouer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I play the guitar.",
+          "example_fr": "Je joue de la guitare.",
+          "highlight": "joue"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She played tennis.",
+          "example_fr": "Elle a joué au tennis.",
+          "highlight": "joué"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to play soccer.",
+          "example_fr": "Nous jouions au football.",
+          "highlight": "jouions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will play a new song.",
+          "example_fr": "Il jouera une nouvelle chanson.",
+          "highlight": "jouera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to play a match.",
+          "example_fr": "Je vais jouer un match.",
+          "highlight": "vais jouer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just played a game.",
+          "example_fr": "Ils viennent de jouer une partie.",
+          "highlight": "viennent de jouer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je joue",
+          "tu joues",
+          "il/elle/on joue",
+          "nous jouons",
+          "vous jouez",
+          "ils/elles jouent"
+        ],
+        "Imparfait": [
+          "je jouais",
+          "tu jouais",
+          "il/elle/on jouait",
+          "nous jouions",
+          "vous jouiez",
+          "ils/elles jouaient"
+        ],
+        "Futur": [
+          "je jouerai",
+          "tu joueras",
+          "il/elle/on jouera",
+          "nous jouerons",
+          "vous jouerez",
+          "ils/elles joueront"
+        ],
+        "Passé composé": [
+          "j'ai joué",
+          "tu as joué",
+          "il/elle/on a joué",
+          "nous avons joué",
+          "vous avez joué",
+          "ils/elles ont joué"
+        ],
+        "Futur proche": [
+          "je vais jouer",
+          "tu vas jouer",
+          "il/elle/on va jouer",
+          "nous allons jouer",
+          "vous allez jouer",
+          "ils/elles vont jouer"
+        ],
+        "Passé récent": [
+          "je viens de jouer",
+          "tu viens de jouer",
+          "il/elle/on vient de jouer",
+          "nous venons de jouer",
+          "vous venez de jouer",
+          "ils/elles viennent de jouer"
+        ]
+      }
+    },
+    {
+      "name_en": "to work",
+      "name_fr": "travailler",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I work from home.",
+          "example_fr": "Je travaille de chez moi.",
+          "highlight": "travaille"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She worked in an office.",
+          "example_fr": "Elle a travaillé dans un bureau.",
+          "highlight": "travaillé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to work late.",
+          "example_fr": "Nous travaillions tard.",
+          "highlight": "travaillions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will work on the project.",
+          "example_fr": "Il travaillera sur le projet.",
+          "highlight": "travaillera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to work overtime.",
+          "example_fr": "Je vais travailler des heures supplémentaires.",
+          "highlight": "vais travailler"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just worked out a solution.",
+          "example_fr": "Ils viennent de trouver une solution.",
+          "highlight": "viennent de travailler"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je travaille",
+          "tu travailles",
+          "il/elle/on travaille",
+          "nous travaillons",
+          "vous travaillez",
+          "ils/elles travaillent"
+        ],
+        "Imparfait": [
+          "je travaillais",
+          "tu travaillais",
+          "il/elle/on travaillait",
+          "nous travaillions",
+          "vous travailliez",
+          "ils/elles travaillaient"
+        ],
+        "Futur": [
+          "je travaillerai",
+          "tu travailleras",
+          "il/elle/on travaillera",
+          "nous travaillerons",
+          "vous travaillerez",
+          "ils/elles travailleront"
+        ],
+        "Passé composé": [
+          "j'ai travaillé",
+          "tu as travaillé",
+          "il/elle/on a travaillé",
+          "nous avons travaillé",
+          "vous avez travaillé",
+          "ils/elles ont travaillé"
+        ],
+        "Futur proche": [
+          "je vais travailler",
+          "tu vas travailler",
+          "il/elle/on va travailler",
+          "nous allons travailler",
+          "vous allez travailler",
+          "ils/elles vont travailler"
+        ],
+        "Passé récent": [
+          "je viens de travailler",
+          "tu viens de travailler",
+          "il/elle/on vient de travailler",
+          "nous venons de travailler",
+          "vous venez de travailler",
+          "ils/elles viennent de travailler"
+        ]
+      }
+    },
+    {
+      "name_en": "to help",
+      "name_fr": "aider",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I help my parents.",
+          "example_fr": "J'aide mes parents.",
+          "highlight": "aide"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She helped her friend.",
+          "example_fr": "Elle a aidé son ami.",
+          "highlight": "aidé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to help each other.",
+          "example_fr": "Nous nous aidions mutuellement.",
+          "highlight": "aidions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will help with the homework.",
+          "example_fr": "Il aidera avec les devoirs.",
+          "highlight": "aidera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to help you.",
+          "example_fr": "Je vais t'aider.",
+          "highlight": "vais aider"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just helped the community.",
+          "example_fr": "Ils viennent d'aider la communauté.",
+          "highlight": "viennent d'aider"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'aide",
+          "tu aides",
+          "il/elle/on aide",
+          "nous aidons",
+          "vous aidez",
+          "ils/elles aident"
+        ],
+        "Imparfait": [
+          "j'aidais",
+          "tu aidais",
+          "il/elle/on aidait",
+          "nous aidions",
+          "vous aidiez",
+          "ils/elles aidaient"
+        ],
+        "Futur": [
+          "j'aiderai",
+          "tu aideras",
+          "il/elle/on aidera",
+          "nous aiderons",
+          "vous aiderez",
+          "ils/elles aideront"
+        ],
+        "Passé composé": [
+          "j'ai aidé",
+          "tu as aidé",
+          "il/elle/on a aidé",
+          "nous avons aidé",
+          "vous avez aidé",
+          "ils/elles ont aidé"
+        ],
+        "Futur proche": [
+          "je vais aider",
+          "tu vas aider",
+          "il/elle/on va aider",
+          "nous allons aider",
+          "vous allez aider",
+          "ils/elles vont aider"
+        ],
+        "Passé récent": [
+          "je viens d'aider",
+          "tu viens d'aider",
+          "il/elle/on vient d'aider",
+          "nous venons d'aider",
+          "vous venez d'aider",
+          "ils/elles viennent d'aider"
+        ]
+      }
+    },
+    {
+      "name_en": "to ask",
+      "name_fr": "demander",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I ask a question.",
+          "example_fr": "Je demande une question.",
+          "highlight": "demande"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She asked for help.",
+          "example_fr": "Elle a demandé de l'aide.",
+          "highlight": "demandé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to ask for directions.",
+          "example_fr": "Nous demandions notre chemin.",
+          "highlight": "demandions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will ask the teacher.",
+          "example_fr": "Il demandera au professeur.",
+          "highlight": "demandera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to ask a favor.",
+          "example_fr": "Je vais demander une faveur.",
+          "highlight": "vais demander"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just asked a question.",
+          "example_fr": "Ils viennent de poser une question.",
+          "highlight": "viennent de demander"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je demande",
+          "tu demandes",
+          "il/elle/on demande",
+          "nous demandons",
+          "vous demandez",
+          "ils/elles demandent"
+        ],
+        "Imparfait": [
+          "je demandais",
+          "tu demandais",
+          "il/elle/on demandait",
+          "nous demandions",
+          "vous demandiez",
+          "ils/elles demandaient"
+        ],
+        "Futur": [
+          "je demanderai",
+          "tu demanderas",
+          "il/elle/on demandera",
+          "nous demanderons",
+          "vous demanderez",
+          "ils/elles demanderont"
+        ],
+        "Passé composé": [
+          "j'ai demandé",
+          "tu as demandé",
+          "il/elle/on a demandé",
+          "nous avons demandé",
+          "vous avez demandé",
+          "ils/elles ont demandé"
+        ],
+        "Futur proche": [
+          "je vais demander",
+          "tu vas demander",
+          "il/elle/on va demander",
+          "nous allons demander",
+          "vous allez demander",
+          "ils/elles vont demander"
+        ],
+        "Passé récent": [
+          "je viens de demander",
+          "tu viens de demander",
+          "il/elle/on vient de demander",
+          "nous venons de demander",
+          "vous venez de demander",
+          "ils/elles viennent de demander"
+        ]
+      }
+    },
+    {
+      "name_en": "to answer",
+      "name_fr": "répondre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I answer the phone.",
+          "example_fr": "Je réponds au téléphone.",
+          "highlight": "réponds"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She answered the question.",
+          "example_fr": "Elle a répondu à la question.",
+          "highlight": "répondu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to answer emails.",
+          "example_fr": "Nous répondions aux e-mails.",
+          "highlight": "répondions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will answer the call.",
+          "example_fr": "Il répondra à l'appel.",
+          "highlight": "répondra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to answer your question.",
+          "example_fr": "Je vais répondre à ta question.",
+          "highlight": "vais répondre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just answered the survey.",
+          "example_fr": "Ils viennent de répondre au sondage.",
+          "highlight": "viennent de répondre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je réponds",
+          "tu réponds",
+          "il/elle/on répond",
+          "nous répondons",
+          "vous répondez",
+          "ils/elles répondent"
+        ],
+        "Imparfait": [
+          "je répondais",
+          "tu répondais",
+          "il/elle/on répondait",
+          "nous répondions",
+          "vous répondiez",
+          "ils/elles répondaient"
+        ],
+        "Futur": [
+          "je répondrai",
+          "tu répondras",
+          "il/elle/on répondra",
+          "nous répondrons",
+          "vous répondrez",
+          "ils/elles répondront"
+        ],
+        "Passé composé": [
+          "j'ai répondu",
+          "tu as répondu",
+          "il/elle/on a répondu",
+          "nous avons répondu",
+          "vous avez répondu",
+          "ils/elles ont répondu"
+        ],
+        "Futur proche": [
+          "je vais répondre",
+          "tu vas répondre",
+          "il/elle/on va répondre",
+          "nous allons répondre",
+          "vous allez répondre",
+          "ils/elles vont répondre"
+        ],
+        "Passé récent": [
+          "je viens de répondre",
+          "tu viens de répondre",
+          "il/elle/on vient de répondre",
+          "nous venons de répondre",
+          "vous venez de répondre",
+          "ils/elles viennent de répondre"
+        ]
+      }
+    },
+    {
+      "name_en": "to wait",
+      "name_fr": "attendre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I wait for the bus.",
+          "example_fr": "J'attends le bus.",
+          "highlight": "attends"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She waited for an hour.",
+          "example_fr": "Elle a attendu une heure.",
+          "highlight": "attendu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to wait together.",
+          "example_fr": "Nous attendions ensemble.",
+          "highlight": "attendions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will wait for you.",
+          "example_fr": "Il t'attendra.",
+          "highlight": "attendra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to wait for my friend.",
+          "example_fr": "Je vais attendre mon ami.",
+          "highlight": "vais attendre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just waited for the results.",
+          "example_fr": "Ils viennent d'attendre les résultats.",
+          "highlight": "viennent d'attendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'attends",
+          "tu attends",
+          "il/elle/on attend",
+          "nous attendons",
+          "vous attendez",
+          "ils/elles attendent"
+        ],
+        "Imparfait": [
+          "j'attendais",
+          "tu attendais",
+          "il/elle/on attendait",
+          "nous attendions",
+          "vous attendiez",
+          "ils/elles attendaient"
+        ],
+        "Futur": [
+          "j'attendrai",
+          "tu attendras",
+          "il/elle/on attendra",
+          "nous attendrons",
+          "vous attendrez",
+          "ils/elles attendront"
+        ],
+        "Passé composé": [
+          "j'ai attendu",
+          "tu as attendu",
+          "il/elle/on a attendu",
+          "nous avons attendu",
+          "vous avez attendu",
+          "ils/elles ont attendu"
+        ],
+        "Futur proche": [
+          "je vais attendre",
+          "tu vas attendre",
+          "il/elle/on va attendre",
+          "nous allons attendre",
+          "vous allez attendre",
+          "ils/elles vont attendre"
+        ],
+        "Passé récent": [
+          "je viens d'attendre",
+          "tu viens d'attendre",
+          "il/elle/on vient d'attendre",
+          "nous venons d'attendre",
+          "vous venez d'attendre",
+          "ils/elles viennent d'attendre"
+        ]
+      }
+    },
+    {
+      "name_en": "to understand",
+      "name_fr": "comprendre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I understand the lesson.",
+          "example_fr": "Je comprends la leçon.",
+          "highlight": "comprends"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She understood the problem.",
+          "example_fr": "Elle a compris le problème.",
+          "highlight": "compris"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to understand each other.",
+          "example_fr": "Nous nous comprenions.",
+          "highlight": "comprenions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will understand the message.",
+          "example_fr": "Il comprendra le message.",
+          "highlight": "comprendra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to understand the instructions.",
+          "example_fr": "Je vais comprendre les instructions.",
+          "highlight": "vais comprendre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just understood the rules.",
+          "example_fr": "Ils viennent de comprendre les règles.",
+          "highlight": "viennent de comprendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je comprends",
+          "tu comprends",
+          "il/elle/on comprend",
+          "nous comprenons",
+          "vous comprenez",
+          "ils/elles comprennent"
+        ],
+        "Imparfait": [
+          "je comprenais",
+          "tu comprenais",
+          "il/elle/on comprenait",
+          "nous comprenions",
+          "vous compreniez",
+          "ils/elles comprenaient"
+        ],
+        "Futur": [
+          "je comprendrai",
+          "tu comprendras",
+          "il/elle/on comprendra",
+          "nous comprendrons",
+          "vous comprendrez",
+          "ils/elles comprendront"
+        ],
+        "Passé composé": [
+          "j'ai compris",
+          "tu as compris",
+          "il/elle/on a compris",
+          "nous avons compris",
+          "vous avez compris",
+          "ils/elles ont compris"
+        ],
+        "Futur proche": [
+          "je vais comprendre",
+          "tu vas comprendre",
+          "il/elle/on va comprendre",
+          "nous allons comprendre",
+          "vous allez comprendre",
+          "ils/elles vont comprendre"
+        ],
+        "Passé récent": [
+          "je viens de comprendre",
+          "tu viens de comprendre",
+          "il/elle/on vient de comprendre",
+          "nous venons de comprendre",
+          "vous venez de comprendre",
+          "ils/elles viennent de comprendre"
+        ]
+      }
+    },
+    {
+      "name_en": "to learn",
+      "name_fr": "apprendre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I learn something new every day.",
+          "example_fr": "J'apprends quelque chose de nouveau chaque jour.",
+          "highlight": "apprends"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She learned to swim.",
+          "example_fr": "Elle a appris à nager.",
+          "highlight": "appris"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to learn together.",
+          "example_fr": "Nous apprenions ensemble.",
+          "highlight": "apprenions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will learn the guitar.",
+          "example_fr": "Il apprendra la guitare.",
+          "highlight": "apprendra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to learn French.",
+          "example_fr": "Je vais apprendre le français.",
+          "highlight": "vais apprendre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just learned the news.",
+          "example_fr": "Ils viennent d'apprendre la nouvelle.",
+          "highlight": "viennent d'apprendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'apprends",
+          "tu apprends",
+          "il/elle/on apprend",
+          "nous apprenons",
+          "vous apprenez",
+          "ils/elles apprennent"
+        ],
+        "Imparfait": [
+          "j'apprenais",
+          "tu apprenais",
+          "il/elle/on apprenait",
+          "nous apprenions",
+          "vous appreniez",
+          "ils/elles apprenaient"
+        ],
+        "Futur": [
+          "j'apprendrai",
+          "tu apprendras",
+          "il/elle/on apprendra",
+          "nous apprendrons",
+          "vous apprendrez",
+          "ils/elles apprendront"
+        ],
+        "Passé composé": [
+          "j'ai appris",
+          "tu as appris",
+          "il/elle/on a appris",
+          "nous avons appris",
+          "vous avez appris",
+          "ils/elles ont appris"
+        ],
+        "Futur proche": [
+          "je vais apprendre",
+          "tu vas apprendre",
+          "il/elle/on va apprendre",
+          "nous allons apprendre",
+          "vous allez apprendre",
+          "ils/elles vont apprendre"
+        ],
+        "Passé récent": [
+          "je viens d'apprendre",
+          "tu viens d'apprendre",
+          "il/elle/on vient d'apprendre",
+          "nous venons d'apprendre",
+          "vous venez d'apprendre",
+          "ils/elles viennent d'apprendre"
+        ]
+      }
+    },
+    {
+      "name_en": "to find",
+      "name_fr": "trouver",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I find my keys.",
+          "example_fr": "Je trouve mes clés.",
+          "highlight": "trouve"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She found a dollar on the street.",
+          "example_fr": "Elle a trouvé un dollar dans la rue.",
+          "highlight": "trouvé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to find solutions.",
+          "example_fr": "Nous trouvions des solutions.",
+          "highlight": "trouvions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will find a job.",
+          "example_fr": "Il trouvera un emploi.",
+          "highlight": "trouvera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to find a good restaurant.",
+          "example_fr": "Je vais trouver un bon restaurant.",
+          "highlight": "vais trouver"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just found their way.",
+          "example_fr": "Ils viennent de trouver leur chemin.",
+          "highlight": "viennent de trouver"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je trouve",
+          "tu trouves",
+          "il/elle/on trouve",
+          "nous trouvons",
+          "vous trouvez",
+          "ils/elles trouvent"
+        ],
+        "Imparfait": [
+          "je trouvais",
+          "tu trouvais",
+          "il/elle/on trouvait",
+          "nous trouvions",
+          "vous trouviez",
+          "ils/elles trouvaient"
+        ],
+        "Futur": [
+          "je trouverai",
+          "tu trouveras",
+          "il/elle/on trouvera",
+          "nous trouverons",
+          "vous trouverez",
+          "ils/elles trouveront"
+        ],
+        "Passé composé": [
+          "j'ai trouvé",
+          "tu as trouvé",
+          "il/elle/on a trouvé",
+          "nous avons trouvé",
+          "vous avez trouvé",
+          "ils/elles ont trouvé"
+        ],
+        "Futur proche": [
+          "je vais trouver",
+          "tu vas trouver",
+          "il/elle/on va trouver",
+          "nous allons trouver",
+          "vous allez trouver",
+          "ils/elles vont trouver"
+        ],
+        "Passé récent": [
+          "je viens de trouver",
+          "tu viens de trouver",
+          "il/elle/on vient de trouver",
+          "nous venons de trouver",
+          "vous venez de trouver",
+          "ils/elles viennent de trouver"
+        ]
+      }
+    },
+    {
+      "name_en": "to lose",
+      "name_fr": "perdre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I lose my wallet.",
+          "example_fr": "Je perds mon portefeuille.",
+          "highlight": "perds"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She lost her phone.",
+          "example_fr": "Elle a perdu son téléphone.",
+          "highlight": "perdu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to lose track of time.",
+          "example_fr": "Nous perdions la notion du temps.",
+          "highlight": "perdions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will lose the game.",
+          "example_fr": "Il perdra le jeu.",
+          "highlight": "perdra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to lose weight.",
+          "example_fr": "Je vais perdre du poids.",
+          "highlight": "vais perdre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just lost their keys.",
+          "example_fr": "Ils viennent de perdre leurs clés.",
+          "highlight": "viennent de perdre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je perds",
+          "tu perds",
+          "il/elle/on perd",
+          "nous perdons",
+          "vous perdez",
+          "ils/elles perdent"
+        ],
+        "Imparfait": [
+          "je perdais",
+          "tu perdais",
+          "il/elle/on perdait",
+          "nous perdions",
+          "vous perdiez",
+          "ils/elles perdaient"
+        ],
+        "Futur": [
+          "je perdrai",
+          "tu perdras",
+          "il/elle/on perdra",
+          "nous perdrons",
+          "vous perdrez",
+          "ils/elles perdront"
+        ],
+        "Passé composé": [
+          "j'ai perdu",
+          "tu as perdu",
+          "il/elle/on a perdu",
+          "nous avons perdu",
+          "vous avez perdu",
+          "ils/elles ont perdu"
+        ],
+        "Futur proche": [
+          "je vais perdre",
+          "tu vas perdre",
+          "il/elle/on va perdre",
+          "nous allons perdre",
+          "vous allez perdre",
+          "ils/elles vont perdre"
+        ],
+        "Passé récent": [
+          "je viens de perdre",
+          "tu viens de perdre",
+          "il/elle/on vient de perdre",
+          "nous venons de perdre",
+          "vous venez de perdre",
+          "ils/elles viennent de perdre"
+        ]
+      }
+    },
+    {
+      "name_en": "to open",
+      "name_fr": "ouvrir",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I open the door.",
+          "example_fr": "J'ouvre la porte.",
+          "highlight": "ouvre"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She opened the window.",
+          "example_fr": "Elle a ouvert la fenêtre.",
+          "highlight": "ouvert"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to open the shop.",
+          "example_fr": "Nous ouvrions le magasin.",
+          "highlight": "ouvrions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will open the box.",
+          "example_fr": "Il ouvrira la boîte.",
+          "highlight": "ouvrira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to open a bottle.",
+          "example_fr": "Je vais ouvrir une bouteille.",
+          "highlight": "vais ouvrir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just opened the gift.",
+          "example_fr": "Ils viennent d'ouvrir le cadeau.",
+          "highlight": "viennent d'ouvrir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'ouvre",
+          "tu ouvres",
+          "il/elle/on ouvre",
+          "nous ouvrons",
+          "vous ouvrez",
+          "ils/elles ouvrent"
+        ],
+        "Imparfait": [
+          "j'ouvrais",
+          "tu ouvrais",
+          "il/elle/on ouvrait",
+          "nous ouvrions",
+          "vous ouvriez",
+          "ils/elles ouvraient"
+        ],
+        "Futur": [
+          "j'ouvrirai",
+          "tu ouvriras",
+          "il/elle/on ouvrira",
+          "nous ouvrirons",
+          "vous ouvrirez",
+          "ils/elles ouvriront"
+        ],
+        "Passé composé": [
+          "j'ai ouvert",
+          "tu as ouvert",
+          "il/elle/on a ouvert",
+          "nous avons ouvert",
+          "vous avez ouvert",
+          "ils/elles ont ouvert"
+        ],
+        "Futur proche": [
+          "je vais ouvrir",
+          "tu vas ouvrir",
+          "il/elle/on va ouvrir",
+          "nous allons ouvrir",
+          "vous allez ouvrir",
+          "ils/elles vont ouvrir"
+        ],
+        "Passé récent": [
+          "je viens d'ouvrir",
+          "tu viens d'ouvrir",
+          "il/elle/on vient d'ouvrir",
+          "nous venons d'ouvrir",
+          "vous venez d'ouvrir",
+          "ils/elles viennent d'ouvrir"
+        ]
+      }
+    },
+    {
+      "name_en": "to close",
+      "name_fr": "fermer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I close the book.",
+          "example_fr": "Je ferme le livre.",
+          "highlight": "ferme"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She closed the door.",
+          "example_fr": "Elle a fermé la porte.",
+          "highlight": "fermé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to close the store.",
+          "example_fr": "Nous fermions le magasin.",
+          "highlight": "fermions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will close the window.",
+          "example_fr": "Il fermera la fenêtre.",
+          "highlight": "fermera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to close the file.",
+          "example_fr": "Je vais fermer le fichier.",
+          "highlight": "vais fermer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just closed the meeting.",
+          "example_fr": "Ils viennent de fermer la réunion.",
+          "highlight": "viennent de fermer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je ferme",
+          "tu fermes",
+          "il/elle/on ferme",
+          "nous fermons",
+          "vous fermez",
+          "ils/elles ferment"
+        ],
+        "Imparfait": [
+          "je fermais",
+          "tu fermais",
+          "il/elle/on fermait",
+          "nous fermions",
+          "vous fermiez",
+          "ils/elles fermaient"
+        ],
+        "Futur": [
+          "je fermerai",
+          "tu fermeras",
+          "il/elle/on fermera",
+          "nous fermerons",
+          "vous fermerez",
+          "ils/elles fermeront"
+        ],
+        "Passé composé": [
+          "j'ai fermé",
+          "tu as fermé",
+          "il/elle/on a fermé",
+          "nous avons fermé",
+          "vous avez fermé",
+          "ils/elles ont fermé"
+        ],
+        "Futur proche": [
+          "je vais fermer",
+          "tu vas fermer",
+          "il/elle/on va fermer",
+          "nous allons fermer",
+          "vous allez fermer",
+          "ils/elles vont fermer"
+        ],
+        "Passé récent": [
+          "je viens de fermer",
+          "tu viens de fermer",
+          "il/elle/on vient de fermer",
+          "nous venons de fermer",
+          "vous venez de fermer",
+          "ils/elles viennent de fermer"
+        ]
+      }
+    },
+    {
+      "name_en": "to travel",
+      "name_fr": "voyager",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I travel to France.",
+          "example_fr": "Je voyage en France.",
+          "highlight": "voyage"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She traveled to Spain.",
+          "example_fr": "Elle a voyagé en Espagne.",
+          "highlight": "voyagé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to travel by train.",
+          "example_fr": "Nous voyagions en train.",
+          "highlight": "voyagions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will travel to Japan.",
+          "example_fr": "Il voyagera au Japon.",
+          "highlight": "voyagera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to travel this summer.",
+          "example_fr": "Je vais voyager cet été.",
+          "highlight": "vais voyager"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just traveled abroad.",
+          "example_fr": "Ils viennent de voyager à l'étranger.",
+          "highlight": "viennent de voyager"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je voyage",
+          "tu voyages",
+          "il/elle/on voyage",
+          "nous voyageons",
+          "vous voyagez",
+          "ils/elles voyagent"
+        ],
+        "Imparfait": [
+          "je voyageais",
+          "tu voyageais",
+          "il/elle/on voyageait",
+          "nous voyagions",
+          "vous voyagiez",
+          "ils/elles voyageaient"
+        ],
+        "Futur": [
+          "je voyagerai",
+          "tu voyageras",
+          "il/elle/on voyagera",
+          "nous voyagerons",
+          "vous voyagerez",
+          "ils/elles voyageront"
+        ],
+        "Passé composé": [
+          "j'ai voyagé",
+          "tu as voyagé",
+          "il/elle/on a voyagé",
+          "nous avons voyagé",
+          "vous avez voyagé",
+          "ils/elles ont voyagé"
+        ],
+        "Futur proche": [
+          "je vais voyager",
+          "tu vas voyager",
+          "il/elle/on va voyager",
+          "nous allons voyager",
+          "vous allez voyager",
+          "ils/elles vont voyager"
+        ],
+        "Passé récent": [
+          "je viens de voyager",
+          "tu viens de voyager",
+          "il/elle/on vient de voyager",
+          "nous venons de voyager",
+          "vous venez de voyager",
+          "ils/elles viennent de voyager"
+        ]
+      }
+    },
+    {
+      "name_en": "to return",
+      "name_fr": "rendre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I return the book.",
+          "example_fr": "Je rends le livre.",
+          "highlight": "rends"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She returned the car.",
+          "example_fr": "Elle a rendu la voiture.",
+          "highlight": "rendu"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to return home late.",
+          "example_fr": "Nous rentrions tard.",
+          "highlight": "rentrions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will return the favor.",
+          "example_fr": "Il rendra la pareille.",
+          "highlight": "rendra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to return the call.",
+          "example_fr": "Je vais rendre l'appel.",
+          "highlight": "vais rendre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just returned from vacation.",
+          "example_fr": "Ils viennent de rentrer de vacances.",
+          "highlight": "viennent de rendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je rends",
+          "tu rends",
+          "il/elle/on rend",
+          "nous rendons",
+          "vous rendez",
+          "ils/elles rendent"
+        ],
+        "Imparfait": [
+          "je rendais",
+          "tu rendais",
+          "il/elle/on rendait",
+          "nous rendions",
+          "vous rendiez",
+          "ils/elles rendaient"
+        ],
+        "Futur": [
+          "je rendrai",
+          "tu rendras",
+          "il/elle/on rendra",
+          "nous rendrons",
+          "vous rendrez",
+          "ils/elles rendront"
+        ],
+        "Passé composé": [
+          "j'ai rendu",
+          "tu as rendu",
+          "il/elle/on a rendu",
+          "nous avons rendu",
+          "vous avez rendu",
+          "ils/elles ont rendu"
+        ],
+        "Futur proche": [
+          "je vais rendre",
+          "tu vas rendre",
+          "il/elle/on va rendre",
+          "nous allons rendre",
+          "vous allez rendre",
+          "ils/elles vont rendre"
+        ],
+        "Passé récent": [
+          "je viens de rendre",
+          "tu viens de rendre",
+          "il/elle/on vient de rendre",
+          "nous venons de rendre",
+          "vous venez de rendre",
+          "ils/elles viennent de rendre"
+        ]
+      }
+    },
+    {
+      "name_en": "to explain",
+      "name_fr": "expliquer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I explain the lesson.",
+          "example_fr": "J'explique la leçon.",
+          "highlight": "explique"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She explained the problem.",
+          "example_fr": "Elle a expliqué le problème.",
+          "highlight": "expliqué"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to explain things in detail.",
+          "example_fr": "Nous expliquions les choses en détail.",
+          "highlight": "expliquions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will explain the rules.",
+          "example_fr": "Il expliquera les règles.",
+          "highlight": "expliquera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to explain my project.",
+          "example_fr": "Je vais expliquer mon projet.",
+          "highlight": "vais expliquer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just explained the process.",
+          "example_fr": "Ils viennent d'expliquer le processus.",
+          "highlight": "viennent d'expliquer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'explique",
+          "tu expliques",
+          "il/elle/on explique",
+          "nous expliquons",
+          "vous expliquez",
+          "ils/elles expliquent"
+        ],
+        "Imparfait": [
+          "j'expliquais",
+          "tu expliquais",
+          "il/elle/on expliquait",
+          "nous expliquions",
+          "vous expliquiez",
+          "ils/elles expliquaient"
+        ],
+        "Futur": [
+          "j'expliquerai",
+          "tu expliqueras",
+          "il/elle/on expliquera",
+          "nous expliquerons",
+          "vous expliquerez",
+          "ils/elles expliqueront"
+        ],
+        "Passé composé": [
+          "j'ai expliqué",
+          "tu as expliqué",
+          "il/elle/on a expliqué",
+          "nous avons expliqué",
+          "vous avez expliqué",
+          "ils/elles ont expliqué"
+        ],
+        "Futur proche": [
+          "je vais expliquer",
+          "tu vas expliquer",
+          "il/elle/on va expliquer",
+          "nous allons expliquer",
+          "vous allez expliquer",
+          "ils/elles vont expliquer"
+        ],
+        "Passé récent": [
+          "je viens d'expliquer",
+          "tu viens d'expliquer",
+          "il/elle/on vient d'expliquer",
+          "nous venons d'expliquer",
+          "vous venez d'expliquer",
+          "ils/elles viennent d'expliquer"
+        ]
+      }
+    },
+    {
+      "name_en": "to describe",
+      "name_fr": "décrire",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I describe the picture.",
+          "example_fr": "Je décris l'image.",
+          "highlight": "décris"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She described the scene.",
+          "example_fr": "Elle a décrit la scène.",
+          "highlight": "décrit"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to describe our vacations.",
+          "example_fr": "Nous décrivions nos vacances.",
+          "highlight": "décrivions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will describe the event.",
+          "example_fr": "Il décrira l'événement.",
+          "highlight": "décrira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to describe my day.",
+          "example_fr": "Je vais décrire ma journée.",
+          "highlight": "vais décrire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just described the problem.",
+          "example_fr": "Ils viennent de décrire le problème.",
+          "highlight": "viennent de décrire"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je décris",
+          "tu décris",
+          "il/elle/on décrit",
+          "nous décrivons",
+          "vous décrivez",
+          "ils/elles décrivent"
+        ],
+        "Imparfait": [
+          "je décrivais",
+          "tu décrivais",
+          "il/elle/on décrivait",
+          "nous décrivions",
+          "vous décriviez",
+          "ils/elles décrivaient"
+        ],
+        "Futur": [
+          "je décrirai",
+          "tu décriras",
+          "il/elle/on décrira",
+          "nous décrirons",
+          "vous décrirez",
+          "ils/elles décriront"
+        ],
+        "Passé composé": [
+          "j'ai décrit",
+          "tu as décrit",
+          "il/elle/on a décrit",
+          "nous avons décrit",
+          "vous avez décrit",
+          "ils/elles ont décrit"
+        ],
+        "Futur proche": [
+          "je vais décrire",
+          "tu vas décrire",
+          "il/elle/on va décrire",
+          "nous allons décrire",
+          "vous allez décrire",
+          "ils/elles vont décrire"
+        ],
+        "Passé récent": [
+          "je viens de décrire",
+          "tu viens de décrire",
+          "il/elle/on vient de décrire",
+          "nous venons de décrire",
+          "vous venez de décrire",
+          "ils/elles viennent de décrire"
+        ]
+      }
+    },
+    {
+      "name_en": "to build",
+      "name_fr": "construire",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I build a sandcastle.",
+          "example_fr": "Je construis un château de sable.",
+          "highlight": "construis"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She built a treehouse.",
+          "example_fr": "Elle a construit une cabane dans un arbre.",
+          "highlight": "construit"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to build models.",
+          "example_fr": "Nous construisions des maquettes.",
+          "highlight": "construisions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will build a garage.",
+          "example_fr": "Il construira un garage.",
+          "highlight": "construira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to build a website.",
+          "example_fr": "Je vais construire un site web.",
+          "highlight": "vais construire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just built a new bridge.",
+          "example_fr": "Ils viennent de construire un nouveau pont.",
+          "highlight": "viennent de construire"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je construis",
+          "tu construis",
+          "il/elle/on construit",
+          "nous construisons",
+          "vous construisez",
+          "ils/elles construisent"
+        ],
+        "Imparfait": [
+          "je construisais",
+          "tu construisais",
+          "il/elle/on construisait",
+          "nous construisions",
+          "vous construisiez",
+          "ils/elles construisaient"
+        ],
+        "Futur": [
+          "je construirai",
+          "tu construiras",
+          "il/elle/on construira",
+          "nous construirons",
+          "vous construirez",
+          "ils/elles construiront"
+        ],
+        "Passé composé": [
+          "j'ai construit",
+          "tu as construit",
+          "il/elle/on a construit",
+          "nous avons construit",
+          "vous avez construit",
+          "ils/elles ont construit"
+        ],
+        "Futur proche": [
+          "je vais construire",
+          "tu vas construire",
+          "il/elle/on va construire",
+          "nous allons construire",
+          "vous allez construire",
+          "ils/elles vont construire"
+        ],
+        "Passé récent": [
+          "je viens de construire",
+          "tu viens de construire",
+          "il/elle/on vient de construire",
+          "nous venons de construire",
+          "vous venez de construire",
+          "ils/elles viennent de construire"
+        ]
+      }
+    },
+    {
+      "name_en": "to destroy",
+      "name_fr": "détruire",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I destroy the old files.",
+          "example_fr": "Je détruis les vieux fichiers.",
+          "highlight": "détruis"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She destroyed the evidence.",
+          "example_fr": "Elle a détruit les preuves.",
+          "highlight": "détruit"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to destroy our mistakes.",
+          "example_fr": "Nous détruisions nos erreurs.",
+          "highlight": "détruisions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will destroy the old building.",
+          "example_fr": "Il détruira l'ancien bâtiment.",
+          "highlight": "détruira"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to destroy this box.",
+          "example_fr": "Je vais détruire cette boîte.",
+          "highlight": "vais détruire"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just destroyed the old bridge.",
+          "example_fr": "Ils viennent de détruire l'ancien pont.",
+          "highlight": "viennent de détruire"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je détruis",
+          "tu détruis",
+          "il/elle/on détruit",
+          "nous détruisons",
+          "vous détruisez",
+          "ils/elles détruisent"
+        ],
+        "Imparfait": [
+          "je détruisais",
+          "tu détruisais",
+          "il/elle/on détruisait",
+          "nous détruisions",
+          "vous détruisiez",
+          "ils/elles détruisaient"
+        ],
+        "Futur": [
+          "je détruirai",
+          "tu détruiras",
+          "il/elle/on détruira",
+          "nous détruirons",
+          "vous détruirez",
+          "ils/elles détruiront"
+        ],
+        "Passé composé": [
+          "j'ai détruit",
+          "tu as détruit",
+          "il/elle/on a détruit",
+          "nous avons détruit",
+          "vous avez détruit",
+          "ils/elles ont détruit"
+        ],
+        "Futur proche": [
+          "je vais détruire",
+          "tu vas détruire",
+          "il/elle/on va détruire",
+          "nous allons détruire",
+          "vous allez détruire",
+          "ils/elles vont détruire"
+        ],
+        "Passé récent": [
+          "je viens de détruire",
+          "tu viens de détruire",
+          "il/elle/on vient de détruire",
+          "nous venons de détruire",
+          "vous venez de détruire",
+          "ils/elles viennent de détruire"
+        ]
+      }
+    },
+    {
+      "name_en": "to allow",
+      "name_fr": "permettre",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I allow my children to play outside.",
+          "example_fr": "Je permets à mes enfants de jouer dehors.",
+          "highlight": "permet"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She allowed her dog to bark.",
+          "example_fr": "Elle a permis à son chien d'aboyer.",
+          "highlight": "permis"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to allow extra time for this task.",
+          "example_fr": "Nous permettions du temps supplémentaire pour cette tâche.",
+          "highlight": "permettions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will allow us to leave early.",
+          "example_fr": "Il nous permettra de partir tôt.",
+          "highlight": "permettra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to allow more flexibility.",
+          "example_fr": "Je vais permettre plus de flexibilité.",
+          "highlight": "vais permettre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just allowed the changes.",
+          "example_fr": "Ils viennent de permettre les changements.",
+          "highlight": "viennent de permettre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je permets",
+          "tu permets",
+          "il/elle/on permet",
+          "nous permettons",
+          "vous permettez",
+          "ils/elles permettent"
+        ],
+        "Imparfait": [
+          "je permettais",
+          "tu permettais",
+          "il/elle/on permettait",
+          "nous permettions",
+          "vous permettiez",
+          "ils/elles permettaient"
+        ],
+        "Futur": [
+          "je permettrai",
+          "tu permettras",
+          "il/elle/on permettra",
+          "nous permettrons",
+          "vous permettrez",
+          "ils/elles permettront"
+        ],
+        "Passé composé": [
+          "j'ai permis",
+          "tu as permis",
+          "il/elle/on a permis",
+          "nous avons permis",
+          "vous avez permis",
+          "ils/elles ont permis"
+        ],
+        "Futur proche": [
+          "je vais permettre",
+          "tu vas permettre",
+          "il/elle/on va permettre",
+          "nous allons permettre",
+          "vous allez permettre",
+          "ils/elles vont permettre"
+        ],
+        "Passé récent": [
+          "je viens de permettre",
+          "tu viens de permettre",
+          "il/elle/on vient de permettre",
+          "nous venons de permettre",
+          "vous venez de permettre",
+          "ils/elles viennent de permettre"
+        ]
+      }
+    },
+    {
+      "name_en": "to prefer",
+      "name_fr": "préférer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I prefer tea.",
+          "example_fr": "Je préfère le thé.",
+          "highlight": "préfère"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She preferred coffee.",
+          "example_fr": "Elle a préféré le café.",
+          "highlight": "préféré"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to prefer summer.",
+          "example_fr": "Nous préférions l'été.",
+          "highlight": "préférions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will prefer the red dress.",
+          "example_fr": "Il préférera la robe rouge.",
+          "highlight": "préférera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to prefer this option.",
+          "example_fr": "Je vais préférer cette option.",
+          "highlight": "vais préférer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just preferred the other movie.",
+          "example_fr": "Ils viennent de préférer l'autre film.",
+          "highlight": "viennent de préférer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je préfère",
+          "tu préfères",
+          "il/elle/on préfère",
+          "nous préférons",
+          "vous préférez",
+          "ils/elles préfèrent"
+        ],
+        "Imparfait": [
+          "je préférais",
+          "tu préférais",
+          "il/elle/on préférait",
+          "nous préférions",
+          "vous préfériez",
+          "ils/elles préféraient"
+        ],
+        "Futur": [
+          "je préférerai",
+          "tu préféreras",
+          "il/elle/on préférera",
+          "nous préférerons",
+          "vous préférerez",
+          "ils/elles préféreront"
+        ],
+        "Passé composé": [
+          "j'ai préféré",
+          "tu as préféré",
+          "il/elle/on a préféré",
+          "nous avons préféré",
+          "vous avez préféré",
+          "ils/elles ont préféré"
+        ],
+        "Futur proche": [
+          "je vais préférer",
+          "tu vas préférer",
+          "il/elle/on va préférer",
+          "nous allons préférer",
+          "vous allez préférer",
+          "ils/elles vont préférer"
+        ],
+        "Passé récent": [
+          "je viens de préférer",
+          "tu viens de préférer",
+          "il/elle/on vient de préférer",
+          "nous venons de préférer",
+          "vous venez de préférer",
+          "ils/elles viennent de préférer"
+        ]
+      }
+    },
+    {
+      "name_en": "to invite",
+      "name_fr": "inviter",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I invite you to my party.",
+          "example_fr": "Je t'invite à ma fête.",
+          "highlight": "invite"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She invited her friends.",
+          "example_fr": "Elle a invité ses amis.",
+          "highlight": "invité"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to invite them over.",
+          "example_fr": "Nous les invitions.",
+          "highlight": "invitions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will invite his colleagues.",
+          "example_fr": "Il invitera ses collègues.",
+          "highlight": "invitera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to invite you to dinner.",
+          "example_fr": "Je vais t'inviter à dîner.",
+          "highlight": "vais inviter"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just invited us to the wedding.",
+          "example_fr": "Ils viennent de nous inviter au mariage.",
+          "highlight": "viennent d'inviter"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'invite",
+          "tu invites",
+          "il/elle/on invite",
+          "nous invitons",
+          "vous invitez",
+          "ils/elles invitent"
+        ],
+        "Imparfait": [
+          "j'invitais",
+          "tu invitais",
+          "il/elle/on invitait",
+          "nous invitions",
+          "vous invitiez",
+          "ils/elles invitaient"
+        ],
+        "Futur": [
+          "j'inviterai",
+          "tu inviteras",
+          "il/elle/on invitera",
+          "nous inviterons",
+          "vous inviterez",
+          "ils/elles inviteront"
+        ],
+        "Passé composé": [
+          "j'ai invité",
+          "tu as invité",
+          "il/elle/on a invité",
+          "nous avons invité",
+          "vous avez invité",
+          "ils/elles ont invité"
+        ],
+        "Futur proche": [
+          "je vais inviter",
+          "tu vas inviter",
+          "il/elle/on va inviter",
+          "nous allons inviter",
+          "vous allez inviter",
+          "ils/elles vont inviter"
+        ],
+        "Passé récent": [
+          "je viens d'inviter",
+          "tu viens d'inviter",
+          "il/elle/on vient d'inviter",
+          "nous venons d'inviter",
+          "vous venez d'inviter",
+          "ils/elles viennent d'inviter"
+        ]
+      }
+    },
+    {
+      "name_en": "to greet",
+      "name_fr": "saluer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I greet my neighbors.",
+          "example_fr": "Je salue mes voisins.",
+          "highlight": "salue"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She greeted everyone warmly.",
+          "example_fr": "Elle a salué tout le monde chaleureusement.",
+          "highlight": "saluer"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to greet each other with a kiss.",
+          "example_fr": "Nous nous saluions avec un bisou.",
+          "highlight": "saluer"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will greet the guests at the door.",
+          "example_fr": "Il saluera les invités à la porte.",
+          "highlight": "saluer"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to greet my friend.",
+          "example_fr": "Je vais saluer mon ami.",
+          "highlight": "vais saluer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just greeted the new neighbors.",
+          "example_fr": "Ils viennent de saluer les nouveaux voisins.",
+          "highlight": "viennent de saluer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je salue",
+          "tu salues",
+          "il/elle/on salue",
+          "nous saluons",
+          "vous saluez",
+          "ils/elles saluent"
+        ],
+        "Imparfait": [
+          "je saluais",
+          "tu saluais",
+          "il/elle/on saluait",
+          "nous saluions",
+          "vous saluiez",
+          "ils/elles saluaient"
+        ],
+        "Futur": [
+          "je saluerai",
+          "tu salueras",
+          "il/elle/on saluera",
+          "nous saluerons",
+          "vous saluerez",
+          "ils/elles salueront"
+        ],
+        "Passé composé": [
+          "j'ai salué",
+          "tu as salué",
+          "il/elle/on a salué",
+          "nous avons salué",
+          "vous avez salué",
+          "ils/elles ont salué"
+        ],
+        "Futur proche": [
+          "je vais saluer",
+          "tu vas saluer",
+          "il/elle/on va saluer",
+          "nous allons saluer",
+          "vous allez saluer",
+          "ils/elles vont saluer"
+        ],
+        "Passé récent": [
+          "je viens de saluer",
+          "tu viens de saluer",
+          "il/elle/on vient de saluer",
+          "nous venons de saluer",
+          "vous venez de saluer",
+          "ils/elles viennent de saluer"
+        ]
+      }
+    },
+    {
+      "name_en": "to wish",
+      "name_fr": "souhaiter",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I wish you a happy birthday.",
+          "example_fr": "Je te souhaite un joyeux anniversaire.",
+          "highlight": "souhaite"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She wished for good health.",
+          "example_fr": "Elle a souhaité une bonne santé.",
+          "highlight": "souhaité"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to wish each other well.",
+          "example_fr": "Nous nous souhaitions du bien.",
+          "highlight": "souhaitions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will wish you success.",
+          "example_fr": "Il te souhaitera du succès.",
+          "highlight": "souhaitera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to wish him luck.",
+          "example_fr": "Je vais lui souhaiter bonne chance.",
+          "highlight": "vais souhaiter"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just wished her well.",
+          "example_fr": "Ils viennent de lui souhaiter du bien.",
+          "highlight": "viennent de souhaiter"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je souhaite",
+          "tu souhaites",
+          "il/elle/on souhaite",
+          "nous souhaitons",
+          "vous souhaitez",
+          "ils/elles souhaitent"
+        ],
+        "Imparfait": [
+          "je souhaitais",
+          "tu souhaitais",
+          "il/elle/on souhaitait",
+          "nous souhaitions",
+          "vous souhaitiez",
+          "ils/elles souhaitaient"
+        ],
+        "Futur": [
+          "je souhaiterai",
+          "tu souhaiteras",
+          "il/elle/on souhaitera",
+          "nous souhaiterons",
+          "vous souhaiterez",
+          "ils/elles souhaiteront"
+        ],
+        "Passé composé": [
+          "j'ai souhaité",
+          "tu as souhaité",
+          "il/elle/on a souhaité",
+          "nous avons souhaité",
+          "vous avez souhaité",
+          "ils/elles ont souhaité"
+        ],
+        "Futur proche": [
+          "je vais souhaiter",
+          "tu vas souhaiter",
+          "il/elle/on va souhaiter",
+          "nous allons souhaiter",
+          "vous allez souhaiter",
+          "ils/elles vont souhaiter"
+        ],
+        "Passé récent": [
+          "je viens de souhaiter",
+          "tu viens de souhaiter",
+          "il/elle/on vient de souhaiter",
+          "nous venons de souhaiter",
+          "vous venez de souhaiter",
+          "ils/elles viennent de souhaiter"
+        ]
+      }
+    },
+    {
+      "name_en": "to send",
+      "name_fr": "envoyer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I send a letter.",
+          "example_fr": "J'envoie une lettre.",
+          "highlight": "envoie"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She sent an email.",
+          "example_fr": "Elle a envoyé un e-mail.",
+          "highlight": "envoyé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to send postcards.",
+          "example_fr": "Nous envoyions des cartes postales.",
+          "highlight": "envoyions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will send the package.",
+          "example_fr": "Il enverra le colis.",
+          "highlight": "enverra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to send the invitation.",
+          "example_fr": "Je vais envoyer l'invitation.",
+          "highlight": "vais envoyer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just sent the documents.",
+          "example_fr": "Ils viennent d'envoyer les documents.",
+          "highlight": "viennent d'envoyer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'envoie",
+          "tu envoies",
+          "il/elle/on envoie",
+          "nous envoyons",
+          "vous envoyez",
+          "ils/elles envoient"
+        ],
+        "Imparfait": [
+          "j'envoyais",
+          "tu envoyais",
+          "il/elle/on envoyait",
+          "nous envoyions",
+          "vous envoyiez",
+          "ils/elles envoyaient"
+        ],
+        "Futur": [
+          "j'enverrai",
+          "tu enverras",
+          "il/elle/on enverra",
+          "nous enverrons",
+          "vous enverrez",
+          "ils/elles enverront"
+        ],
+        "Passé composé": [
+          "j'ai envoyé",
+          "tu as envoyé",
+          "il/elle/on a envoyé",
+          "nous avons envoyé",
+          "vous avez envoyé",
+          "ils/elles ont envoyé"
+        ],
+        "Futur proche": [
+          "je vais envoyer",
+          "tu vas envoyer",
+          "il/elle/on va envoyer",
+          "nous allons envoyer",
+          "vous allez envoyer",
+          "ils/elles vont envoyer"
+        ],
+        "Passé récent": [
+          "je viens d'envoyer",
+          "tu viens d'envoyer",
+          "il/elle/on vient d'envoyer",
+          "nous venons d'envoyer",
+          "vous venez d'envoyer",
+          "ils/elles viennent d'envoyer"
+        ]
+      }
+    },
+    {
+      "name_en": "to clean",
+      "name_fr": "nettoyer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I clean the kitchen.",
+          "example_fr": "Je nettoie la cuisine.",
+          "highlight": "nettoie"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She cleaned the room.",
+          "example_fr": "Elle a nettoyé la chambre.",
+          "highlight": "nettoyé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to clean every Saturday.",
+          "example_fr": "Nous nettoyions chaque samedi.",
+          "highlight": "nettoyions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will clean the car.",
+          "example_fr": "Il nettoiera la voiture.",
+          "highlight": "nettoiera"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to clean the bathroom.",
+          "example_fr": "Je vais nettoyer la salle de bain.",
+          "highlight": "vais nettoyer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just cleaned the house.",
+          "example_fr": "Ils viennent de nettoyer la maison.",
+          "highlight": "viennent de nettoyer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je nettoie",
+          "tu nettoies",
+          "il/elle/on nettoie",
+          "nous nettoyons",
+          "vous nettoyez",
+          "ils/elles nettoient"
+        ],
+        "Imparfait": [
+          "je nettoyais",
+          "tu nettoyais",
+          "il/elle/on nettoyait",
+          "nous nettoyions",
+          "vous nettoyiez",
+          "ils/elles nettoyaient"
+        ],
+        "Futur": [
+          "je nettoierai",
+          "tu nettoieras",
+          "il/elle/on nettoiera",
+          "nous nettoierons",
+          "vous nettoierez",
+          "ils/elles nettoieront"
+        ],
+        "Passé composé": [
+          "j'ai nettoyé",
+          "tu as nettoyé",
+          "il/elle/on a nettoyé",
+          "nous avons nettoyé",
+          "vous avez nettoyé",
+          "ils/elles ont nettoyé"
+        ],
+        "Futur proche": [
+          "je vais nettoyer",
+          "tu vas nettoyer",
+          "il/elle/on va nettoyer",
+          "nous allons nettoyer",
+          "vous allez nettoyer",
+          "ils/elles vont nettoyer"
+        ],
+        "Passé récent": [
+          "je viens de nettoyer",
+          "tu viens de nettoyer",
+          "il/elle/on vient de nettoyer",
+          "nous venons de nettoyer",
+          "vous venez de nettoyer",
+          "ils/elles viennent de nettoyer"
+        ]
+      }
+    },
+    {
+      "name_en": "to send back",
+      "name_fr": "renvoyer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I send back the package.",
+          "example_fr": "Je renvoie le colis.",
+          "highlight": "renvoie"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She sent back the letter.",
+          "example_fr": "Elle a renvoyé la lettre.",
+          "highlight": "renvoyé"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to send back the forms.",
+          "example_fr": "Nous renvoyions les formulaires.",
+          "highlight": "renvoyions"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will send back the book.",
+          "example_fr": "Il renverra le livre.",
+          "highlight": "renverra"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to send back the shoes.",
+          "example_fr": "Je vais renvoyer les chaussures.",
+          "highlight": "vais renvoyer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just sent back the documents.",
+          "example_fr": "Ils viennent de renvoyer les documents.",
+          "highlight": "viennent de renvoyer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je renvoie",
+          "tu renvoies",
+          "il/elle/on renvoie",
+          "nous renvoyons",
+          "vous renvoyez",
+          "ils/elles renvoient"
+        ],
+        "Imparfait": [
+          "je renvoyais",
+          "tu renvoyais",
+          "il/elle/on renvoyait",
+          "nous renvoyions",
+          "vous renvoyiez",
+          "ils/elles renvoyaient"
+        ],
+        "Futur": [
+          "je renverrai",
+          "tu renverras",
+          "il/elle/on renverra",
+          "nous renverrons",
+          "vous renverrez",
+          "ils/elles renverront"
+        ],
+        "Passé composé": [
+          "j'ai renvoyé",
+          "tu as renvoyé",
+          "il/elle/on a renvoyé",
+          "nous avons renvoyé",
+          "vous avez renvoyé",
+          "ils/elles ont renvoyé"
+        ],
+        "Futur proche": [
+          "je vais renvoyer",
+          "tu vas renvoyer",
+          "il/elle/on va renvoyer",
+          "nous allons renvoyer",
+          "vous allez renvoyer",
+          "ils/elles vont renvoyer"
+        ],
+        "Passé récent": [
+          "je viens de renvoyer",
+          "tu viens de renvoyer",
+          "il/elle/on vient de renvoyer",
+          "nous venons de renvoyer",
+          "vous venez de renvoyer",
+          "ils/elles viennent de renvoyer"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "name_en": "Causative Verbs",
+  "name_fr": "Verbes causatifs",
+  "list": [
+    {
+      "name_en": "to make (someone do)",
+      "name_fr": "faire (faire)",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I make him laugh.",
+          "example_fr": "Je le fais rire.",
+          "highlight": "fais rire"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She made me cry.",
+          "example_fr": "Elle m'a fait pleurer.",
+          "highlight": "fait pleurer"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to make them work.",
+          "example_fr": "Nous les faisions travailler.",
+          "highlight": "faisions travailler"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will make her sing.",
+          "example_fr": "Il la fera chanter.",
+          "highlight": "fera chanter"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to make you dance.",
+          "example_fr": "Je vais te faire danser.",
+          "highlight": "vais faire danser"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just made us wait.",
+          "example_fr": "Ils viennent de nous faire attendre.",
+          "highlight": "viennent de faire attendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je fais",
+          "tu fais",
+          "il/elle/on fait",
+          "nous faisons",
+          "vous faites",
+          "ils/elles font"
+        ],
+        "Imparfait": [
+          "je faisais",
+          "tu faisais",
+          "il/elle/on faisait",
+          "nous faisions",
+          "vous faisiez",
+          "ils/elles faisaient"
+        ],
+        "Futur": [
+          "je ferai",
+          "tu feras",
+          "il/elle/on fera",
+          "nous ferons",
+          "vous ferez",
+          "ils/elles feront"
+        ],
+        "Passé composé": [
+          "j'ai fait",
+          "tu as fait",
+          "il/elle/on a fait",
+          "nous avons fait",
+          "vous avez fait",
+          "ils/elles ont fait"
+        ],
+        "Futur proche": [
+          "je vais faire",
+          "tu vas faire",
+          "il/elle/on va faire",
+          "nous allons faire",
+          "vous allez faire",
+          "ils/elles vont faire"
+        ],
+        "Passé récent": [
+          "je viens de faire",
+          "tu viens de faire",
+          "il/elle/on vient de faire",
+          "nous venons de faire",
+          "vous venez de faire",
+          "ils/elles viennent de faire"
+        ]
+      }
+    },
+    {
+      "name_en": "to let (allow)",
+      "name_fr": "laisser",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I let him go.",
+          "example_fr": "Je le laisse partir.",
+          "highlight": "laisse partir"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She let me speak.",
+          "example_fr": "Elle m'a laissé parler.",
+          "highlight": "laissé parler"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to let them play.",
+          "example_fr": "Nous les laissions jouer.",
+          "highlight": "laissions jouer"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will let her drive.",
+          "example_fr": "Il la laissera conduire.",
+          "highlight": "laissera conduire"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to let you finish.",
+          "example_fr": "Je vais te laisser finir.",
+          "highlight": "vais laisser finir"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just let us enter.",
+          "example_fr": "Ils viennent de nous laisser entrer.",
+          "highlight": "viennent de laisser entrer"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je laisse",
+          "tu laisses",
+          "il/elle/on laisse",
+          "nous laissons",
+          "vous laissez",
+          "ils/elles laissent"
+        ],
+        "Imparfait": [
+          "je laissais",
+          "tu laissais",
+          "il/elle/on laissait",
+          "nous laissions",
+          "vous laissiez",
+          "ils/elles laissaient"
+        ],
+        "Futur": [
+          "je laisserai",
+          "tu laisseras",
+          "il/elle/on laissera",
+          "nous laisserons",
+          "vous laisserez",
+          "ils/elles laisseront"
+        ],
+        "Passé composé": [
+          "j'ai laissé",
+          "tu as laissé",
+          "il/elle/on a laissé",
+          "nous avons laissé",
+          "vous avez laissé",
+          "ils/elles ont laissé"
+        ],
+        "Futur proche": [
+          "je vais laisser",
+          "tu vas laisser",
+          "il/elle/on va laisser",
+          "nous allons laisser",
+          "vous allez laisser",
+          "ils/elles vont laisser"
+        ],
+        "Passé récent": [
+          "je viens de laisser",
+          "tu viens de laisser",
+          "il/elle/on vient de laisser",
+          "nous venons de laisser",
+          "vous venez de laisser",
+          "ils/elles viennent de laisser"
+        ]
+      }
+    },
+    {
+      "name_en": "to force",
+      "name_fr": "forcer",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I force him to study.",
+          "example_fr": "Je le force à étudier.",
+          "highlight": "force à étudier"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She forced me to leave.",
+          "example_fr": "Elle m'a forcé à partir.",
+          "highlight": "forcé à partir"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to force them to work.",
+          "example_fr": "Nous les forcions à travailler.",
+          "highlight": "forcions à travailler"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will force her to apologize.",
+          "example_fr": "Il la forcera à s'excuser.",
+          "highlight": "forcera à s'excuser"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to force you to listen.",
+          "example_fr": "Je vais te forcer à écouter.",
+          "highlight": "vais forcer à écouter"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just forced us to wait.",
+          "example_fr": "Ils viennent de nous forcer à attendre.",
+          "highlight": "viennent de forcer à attendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je force",
+          "tu forces",
+          "il/elle/on force",
+          "nous forçons",
+          "vous forcez",
+          "ils/elles forcent"
+        ],
+        "Imparfait": [
+          "je forçais",
+          "tu forçais",
+          "il/elle/on forçait",
+          "nous forcions",
+          "vous forciez",
+          "ils/elles forçaient"
+        ],
+        "Futur": [
+          "je forcerai",
+          "tu forceras",
+          "il/elle/on forcera",
+          "nous forcerons",
+          "vous forcerez",
+          "ils/elles forceront"
+        ],
+        "Passé composé": [
+          "j'ai forcé",
+          "tu as forcé",
+          "il/elle/on a forcé",
+          "nous avons forcé",
+          "vous avez forcé",
+          "ils/elles ont forcé"
+        ],
+        "Futur proche": [
+          "je vais forcer",
+          "tu vas forcer",
+          "il/elle/on va forcer",
+          "nous allons forcer",
+          "vous allez forcer",
+          "ils/elles vont forcer"
+        ],
+        "Passé récent": [
+          "je viens de forcer",
+          "tu viens de forcer",
+          "il/elle/on vient de forcer",
+          "nous venons de forcer",
+          "vous venez de forcer",
+          "ils/elles viennent de forcer"
+        ]
+      }
+    },
+    {
+      "name_en": "to encourage",
+      "name_fr": "encourager",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I encourage him to try.",
+          "example_fr": "Je l'encourage à essayer.",
+          "highlight": "encourage à essayer"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She encouraged me to continue.",
+          "example_fr": "Elle m'a encouragé à continuer.",
+          "highlight": "encouragé à continuer"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to encourage them to learn.",
+          "example_fr": "Nous les encouragions à apprendre.",
+          "highlight": "encouragions à apprendre"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will encourage her to speak.",
+          "example_fr": "Il l'encouragera à parler.",
+          "highlight": "encouragera à parler"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to encourage you to participate.",
+          "example_fr": "Je vais t'encourager à participer.",
+          "highlight": "vais encourager à participer"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just encouraged us to join.",
+          "example_fr": "Ils viennent de nous encourager à rejoindre.",
+          "highlight": "viennent de encourager à rejoindre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'encourage",
+          "tu encourages",
+          "il/elle/on encourage",
+          "nous encourageons",
+          "vous encouragez",
+          "ils/elles encouragent"
+        ],
+        "Imparfait": [
+          "j'encourageais",
+          "tu encourageais",
+          "il/elle/on encourageait",
+          "nous encouragions",
+          "vous encouragiez",
+          "ils/elles encourageaient"
+        ],
+        "Futur": [
+          "j'encouragerai",
+          "tu encourageras",
+          "il/elle/on encouragera",
+          "nous encouragerons",
+          "vous encouragerez",
+          "ils/elles encourageront"
+        ],
+        "Passé composé": [
+          "j'ai encouragé",
+          "tu as encouragé",
+          "il/elle/on a encouragé",
+          "nous avons encouragé",
+          "vous avez encouragé",
+          "ils/elles ont encouragé"
+        ],
+        "Futur proche": [
+          "je vais encourager",
+          "tu vas encourager",
+          "il/elle/on va encourager",
+          "nous allons encourager",
+          "vous allez encourager",
+          "ils/elles vont encourager"
+        ],
+        "Passé récent": [
+          "je viens d'encourager",
+          "tu viens d'encourager",
+          "il/elle/on vient d'encourager",
+          "nous venons d'encourager",
+          "vous venez d'encourager",
+          "ils/elles viennent d'encourager"
+        ]
+      }
+    },
+    {
+      "name_en": "to oblige",
+      "name_fr": "obliger",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I oblige him to attend.",
+          "example_fr": "Je l'oblige à assister.",
+          "highlight": "oblige à assister"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She obliged me to pay.",
+          "example_fr": "Elle m'a obligé à payer.",
+          "highlight": "obligé à payer"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to oblige them to help.",
+          "example_fr": "Nous les obligions à aider.",
+          "highlight": "obligions à aider"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will oblige her to leave.",
+          "example_fr": "Il l'obligera à partir.",
+          "highlight": "obligera à partir"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to oblige you to listen.",
+          "example_fr": "Je vais t'obliger à écouter.",
+          "highlight": "vais obliger à écouter"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just obliged us to wait.",
+          "example_fr": "Ils viennent de nous obliger à attendre.",
+          "highlight": "viennent de obliger à attendre"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "j'oblige",
+          "tu obliges",
+          "il/elle/on oblige",
+          "nous obligeons",
+          "vous obligez",
+          "ils/elles obligent"
+        ],
+        "Imparfait": [
+          "j'obligeais",
+          "tu obligeais",
+          "il/elle/on obligeait",
+          "nous obligions",
+          "vous obligiez",
+          "ils/elles obligeaient"
+        ],
+        "Futur": [
+          "j'obligerai",
+          "tu obligeras",
+          "il/elle/on obligera",
+          "nous obligerons",
+          "vous obligerez",
+          "ils/elles obligeront"
+        ],
+        "Passé composé": [
+          "j'ai obligé",
+          "tu as obligé",
+          "il/elle/on a obligé",
+          "nous avons obligé",
+          "vous avez obligé",
+          "ils/elles ont obligé"
+        ],
+        "Futur proche": [
+          "je vais obliger",
+          "tu vas obliger",
+          "il/elle/on va obliger",
+          "nous allons obliger",
+          "vous allez obliger",
+          "ils/elles vont obliger"
+        ],
+        "Passé récent": [
+          "je viens d'obliger",
+          "tu viens d'obliger",
+          "il/elle/on vient d'obliger",
+          "nous venons d'obliger",
+          "vous venez d'obliger",
+          "ils/elles viennent d'obliger"
+        ]
+      }
+    },
+    {
+      "name_en": "to persuade",
+      "name_fr": "persuader",
+      "example_sentences": [
+        {
+          "tense": "présent",
+          "example_en": "I persuade him to come.",
+          "example_fr": "Je le persuade de venir.",
+          "highlight": "persuade de venir"
+        },
+        {
+          "tense": "passé composé",
+          "example_en": "She persuaded me to stay.",
+          "example_fr": "Elle m'a persuadé de rester.",
+          "highlight": "persuadé de rester"
+        },
+        {
+          "tense": "imparfait",
+          "example_en": "We used to persuade them to try.",
+          "example_fr": "Nous les persuadions d'essayer.",
+          "highlight": "persuadions d'essayer"
+        },
+        {
+          "tense": "futur",
+          "example_en": "He will persuade her to travel.",
+          "example_fr": "Il la persuadera de voyager.",
+          "highlight": "persuadera de voyager"
+        },
+        {
+          "tense": "futur proche",
+          "example_en": "I am going to persuade you to join.",
+          "example_fr": "Je vais te persuader de rejoindre.",
+          "highlight": "vais persuader de rejoindre"
+        },
+        {
+          "tense": "passé récent",
+          "example_en": "They have just persuaded us to leave.",
+          "example_fr": "Ils viennent de nous persuader de partir.",
+          "highlight": "viennent de persuader de partir"
+        }
+      ],
+      "conjugation": {
+        "Présent": [
+          "je persuade",
+          "tu persuades",
+          "il/elle/on persuade",
+          "nous persuadons",
+          "vous persuadez",
+          "ils/elles persuadent"
+        ],
+        "Imparfait": [
+          "je persuadais",
+          "tu persuadais",
+          "il/elle/on persuadait",
+          "nous persuadions",
+          "vous persuadiez",
+          "ils/elles persuadaient"
+        ],
+        "Futur": [
+          "je persuaderai",
+          "tu persuaderas",
+          "il/elle/on persuadera",
+          "nous persuaderons",
+          "vous persuaderez",
+          "ils/elles persuaderont"
+        ],
+        "Passé composé": [
+          "j'ai persuadé",
+          "tu as persuadé",
+          "il/elle/on a persuadé",
+          "nous avons persuadé",
+          "vous avez persuadé",
+          "ils/elles ont persuadé"
+        ],
+        "Futur proche": [
+          "je vais persuader",
+          "tu vas persuader",
+          "il/elle/on va persuader",
+          "nous allons persuader",
+          "vous allez persuader",
+          "ils/elles vont persuader"
+        ],
+        "Passé récent": [
+          "je viens de persuader",
+          "tu viens de persuader",
+          "il/elle/on vient de persuader",
+          "nous venons de persuader",
+          "vous venez de persuader",
+          "ils/elles viennent de persuader"
+        ]
+      }
+    }
+  ]
+}
