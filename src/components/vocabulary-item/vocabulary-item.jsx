@@ -104,18 +104,20 @@ function VocabularyItem({vocab, config}) {
           >
             <div
               className="bg-white dark:bg-gray-900 rounded-lg shadow-lg p-6 max-w-lg w-full relative"
+              style={{ paddingRight: 0 }}
               onClick={e => e.stopPropagation()}
             >
-              <button className="absolute top-2 right-2 text-gray-500 hover:text-gray-700 text-3xl font-bold" onClick={() => setShowConjugationModal(false)}>&times;</button>
-              <h3 className="text-xl font-bold mb-2 text-gray-900 dark:text-white">Conjugation of {vocab.name_fr}</h3>
-              <div className="conjugation-table text-gray-900 dark:text-white">
+              <button className="absolute top-2 right-2 text-gray-500 hover:text-gray-700 text-3xl font-bold z-20" onClick={() => setShowConjugationModal(false)}>&times;</button>
+              <h3 className="text-xl font-bold mb-4 text-gray-900 dark:text-white sticky top-0 bg-white dark:bg-gray-900 z-10 pb-3">Conjugation of {vocab.name_fr}</h3>
+              <div className="conjugation-table text-gray-900 dark:text-white"
+              style={{ maxWidth: '40vw', maxHeight: '80vh', overflowY: 'auto' }}>
                 {typeof vocab.conjugation === 'string' ? (
                   <div>{vocab.conjugation}</div>
                 ) : (
                   <table className="w-full text-left border-collapse">
                     <tbody>
                       {Object.entries(vocab.conjugation).map(([tense, forms], idx) => (
-                        <tr key={tense+idx}>
+                        <tr key={tense+idx} className="border-b border-gray-300 dark:border-gray-700">
                           <td className="font-semibold pr-2 align-top">{tense}</td>
                           <td>
                             {Array.isArray(forms) ? (
